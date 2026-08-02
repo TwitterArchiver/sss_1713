@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2074021895276822649",
+    "created_at": "2026-07-09T12:24:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T13:24:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075194262279381380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2052924892656672768",
+          "start": 0,
+          "username": "Senseii5cp0"
+        },
+        {
+          "end": 21,
+          "id": "2066333335698255873",
+          "start": 13,
+          "username": "ttgqmmm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075194262279381380",
+    "in_reply_to_user_id": "2052924892656672768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074021895276822649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Senseii5cp0 @ttgqmmm 繁茂贼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 488,
+        "media_key": "3_2074021885747281920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhn6pxaQAA5fLO.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2074021895276822649",
+        "created_at": "2026-07-09T12:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075194262279381380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2052924892656672768",
+              "start": 0,
+              "username": "Senseii5cp0"
+            },
+            {
+              "end": 21,
+              "id": "2066333335698255873",
+              "start": 13,
+              "username": "ttgqmmm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075194262279381380",
+        "in_reply_to_user_id": "2052924892656672768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074021895276822649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Senseii5cp0 @ttgqmmm 繁茂贼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074021885747281920"
+          ]
+        },
+        "author_id": "2052924892656672768",
+        "conversation_id": "2074021895276822649",
+        "created_at": "2026-07-06T06:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T07:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074021895276822649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6NUb01OW4G",
+              "end": 36,
+              "expanded_url": "https://x.com/Senseii5cp0/status/2074021895276822649/photo/1",
+              "media_key": "3_2074021885747281920",
+              "start": 13,
+              "url": "https://t.co/6NUb01OW4G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074021895276822649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 68405,
+          "like_count": 54,
+          "quote_count": 41,
+          "reply_count": 117,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "這是我見過的最好笑的笑話 https://t.co/6NUb01OW4G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5943,
+          "following_count": 790,
+          "like_count": 54232,
+          "listed_count": 18,
+          "media_count": 1074,
+          "tweet_count": 9403
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-09T01:35:40.000Z",
+        "description": "我從地獄回來了/殖畜賤奴的斬殺之人/倭奴賤畜最嚴厲的父親/純右/極端民族主義/中華民族至上/反同性戀/百年國恨，滄海難平！！！/僅代表個人立場 與國家無關",
+        "id": "2052924892656672768",
+        "location": "人民天國-東瀛淨化區",
+        "name": "東亞防禦倡議協定",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052927702060199936/uXvTBBSp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 9,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 260
+        },
+        "url": "",
+        "username": "Senseii5cp0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T01:34:28.000Z",
+        "description": "碰到反毛贼at我\n反毛贼我（）你妈\n大号 小号 小小号已永封 申诉中",
+        "id": "2066333335698255873",
+        "location": "反毛贼智能屠宰基地（扒皮生腌反毛贼处理厂）",
+        "name": "弹钢琴永不投降",
+        "pinned_tweet_id": "2074893690112442696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073425464581107712/6u_I7WhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 10,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 147
+        },
+        "url": "",
+        "username": "ttgqmmm",
+        "verified": false
+      }
+    ]
+  }
+}

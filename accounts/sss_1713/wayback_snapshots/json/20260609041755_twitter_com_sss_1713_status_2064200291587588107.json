@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2064168422100087028",
+    "created_at": "2026-06-09T04:17:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T05:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064200291587588107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1581937806435573760",
+          "start": 0,
+          "username": "fadai202202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064200291587588107",
+    "in_reply_to_user_id": "1581937806435573760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064168422100087028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fadai202202 好惨…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064168410574102528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVmO6TaIAA2yR_.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2064168422100087028",
+        "created_at": "2026-06-09T04:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T05:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064200291587588107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1581937806435573760",
+              "start": 0,
+              "username": "fadai202202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064200291587588107",
+        "in_reply_to_user_id": "1581937806435573760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064168422100087028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fadai202202 好惨…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064168410574102528"
+          ]
+        },
+        "author_id": "1581937806435573760",
+        "conversation_id": "2064168422100087028",
+        "created_at": "2026-06-09T02:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064168422100087028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MX5WxSBRvy",
+              "end": 34,
+              "expanded_url": "https://x.com/fadai202202/status/2064168422100087028/photo/1",
+              "media_key": "3_2064168410574102528",
+              "start": 11,
+              "url": "https://t.co/MX5WxSBRvy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064168422100087028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3335,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不清楚您这是咋了？ https://t.co/MX5WxSBRvy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5877,
+          "following_count": 752,
+          "like_count": 49706,
+          "listed_count": 18,
+          "media_count": 1004,
+          "tweet_count": 8800
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T09:19:10.000Z",
+        "description": "",
+        "id": "1581937806435573760",
+        "location": "在你心里",
+        "name": "呆呆",
+        "pinned_tweet_id": "2048380133195780542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045516948973424640/FnVFzfOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18498,
+          "following_count": 1,
+          "like_count": 1348,
+          "listed_count": 16,
+          "media_count": 167,
+          "tweet_count": 1288
+        },
+        "username": "fadai202202",
+        "verified": false
+      }
+    ]
+  }
+}

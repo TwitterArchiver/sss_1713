@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2074061517394518040",
+    "created_at": "2026-07-06T09:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T10:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074061517394518040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2294196414",
+          "start": 3,
+          "username": "hachitori_kuri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074061517394518040",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6484
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073767315209167048",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hachitori_kuri: dont show this to Filipino Catholic priests this shit is gonna outdo the 2016 Priest On A Hoverboard"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2074061517394518040",
+        "created_at": "2026-07-06T09:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074061517394518040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2294196414",
+              "start": 3,
+              "username": "hachitori_kuri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074061517394518040",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6484
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073767315209167048",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hachitori_kuri: dont show this to Filipino Catholic priests this shit is gonna outdo the 2016 Priest On A Hoverboard"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2294196414",
+        "conversation_id": "2073767315209167048",
+        "created_at": "2026-07-05T13:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073767315209167048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PeopleChina/st…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/PeopleChina/status/2073330979482013713",
+              "start": 101,
+              "url": "https://t.co/p2GStPWVIl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073767315209167048",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6968,
+          "impression_count": 2299632,
+          "like_count": 79384,
+          "quote_count": 63,
+          "reply_count": 75,
+          "retweet_count": 6484
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073330979482013713",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "dont show this to Filipino Catholic priests this shit is gonna outdo the 2016 Priest On A Hoverboard https://t.co/p2GStPWVIl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5937,
+          "following_count": 789,
+          "like_count": 53773,
+          "listed_count": 18,
+          "media_count": 1059,
+          "tweet_count": 9307
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-16T10:01:43.000Z",
+        "description": "highly political himedanshi | pfp: Kinosaki Mei, MARRIAGETOXIN",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckthisshi.net",
+                "end": 23,
+                "expanded_url": "http://fuckthisshi.net",
+                "start": 0,
+                "url": "https://t.co/KUzrYHLKmv"
+              }
+            ]
+          }
+        },
+        "id": "2294196414",
+        "location": "no idea where im goin",
+        "name": "Ka Viand 🇵🇸",
+        "pinned_tweet_id": "1910984099474641285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070439315264729088/zK0Lqcn8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 1938,
+          "like_count": 182924,
+          "listed_count": 10,
+          "media_count": 484,
+          "tweet_count": 83073
+        },
+        "url": "https://t.co/KUzrYHLKmv",
+        "username": "hachitori_kuri",
+        "verified": false
+      }
+    ]
+  }
+}

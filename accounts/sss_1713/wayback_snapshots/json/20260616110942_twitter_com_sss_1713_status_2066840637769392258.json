@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2066839414375080105",
+    "created_at": "2026-06-16T11:09:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T12:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066840637769392258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2056215337113382912",
+          "start": 0,
+          "username": "FreeX2222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066840637769392258",
+    "in_reply_to_user_id": "2056215337113382912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066839414375080105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FreeX2222 每个人都有展示自己身体，按照自己喜欢的方式生活的权利🫶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2066839414375080105",
+        "created_at": "2026-06-16T11:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T12:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066840637769392258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2056215337113382912",
+              "start": 0,
+              "username": "FreeX2222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066840637769392258",
+        "in_reply_to_user_id": "2056215337113382912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066839414375080105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreeX2222 每个人都有展示自己身体，按照自己喜欢的方式生活的权利🫶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056215337113382912",
+        "conversation_id": "2066839414375080105",
+        "created_at": "2026-06-16T11:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T12:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066839414375080105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8u_wi8/status/…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/8u_wi8/status/2066527712991473694",
+              "start": 46,
+              "url": "https://t.co/opcs0S8gJY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066839414375080105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066527712991473694",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我个人认为年龄羞辱和身材羞辱都是一个人最无能的表现\n不管是瘦人胖人都有展示自己身材的权利🥲 https://t.co/opcs0S8gJY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5893,
+          "following_count": 763,
+          "like_count": 51281,
+          "listed_count": 18,
+          "media_count": 1030,
+          "tweet_count": 9016
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-18T03:29:24.000Z",
+        "description": "Love forever\n@FreeX114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "FreeX114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/JustCloudOvO",
+                "end": 23,
+                "expanded_url": "http://t.me/JustCloudOvO",
+                "start": 0,
+                "url": "https://t.co/Tc2lYEQM8o"
+              }
+            ]
+          }
+        },
+        "id": "2056215337113382912",
+        "location": "这个世界没有岸 只有越来越会游泳的自己",
+        "name": "FreeX",
+        "pinned_tweet_id": "2061012242796347747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060272213274828800/VOo8qXtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13749,
+          "following_count": 71,
+          "like_count": 2692,
+          "listed_count": 7,
+          "media_count": 125,
+          "tweet_count": 648
+        },
+        "url": "https://t.co/Tc2lYEQM8o",
+        "username": "FreeX2222",
+        "verified": true
+      }
+    ]
+  }
+}

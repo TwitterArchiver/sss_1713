@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1952999641634750839",
+    "created_at": "2025-08-06T07:46:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T08:46:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952999641634750839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "248647906",
+          "start": 3,
+          "username": "Jesoooor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952999641634750839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952696326711336986",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jesoooor: 借此机会，重看了一遍柴静的《穹顶之下》。\n\n首先令人惊讶的是，这个报道的表达有多么克制，即便它是一个有预设立场的报道，当时应该也没人想到它会火速被禁。\n\n如果一定要给《穹顶之下》的表述下一个政治上的定义，我觉得无非就是四个字，「深化改革」。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1952999641634750839",
+        "created_at": "2025-08-06T07:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T08:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952999641634750839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "248647906",
+              "start": 3,
+              "username": "Jesoooor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952999641634750839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952696326711336986",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jesoooor: 借此机会，重看了一遍柴静的《穹顶之下》。\n\n首先令人惊讶的是，这个报道的表达有多么克制，即便它是一个有预设立场的报道，当时应该也没人想到它会火速被禁。\n\n如果一定要给《穹顶之下》的表述下一个政治上的定义，我觉得无非就是四个字，「深化改革」。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "248647906",
+        "conversation_id": "1952696326711336986",
+        "created_at": "2025-08-05T11:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T12:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952696326711336986"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952696326711336986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "youtube.com/watch?v=KwbOXa…",
+                "end": 880,
+                "expanded_url": "http://www.youtube.com/watch?v=KwbOXaX4DyY",
+                "start": 857,
+                "url": "https://t.co/h6qsjf0rXn"
+              }
+            ]
+          },
+          "text": "借此机会，重看了一遍柴静的《穹顶之下》。\n\n首先令人惊讶的是，这个报道的表达有多么克制，即便它是一个有预设立场的报道，当时应该也没人想到它会火速被禁。\n\n如果一定要给《穹顶之下》的表述下一个政治上的定义，我觉得无非就是四个字，「深化改革」。\n\n这个片子所针对的空气污染问题，在当时早就是公共议题。柴静所提倡的每一条措施，从「用先进技术淘汰落后产能」、「制定更严格的能源行业标准」、「投入更多资源采取环保实践」，在过去 10 年都成为了现实。到今天，我们绝对可以说，过去十年中国的环保工作，尤其是空气污染治理「卓有成效」。\n\n唯一的区别是，在柴静的构想里，这件事可以由媒体舆论、市场机制、政府监管三方推动完成，但现实是这件事由一个更集中的威权，在禁掉这部片子后实现。\n\n讽刺的是，今天的舆论，依然普遍认为「环保」和「发展」是一组不可调和的零和矛盾，认为柴静是某种既得利益方的代言人。有人会觉得她是中产阶级、小布尔乔亚的代言人，更有人会觉得她是西方发达国家的代言人，是「汉奸」，而她也确实被打成了一个「被封杀的反贼」。\n\n我知道过去十年，越来越多人开始倾向于相信威权，相信它的高效并开始对民主产生质疑，毕竟发达国家的社会和制度也在遭受挑战，我对此不可置否。\n\n但这一切，依然是这片土地过去十年的一个最佳注脚。曾相信科学、知识、技术可以推动进步的这群所谓的「改良派知识分子」，被夹在威权和民粹之间，越来越窒息。现在再回头看《穹顶之下》片尾那些熟悉的人名：范铭、罗子雄、许岑、罗永浩、史航、东东枪、土摩托……这些名字本身就象征了时代变迁。\n\n到今天，越来越多的矛盾开始呈现出一种「荒诞」，比如杭州的供水污染和江油的冲突。我个人认为这就是公共知识分子长期缺位之后，威权结构性失信，民粹被情绪支配的结果。\n\n最后，回看《穹顶之下》，依然回避不开那个最大的问题。这个片子以柴静本人作为新妈妈的视角切入，并以「为后代造福祉」作为最后的愿景，她恐怕想象不到，十年后，这个社会最大的时代背景会浓缩为一句「这是我们最后一代，谢谢」。\n\nhttps://t.co/h6qsjf0rXn"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 25595,
+          "like_count": 237,
+          "quote_count": 5,
+          "reply_count": 24,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "借此机会，重看了一遍柴静的《穹顶之下》。\n\n首先令人惊讶的是，这个报道的表达有多么克制，即便它是一个有预设立场的报道，当时应该也没人想到它会火速被禁。\n\n如果一定要给《穹顶之下》的表述下一个政治上的定义，我觉得无非就是四个字，「深化改革」。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJo6NX"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5793,
+          "following_count": 975,
+          "like_count": 46088,
+          "listed_count": 18,
+          "media_count": 945,
+          "tweet_count": 7741
+        },
+        "url": "https://t.co/Z7RPjJo6NX",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-07T12:49:21.000Z",
+        "description": "写报道，做评测，追偶像，打游戏，总是戴着耳机，收藏模型、唱片和纸星星。早熟过，所以一直没长大。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jesor.me",
+                "end": 23,
+                "expanded_url": "https://jesor.me",
+                "start": 0,
+                "url": "https://t.co/fGkIY8fSl2"
+              }
+            ]
+          }
+        },
+        "id": "248647906",
+        "location": "Mordor",
+        "name": "ᴊᴄ🍉",
+        "pinned_tweet_id": "1211966834947215360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745502845716324352/8yNyDlje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19193,
+          "following_count": 698,
+          "like_count": 13661,
+          "listed_count": 131,
+          "media_count": 3759,
+          "tweet_count": 17395
+        },
+        "url": "https://t.co/fGkIY8fSl2",
+        "username": "Jesoooor",
+        "verified": false
+      }
+    ]
+  }
+}

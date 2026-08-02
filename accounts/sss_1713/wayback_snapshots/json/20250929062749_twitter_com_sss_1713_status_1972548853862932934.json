@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1972399759186088179",
+    "created_at": "2025-09-29T06:27:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T07:27:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972548853862932934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972548853862932934",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972399759186088179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele RIP🕯️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 850,
+        "media_key": "3_1972397371175706624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G19c9XjXoAAVIr5.jpg",
+        "width": 1136
+      },
+      {
+        "height": 2314,
+        "media_key": "3_1972397903764197376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G19dcXmXEAAzfHM.jpg",
+        "width": 3854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1972399759186088179",
+        "created_at": "2025-09-29T06:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T07:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972548853862932934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972548853862932934",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972399759186088179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele RIP🕯️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972397371175706624",
+            "3_1972397903764197376"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1972399759186088179",
+        "created_at": "2025-09-28T20:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T21:33:23.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972399258340082132",
+          "1972399759186088179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UXqGXKpvsC",
+              "end": 106,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1972399759186088179/photo/1",
+              "media_key": "3_1972397371175706624",
+              "start": 83,
+              "url": "https://t.co/UXqGXKpvsC"
+            },
+            {
+              "display_url": "pic.x.com/UXqGXKpvsC",
+              "end": 106,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1972399759186088179/photo/1",
+              "media_key": "3_1972397903764197376",
+              "start": 83,
+              "url": "https://t.co/UXqGXKpvsC"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1972376825121722729",
+              "start": 107,
+              "url": "https://t.co/KGQNM2GrXO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972399759186088179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 82965,
+          "like_count": 359,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972376825121722729",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "事发后，有学生自发想去献花悼念，但多名同学发帖称，学校禁止献花，并安排了一群保安到处狩猎，只要手上拿着花就会被警告。\n有学生拍摄到，现场只静静摆放着两束孤零零的花。 https://t.co/UXqGXKpvsC https://t.co/KGQNM2GrXO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5806,
+          "following_count": 975,
+          "like_count": 45878,
+          "listed_count": 17,
+          "media_count": 943,
+          "tweet_count": 7767
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1972250722088473025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2112992,
+          "following_count": 989,
+          "like_count": 8168,
+          "listed_count": 8354,
+          "media_count": 35518,
+          "tweet_count": 42320
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

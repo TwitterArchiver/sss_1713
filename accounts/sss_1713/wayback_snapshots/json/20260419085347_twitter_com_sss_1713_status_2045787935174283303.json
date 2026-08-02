@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2045543931593797684",
+    "created_at": "2026-04-19T08:53:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T09:53:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045787935174283303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1464319347736911877",
+          "start": 0,
+          "username": "sugihara_tatuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045787935174283303",
+    "in_reply_to_user_id": "1464319347736911877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045543931593797684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sugihara_tatuo 听到赛俩目基本就可以确定这群傻逼在造谣了，我遇到的外国的穆斯林朋友还蛮多的，经常一见面就说赛俩目和他们问候。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1020,
+        "media_key": "3_2045543929362399234",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGM7XbIaQAIqJcf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2045543931593797684",
+        "created_at": "2026-04-19T08:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045787935174283303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1464319347736911877",
+              "start": 0,
+              "username": "sugihara_tatuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045787935174283303",
+        "in_reply_to_user_id": "1464319347736911877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045543931593797684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sugihara_tatuo 听到赛俩目基本就可以确定这群傻逼在造谣了，我遇到的外国的穆斯林朋友还蛮多的，经常一见面就说赛俩目和他们问候。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045543929362399234"
+          ]
+        },
+        "author_id": "1464319347736911877",
+        "conversation_id": "2045543931593797684",
+        "created_at": "2026-04-18T16:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T17:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045543931593797684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/srYNQC45SB",
+              "end": 175,
+              "expanded_url": "https://x.com/sugihara_tatuo/status/2045543931593797684/photo/1",
+              "media_key": "3_2045543929362399234",
+              "start": 152,
+              "url": "https://t.co/srYNQC45SB"
+            },
+            {
+              "display_url": "x.com/zhihui999/stat…",
+              "end": 199,
+              "expanded_url": "https://twitter.com/zhihui999/status/2045448587081871623",
+              "start": 176,
+              "url": "https://t.co/nO2sEhw3ud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045543931593797684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 12505,
+          "like_count": 260,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045448587081871623",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又到了我最爱的打假环节😆😆\n\n1. 市长所说的只是基本穆斯林问候语（请看配图），断非原推所述。\n\n2. 网上搜索市长姓名+“沙里亚法”无任何结果，断定为无耻的谣言。\n\n3. 我向来不愿以恶意揣测民逗，奈何这些谣棍屡次刷新下限😅😅\n\n4. 诸君遇小语种信息时请加谨慎，我愿力所能及助以查证（自夸一下😙😙） https://t.co/srYNQC45SB https://t.co/nO2sEhw3ud"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5773,
+          "following_count": 1030,
+          "like_count": 47093,
+          "listed_count": 18,
+          "media_count": 938,
+          "tweet_count": 8153
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-26T19:45:30.000Z",
+        "description": "斃れずば止まじ。邪惡目田狗 退步保守逼 有神論渣滓 無恥死川黑。President of @enchenia。\n語言：漢/英/日/阿/西/波/拉。\n歷史架空作品「子夜之后」https://t.co/uE3gW318D2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "enchenia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitter.com/sugihara_tatuo…",
+                "end": 109,
+                "expanded_url": "https://twitter.com/sugihara_tatuo/status/1604130969434279936?s=19",
+                "start": 86,
+                "url": "https://t.co/uE3gW318D2"
+              }
+            ]
+          }
+        },
+        "id": "1464319347736911877",
+        "name": "杉原 辰雄 ☭⃠🌸⛩️ （不定期退隱）",
+        "pinned_tweet_id": "1604130969434279936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045448471986180097/uMpwJ8KP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5440,
+          "following_count": 780,
+          "like_count": 153091,
+          "listed_count": 33,
+          "media_count": 1643,
+          "tweet_count": 15846
+        },
+        "username": "sugihara_tatuo",
+        "verified": false
+      }
+    ]
+  }
+}

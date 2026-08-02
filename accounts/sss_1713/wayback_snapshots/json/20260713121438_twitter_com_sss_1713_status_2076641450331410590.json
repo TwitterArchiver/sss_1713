@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2076641450331410590",
+    "created_at": "2026-07-13T12:14:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T13:14:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076641450331410590"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2076627699951349923",
+          "start": 5,
+          "url": "https://t.co/jRj5Lyls8a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076641450331410590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076627699951349923",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好诡异。 https://t.co/jRj5Lyls8a"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41982,
+        "height": 1920,
+        "media_key": "13_2076519908167553024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076519908167553024/img/DbZlJNZ4LfVIx-Jf.jpg",
+        "public_metrics": {
+          "view_count": 19066
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076519908167553024/pl/2Viy65YmWRbNukB9.m3u8?v=ddb"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076519908167553024/vid/avc1/1080x1920/QYxtosqsa49lMSmx.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076519908167553024/vid/avc1/320x568/DsCWu2h0STQwj3Im.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076519908167553024/vid/avc1/720x1280/KgxNmRxV-2sTWTdF.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076519908167553024/vid/avc1/480x852/Yww3V8b75t0HDKro.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2076641450331410590",
+        "created_at": "2026-07-13T12:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076641450331410590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2076627699951349923",
+              "start": 5,
+              "url": "https://t.co/jRj5Lyls8a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076641450331410590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076627699951349923",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好诡异。 https://t.co/jRj5Lyls8a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076519908167553024"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2076627699951349923",
+        "created_at": "2026-07-13T11:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T12:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076627699951349923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9UQmVOHxhJ",
+              "end": 91,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2076627699951349923/video/1",
+              "media_key": "13_2076519908167553024",
+              "start": 68,
+              "url": "https://t.co/9UQmVOHxhJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076627699951349923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 45832,
+          "like_count": 167,
+          "quote_count": 3,
+          "reply_count": 52,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "7月12日，山东青岛，网友跑步时遇到某种大型神秘组织，几百人一动不动，维持着各种怪异的姿势，阵型中间站着一位须发皆白、衣衫朴素的老者。 https://t.co/9UQmVOHxhJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5977,
+          "following_count": 795,
+          "like_count": 54626,
+          "listed_count": 18,
+          "media_count": 1086,
+          "tweet_count": 9475
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2246583,
+          "following_count": 1077,
+          "like_count": 9794,
+          "listed_count": 8828,
+          "media_count": 50319,
+          "tweet_count": 57529
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2074126975984185487",
+    "created_at": "2026-07-07T03:31:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T04:31:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074335586958110874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1396971526918840325",
+          "start": 0,
+          "username": "john_NKXT"
+        },
+        {
+          "end": 24,
+          "id": "1900754238570893313",
+          "start": 11,
+          "username": "patchouli608"
+        },
+        {
+          "end": 39,
+          "id": "1853777198018404352",
+          "start": 25,
+          "username": "huthawar17115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074335586958110874",
+    "in_reply_to_user_id": "1396971526918840325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074192182698021312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@john_NKXT @patchouli608 @huthawar17115 “我信他下降阴府，第三日从死者中复活”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2074126975984185487",
+        "created_at": "2026-07-07T03:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T04:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074335586958110874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1396971526918840325",
+              "start": 0,
+              "username": "john_NKXT"
+            },
+            {
+              "end": 24,
+              "id": "1900754238570893313",
+              "start": 11,
+              "username": "patchouli608"
+            },
+            {
+              "end": 39,
+              "id": "1853777198018404352",
+              "start": 25,
+              "username": "huthawar17115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074335586958110874",
+        "in_reply_to_user_id": "1396971526918840325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074192182698021312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@john_NKXT @patchouli608 @huthawar17115 “我信他下降阴府，第三日从死者中复活”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1396971526918840325",
+        "conversation_id": "2074126975984185487",
+        "created_at": "2026-07-06T18:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T19:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074192182698021312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900754238570893313",
+              "start": 0,
+              "username": "patchouli608"
+            },
+            {
+              "end": 23,
+              "id": "1254605353838231553",
+              "start": 14,
+              "username": "sss_1713"
+            },
+            {
+              "end": 38,
+              "id": "1853777198018404352",
+              "start": 24,
+              "username": "huthawar17115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074192182698021312",
+        "in_reply_to_user_id": "1900754238570893313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074190366509863247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@patchouli608 @sss_1713 @huthawar17115 什麼偽經啊，「下降陰間」是絕大部分正統基督宗教宣認的《信經》裡的內容。不過新教很多派別不是很認可這一觀點。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5943,
+          "following_count": 795,
+          "like_count": 53875,
+          "listed_count": 18,
+          "media_count": 1065,
+          "tweet_count": 9340
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-24T23:29:12.000Z",
+        "description": "我認公教會🇻🇦✝️亦尊正教會☦️。主內的兄弟姐妹們團結一起吧！/保守主義🟦/市場自由主義🟨/君主立憲🫅/西敏制",
+        "id": "1396971526918840325",
+        "name": "Ioannes Magnus Aurelius",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019463884659388416/E8sJkXd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 188,
+          "like_count": 5247,
+          "listed_count": 3,
+          "media_count": 22,
+          "tweet_count": 939
+        },
+        "url": "",
+        "username": "john_NKXT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T03:42:13.000Z",
+        "description": "➡️以虛 \n七転び、八起き。\n商科逃兵｜臨川一中初中部名譽畢業生｜松江一中高中部榮譽校友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rulib.cn",
+                "end": 23,
+                "expanded_url": "https://www.rulib.cn",
+                "start": 0,
+                "url": "https://t.co/DlkhbWFWyo"
+              }
+            ]
+          }
+        },
+        "id": "1900754238570893313",
+        "location": "南昌市新建縣望城崗1號｜上海市楊浦區楊樹浦路2866號",
+        "name": "佩觿",
+        "pinned_tweet_id": "2070246029421887801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070608956934787072/AOjmeFcj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 189,
+          "like_count": 35758,
+          "listed_count": 2,
+          "media_count": 1112,
+          "tweet_count": 13664
+        },
+        "url": "https://t.co/DlkhbWFWyo",
+        "username": "patchouli608",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-05T12:32:14.000Z",
+        "description": "Roma catholic🇻🇦☨/欢迎互fo/🚪1919180VND",
+        "id": "1853777198018404352",
+        "location": "距离你4.2光年",
+        "name": "✠葡萄汽水☨🥤🇻🇦",
+        "pinned_tweet_id": "2009624763724136527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023342430033219584/qAux-j0y_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 1822,
+          "like_count": 51038,
+          "listed_count": 6,
+          "media_count": 1288,
+          "tweet_count": 17135
+        },
+        "url": "",
+        "username": "huthawar17115",
+        "verified": false
+      }
+    ]
+  }
+}

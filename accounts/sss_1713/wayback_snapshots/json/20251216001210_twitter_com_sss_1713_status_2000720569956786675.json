@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2000413563798659563",
+    "created_at": "2025-12-16T00:12:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T01:12:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000720569956786675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1587696726022017027",
+          "start": 0,
+          "username": "Ephraim_deca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000720569956786675",
+    "in_reply_to_user_id": "1587696726022017027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000599032813797490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ephraim_deca 左右脑互搏，但是我好奇有没有神父当民主党派成员的，毕竟他们也没有要求无神论"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2000413563798659563",
+        "created_at": "2025-12-16T00:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T01:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000720569956786675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1587696726022017027",
+              "start": 0,
+              "username": "Ephraim_deca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000720569956786675",
+        "in_reply_to_user_id": "1587696726022017027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000599032813797490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ephraim_deca 左右脑互搏，但是我好奇有没有神父当民主党派成员的，毕竟他们也没有要求无神论"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587696726022017027",
+        "conversation_id": "2000413563798659563",
+        "created_at": "2025-12-15T16:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T17:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000599032813797490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000599032813797490",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000489498929737938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 董健吾嘛，，，党的恩人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5777,
+          "following_count": 997,
+          "like_count": 45971,
+          "listed_count": 17,
+          "media_count": 931,
+          "tweet_count": 7998
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T06:43:01.000Z",
+        "description": "网络幽灵//中文/English/Español/Latina ecclesiastica(studeo)//\n常忆天主救赎之奇爱、常思圣母敬供之隆情、常如三王来朝之盛礼🇻🇦\n电报：https://t.co/TfjP9W0sVX\n垃圾箱：https://t.co/BUKhQfYqVS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Clemens777hepta",
+                "end": 114,
+                "expanded_url": "http://t.me/Clemens777hepta",
+                "start": 91,
+                "url": "https://t.co/TfjP9W0sVX"
+              },
+              {
+                "display_url": "ngl.link/clemensdsh",
+                "end": 142,
+                "expanded_url": "https://ngl.link/clemensdsh",
+                "start": 119,
+                "url": "https://t.co/BUKhQfYqVS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "clemensdsh.github.io",
+                "end": 23,
+                "expanded_url": "http://clemensdsh.github.io",
+                "start": 0,
+                "url": "https://t.co/5hQ1rQqSqz"
+              }
+            ]
+          }
+        },
+        "id": "1587696726022017027",
+        "location": "Hamilton, Ontario",
+        "name": "楊柳條兒青",
+        "pinned_tweet_id": "2000420572103405906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916508130042896384/4QZdgjiH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 3964,
+          "like_count": 71014,
+          "listed_count": 4,
+          "media_count": 249,
+          "tweet_count": 2323
+        },
+        "url": "https://t.co/5hQ1rQqSqz",
+        "username": "Ephraim_deca",
+        "verified": false
+      }
+    ]
+  }
+}

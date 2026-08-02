@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074851838940061696"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2074851848469586314",
+    "created_at": "2026-07-08T13:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T14:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074851848469586314"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7LIKEvVV3g",
+          "end": 26,
+          "expanded_url": "https://x.com/sss_1713/status/2074851848469586314/photo/1",
+          "media_key": "3_2074851838940061696",
+          "start": 3,
+          "url": "https://t.co/7LIKEvVV3g"
+        },
+        {
+          "display_url": "x.com/idkbtao_1210/s…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/idkbtao_1210/status/2074690825595023805",
+          "start": 27,
+          "url": "https://t.co/CaqEazLaCY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074851848469586314",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074690825595023805",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "绷住 https://t.co/7LIKEvVV3g https://t.co/CaqEazLaCY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 932,
+        "media_key": "3_2074851838940061696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtawSWWoAAtOo5.jpg",
+        "width": 1142
+      },
+      {
+        "height": 190,
+        "media_key": "3_2074690817021894656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMrITk9a4AAIerd.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074851838940061696"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2074851848469586314",
+        "created_at": "2026-07-08T13:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074851848469586314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7LIKEvVV3g",
+              "end": 26,
+              "expanded_url": "https://x.com/sss_1713/status/2074851848469586314/photo/1",
+              "media_key": "3_2074851838940061696",
+              "start": 3,
+              "url": "https://t.co/7LIKEvVV3g"
+            },
+            {
+              "display_url": "x.com/idkbtao_1210/s…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/idkbtao_1210/status/2074690825595023805",
+              "start": 27,
+              "url": "https://t.co/CaqEazLaCY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074851848469586314",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074690825595023805",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "绷住 https://t.co/7LIKEvVV3g https://t.co/CaqEazLaCY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074690817021894656"
+          ]
+        },
+        "author_id": "2009850877201526784",
+        "conversation_id": "2074690825595023805",
+        "created_at": "2026-07-08T03:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T04:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074690825595023805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JKIUGjaqOX",
+              "end": 26,
+              "expanded_url": "https://x.com/IDkbtao_1210/status/2074690825595023805/photo/1",
+              "media_key": "3_2074690817021894656",
+              "start": 3,
+              "url": "https://t.co/JKIUGjaqOX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074690825595023805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4002,
+          "like_count": 92,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "绷住 https://t.co/JKIUGjaqOX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5946,
+          "following_count": 797,
+          "like_count": 54059,
+          "listed_count": 18,
+          "media_count": 1071,
+          "tweet_count": 9368
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-10T04:52:54.000Z",
+        "description": "=IDkb7/滔滔                                                                           \n日百爱好者|Republic of China🇹🇼|极端账号会屏蔽|遇见粉蛆开启支黑形态|想要交朋友 有什麼話跟我私聊就好🥺",
+        "id": "2009850877201526784",
+        "location": "中华民国沦陷区",
+        "name": "IDkb7'🇹🇼",
+        "pinned_tweet_id": "2060398407370625200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074104278122418176/szLC0cFC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 293,
+          "like_count": 1478,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 459
+        },
+        "url": "",
+        "username": "IDkbtao_1210",
+        "verified": false
+      }
+    ]
+  }
+}

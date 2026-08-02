@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2067442588832133280",
+    "created_at": "2026-06-18T03:01:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T04:01:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067442588832133280"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/8w12eummcx5269…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/8w12eummcx52697/status/2067269384658452608",
+          "start": 20,
+          "url": "https://t.co/b5jH3BVg7D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067442588832133280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067269384658452608",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "碰到下面这种人我只会爆杀他全家，蜘蛛。 https://t.co/b5jH3BVg7D"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2067442588832133280",
+        "created_at": "2026-06-18T03:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067442588832133280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8w12eummcx5269…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/8w12eummcx52697/status/2067269384658452608",
+              "start": 20,
+              "url": "https://t.co/b5jH3BVg7D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067442588832133280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067269384658452608",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "碰到下面这种人我只会爆杀他全家，蜘蛛。 https://t.co/b5jH3BVg7D"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025557973624573953",
+        "conversation_id": "2067261626387222911",
+        "created_at": "2026-06-17T15:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067269384658452608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067269384658452608",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4281,
+          "like_count": 1,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067261626387222911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 死人妖想得真美，天天出来恶心正常人想过正常人的感受吗，你配吗你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5904,
+          "following_count": 771,
+          "like_count": 51552,
+          "listed_count": 18,
+          "media_count": 1036,
+          "tweet_count": 9073
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-22T13:07:17.000Z",
+        "description": "OK啊兄弟们，我也是又又又又又又再次重生了！依旧是来自北京的儒雅随和大学生，礼貌交友\n老婆:@SurongNy1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 46,
+                "username": "SurongNy1"
+              }
+            ]
+          }
+        },
+        "id": "2025557973624573953",
+        "name": "速溶奶酪(不灭版)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025561204266295296/ahZbzrz9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 106,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 253
+        },
+        "username": "8w12eUmmcX52697",
+        "verified": false
+      }
+    ]
+  }
+}

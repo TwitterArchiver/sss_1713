@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2065464050428084718",
+    "created_at": "2026-06-12T15:59:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T16:59:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065464050428084718"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kayiotic/statu…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/kayiotic/status/2065144592584831262",
+          "start": 57,
+          "url": "https://t.co/SftXeGyVtQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065464050428084718",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065144592584831262",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那天我们失去了一位同学，他死于自杀，而我们却不得不继续学习，就好像什么都没发生过。真是诡异，教育竟然如此不人道。 https://t.co/SftXeGyVtQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2065464050428084718",
+        "created_at": "2026-06-12T15:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065464050428084718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kayiotic/statu…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/kayiotic/status/2065144592584831262",
+              "start": 57,
+              "url": "https://t.co/SftXeGyVtQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065464050428084718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065144592584831262",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那天我们失去了一位同学，他死于自杀，而我们却不得不继续学习，就好像什么都没发生过。真是诡异，教育竟然如此不人道。 https://t.co/SftXeGyVtQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "98181333",
+        "conversation_id": "2065144592584831262",
+        "created_at": "2026-06-11T18:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T19:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065144592584831262"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065144592584831262",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 156560,
+          "like_count": 4971,
+          "quote_count": 25,
+          "reply_count": 65,
+          "retweet_count": 114
+        },
+        "reply_settings": "everyone",
+        "text": "perdemos um colega de trabalho hoje pro suicidio e tivemos q continuar trabalhando como se isso nao tivesse acontecido. bizarro como o sistema é desumano"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5886,
+          "following_count": 759,
+          "like_count": 50644,
+          "listed_count": 18,
+          "media_count": 1017,
+          "tweet_count": 8920
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-20T18:46:20.000Z",
+        "description": "transmasculino biológico",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kayiogael",
+                "end": 23,
+                "expanded_url": "http://instagram.com/kayiogael",
+                "start": 0,
+                "url": "https://t.co/XfYnCep0zz"
+              }
+            ]
+          }
+        },
+        "id": "98181333",
+        "location": "Paraibano, Brasil",
+        "name": "kyō",
+        "pinned_tweet_id": "1978199763389387113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064063610570043392/nLw4a5Hw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2573,
+          "following_count": 852,
+          "like_count": 215299,
+          "listed_count": 7,
+          "media_count": 2429,
+          "tweet_count": 183322
+        },
+        "url": "https://t.co/XfYnCep0zz",
+        "username": "kayiotic",
+        "verified": false
+      }
+    ]
+  }
+}

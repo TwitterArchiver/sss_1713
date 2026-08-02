@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2064635772033204425",
+    "created_at": "2026-06-10T09:08:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T10:08:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064635772033204425"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xixiong7895119…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/xixiong78951197/status/2064635149816377459",
+          "start": 53,
+          "url": "https://t.co/gUVK9HCiU8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064635772033204425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064635149816377459",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就你的水平还是回家多读几本书再来网上发言比较好，我从来没有说我支持随意撤销，不知道你这个理论是从何而来。 https://t.co/gUVK9HCiU8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2064635772033204425",
+        "created_at": "2026-06-10T09:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064635772033204425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xixiong7895119…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/xixiong78951197/status/2064635149816377459",
+              "start": 53,
+              "url": "https://t.co/gUVK9HCiU8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064635772033204425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064635149816377459",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就你的水平还是回家多读几本书再来网上发言比较好，我从来没有说我支持随意撤销，不知道你这个理论是从何而来。 https://t.co/gUVK9HCiU8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696518778799190016",
+        "conversation_id": "2064635149816377459",
+        "created_at": "2026-06-10T09:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064635149816377459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/sss_1713/status/2064531425731506315",
+              "start": 53,
+              "url": "https://t.co/i7ttBMtfH1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064635149816377459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064531425731506315",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我明白了你支持16岁以上18岁以下，或者14岁以上，18岁以下性同意随意撤销的原因，是为了诬告强奸更方便 https://t.co/i7ttBMtfH1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5883,
+          "following_count": 755,
+          "like_count": 50069,
+          "listed_count": 18,
+          "media_count": 1004,
+          "tweet_count": 8809
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-29T13:42:59.000Z",
+        "description": "熟悉我的都知道我是资深包蜜。Fucking shameless and wicked Chinks",
+        "id": "1696518778799190016",
+        "name": "xixiong是习龘龘忠实的包蜜(大阿亚图版)",
+        "pinned_tweet_id": "1992417493085045013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047685014117384192/6PNnU4cn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6692,
+          "following_count": 1411,
+          "like_count": 237,
+          "listed_count": 43,
+          "media_count": 12902,
+          "tweet_count": 43862
+        },
+        "username": "xixiong78951197",
+        "verified": false
+      }
+    ]
+  }
+}

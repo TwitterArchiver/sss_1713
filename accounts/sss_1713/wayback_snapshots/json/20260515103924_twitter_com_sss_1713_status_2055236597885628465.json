@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2055236597885628465",
+    "created_at": "2026-05-15T10:39:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T11:39:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055236597885628465"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhaxia123/stat…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/zhaxia123/status/2055156685136884032",
+          "start": 56,
+          "url": "https://t.co/g761HktcFf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055236597885628465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055156685136884032",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这评论区一股子“受害者只能有一个”的弱智味儿，上一代的创伤，不该让下一代买单，孩子也没有办法选择自己怎么出生。 https://t.co/g761HktcFf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055156676840599552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIViG-DbMAAcwjj.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055156676849000448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIViG-FbYAAcX2h.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2055236597885628465",
+        "created_at": "2026-05-15T10:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T11:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055236597885628465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhaxia123/stat…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/zhaxia123/status/2055156685136884032",
+              "start": 56,
+              "url": "https://t.co/g761HktcFf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055236597885628465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055156685136884032",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这评论区一股子“受害者只能有一个”的弱智味儿，上一代的创伤，不该让下一代买单，孩子也没有办法选择自己怎么出生。 https://t.co/g761HktcFf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055156676840599552",
+            "3_2055156676849000448"
+          ]
+        },
+        "author_id": "1986760052955652096",
+        "conversation_id": "2055156685136884032",
+        "created_at": "2026-05-15T05:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T06:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055156685136884032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W66ilKG349",
+              "end": 102,
+              "expanded_url": "https://x.com/ZhaXia123/status/2055156685136884032/photo/1",
+              "media_key": "3_2055156676840599552",
+              "start": 79,
+              "url": "https://t.co/W66ilKG349"
+            },
+            {
+              "display_url": "pic.x.com/W66ilKG349",
+              "end": 102,
+              "expanded_url": "https://x.com/ZhaXia123/status/2055156685136884032/photo/1",
+              "media_key": "3_2055156676849000448",
+              "start": 79,
+              "url": "https://t.co/W66ilKG349"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055156685136884032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 382,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这帮人是不是疯了都傻逼啊？就因为给他生下来了没给他掐死就算好的了，我操，这边人都傻逼吧，这孩子做错啥了？评论区全是指责孩子帮妈妈说话的的你们都去4️⃣吧我操 https://t.co/W66ilKG349"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5800,
+          "following_count": 746,
+          "like_count": 47431,
+          "listed_count": 18,
+          "media_count": 947,
+          "tweet_count": 8286
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T11:38:20.000Z",
+        "description": "此账号发表的所有言论意在取悦自己，如果拜读之后出现生理不适等症状，恭喜你，你怀了我的孩子",
+        "id": "1986760052955652096",
+        "name": "one",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034306215086592000/ey2a-d6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 51,
+          "like_count": 6124,
+          "listed_count": 0,
+          "media_count": 227,
+          "tweet_count": 2921
+        },
+        "username": "ZhaXia123",
+        "verified": false
+      }
+    ]
+  }
+}

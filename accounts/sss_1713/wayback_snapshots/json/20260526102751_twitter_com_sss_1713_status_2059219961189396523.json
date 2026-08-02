@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2059164635912151398",
+    "created_at": "2026-05-26T10:27:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T11:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059219961189396523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1566739868688199680",
+          "start": 0,
+          "username": "ChiangShauYuKan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059219961189396523",
+    "in_reply_to_user_id": "1566739868688199680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059218196247576648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChiangShauYuKan 酸汤子年年都会死人，年年都还是会有人吃。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2059164635912151398",
+        "created_at": "2026-05-26T10:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059219961189396523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1566739868688199680",
+              "start": 0,
+              "username": "ChiangShauYuKan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059219961189396523",
+        "in_reply_to_user_id": "1566739868688199680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059218196247576648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChiangShauYuKan 酸汤子年年都会死人，年年都还是会有人吃。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1566739868688199680",
+        "conversation_id": "2059164635912151398",
+        "created_at": "2026-05-26T10:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059218196247576648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ],
+          "urls": [
+            {
+              "description": "A Family Ate 1 Year Old Frozen Leftovers For Breakfast.This Is What Happened To Their Organs.ChubbyemuBilibili首发2024年7月13日发布演员表：郑瑞 饰 病人DC蔡莉 饰 病人MC周佳杰 饰 病人BC (上海交通大学医学院临床医学学生)赵森屿 饰 病人SC安迟阙 饰 Ace曹羽钦（医生）, 视频播放量 2563372、弹幕量 24399、点赞数 108432、投硬币枚数 18204、收藏人数 23101、转发人数 21056, 视频作者 Chubbyemu, 作者简介 胖鸸鹋Chubbyemu官方频道~商务合作请联系邮箱hello@Chubbyemu.com，相关视频：一位母亲在两小时内喝下了11升水，这是她的大脑发生的变化，一位女性服用寄生虫卵来减肥，这是她的大脑发生的变化，一个小男孩把150颗维生素软糖当做早餐，这是他的骨头发生的变化，黑龙江食物中毒致7死2伤 女儿哭诉：都是一家人很痛苦，后续治疗还需上百万，一位男性在半年里吃下了600磅方便面，这是他的肠道发生的变化，一位父亲40天没刷牙，这是他的肾脏发生的变化，一位健美运动员不慎摄入了超大量的壮阳药，这是他的大脑发生的变化，一个学生吃了他室友剩下来的面条，这是他的四肢发生的变化，一个小男孩在7年里每天吃掉75个鸡块，这是他的眼睛发生的变化，“他们一直说，我的头疼只不过是鼻窦炎而已……”",
+              "display_url": "b23.tv/XTdlmb2",
+              "end": 72,
+              "expanded_url": "https://b23.tv/XTdlmb2",
+              "start": 49,
+              "status": 200,
+              "title": "一家五口食用了存放一年的发酵玉米面条，这是他们的器官发生的变化_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1Cx4y1x7Wz/?buvid=Y34AEF391E4EA99B4CCC80B09AA0106D3A8C&from_spmid=search.search-result.0.0&is_story_h5=false&mid=YvEebkjY6sy5BpgBwOm10w%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=7E759586-2548-428B-9A39-CAC27EFC4C8F&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1779790843&unique_k=XTdlmb2&up_id=297786973",
+              "url": "https://t.co/UZhQYVWJf7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059218196247576648",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059164635912151398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 【一家五口食用了存放一年的发酵玉米面条，这是他们的器官发生的变化-哔哩哔哩】 https://t.co/UZhQYVWJf7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5847,
+          "following_count": 751,
+          "like_count": 48296,
+          "listed_count": 18,
+          "media_count": 978,
+          "tweet_count": 8495
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T10:47:56.000Z",
+        "description": "这样吗！",
+        "id": "1566739868688199680",
+        "location": "横幅2023.11",
+        "name": "醬燒魚乾",
+        "pinned_tweet_id": "1935293435520630965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053518722158186496/dIXQecEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2411,
+          "following_count": 886,
+          "like_count": 255117,
+          "listed_count": 5,
+          "media_count": 648,
+          "tweet_count": 16504
+        },
+        "username": "ChiangShauYuKan",
+        "verified": false
+      }
+    ]
+  }
+}

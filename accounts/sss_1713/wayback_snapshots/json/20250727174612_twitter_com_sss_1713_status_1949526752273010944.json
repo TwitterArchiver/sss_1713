@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1949526752273010944",
+    "created_at": "2025-07-27T17:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T18:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949526752273010944"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/arabh_channels…",
+          "end": 93,
+          "expanded_url": "https://twitter.com/arabh_channels/status/1949458017554149522",
+          "start": 70,
+          "url": "https://t.co/XjYPT12nFD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949526752273010944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949458017554149522",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "抖音评论区还看到释永信去年没有跟共党报备就私自去梵蒂冈会见上任教宗方济各？不知道是否属实？这种不跟上面打报告的行为已经是触及他们的底线了。 https://t.co/XjYPT12nFD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1202,
+        "media_key": "3_1949458014706241536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw3dvFcakAAWcwr.jpg",
+        "width": 2110
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1949526752273010944",
+        "created_at": "2025-07-27T17:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T18:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949526752273010944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/arabh_channels…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/arabh_channels/status/1949458017554149522",
+              "start": 70,
+              "url": "https://t.co/XjYPT12nFD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949526752273010944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949458017554149522",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抖音评论区还看到释永信去年没有跟共党报备就私自去梵蒂冈会见上任教宗方济各？不知道是否属实？这种不跟上面打报告的行为已经是触及他们的底线了。 https://t.co/XjYPT12nFD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949458014706241536"
+          ]
+        },
+        "author_id": "1640150075950374914",
+        "conversation_id": "1949458017554149522",
+        "created_at": "2025-07-27T13:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T14:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949458017554149522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LTTCWvMcZt",
+              "end": 110,
+              "expanded_url": "https://x.com/AraBh_channels/status/1949458017554149522/photo/1",
+              "media_key": "3_1949458014706241536",
+              "start": 87,
+              "url": "https://t.co/LTTCWvMcZt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949458017554149522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8226,
+          "like_count": 16,
+          "quote_count": 6,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "聽聞官方迫害永信方丈的消息，我深感震驚，繼南京牌位事件的迫害後，官方對佛教的迫害再次上升到了一個全新的高度，我等身為大乘佛教徒，務必將警醒再警醒了！\n\n祈禱觀世音菩薩加持！ https://t.co/LTTCWvMcZt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJo6NX"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5782,
+          "following_count": 1042,
+          "like_count": 46027,
+          "listed_count": 18,
+          "media_count": 945,
+          "tweet_count": 7717
+        },
+        "url": "https://t.co/Z7RPjJo6NX",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-27T00:33:58.000Z",
+        "description": "“佛子既如是，堅持菩提心， 恆勤勿懈怠，莫違諸學處”。——寂天菩薩《入行論》。",
+        "id": "1640150075950374914",
+        "location": "普愿沉溺诸众生 速往无量光佛刹",
+        "name": "☸️Ara深空",
+        "pinned_tweet_id": "1918315541317705753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923123420927000576/GqKaD-b0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 538,
+          "like_count": 25195,
+          "listed_count": 3,
+          "media_count": 1132,
+          "tweet_count": 2941
+        },
+        "username": "AraBh_channels",
+        "verified": false
+      }
+    ]
+  }
+}

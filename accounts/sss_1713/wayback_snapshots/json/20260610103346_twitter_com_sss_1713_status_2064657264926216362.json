@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2064647170482118670",
+    "created_at": "2026-06-10T10:33:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T11:33:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064657264926216362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1532012863480811520",
+          "start": 0,
+          "username": "GensokyoPMO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064657264926216362",
+    "in_reply_to_user_id": "1532012863480811520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064647170482118670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GensokyoPMO 支持维权！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2064646716364824576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcZP-OaIAANJp8.jpg",
+        "width": 1920
+      },
+      {
+        "height": 506,
+        "media_key": "3_2064646744441585664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcZRm0bgAAjk85.png",
+        "width": 966
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2064647170482118670",
+        "created_at": "2026-06-10T10:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064657264926216362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1532012863480811520",
+              "start": 0,
+              "username": "GensokyoPMO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064657264926216362",
+        "in_reply_to_user_id": "1532012863480811520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064647170482118670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GensokyoPMO 支持维权！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064646716364824576",
+            "3_2064646744441585664"
+          ]
+        },
+        "author_id": "1532012863480811520",
+        "conversation_id": "2064647170482118670",
+        "created_at": "2026-06-10T09:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064647170482118670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C41XNZ2mKH",
+              "end": 89,
+              "expanded_url": "https://x.com/GensokyoPMO/status/2064647170482118670/photo/1",
+              "media_key": "3_2064646716364824576",
+              "start": 66,
+              "url": "https://t.co/C41XNZ2mKH"
+            },
+            {
+              "display_url": "pic.x.com/C41XNZ2mKH",
+              "end": 89,
+              "expanded_url": "https://x.com/GensokyoPMO/status/2064647170482118670/photo/1",
+              "media_key": "3_2064646744441585664",
+              "start": 66,
+              "url": "https://t.co/C41XNZ2mKH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064647170482118670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "牢A侵權事件現在的情況：\n注冊商標放棄了，但是著作權他死活不願意放棄。與此同時他還在搞控評。\n所以維權這件事情還是絕對不能停下來（ https://t.co/C41XNZ2mKH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5883,
+          "following_count": 755,
+          "like_count": 50092,
+          "listed_count": 18,
+          "media_count": 1004,
+          "tweet_count": 8820
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T14:55:18.000Z",
+        "description": "「你應當⋯永不言棄！」 \nLanguage: English/中文/日本語\n🟨🔴🟨漢本位/🏛️憲政主義/⛩💜東方眾/🛩️鋼4「戰犯」/🎶昭和ポップスが好き/📚架空歷史愛好者 \n會時不時地轉推一些美圖（\n希望和推上的各位朋友進行友好交流🥰 \n架空歷史作品 #TLM (原 #SMNS ) 持續更新中（",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 131,
+                "start": 127,
+                "tag": "TLM"
+              },
+              {
+                "end": 140,
+                "start": 135,
+                "tag": "SMNS"
+              }
+            ]
+          }
+        },
+        "id": "1532012863480811520",
+        "location": "Γκενσόκιο",
+        "name": "歴史の転換期における隙間妖怪👁️",
+        "pinned_tweet_id": "1988578799500624319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061833108564107264/AewcFmUt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 1904,
+          "like_count": 274742,
+          "listed_count": 13,
+          "media_count": 1981,
+          "tweet_count": 50466
+        },
+        "username": "GensokyoPMO",
+        "verified": true
+      }
+    ]
+  }
+}

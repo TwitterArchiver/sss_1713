@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2050480408983445935",
+    "created_at": "2026-05-02T12:23:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T13:23:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050551694518542610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050551694518542610",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050480408983445935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 我前段时间很爱喝东方树叶和茶派，但是直到有一次漏了我一手水就没再喝了，东方树叶倒没什么，尤其是茶派漏出来之后很黏，用卫生纸一擦又沾了一堆卫生纸。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 201533,
+        "height": 1920,
+        "media_key": "13_2050253726036955140",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050253726036955140/img/WbmbgM_2XLvtGcyT.jpg",
+        "public_metrics": {
+          "view_count": 62621
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050253726036955140/pl/6SNO6frLXQcbuAk1.m3u8?tag=27&v=062"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050253726036955140/vid/avc1/1080x1920/Lic91gpV8QvMHq27.mp4?tag=27"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050253726036955140/vid/avc1/320x568/h6MdImUGkv61B7Sj.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050253726036955140/vid/avc1/480x852/_urmTcLVDlB_sNXL.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050253726036955140/vid/avc1/720x1280/J5us2G-48M8ipLtG.mp4?tag=27"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 39706,
+        "height": 1920,
+        "media_key": "13_2050253726057926659",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050253726057926659/img/PZ8sGGUepjrcmY93.jpg",
+        "public_metrics": {
+          "view_count": 4927
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050253726057926659/vid/avc1/720x1280/McCf3YBZtb5XabTI.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050253726057926659/pl/9rmWJO3xEBMho_FQ.m3u8?tag=27&v=a0c"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050253726057926659/vid/avc1/1080x1920/Z1ZpBiTXWYlY7WsG.mp4?tag=27"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050253726057926659/vid/avc1/320x568/ZNq7l0-ycQC8WDOu.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050253726057926659/vid/avc1/480x852/x0ef_uGwxym2-sdW.mp4?tag=27"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2050480408983445935",
+        "created_at": "2026-05-02T12:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T13:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050551694518542610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050551694518542610",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050480408983445935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 我前段时间很爱喝东方树叶和茶派，但是直到有一次漏了我一手水就没再喝了，东方树叶倒没什么，尤其是茶派漏出来之后很黏，用卫生纸一擦又沾了一堆卫生纸。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050253726036955140",
+            "13_2050253726057926659"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050480408983445935",
+        "created_at": "2026-05-02T07:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T08:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050480408983445935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eC06NINxMn",
+              "end": 146,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2050480408983445935/video/1",
+              "media_key": "13_2050253726036955140",
+              "start": 123,
+              "url": "https://t.co/eC06NINxMn"
+            },
+            {
+              "display_url": "pic.x.com/eC06NINxMn",
+              "end": 146,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2050480408983445935/video/1",
+              "media_key": "13_2050253726057926659",
+              "start": 123,
+              "url": "https://t.co/eC06NINxMn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050480408983445935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "近日，博主“建仔”曝光东方树叶饮料瓶盖存在设计缺陷，你以为饮料是密封的，实则稍稍拧动一下瓶盖，再挤压瓶身，饮料就会流出来。而外界的水也能通过气压差进入瓶中，所以即便瓶中的水受到了污染，但由于瓶盖没有完全被拧开，只要往回一拧，仍然是未开封的状态。\n\n 5月1日，博主“建仔”发布视频回应称，事发后品牌方要求他下架相关视频，否则将通过司法途径处理；在他拒绝后，次日派出所来电称希望他能到所里聊聊，随后，品牌又方持续对视频进行举报，并有大量账号在评论区集中发言、带节奏。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 133339,
+          "like_count": 485,
+          "quote_count": 8,
+          "reply_count": 53,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "近日，博主“建仔”曝光东方树叶饮料瓶盖存在设计缺陷，你以为饮料是密封的，实则稍稍拧动一下瓶盖，再挤压瓶身，饮料就会流出来。而外界的水也能通过气压差进入瓶中，所以即便瓶中的水受到了污染，但由于瓶盖没有完全被拧开，只要往回一拧，仍然是未开封的状态。 https://t.co/eC06NINxMn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5807,
+          "following_count": 1036,
+          "like_count": 47343,
+          "listed_count": 18,
+          "media_count": 939,
+          "tweet_count": 8201
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2213470,
+          "following_count": 1041,
+          "like_count": 9450,
+          "listed_count": 8711,
+          "media_count": 46125,
+          "tweet_count": 53212
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

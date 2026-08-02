@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2071187258426986976",
+    "created_at": "2026-06-28T11:01:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T12:01:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071187258426986976"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wadainotwi/sta…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/wadainotwi/status/2070872747299770857",
+          "start": 42,
+          "url": "https://t.co/5WtHYjBEZW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071187258426986976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070872747299770857",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果说为了和穆斯林交好我会选择说他们问候的话，但是如果是像视频中一样我会坚决拒绝。 https://t.co/5WtHYjBEZW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 74566,
+        "height": 1280,
+        "media_key": "13_2001301982988943362",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2001301982988943362/img/LR9B_H1BtO0lTV9d.jpg",
+        "public_metrics": {
+          "view_count": 6529763
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001301982988943362/vid/avc1/320x568/LZVafkq5RTk_-pS6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001301982988943362/vid/avc1/480x852/UfR-UnkXqM7FmfI9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001301982988943362/vid/avc1/720x1280/dz1aSJU16MXS14rI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2001301982988943362/pl/vVktkUjHEk62D65W.m3u8?v=0cf"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2071187258426986976",
+        "created_at": "2026-06-28T11:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071187258426986976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wadainotwi/sta…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/wadainotwi/status/2070872747299770857",
+              "start": 42,
+              "url": "https://t.co/5WtHYjBEZW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071187258426986976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070872747299770857",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果说为了和穆斯林交好我会选择说他们问候的话，但是如果是像视频中一样我会坚决拒绝。 https://t.co/5WtHYjBEZW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2001301982988943362"
+          ],
+          "media_source_tweet_id": [
+            "2001302070423404674"
+          ]
+        },
+        "author_id": "1619659707949645824",
+        "conversation_id": "2070872747299770857",
+        "created_at": "2026-06-27T14:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T15:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070872747299770857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RyDig921HJ",
+              "end": 140,
+              "expanded_url": "https://x.com/i/status/2001302070423404674/video/1",
+              "media_key": "13_2001301982988943362",
+              "start": 117,
+              "url": "https://t.co/RyDig921HJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070872747299770857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 552,
+          "impression_count": 559430,
+          "like_count": 13393,
+          "quote_count": 50,
+          "reply_count": 171,
+          "retweet_count": 2152
+        },
+        "reply_settings": "everyone",
+        "text": "フランスのムスリムが、フランス人男性にカメラに向かって「アッサラーム・アライクム」と言うよう要求し、賄賂として€4000さえも提示する。\n\nフランス人男性は拒否する。「ここはフランスだ。君は自分の国に帰るべきだ。」\n\nこれが正しい。 https://t.co/RyDig921HJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5911,
+          "following_count": 778,
+          "like_count": 52668,
+          "listed_count": 18,
+          "media_count": 1052,
+          "tweet_count": 9234
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-29T11:32:29.000Z",
+        "description": "ヤバすぎる動画からネタまで引用元明記でポストします。🚨衝撃映像・事故・生物に耐性ある方は是非🚨※フォローバックは通知から/DMはスパムで溢れています",
+        "id": "1619659707949645824",
+        "location": "ネタ提供・ご要望はDMまで📮",
+        "name": "世界のインパクト映像",
+        "pinned_tweet_id": "2064158817298866187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771693119794511873/d5CsapLd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136025,
+          "following_count": 20276,
+          "like_count": 276,
+          "listed_count": 290,
+          "media_count": 28,
+          "tweet_count": 4067
+        },
+        "url": "",
+        "username": "wadainotwi",
+        "verified": true
+      }
+    ]
+  }
+}

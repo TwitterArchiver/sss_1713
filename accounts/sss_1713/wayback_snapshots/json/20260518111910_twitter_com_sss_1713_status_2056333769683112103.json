@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2056332868759253430",
+    "created_at": "2026-05-18T11:19:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T12:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056333769683112103"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056333769683112103",
+    "in_reply_to_user_id": "1254605353838231553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056332868759253430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种视频的受众到底是什么人，骗中年人都够呛，别说推特的用户现在越来越年轻化了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1854,
+        "media_key": "3_2056332856469901312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImP1onaUAACkHG.jpg",
+        "width": 1206
+      },
+      {
+        "height": 991,
+        "media_key": "3_2056332856511881216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImP1oxa4AA3QxA.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2056332868759253430",
+        "created_at": "2026-05-18T11:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056333769683112103"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056333769683112103",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056332868759253430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种视频的受众到底是什么人，骗中年人都够呛，别说推特的用户现在越来越年轻化了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056332856469901312",
+            "3_2056332856511881216"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2056332868759253430",
+        "created_at": "2026-05-18T11:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056332868759253430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qBXUTvS9CV",
+              "end": 46,
+              "expanded_url": "https://x.com/sss_1713/status/2056332868759253430/photo/1",
+              "media_key": "3_2056332856469901312",
+              "start": 23,
+              "url": "https://t.co/qBXUTvS9CV"
+            },
+            {
+              "display_url": "pic.x.com/qBXUTvS9CV",
+              "end": 46,
+              "expanded_url": "https://x.com/sss_1713/status/2056332868759253430/photo/1",
+              "media_key": "3_2056332856511881216",
+              "start": 23,
+              "url": "https://t.co/qBXUTvS9CV"
+            },
+            {
+              "display_url": "x.com/xinwendiaocha/…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/xinwendiaocha/status/2048718535812431984",
+              "start": 47,
+              "url": "https://t.co/8ZwwCrpxTI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056332868759253430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048718535812431984",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我只花了三十秒就找到了此视频，你也来试试吧😅 https://t.co/qBXUTvS9CV https://t.co/8ZwwCrpxTI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5799,
+          "following_count": 750,
+          "like_count": 47624,
+          "listed_count": 18,
+          "media_count": 956,
+          "tweet_count": 8329
+        },
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

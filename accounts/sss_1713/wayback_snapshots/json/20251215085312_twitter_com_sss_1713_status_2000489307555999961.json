@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2000489307555999961",
+    "created_at": "2025-12-15T08:53:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T09:53:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000489307555999961"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lawrenc0987443…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/lawrenc09874431/status/2000429185689424123",
+          "start": 38,
+          "url": "https://t.co/SPrrskTdCX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000489307555999961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000429185689424123",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中国人嘅智商真係有必要提升下啦，南京大屠杀嗰阵，美国仲係中国嘅盟友嚟㗎嘛？ https://t.co/SPrrskTdCX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 84938,
+        "height": 1280,
+        "media_key": "7_2000379855389491203",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2000379855389491203/pu/img/T9yBOzBY6wZ2ohHC.jpg",
+        "public_metrics": {
+          "view_count": 69689
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000379855389491203/pu/vid/avc1/320x568/gGO-loanJJMmGOwN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000379855389491203/pu/vid/avc1/480x852/AdUa7f8S3wKSg8bn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000379855389491203/pu/vid/avc1/720x1280/623kYGg8GQTqWn9x.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2000379855389491203/pu/pl/dYwtDNYN6Gzkf-0F.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2000489307555999961",
+        "created_at": "2025-12-15T08:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T09:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000489307555999961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lawrenc0987443…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/lawrenc09874431/status/2000429185689424123",
+              "start": 38,
+              "url": "https://t.co/SPrrskTdCX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000489307555999961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000429185689424123",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国人嘅智商真係有必要提升下啦，南京大屠杀嗰阵，美国仲係中国嘅盟友嚟㗎嘛？ https://t.co/SPrrskTdCX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2000379855389491203"
+          ],
+          "media_source_tweet_id": [
+            "2000379944107655311"
+          ]
+        },
+        "author_id": "1596918985609601024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2000429185689424123",
+        "created_at": "2025-12-15T04:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T05:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000429185689424123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/srdFQ907bH",
+              "end": 91,
+              "expanded_url": "https://x.com/yibingsg/status/2000379944107655311/video/1",
+              "media_key": "7_2000379855389491203",
+              "start": 68,
+              "url": "https://t.co/srdFQ907bH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000429185689424123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 39769,
+          "like_count": 114,
+          "quote_count": 2,
+          "reply_count": 33,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "文革 2.0 真的已经开始了！\n\n很快你要是打拍子就是给外国发报，你要是戴个耳机就是偷听敌台，你要是弄破了习近平画像就是现行反革命。\n https://t.co/srdFQ907bH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5783,
+          "following_count": 997,
+          "like_count": 45960,
+          "listed_count": 17,
+          "media_count": 931,
+          "tweet_count": 7992
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T17:29:12.000Z",
+        "description": "今日幡然醒悟，原来中共国旗的红色是要拿人民的鲜血不断去染的。从茫茫戈壁到浩浩东海，亿万人的苦难无边无际。中共不亡，万民难安!  欢迎给我发私信或投稿，但我不能回复私信。\n\nAs long as Chicom is still in existence, the world won't have peace.",
+        "id": "1596918985609601024",
+        "name": "Lawrence of Gobi 愚蠢的精卫",
+        "pinned_tweet_id": "2000311722754936978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673899612019539971/4JAFu3q8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34683,
+          "following_count": 2773,
+          "like_count": 59052,
+          "listed_count": 201,
+          "media_count": 7698,
+          "tweet_count": 27421
+        },
+        "username": "Lawrenc09874431",
+        "verified": true
+      }
+    ]
+  }
+}

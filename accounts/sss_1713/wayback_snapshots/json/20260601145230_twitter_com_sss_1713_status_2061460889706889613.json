@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2061283725166678410",
+    "created_at": "2026-06-01T14:52:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T15:52:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061460889706889613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1390855002604720130",
+          "start": 0,
+          "username": "ChhotuR73520494"
+        },
+        {
+          "end": 29,
+          "id": "1989486731280949248",
+          "start": 17,
+          "username": "panda010211"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061460889706889613",
+    "in_reply_to_user_id": "1390855002604720130",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061428763364303210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChhotuR73520494 @panda010211 😅😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2061283725166678410",
+        "created_at": "2026-06-01T14:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T15:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061460889706889613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1390855002604720130",
+              "start": 0,
+              "username": "ChhotuR73520494"
+            },
+            {
+              "end": 29,
+              "id": "1989486731280949248",
+              "start": 17,
+              "username": "panda010211"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061460889706889613",
+        "in_reply_to_user_id": "1390855002604720130",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061428763364303210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChhotuR73520494 @panda010211 😅😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390855002604720130",
+        "conversation_id": "2061283725166678410",
+        "created_at": "2026-06-01T12:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T13:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061428763364303210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1989486731280949248",
+              "start": 0,
+              "username": "panda010211"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061428763364303210",
+        "in_reply_to_user_id": "1989486731280949248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94549,
+          "like_count": 11,
+          "quote_count": 6,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061283725166678410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@panda010211 我靠不公平啊，那岂不是相当于女生可以合理带假阳具出门"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5858,
+          "following_count": 753,
+          "like_count": 48764,
+          "listed_count": 18,
+          "media_count": 986,
+          "tweet_count": 8617
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-08T02:24:56.000Z",
+        "description": "↑以后可能会成为很厉害的人，也可能狗屁不是。单身/男，仅此而已",
+        "id": "1390855002604720130",
+        "location": "X'an★anihC",
+        "name": "APIER",
+        "pinned_tweet_id": "2006412261913670146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991146338793496576/iJs1XrmK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 261,
+          "like_count": 13299,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 584
+        },
+        "username": "ChhotuR73520494",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T00:13:04.000Z",
+        "description": "유학생/20⬇️/INFP/일상계/오타쿠쿤/초멘초뎀🫶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/1230632580/",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/1230632580/",
+                "start": 0,
+                "url": "https://t.co/rKyq0gNFzX"
+              }
+            ]
+          }
+        },
+        "id": "1989486731280949248",
+        "location": "치매판다월드",
+        "name": "치매판다 ㅌㅊㅅ",
+        "pinned_tweet_id": "2045764845287694536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057528632273440768/qC4CCfar_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 483,
+          "like_count": 9572,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 2774
+        },
+        "url": "https://t.co/rKyq0gNFzX",
+        "username": "panda010211",
+        "verified": false
+      }
+    ]
+  }
+}

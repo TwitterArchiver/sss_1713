@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2065087851373752691",
+    "created_at": "2026-06-11T15:12:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T16:12:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065089852782375109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1677732423667445760",
+          "start": 0,
+          "username": "wuerbangbang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065089852782375109",
+    "in_reply_to_user_id": "1677732423667445760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065087851373752691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuerbangbang 在老师这里能可以学到好多东西"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2065087830100238338",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiqcK8bYAIRonk.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1542,
+        "media_key": "3_2065087672901885952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiqTBVa4AAGHev.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1542,
+        "media_key": "3_2065087692199833600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiqUJOaMAARsYE.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065087585735815168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiqN8naMAAgrnt.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2065087851373752691",
+        "created_at": "2026-06-11T15:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065089852782375109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1677732423667445760",
+              "start": 0,
+              "username": "wuerbangbang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065089852782375109",
+        "in_reply_to_user_id": "1677732423667445760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065087851373752691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuerbangbang 在老师这里能可以学到好多东西"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065087830100238338",
+            "3_2065087672901885952",
+            "3_2065087692199833600",
+            "3_2065087585735815168"
+          ]
+        },
+        "author_id": "1677732423667445760",
+        "conversation_id": "2065087851373752691",
+        "created_at": "2026-06-11T15:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065087851373752691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C4dX8kVLVS",
+              "end": 142,
+              "expanded_url": "https://x.com/wuerbangbang/status/2065087851373752691/photo/1",
+              "media_key": "3_2065087830100238338",
+              "start": 119,
+              "url": "https://t.co/C4dX8kVLVS"
+            },
+            {
+              "display_url": "pic.x.com/C4dX8kVLVS",
+              "end": 142,
+              "expanded_url": "https://x.com/wuerbangbang/status/2065087851373752691/photo/1",
+              "media_key": "3_2065087672901885952",
+              "start": 119,
+              "url": "https://t.co/C4dX8kVLVS"
+            },
+            {
+              "display_url": "pic.x.com/C4dX8kVLVS",
+              "end": 142,
+              "expanded_url": "https://x.com/wuerbangbang/status/2065087851373752691/photo/1",
+              "media_key": "3_2065087692199833600",
+              "start": 119,
+              "url": "https://t.co/C4dX8kVLVS"
+            },
+            {
+              "display_url": "pic.x.com/C4dX8kVLVS",
+              "end": 142,
+              "expanded_url": "https://x.com/wuerbangbang/status/2065087851373752691/photo/1",
+              "media_key": "3_2065087585735815168",
+              "start": 119,
+              "url": "https://t.co/C4dX8kVLVS"
+            },
+            {
+              "display_url": "x.com/wuerbangbang/s…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/wuerbangbang/status/2065086337267667396",
+              "start": 143,
+              "url": "https://t.co/0KRk0H6wPl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065087851373752691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 230,
+                "start": 225,
+                "tag": "二棒看展"
+              }
+            ]
+          },
+          "text": "甘简博看展4：（远古的旋律：河南出土音乐文物展）\n\n贾湖骨笛  新石器时代裴李岗文化（距今8700-6800年）  1987年河南省漯河市舞阳县贾湖遗址出土  河南博物院藏\n\n甘简博你牛大发了！国博办古代乐器展时都请不来原件，你请来了！\n\n此件骨笛用鹤类动物的尺骨锯去两端关节钻孔而成，是迄今为止中国发现最早、保存最为完整的管乐器。从骨管上所留的等分符号可见，在钻孔前经过了精密的计算。它能吹奏出七声齐备的下徵调音阶，被誉为“中华音乐文明之源”。\n\n#二棒看展"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065086337267667396",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "甘简博看展4：（远古的旋律：河南出土音乐文物展）\n\n贾湖骨笛  新石器时代裴李岗文化（距今8700-6800年）  1987年河南省漯河市舞阳县贾湖遗址出土  河南博物院藏\n\n甘简博你牛大发了！国博办古代乐器展时都请不来原件，你请来了！ https://t.co/C4dX8kVLVS https://t.co/0KRk0H6wPl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5884,
+          "following_count": 759,
+          "like_count": 50480,
+          "listed_count": 18,
+          "media_count": 1009,
+          "tweet_count": 8893
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T17:32:43.000Z",
+        "description": "北大中文本硕，苗族，民俗学博士，国博前馆员。文史艺术、书画篆刻、三俗烂梗、旅游爱好者。对世界有旺盛的探索欲，想多认识有趣的人🤒PhDing of folklore, graduated from @PKU1898, Miao,  lover of history, heritage, art & tour🪭🐾🏺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 98,
+                "username": "PKU1898"
+              }
+            ]
+          }
+        },
+        "id": "1677732423667445760",
+        "location": "跳回三界内，待在五行中。",
+        "name": "吴二棒",
+        "pinned_tweet_id": "2011619057360126001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010919161988595713/rE9mkr0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11165,
+          "following_count": 969,
+          "like_count": 19011,
+          "listed_count": 46,
+          "media_count": 2847,
+          "tweet_count": 9146
+        },
+        "username": "wuerbangbang",
+        "verified": true
+      }
+    ]
+  }
+}

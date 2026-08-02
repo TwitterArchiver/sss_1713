@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2064180441406386268",
+    "created_at": "2026-06-09T02:59:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T03:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064180441406386268"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/8cuyc/status/2…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/8cuyc/status/2064147019909005427",
+          "start": 65,
+          "url": "https://t.co/JrtE22i7Er"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064180441406386268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064147019909005427",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "许多唐氏儿是可以接受教育、并且从事简单的工作的，会受苦一辈子的不止有唐氏儿，我们不能决定一个已经出生的孩子是否有继续存在的资格。 https://t.co/JrtE22i7Er"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2064180441406386268",
+        "created_at": "2026-06-09T02:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064180441406386268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8cuyc/status/2…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/8cuyc/status/2064147019909005427",
+              "start": 65,
+              "url": "https://t.co/JrtE22i7Er"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064180441406386268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064147019909005427",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "许多唐氏儿是可以接受教育、并且从事简单的工作的，会受苦一辈子的不止有唐氏儿，我们不能决定一个已经出生的孩子是否有继续存在的资格。 https://t.co/JrtE22i7Er"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064136215394435072",
+        "conversation_id": "2064027579716190669",
+        "created_at": "2026-06-09T00:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T01:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064147019909005427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064147019909005427",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064027579716190669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 你只是站在了道德的最高点，唐氏儿长大了干什么？打工没人要，只能受苦，与其受苦一辈子，不如在没开智的时候痛快的结束，我认为让它消失才是最好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5877,
+          "following_count": 752,
+          "like_count": 49683,
+          "listed_count": 18,
+          "media_count": 1003,
+          "tweet_count": 8792
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-09T00:04:39.000Z",
+        "description": "",
+        "id": "2064136215394435072",
+        "name": "梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064136875921821696/Mc304NPT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 16,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "8cuyc",
+        "verified": false
+      }
+    ]
+  }
+}

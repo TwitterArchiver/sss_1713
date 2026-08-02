@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041123211098943488"
+      ],
+      "media_source_tweet_id": [
+        "2041123217813983325"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2041338688345428171",
+    "created_at": "2026-04-07T02:14:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T03:14:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041338688345428171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1667779272478687232",
+          "start": 3,
+          "username": "MilkyWayDet_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g1w1f7VP07",
+          "end": 81,
+          "expanded_url": "https://x.com/MilkyWayDet_/status/2041123217813983325/photo/1",
+          "media_key": "3_2041123211098943488",
+          "start": 58,
+          "url": "https://t.co/g1w1f7VP07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041338688345428171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041123217813983325",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MilkyWayDet_: 做了一个非常甜口的蒜香黄油蜂蜜鸡翅，因为用的是柠檬蜂蜜，所以还有酸酸的柠檬香😋 https://t.co/g1w1f7VP07"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041123211098943488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOGvwRbcAAcnn-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041123211098943488"
+          ],
+          "media_source_tweet_id": [
+            "2041123217813983325"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2041338688345428171",
+        "created_at": "2026-04-07T02:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T03:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041338688345428171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1667779272478687232",
+              "start": 3,
+              "username": "MilkyWayDet_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g1w1f7VP07",
+              "end": 81,
+              "expanded_url": "https://x.com/MilkyWayDet_/status/2041123217813983325/photo/1",
+              "media_key": "3_2041123211098943488",
+              "start": 58,
+              "url": "https://t.co/g1w1f7VP07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041338688345428171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041123217813983325",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MilkyWayDet_: 做了一个非常甜口的蒜香黄油蜂蜜鸡翅，因为用的是柠檬蜂蜜，所以还有酸酸的柠檬香😋 https://t.co/g1w1f7VP07"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041123211098943488"
+          ]
+        },
+        "author_id": "1667779272478687232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2041123217813983325",
+        "created_at": "2026-04-06T11:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041123217813983325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g1w1f7VP07",
+              "end": 63,
+              "expanded_url": "https://x.com/MilkyWayDet_/status/2041123217813983325/photo/1",
+              "media_key": "3_2041123211098943488",
+              "start": 40,
+              "url": "https://t.co/g1w1f7VP07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041123217813983325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 16959,
+          "like_count": 660,
+          "quote_count": 3,
+          "reply_count": 64,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "做了一个非常甜口的蒜香黄油蜂蜜鸡翅，因为用的是柠檬蜂蜜，所以还有酸酸的柠檬香😋 https://t.co/g1w1f7VP07"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5800,
+          "following_count": 1025,
+          "like_count": 46928,
+          "listed_count": 18,
+          "media_count": 938,
+          "tweet_count": 8132
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T06:22:28.000Z",
+        "description": "微波炉冥想学派创始人@MicrowaveMed\n我的猫 @mimi240628",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "MicrowaveMed"
+              },
+              {
+                "end": 39,
+                "start": 28,
+                "username": "mimi240628"
+              }
+            ]
+          }
+        },
+        "id": "1667779272478687232",
+        "location": "宇宙盡頭的餐廳",
+        "name": "銀河系超級偵探",
+        "pinned_tweet_id": "1959831951134839010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685264169569042433/mihVUuV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2176,
+          "following_count": 156,
+          "like_count": 17655,
+          "listed_count": 18,
+          "media_count": 1189,
+          "tweet_count": 3268
+        },
+        "username": "MilkyWayDet_",
+        "verified": false
+      }
+    ]
+  }
+}

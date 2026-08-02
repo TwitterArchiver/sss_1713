@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2067415887465095351",
+    "created_at": "2026-06-18T01:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T02:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067415887465095351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1663513805094277122",
+          "start": 3,
+          "username": "szslg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067415887465095351",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 266
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067145519571550369",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @szslg: 河南调查记者魏华走了，才45岁，心脏骤停。\n这哥们就是那个卧底缅北120天救回6人、死磕“梅姨”案的“都市大先生”。为了怕被报复，他活着时连家都不敢回，文章都不敢署名。现在人没了，大家才知道真名。这才是真正的无名英雄，一路走好。… https://t.co…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 168,
+        "media_key": "3_2067145483353743360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_53WpaYAAJLwd.png",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2067415887465095351",
+        "created_at": "2026-06-18T01:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067415887465095351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1663513805094277122",
+              "start": 3,
+              "username": "szslg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067415887465095351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 266
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067145519571550369",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @szslg: 河南调查记者魏华走了，才45岁，心脏骤停。\n这哥们就是那个卧底缅北120天救回6人、死磕“梅姨”案的“都市大先生”。为了怕被报复，他活着时连家都不敢回，文章都不敢署名。现在人没了，大家才知道真名。这才是真正的无名英雄，一路走好。… https://t.co…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067145483353743360"
+          ]
+        },
+        "author_id": "1663513805094277122",
+        "conversation_id": "2067145519571550369",
+        "created_at": "2026-06-17T07:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067145519571550369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7GBtrk2kUW",
+              "end": 138,
+              "expanded_url": "https://x.com/szslg/status/2067145519571550369/photo/1",
+              "media_key": "3_2067145483353743360",
+              "start": 115,
+              "url": "https://t.co/7GBtrk2kUW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067145519571550369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "河南调查记者魏华走了，才45岁，心脏骤停。\n这哥们就是那个卧底缅北120天救回6人、死磕“梅姨”案的“都市大先生”。为了怕被报复，他活着时连家都不敢回，文章都不敢署名。现在人没了，大家才知道真名。这才是真正的无名英雄，一路走好。\n\n消息在媒体圈传开的时候，很多跟他合作过的人都不敢相信。前三天他还在跟编辑对接新的调查线索，语音里带着点疲惫，说等跑完这趟就歇两天，谁也没料到这话成了最后一句。\n\n当年缅北诈骗窝点的线索递到他手里的时候，单位本来想安排年轻记者跟进，他主动拦下了。他说自己年纪大，脸生，不容易被认出来，年轻人还有大好前程，不能冒这个险。他伪装成找工作的打工者，跟着中间人辗转三天才进到窝点里，一待就是一百二十天。\n\n窝点里管得严，手机全被收走，跟外界断了所有联系。他每天跟着其他人一起作息，暗地里摸清窝点的人员架构和逃跑路线，偷偷记下被拐进去的人的信息。中间有一次他藏的小纸条差点被发现，挨了一顿打，他硬扛着说是捡来的废纸，才没暴露身份。\n\n等到跟外面的救援人员对接上那天，他带着六个被骗进去的年轻人，顺着提前摸好的路线往边境跑，身后有人追，躲了大半夜才甩掉追兵，终于摸到接应的地点。六个人全都安全回来了，他身上添了不少伤口，一句苦都没说，回来休整了不到一周，就又开始跑新的选题。\n\n从那之后，他就成了对方重点报复的对象。手机号换得勤，住的地方也经常搬，不敢跟家人住在一起，连过年都只能找个僻静的地方，隔着屏幕跟家里人说几句话。孩子长到十几岁，跟他见面的次数加起来不到半年，学校的家长会一次都没去过，所有的家事全靠妻子一个人撑着。\n\n死磕梅姨案的那几年，他跑遍了周边好几个省份，找受害者家属核实信息，找知情人打听线索。很多关键信息都是他最先挖到的，每篇发出来的报道，署名都只有“都市大先生”五个字。单位里新来的同事经常讨论这个笔名下的记者有多厉害，没人想到天天坐在工位角落、话不多的老魏就是这个人。\n\n他平时在单位话很少，中午就吃一份简单的盒饭，衣服翻来覆去就那几件。有人劝他别这么拼，年纪大了该顾着点身体，他总说没事，等把手里的几个案子跟进完就轻松了。他抽屉里常年放着止疼片和常用的救急药，胸闷的时候就吃一片扛过去，从来没跟人说过自己心脏不舒服。\n\n出事那天，他前一天熬了通宵整理线索，早上跟编辑发了最后一条消息，说自己眯一会儿，下午接着改稿子。编辑等到下午联系不上人，打了好几个电话都没人接，心里觉得不对，赶紧找到他出租屋的地址赶过去。门打开的时候，他还趴在书桌前，手里还攥着没写完的采访笔记。\n\n追悼会那天，来了很多陌生人。有当年被他从缅北救回来的年轻人，带着全家过来鞠躬；有被拐孩子的家属，拿着他当年帮忙找线索时留的纸条，站在遗像前掉眼泪。这些人跟他打交道了好几年，全都只知道他的笔名，直到这天，才第一次知道他的真名，第一次看清他的样子。\n\n他妻子带着孩子站在家属席上，全程很平静。她说自己早就做好了心理准备，知道他干的是玩命的工作。以前他活着的时候，不能光明正大站在他身边，不能跟别人说自己的丈夫是谁，现在他走了，终于能堂堂正正陪着他，送他最后一程。孩子捧着遗像，小声说原来爸爸做了这么多好事，以后自己也要做像爸爸一样的人。\n\n总有人说和平年代没有轰轰烈烈的付出，可总有人愿意隐姓埋名，站在暗处替众人守住公道。他们的名字不被大众熟知，他们的付出很少有人看见，却凭着一股子韧劲，追着真相跑，护着陌生人的周全。这样的人，值得被所有人记住，也配得上所有的敬意。\n@作家东方煜"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 60387,
+          "like_count": 1598,
+          "quote_count": 39,
+          "reply_count": 112,
+          "retweet_count": 266
+        },
+        "reply_settings": "everyone",
+        "text": "河南调查记者魏华走了，才45岁，心脏骤停。\n这哥们就是那个卧底缅北120天救回6人、死磕“梅姨”案的“都市大先生”。为了怕被报复，他活着时连家都不敢回，文章都不敢署名。现在人没了，大家才知道真名。这才是真正的无名英雄，一路走好。 https://t.co/7GBtrk2kUW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5905,
+          "following_count": 771,
+          "like_count": 51527,
+          "listed_count": 18,
+          "media_count": 1038,
+          "tweet_count": 9073
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T11:53:05.000Z",
+        "description": "得中书局 | 社会万象",
+        "id": "1663513805094277122",
+        "location": "Chinatown, Los Angeles",
+        "name": "苏里格",
+        "pinned_tweet_id": "2049272950105456948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001083390666391552/45zwzdjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12456,
+          "following_count": 3852,
+          "like_count": 199,
+          "listed_count": 59,
+          "media_count": 1953,
+          "tweet_count": 9745
+        },
+        "url": "",
+        "username": "szslg",
+        "verified": true
+      }
+    ]
+  }
+}

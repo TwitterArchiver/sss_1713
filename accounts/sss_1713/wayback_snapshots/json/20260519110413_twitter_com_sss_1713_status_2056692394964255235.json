@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2056646634138923392",
+    "created_at": "2026-05-19T11:04:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T12:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056692394964255235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1229628603412836353",
+          "start": 0,
+          "username": "Kiwi_Wiki27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056692394964255235",
+    "in_reply_to_user_id": "1229628603412836353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056646634138923392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiwi_Wiki27 而且也不知道为什么这群老师为什么那么仇视学生把本子当扇子扇风。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2056646634138923392",
+        "created_at": "2026-05-19T11:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056692394964255235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1229628603412836353",
+              "start": 0,
+              "username": "Kiwi_Wiki27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056692394964255235",
+        "in_reply_to_user_id": "1229628603412836353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056646634138923392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiwi_Wiki27 而且也不知道为什么这群老师为什么那么仇视学生把本子当扇子扇风。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1229628603412836353",
+        "conversation_id": "2056646634138923392",
+        "created_at": "2026-05-19T08:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056646634138923392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2056479947984691226",
+              "start": 106,
+              "url": "https://t.co/cV6bAFzgRt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056646634138923392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "小时候我在国内上学，学校也没有空调，当时我就每天抱怨热，然后老师就总是说什么“心静自然凉” “别人都不热怎么就你热”之类的屁话。我当时就觉得说这话纯属傻**，因为老师办公室可都有空调，他们怎么不知道心静自然凉？\n\n近几年来越来越多的高校留学生差别待遇问题曝光后，我们又要追问那个经典的问题了：中国人到底是不是人？似乎不管是黑皮白皮还是棕皮的洋垃圾 都能在中国的土地上 踩在中国人头上拉屎"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 829,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056479947984691226",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小时候我在国内上学，学校也没有空调，当时我就每天抱怨热，然后老师就总是说什么“心静自然凉” “别人都不热怎么就你热”之类的屁话。我当时就觉得说这话纯属傻**，因为老师办公室可都有空调，他们怎么不知道心静自然凉？ https://t.co/cV6bAFzgRt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2056686933950996682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5803,
+          "following_count": 753,
+          "like_count": 47713,
+          "listed_count": 18,
+          "media_count": 962,
+          "tweet_count": 8350
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-18T04:48:12.000Z",
+        "description": "A typical wiki nerd",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.wikipedia.org/wiki/Kiwi_(bir…",
+                "end": 23,
+                "expanded_url": "https://en.wikipedia.org/wiki/Kiwi_(bird)?wprov=sfti1#Description",
+                "start": 0,
+                "url": "https://t.co/8iMA60oJdK"
+              }
+            ]
+          }
+        },
+        "id": "1229628603412836353",
+        "location": "Kiwi’s nest...across the ditch",
+        "name": "Kiwi.Wiki 🌐キウイーウイキ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923635971561488384/vNRyVUa0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 1928,
+          "like_count": 191069,
+          "listed_count": 5,
+          "media_count": 2078,
+          "tweet_count": 13045
+        },
+        "url": "https://t.co/8iMA60oJdK",
+        "username": "Kiwi_Wiki27",
+        "verified": false
+      }
+    ]
+  }
+}

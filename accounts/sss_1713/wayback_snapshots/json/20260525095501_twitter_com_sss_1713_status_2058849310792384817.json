@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2058849310792384817",
+    "created_at": "2026-05-25T09:55:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T10:55:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058849310792384817"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sss_1713/statu…",
+          "end": 121,
+          "expanded_url": "https://twitter.com/sss_1713/status/2058740026708832336",
+          "start": 98,
+          "url": "https://t.co/WQC3ImudDJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058849310792384817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058740026708832336",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我本意是好的，意思是让你们这群名字后面带🇨🇳🇨🇳的人说话注意点，不要给我热爱的祖国抹黑！清澈的爱只为祖国！你们这群恨国党为什么要这样对我😭😭😭为什么我的眼里常含泪水💧因为我对这片土地爱得深沉😭😭 https://t.co/WQC3ImudDJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2058849310792384817",
+        "created_at": "2026-05-25T09:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058849310792384817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/sss_1713/status/2058740026708832336",
+              "start": 98,
+              "url": "https://t.co/WQC3ImudDJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058849310792384817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058740026708832336",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我本意是好的，意思是让你们这群名字后面带🇨🇳🇨🇳的人说话注意点，不要给我热爱的祖国抹黑！清澈的爱只为祖国！你们这群恨国党为什么要这样对我😭😭😭为什么我的眼里常含泪水💧因为我对这片土地爱得深沉😭😭 https://t.co/WQC3ImudDJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2058740026708832336",
+        "created_at": "2026-05-25T02:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T03:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058740026708832336"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058740026708832336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 13659,
+          "like_count": 188,
+          "quote_count": 3,
+          "reply_count": 70,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我对推特昵称后面只带🇨🇳的人第一印象会很差……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5823,
+          "following_count": 747,
+          "like_count": 48214,
+          "listed_count": 18,
+          "media_count": 977,
+          "tweet_count": 8474
+        },
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

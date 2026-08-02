@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2072519352876929062",
+    "created_at": "2026-07-02T03:52:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T04:52:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072528920717775187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2040054095378083840",
+          "start": 0,
+          "username": "shsh531980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072528920717775187",
+    "in_reply_to_user_id": "2040054095378083840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072528418915381382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shsh531980 嘻嘻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 384,
+        "media_key": "3_2072528417015390208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMMZnVMa4AAlNQP.jpg",
+        "width": 384
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2072519352876929062",
+        "created_at": "2026-07-02T03:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T04:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072528920717775187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040054095378083840",
+              "start": 0,
+              "username": "shsh531980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072528920717775187",
+        "in_reply_to_user_id": "2040054095378083840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072528418915381382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shsh531980 嘻嘻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072528417015390208"
+          ]
+        },
+        "author_id": "2040054095378083840",
+        "conversation_id": "2072519352876929062",
+        "created_at": "2026-07-02T03:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T04:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072528418915381382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m8wv7Uz8Xq",
+              "end": 43,
+              "expanded_url": "https://x.com/shsh531980/status/2072528418915381382/photo/1",
+              "media_key": "3_2072528417015390208",
+              "start": 20,
+              "url": "https://t.co/m8wv7Uz8Xq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072528418915381382",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072519352876929062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 你一直超可爱的好吧 https://t.co/m8wv7Uz8Xq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5922,
+          "following_count": 783,
+          "like_count": 53165,
+          "listed_count": 18,
+          "media_count": 1059,
+          "tweet_count": 9292
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T13:09:47.000Z",
+        "description": "三年级白幼瘦小正太 求对喷板",
+        "id": "2040054095378083840",
+        "name": "fukd✝️❤️‍🔥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062205597576232960/UOP4Uvbl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 4,
+          "like_count": 249,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 251
+        },
+        "url": "",
+        "username": "shsh531980",
+        "verified": false
+      }
+    ]
+  }
+}

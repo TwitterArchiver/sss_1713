@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2057666806979117457",
+    "created_at": "2026-05-22T03:47:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T04:47:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057669668928897214"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057669668928897214",
+    "in_reply_to_user_id": "1254605353838231553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057666806979117457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我这条推文的语气好像外国人…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1986,
+        "media_key": "3_2057666793687437312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5NC__bUAAqeQy.jpg",
+        "width": 1041
+      },
+      {
+        "height": 1966,
+        "media_key": "3_2057666793683275776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5NC_-b0AAKBht.jpg",
+        "width": 1060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2057666806979117457",
+        "created_at": "2026-05-22T03:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T04:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057669668928897214"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057669668928897214",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057666806979117457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我这条推文的语气好像外国人…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057666793687437312",
+            "3_2057666793683275776"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2057666806979117457",
+        "created_at": "2026-05-22T03:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T04:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057666806979117457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zqHleJ2uf1",
+              "end": 84,
+              "expanded_url": "https://x.com/sss_1713/status/2057666806979117457/photo/1",
+              "media_key": "3_2057666793687437312",
+              "start": 61,
+              "url": "https://t.co/zqHleJ2uf1"
+            },
+            {
+              "display_url": "pic.x.com/zqHleJ2uf1",
+              "end": 84,
+              "expanded_url": "https://x.com/sss_1713/status/2057666806979117457/photo/1",
+              "media_key": "3_2057666793683275776",
+              "start": 61,
+              "url": "https://t.co/zqHleJ2uf1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057666806979117457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "摩洛哥朋友给我发的伊斯兰教笑话😂视频里是一个穆斯林鲨鱼🦈，它吃那个男人之前进行了伊斯兰教餐前祈祷，于是产生了如下对话😂😂 https://t.co/zqHleJ2uf1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5805,
+          "following_count": 747,
+          "like_count": 47977,
+          "listed_count": 18,
+          "media_count": 970,
+          "tweet_count": 8415
+        },
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

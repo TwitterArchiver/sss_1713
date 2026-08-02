@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2057435165354570065",
+    "created_at": "2026-05-21T12:37:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T13:37:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057440564296225165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3700078994",
+          "start": 0,
+          "username": "midiexiang6555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057440564296225165",
+    "in_reply_to_user_id": "3700078994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057435165354570065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@midiexiang6555 万恶的资本🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2057435165354570065",
+        "created_at": "2026-05-21T12:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057440564296225165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3700078994",
+              "start": 0,
+              "username": "midiexiang6555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057440564296225165",
+        "in_reply_to_user_id": "3700078994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057435165354570065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@midiexiang6555 万恶的资本🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3700078994",
+        "conversation_id": "2057435165354570065",
+        "created_at": "2026-05-21T12:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057435165354570065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/sss_1713/status/2057423695086559527",
+              "start": 101,
+              "url": "https://t.co/pdrdCL9DxY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057435165354570065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057423695086559527",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈，马斯克接管推特以来，这种情况就常有了。\n以前的帖子点赞上百，浏览量破万是常态，现在浏览量几百，零星点赞，甚至无人问津才是常态。还有，粉丝数只跌不涨。\n估计大家都差不多吧。蓝勾用户可能好一些。 https://t.co/pdrdCL9DxY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5805,
+          "following_count": 745,
+          "like_count": 47940,
+          "listed_count": 18,
+          "media_count": 968,
+          "tweet_count": 8406
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-27T04:52:42.000Z",
+        "description": "實名：陈燕慧   中年非油膩美少女  一枚。",
+        "id": "3700078994",
+        "location": "湖南長沙",
+        "name": "迷迭香",
+        "pinned_tweet_id": "1993891804270518723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1383101725763018753/I-c4hNRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29861,
+          "following_count": 180,
+          "like_count": 42706,
+          "listed_count": 82,
+          "media_count": 1073,
+          "tweet_count": 9896
+        },
+        "username": "midiexiang6555",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1980082251796033746",
+    "created_at": "2025-10-20T11:42:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T12:42:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980238224753918265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1872890216790343680",
+          "start": 0,
+          "username": "kidexioqng25363"
+        },
+        {
+          "end": 29,
+          "id": "110306450",
+          "start": 17,
+          "username": "exgolddizzy"
+        },
+        {
+          "end": 37,
+          "id": "8504312",
+          "start": 30,
+          "username": "lexrus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980238224753918265",
+    "in_reply_to_user_id": "1872890216790343680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980214187877110012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kidexioqng25363 @exgolddizzy @lexrus 智齿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1980082251796033746",
+        "created_at": "2025-10-20T11:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T12:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980238224753918265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1872890216790343680",
+              "start": 0,
+              "username": "kidexioqng25363"
+            },
+            {
+              "end": 29,
+              "id": "110306450",
+              "start": 17,
+              "username": "exgolddizzy"
+            },
+            {
+              "end": 37,
+              "id": "8504312",
+              "start": 30,
+              "username": "lexrus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980238224753918265",
+        "in_reply_to_user_id": "1872890216790343680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980214187877110012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kidexioqng25363 @exgolddizzy @lexrus 智齿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872890216790343680",
+        "conversation_id": "1980082251796033746",
+        "created_at": "2025-10-20T10:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T11:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980214187877110012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "110306450",
+              "start": 0,
+              "username": "exgolddizzy"
+            },
+            {
+              "end": 20,
+              "id": "8504312",
+              "start": 13,
+              "username": "lexrus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980214187877110012",
+        "in_reply_to_user_id": "110306450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980191873529745652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@exgolddizzy @lexrus 人家能为了兴趣去学，还是靠免费软件，发发怎么了。你怎么戾气这么大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5817,
+          "following_count": 980,
+          "like_count": 45994,
+          "listed_count": 17,
+          "media_count": 925,
+          "tweet_count": 7811
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-28T06:20:06.000Z",
+        "description": "",
+        "id": "1872890216790343680",
+        "name": "庆丰大帝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915334925307568133/-4jq3WeT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 37,
+          "like_count": 6713,
+          "listed_count": 4,
+          "media_count": 15,
+          "tweet_count": 1008
+        },
+        "username": "kidexioqng25363",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-01T02:54:54.000Z",
+        "description": "（ry",
+        "id": "110306450",
+        "location": "（ry",
+        "name": "exgolddizzy",
+        "pinned_tweet_id": "995319219490181120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/668596903/profile_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 357,
+          "like_count": 1970,
+          "listed_count": 3,
+          "media_count": 7,
+          "tweet_count": 177
+        },
+        "username": "exgolddizzy",
+        "verified": false
+      },
+      {
+        "created_at": "2007-08-29T05:35:13.000Z",
+        "description": "中年 iOS/macOS 开发，2006 届果粉。 👨🏻‍🦲 https://t.co/0IHFZ92Fy0 💬 https://t.co/twEXEcpKsD 🎬https://t.co/gNhF2lyDse",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lex.sh",
+                "end": 54,
+                "expanded_url": "https://lex.sh",
+                "start": 31,
+                "url": "https://t.co/0IHFZ92Fy0"
+              },
+              {
+                "display_url": "t.me/lexrus",
+                "end": 80,
+                "expanded_url": "https://t.me/lexrus",
+                "start": 57,
+                "url": "https://t.co/twEXEcpKsD"
+              },
+              {
+                "display_url": "youtube.com/lexrus",
+                "end": 105,
+                "expanded_url": "https://youtube.com/lexrus",
+                "start": 82,
+                "url": "https://t.co/gNhF2lyDse"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lex.sh",
+                "end": 23,
+                "expanded_url": "https://lex.sh",
+                "start": 0,
+                "url": "https://t.co/0IHFZ92Fy0"
+              }
+            ]
+          }
+        },
+        "id": "8504312",
+        "location": "Shanghai",
+        "name": "Lex Tang",
+        "pinned_tweet_id": "1777529291099509009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/973550161556209664/C-SNrSiO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24364,
+          "following_count": 1534,
+          "like_count": 8093,
+          "listed_count": 309,
+          "media_count": 4047,
+          "tweet_count": 15080
+        },
+        "url": "https://t.co/0IHFZ92Fy0",
+        "username": "lexrus",
+        "verified": true
+      }
+    ]
+  }
+}

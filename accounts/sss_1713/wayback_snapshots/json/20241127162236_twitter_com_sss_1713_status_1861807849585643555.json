@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1861807849585643555",
+    "created_at": "2024-11-27T16:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T17:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861807849585643555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "851054131418505216",
+          "start": 3,
+          "username": "0xCheshire"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861807849585643555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 414
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861620732494753909",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0xCheshire: 1965 年，新加坡被迫脱离马来西亚。\n\n没有军队。\n\n没有资源。\n\n没有淡水。\n\n一个只有 200 万人口的小岛，人民大多居住在贫民窟中，生活条件极差。\n\n然而，一个人的坚定远见，缔造了现代亚洲最伟大的成功故事……\n\n🧵 https://t.c…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1861807849585643555",
+        "created_at": "2024-11-27T16:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T17:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861807849585643555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "851054131418505216",
+              "start": 3,
+              "username": "0xCheshire"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861807849585643555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 414
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861620732494753909",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0xCheshire: 1965 年，新加坡被迫脱离马来西亚。\n\n没有军队。\n\n没有资源。\n\n没有淡水。\n\n一个只有 200 万人口的小岛，人民大多居住在贫民窟中，生活条件极差。\n\n然而，一个人的坚定远见，缔造了现代亚洲最伟大的成功故事……\n\n🧵 https://t.c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861620722017411072"
+          ]
+        },
+        "author_id": "851054131418505216",
+        "conversation_id": "1861620732494753909",
+        "created_at": "2024-11-27T03:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T04:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861620732494753909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NKViwku7pT",
+              "end": 135,
+              "expanded_url": "https://x.com/0xCheshire/status/1861620732494753909/photo/1",
+              "media_key": "3_1861620722017411072",
+              "start": 112,
+              "url": "https://t.co/NKViwku7pT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861620732494753909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 729,
+          "impression_count": 1170052,
+          "like_count": 2998,
+          "quote_count": 32,
+          "reply_count": 164,
+          "retweet_count": 414
+        },
+        "reply_settings": "everyone",
+        "text": "1965 年，新加坡被迫脱离马来西亚。\n\n没有军队。\n\n没有资源。\n\n没有淡水。\n\n一个只有 200 万人口的小岛，人民大多居住在贫民窟中，生活条件极差。\n\n然而，一个人的坚定远见，缔造了现代亚洲最伟大的成功故事……\n\n🧵 https://t.co/NKViwku7pT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJo6NX"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5667,
+          "following_count": 1017,
+          "like_count": 46281,
+          "listed_count": 20,
+          "tweet_count": 7623
+        },
+        "url": "https://t.co/Z7RPjJo6NX",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-09T12:48:11.000Z",
+        "description": "我花了5个月研究推特增长，粉丝数证明一切↙\n\n知识星球🌏：https://t.co/bfJK3o3Jcv\n\nLinktree链接：https://t.co/f5VVd8N8MZ\n\n#OKX 钱包现已支持100+公链，web3入口一个就够：\nhttps://t.co/mRssNRxC7v",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 94,
+                "start": 90,
+                "tag": "OKX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.zsxq.com/a1nV9",
+                "end": 52,
+                "expanded_url": "http://t.zsxq.com/a1nV9",
+                "start": 29,
+                "url": "https://t.co/bfJK3o3Jcv"
+              },
+              {
+                "display_url": "linktr.ee/CheshireMew",
+                "end": 88,
+                "expanded_url": "http://linktr.ee/CheshireMew",
+                "start": 65,
+                "url": "https://t.co/f5VVd8N8MZ"
+              },
+              {
+                "display_url": "okx.com/cn/web3?channe…",
+                "end": 143,
+                "expanded_url": "http://www.okx.com/cn/web3?channelid=ACE51415",
+                "start": 120,
+                "url": "https://t.co/mRssNRxC7v"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/TomorrowX_Labs",
+                "end": 23,
+                "expanded_url": "https://t.me/TomorrowX_Labs",
+                "start": 0,
+                "url": "https://t.co/U0GTYoVehz"
+              }
+            ]
+          }
+        },
+        "id": "851054131418505216",
+        "location": " 未来市集TG群：👉",
+        "name": "柴郡🔔｜Crypto+AI Plus",
+        "pinned_tweet_id": "1861719737555910899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843286202528796673/PUyK9V4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71118,
+          "following_count": 607,
+          "like_count": 21394,
+          "listed_count": 323,
+          "tweet_count": 20201
+        },
+        "url": "https://t.co/U0GTYoVehz",
+        "username": "0xCheshire",
+        "verified": true
+      }
+    ]
+  }
+}

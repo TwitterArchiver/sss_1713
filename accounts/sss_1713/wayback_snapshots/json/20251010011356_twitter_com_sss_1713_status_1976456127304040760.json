@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1976217252673589360",
+    "created_at": "2025-10-10T01:13:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T02:13:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976456127304040760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1332252107638927360",
+          "start": 0,
+          "username": "jun17630250"
+        },
+        {
+          "end": 26,
+          "id": "1381523094087507974",
+          "start": 13,
+          "username": "pear14525902"
+        },
+        {
+          "end": 42,
+          "id": "1260553941714186241",
+          "start": 27,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976456127304040760",
+    "in_reply_to_user_id": "1332252107638927360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976242893967720883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jun17630250 @pear14525902 @whyyoutouzhele 真的是，评论区下面全是以前的推友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1976217252673589360",
+        "created_at": "2025-10-10T01:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T02:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976456127304040760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1332252107638927360",
+              "start": 0,
+              "username": "jun17630250"
+            },
+            {
+              "end": 26,
+              "id": "1381523094087507974",
+              "start": 13,
+              "username": "pear14525902"
+            },
+            {
+              "end": 42,
+              "id": "1260553941714186241",
+              "start": 27,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976456127304040760",
+        "in_reply_to_user_id": "1332252107638927360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976242893967720883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jun17630250 @pear14525902 @whyyoutouzhele 真的是，评论区下面全是以前的推友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1332252107638927360",
+        "conversation_id": "1976217252673589360",
+        "created_at": "2025-10-09T11:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T12:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976242893967720883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1381523094087507974",
+              "start": 0,
+              "username": "pear14525902"
+            },
+            {
+              "end": 29,
+              "id": "1260553941714186241",
+              "start": 14,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976242893967720883",
+        "in_reply_to_user_id": "1381523094087507974",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13460,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976217252673589360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pear14525902 @whyyoutouzhele 草，有生之年系列更新了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5809,
+          "following_count": 974,
+          "like_count": 45840,
+          "listed_count": 17,
+          "media_count": 943,
+          "tweet_count": 7775
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-27T09:17:17.000Z",
+        "description": "天が生む、万物人に与え\n人は報い、天へ何も無し",
+        "id": "1332252107638927360",
+        "location": "池袋",
+        "name": "横浜打野",
+        "pinned_tweet_id": "1952383663737569663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862083611811569664/aDIElDkD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6761,
+          "following_count": 1571,
+          "like_count": 3916,
+          "listed_count": 45,
+          "media_count": 2812,
+          "tweet_count": 20758
+        },
+        "username": "jun17630250",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-12T08:22:37.000Z",
+        "description": "在美国佛州养老。政治经济学者，现代马克思主义者，新左派，现代毛派。数十次预言成功。支持高福利社会+毒品合法化+自由开明独裁。爱中国人民。人比较复杂介绍不完。tg群：https://t.co/yofG5Z0M7z 个人tg：https://t.co/GShUlP4pC4 长毛象：pear14525。男，双性恋",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/pearfan",
+                "end": 105,
+                "expanded_url": "http://t.me/pearfan",
+                "start": 82,
+                "url": "https://t.co/yofG5Z0M7z"
+              },
+              {
+                "display_url": "t.me/orange113",
+                "end": 134,
+                "expanded_url": "http://t.me/orange113",
+                "start": 111,
+                "url": "https://t.co/GShUlP4pC4"
+              }
+            ]
+          }
+        },
+        "id": "1381523094087507974",
+        "location": "Florida, USA",
+        "name": "🍐老师🔮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1621701647465594882/YyRdZJ5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44167,
+          "following_count": 1423,
+          "like_count": 134205,
+          "listed_count": 192,
+          "media_count": 2615,
+          "tweet_count": 120649
+        },
+        "username": "pear14525902",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1966463459425497352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2118717,
+          "following_count": 988,
+          "like_count": 8260,
+          "listed_count": 8371,
+          "media_count": 35925,
+          "tweet_count": 42743
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

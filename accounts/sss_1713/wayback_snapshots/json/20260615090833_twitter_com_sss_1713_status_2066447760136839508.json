@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066447661117620224",
+        "3_2066447661138608128",
+        "3_2066447661121884160"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2066447760136839508",
+    "created_at": "2026-06-15T09:08:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T10:08:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066447760136839508"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EaVy3wdk9I",
+          "end": 149,
+          "expanded_url": "https://x.com/sss_1713/status/2066447760136839508/photo/1",
+          "media_key": "3_2066447661117620224",
+          "start": 126,
+          "url": "https://t.co/EaVy3wdk9I"
+        },
+        {
+          "display_url": "pic.x.com/EaVy3wdk9I",
+          "end": 149,
+          "expanded_url": "https://x.com/sss_1713/status/2066447760136839508/photo/1",
+          "media_key": "3_2066447661138608128",
+          "start": 126,
+          "url": "https://t.co/EaVy3wdk9I"
+        },
+        {
+          "display_url": "pic.x.com/EaVy3wdk9I",
+          "end": 149,
+          "expanded_url": "https://x.com/sss_1713/status/2066447760136839508/photo/1",
+          "media_key": "3_2066447661121884160",
+          "start": 126,
+          "url": "https://t.co/EaVy3wdk9I"
+        },
+        {
+          "display_url": "x.com/sss_1713/statu…",
+          "end": 173,
+          "expanded_url": "https://twitter.com/sss_1713/status/2066167774226022629",
+          "start": 150,
+          "url": "https://t.co/5k9rzgnN4F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066447760136839508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066167774226022629",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“我不想伤害他人，尤其是一个善良的姑娘，我想这是一种罪恶，无论其原因在社会还是在我。”\n\n“那样的未来总让我不寒而栗，但我又只能有这一选择，因为我不想拉一个女孩来当我的殉葬品。”\n\n“现在的问题是：是不是和许多同性恋者一样，找一个女人来为自己牺牲！” https://t.co/EaVy3wdk9I https://t.co/5k9rzgnN4F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2066447661117620224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1_MwPaQAAoX0z.jpg",
+        "width": 3024
+      },
+      {
+        "height": 3845,
+        "media_key": "3_2066447661138608128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1_MwUagAAQcoZ.jpg",
+        "width": 2330
+      },
+      {
+        "height": 3584,
+        "media_key": "3_2066447661121884160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1_MwQbUAABRF_.jpg",
+        "width": 2320
+      },
+      {
+        "height": 2859,
+        "media_key": "3_2066167746170417152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyAnjzbcAA3Jow.jpg",
+        "width": 2086
+      },
+      {
+        "height": 2314,
+        "media_key": "3_2066167746178801664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyAnj1bYAADnc5.jpg",
+        "width": 1433
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066447661117620224",
+            "3_2066447661138608128",
+            "3_2066447661121884160"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2066447760136839508",
+        "created_at": "2026-06-15T09:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066447760136839508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EaVy3wdk9I",
+              "end": 149,
+              "expanded_url": "https://x.com/sss_1713/status/2066447760136839508/photo/1",
+              "media_key": "3_2066447661117620224",
+              "start": 126,
+              "url": "https://t.co/EaVy3wdk9I"
+            },
+            {
+              "display_url": "pic.x.com/EaVy3wdk9I",
+              "end": 149,
+              "expanded_url": "https://x.com/sss_1713/status/2066447760136839508/photo/1",
+              "media_key": "3_2066447661138608128",
+              "start": 126,
+              "url": "https://t.co/EaVy3wdk9I"
+            },
+            {
+              "display_url": "pic.x.com/EaVy3wdk9I",
+              "end": 149,
+              "expanded_url": "https://x.com/sss_1713/status/2066447760136839508/photo/1",
+              "media_key": "3_2066447661121884160",
+              "start": 126,
+              "url": "https://t.co/EaVy3wdk9I"
+            },
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/sss_1713/status/2066167774226022629",
+              "start": 150,
+              "url": "https://t.co/5k9rzgnN4F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066447760136839508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066167774226022629",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“我不想伤害他人，尤其是一个善良的姑娘，我想这是一种罪恶，无论其原因在社会还是在我。”\n\n“那样的未来总让我不寒而栗，但我又只能有这一选择，因为我不想拉一个女孩来当我的殉葬品。”\n\n“现在的问题是：是不是和许多同性恋者一样，找一个女人来为自己牺牲！” https://t.co/EaVy3wdk9I https://t.co/5k9rzgnN4F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066167746170417152",
+            "3_2066167746178801664"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2066167774226022629",
+        "created_at": "2026-06-14T14:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066167774226022629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MK4HwO9tPS",
+              "end": 122,
+              "expanded_url": "https://x.com/sss_1713/status/2066167774226022629/photo/1",
+              "media_key": "3_2066167746170417152",
+              "start": 99,
+              "url": "https://t.co/MK4HwO9tPS"
+            },
+            {
+              "display_url": "pic.x.com/MK4HwO9tPS",
+              "end": 122,
+              "expanded_url": "https://x.com/sss_1713/status/2066167774226022629/photo/1",
+              "media_key": "3_2066167746178801664",
+              "start": 99,
+              "url": "https://t.co/MK4HwO9tPS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066167774226022629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 4638,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这本《同性恋亚文化》我有点看不下去，我的观感很痛苦、很窒息。\n\n男同性恋痛苦地进入了婚姻，那个被欺骗而进入婚姻的异性配偶也有很大的痛苦，本质上是用一个人的牺牲来换取另一个人的幸福，我不能接受这个。 https://t.co/MK4HwO9tPS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5887,
+          "following_count": 763,
+          "like_count": 51037,
+          "listed_count": 18,
+          "media_count": 1028,
+          "tweet_count": 8982
+        },
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

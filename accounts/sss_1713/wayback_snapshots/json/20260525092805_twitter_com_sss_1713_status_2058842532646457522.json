@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2058740026708832336",
+    "created_at": "2026-05-25T09:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T10:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058842532646457522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1492332560554213377",
+          "start": 0,
+          "username": "xiaofei1314521"
+        },
+        {
+          "end": 27,
+          "id": "1674282346588110849",
+          "start": 16,
+          "username": "Cleo_Elpis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058842532646457522",
+    "in_reply_to_user_id": "1492332560554213377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058815110341132710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaofei1314521 @Cleo_Elpis 我也只是说我自己的感受，也没有让别人听我的话，你随意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2058740026708832336",
+        "created_at": "2026-05-25T09:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058842532646457522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1492332560554213377",
+              "start": 0,
+              "username": "xiaofei1314521"
+            },
+            {
+              "end": 27,
+              "id": "1674282346588110849",
+              "start": 16,
+              "username": "Cleo_Elpis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058842532646457522",
+        "in_reply_to_user_id": "1492332560554213377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058815110341132710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaofei1314521 @Cleo_Elpis 我也只是说我自己的感受，也没有让别人听我的话，你随意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492332560554213377",
+        "conversation_id": "2058740026708832336",
+        "created_at": "2026-05-25T07:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T08:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058815110341132710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1674282346588110849",
+              "start": 0,
+              "username": "Cleo_Elpis"
+            },
+            {
+              "end": 21,
+              "id": "1254605353838231553",
+              "start": 12,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058815110341132710",
+        "in_reply_to_user_id": "1674282346588110849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058811697083658331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cleo_Elpis @sss_1713 他这属于一刀切。凡事总有例外这句话他不懂，不需要听他的话。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5823,
+          "following_count": 746,
+          "like_count": 48206,
+          "listed_count": 18,
+          "media_count": 976,
+          "tweet_count": 8461
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-12T02:59:56.000Z",
+        "description": "莫挨我",
+        "id": "1492332560554213377",
+        "location": "我你爹",
+        "name": "太对🌶️",
+        "pinned_tweet_id": "1550711139520188419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046462904413954048/8yOjqkSA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 11,
+          "like_count": 4197,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 1126
+        },
+        "username": "xiaofei1314521",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-29T05:03:50.000Z",
+        "description": "进击的巨人谏山创，艾伦耶格尔、三笠阿克曼、孙文、墨翟一生推，安那其主义者|\n世界不是非黑即白的，你杠就你对|\nSCP基金会维基，维基百科中文编辑者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "writing-desk.wikidot.com",
+                "end": 23,
+                "expanded_url": "https://writing-desk.wikidot.com",
+                "start": 0,
+                "url": "https://t.co/ZJz0tIaRlx"
+              }
+            ]
+          }
+        },
+        "id": "1674282346588110849",
+        "location": "People's Republic of China",
+        "name": "子车仲行🇨🇳Ⓐ⚑",
+        "pinned_tweet_id": "1842893937872150883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791365703062396928/I9SWN8yO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 80,
+          "like_count": 244,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 45
+        },
+        "url": "https://t.co/ZJz0tIaRlx",
+        "username": "Cleo_Elpis",
+        "verified": false
+      }
+    ]
+  }
+}

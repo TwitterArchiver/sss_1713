@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2066368445483249699",
+    "created_at": "2026-06-15T03:53:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T04:53:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066368445483249699"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hwangadam1988/…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/hwangadam1988/status/2066340285836358039",
+          "start": 40,
+          "url": "https://t.co/A3POZlNTC3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066368445483249699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066340285836358039",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不知道这张meme何意味，男性对“没有男性气质”的男性各种形式的欺凌还少吗。 https://t.co/A3POZlNTC3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 850,
+        "media_key": "3_2066340257981956096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK0dhEYagAAnnqv.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2066368445483249699",
+        "created_at": "2026-06-15T03:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T04:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066368445483249699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hwangadam1988/…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/hwangadam1988/status/2066340285836358039",
+              "start": 40,
+              "url": "https://t.co/A3POZlNTC3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066368445483249699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066340285836358039",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不知道这张meme何意味，男性对“没有男性气质”的男性各种形式的欺凌还少吗。 https://t.co/A3POZlNTC3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066340257981956096"
+          ]
+        },
+        "author_id": "1498473975579512839",
+        "conversation_id": "2066151156200685675",
+        "created_at": "2026-06-15T02:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T03:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066340285836358039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GgRpJG4vOx",
+              "end": 33,
+              "expanded_url": "https://x.com/HwangAdam1988/status/2066340285836358039/photo/1",
+              "media_key": "3_2066340257981956096",
+              "start": 10,
+              "url": "https://t.co/GgRpJG4vOx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066340285836358039",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066151156200685675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 https://t.co/GgRpJG4vOx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5885,
+          "following_count": 761,
+          "like_count": 50988,
+          "listed_count": 18,
+          "media_count": 1026,
+          "tweet_count": 8976
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-01T01:43:51.000Z",
+        "description": "“世界进步人大团结🇨🇳  🇷🇺  🇰🇵 🇨🇺 🇻🇳 🇱🇦 🇮🇷 🇵🇸welcome进步大家庭。”\n旗帜鲜明的支持中国女权、支持中国人的堕胎权。\n旗帜鲜明的支持6b4t。",
+        "id": "1498473975579512839",
+        "location": "Santa Clara, CA",
+        "name": "世界进步人",
+        "pinned_tweet_id": "1604663659250475008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761922268240936961/9dqdivMK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 607,
+          "like_count": 2090,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 1703
+        },
+        "username": "HwangAdam1988",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      }
+    ],
+    "conversation_id": "2064639498068304137",
+    "created_at": "2026-06-10T09:23:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T10:23:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064639498068304137"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ddiddokung/sta…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/ddiddokung/status/2064364591740776708",
+          "start": 24,
+          "url": "https://t.co/NhJdafRx25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064639498068304137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064364591740776708",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这样看如果单纯说是洗脚水的话反而更容易接受了。 https://t.co/NhJdafRx25"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          }
+        ],
+        "conversation_id": "2064639498068304137",
+        "created_at": "2026-06-10T09:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064639498068304137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ddiddokung/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/ddiddokung/status/2064364591740776708",
+              "start": 24,
+              "url": "https://t.co/NhJdafRx25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064639498068304137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064364591740776708",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这样看如果单纯说是洗脚水的话反而更容易接受了。 https://t.co/NhJdafRx25"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "716954101288796160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          }
+        ],
+        "conversation_id": "2064364591740776708",
+        "created_at": "2026-06-09T15:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064364591740776708"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064364591740776708",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 232,
+          "impression_count": 277866,
+          "like_count": 2234,
+          "quote_count": 760,
+          "reply_count": 9,
+          "retweet_count": 626
+        },
+        "reply_settings": "everyone",
+        "text": "워터파크 물\n땀 피지 콧물 코딱지 머리카락 똥꼬털 똥조각 꼬띠털 발톱때 비듬 백태 꼬띠액 짬띠액 온갖 인간 가루 액체 다 섞인 물"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5883,
+          "following_count": 755,
+          "like_count": 50075,
+          "listed_count": 18,
+          "media_count": 1004,
+          "tweet_count": 8812
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-04T11:42:33.000Z",
+        "description": "띠키\n또카\n쿵스",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wdzg.com",
+                "end": 23,
+                "expanded_url": "http://www.wdzg.com",
+                "start": 0,
+                "url": "https://t.co/DT9EbTpxNk"
+              }
+            ]
+          }
+        },
+        "id": "716954101288796160",
+        "location": "뢰",
+        "name": "띠또쿵",
+        "pinned_tweet_id": "782451716058865664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041055576822812672/9M3atsDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3389,
+          "following_count": 719,
+          "like_count": 55431,
+          "listed_count": 14,
+          "media_count": 4966,
+          "tweet_count": 86453
+        },
+        "url": "https://t.co/DT9EbTpxNk",
+        "username": "DDIDDOKUNG",
+        "verified": false
+      }
+    ]
+  }
+}

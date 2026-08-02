@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1971201278350111007",
+    "created_at": "2025-09-26T06:53:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T07:53:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971468215747510548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1811888010088316932",
+          "start": 0,
+          "username": "cuichenghao7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971468215747510548",
+    "in_reply_to_user_id": "1811888010088316932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971201278350111007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuichenghao7 只要死的不是自己儿子，老中什么都能期盼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_1971201269084848130",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1sdHECaAAIYXmU.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1971201278350111007",
+        "created_at": "2025-09-26T06:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T07:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971468215747510548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811888010088316932",
+              "start": 0,
+              "username": "cuichenghao7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971468215747510548",
+        "in_reply_to_user_id": "1811888010088316932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971201278350111007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuichenghao7 只要死的不是自己儿子，老中什么都能期盼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971201269084848130"
+          ]
+        },
+        "author_id": "1811888010088316932",
+        "conversation_id": "1971201278350111007",
+        "created_at": "2025-09-25T13:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T14:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971201278350111007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wh9p1MpJAz",
+              "end": 62,
+              "expanded_url": "https://x.com/cuichenghao7/status/1971201278350111007/photo/1",
+              "media_key": "3_1971201269084848130",
+              "start": 39,
+              "url": "https://t.co/wh9p1MpJAz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971201278350111007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 578545,
+          "like_count": 970,
+          "quote_count": 33,
+          "reply_count": 698,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "这新闻标题，“大家期盼的那一天不会太远了”，我就想问问，各位的期盼都是什么？ https://t.co/wh9p1MpJAz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5806,
+          "following_count": 975,
+          "like_count": 45851,
+          "listed_count": 17,
+          "media_count": 943,
+          "tweet_count": 7751
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T22:19:15.000Z",
+        "description": "心系平壤，从未离开。Heart in Pyongyang ,never left.",
+        "id": "1811888010088316932",
+        "location": "Kyoto",
+        "name": "作家崔成浩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926255631092092928/w0e8RIvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49012,
+          "following_count": 249,
+          "like_count": 1115,
+          "listed_count": 150,
+          "media_count": 630,
+          "tweet_count": 706
+        },
+        "username": "cuichenghao7",
+        "verified": true
+      }
+    ]
+  }
+}

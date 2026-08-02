@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2044812594964287541",
+    "created_at": "2026-04-16T16:18:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T17:18:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044812594964287541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "17595489",
+          "start": 3,
+          "username": "RFA_Chinese"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044812594964287541",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044706388098863258",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RFA_Chinese: 【人权观察报告指北京加压天主教】\n2026年4月15日，总部设在美国纽约的人权组织人权观察发布报告称，中国当局正扩大对天主教群体的管控，推动地下教会并入官方体系，并在宗教活动、人员流动及意识形态层面实施更严格措施。… https://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 836,
+        "media_key": "3_2044704707386757120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGBAGRpbUAAv7cE.jpg",
+        "width": 1104
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2044812594964287541",
+        "created_at": "2026-04-16T16:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T17:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044812594964287541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "17595489",
+              "start": 3,
+              "username": "RFA_Chinese"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044812594964287541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044706388098863258",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RFA_Chinese: 【人权观察报告指北京加压天主教】\n2026年4月15日，总部设在美国纽约的人权组织人权观察发布报告称，中国当局正扩大对天主教群体的管控，推动地下教会并入官方体系，并在宗教活动、人员流动及意识形态层面实施更严格措施。… https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044704707386757120"
+          ]
+        },
+        "author_id": "17595489",
+        "conversation_id": "2044706388098863258",
+        "created_at": "2026-04-16T09:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T10:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044706388098863258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1oAZadoXd0",
+              "end": 131,
+              "expanded_url": "https://x.com/RFA_Chinese/status/2044706388098863258/photo/1",
+              "media_key": "3_2044704707386757120",
+              "start": 108,
+              "url": "https://t.co/1oAZadoXd0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044706388098863258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 501,
+                "start": 497,
+                "tag": "天主教"
+              },
+              {
+                "end": 507,
+                "start": 502,
+                "tag": "宗教自由"
+              },
+              {
+                "end": 517,
+                "start": 508,
+                "tag": "中国天主教爱国会"
+              },
+              {
+                "end": 521,
+                "start": 518,
+                "tag": "管控"
+              },
+              {
+                "end": 526,
+                "start": 522,
+                "tag": "未成年"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "reurl.cc/Dxl8Zj",
+                "end": 496,
+                "expanded_url": "https://reurl.cc/Dxl8Zj",
+                "start": 473,
+                "url": "https://t.co/c1BqHCBIGM"
+              }
+            ]
+          },
+          "text": "【人权观察报告指北京加压天主教】\n2026年4月15日，总部设在美国纽约的人权组织人权观察发布报告称，中国当局正扩大对天主教群体的管控，推动地下教会并入官方体系，并在宗教活动、人员流动及意识形态层面实施更严格措施。\n这份针对中国的人权报告指出，中国约有1200万天主教徒，仅被允许在中国天主教爱国会体系内进行宗教活动。拒绝加入该体系的地下教会，成为近年来执法重点。多地教堂被拆除或关闭，十字架被移除，信徒与神职人员受到威胁与限制。\n河北保定一位郭姓天主教司铎郭先生接受自由亚洲电台采访说，过去外国教职人员可来中国大陆交流，但近年需提前申请：“现在外国教友要来和我们一起学习交流，需要向天主教保定市爱国会及教务委员会申请，说明情况、目的、停留时间，基本不会批准他们来。我们想出国也不行。”\n山西省临汾洪洞天主教堂拥有数万教友。该教堂一位教友张先生对记者说：“现在什么都不敢多说，我们这里教堂很多，他们在教堂门口、里面装了不少摄像头。如果发现有人带18岁以下的人进入教堂，就会把门锁起来，直接查封。去年12月，河南许昌有一座天主堂就是这样被封的。”\nhttps://t.co/c1BqHCBIGM\n#天主教 #宗教自由 #中国天主教爱国会 #管控 #未成年"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 21181,
+          "like_count": 95,
+          "quote_count": 2,
+          "reply_count": 34,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "【人权观察报告指北京加压天主教】\n2026年4月15日，总部设在美国纽约的人权组织人权观察发布报告称，中国当局正扩大对天主教群体的管控，推动地下教会并入官方体系，并在宗教活动、人员流动及意识形态层面实施更严格措施。 https://t.co/1oAZadoXd0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5756,
+          "following_count": 1028,
+          "like_count": 47082,
+          "listed_count": 18,
+          "media_count": 938,
+          "tweet_count": 8150
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-24T16:59:35.000Z",
+        "description": "提供准确及时的新闻资讯以及评论，为多元意见及声音提供平台。RT≠Endorsement",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rfa.org/mandarin",
+                "end": 23,
+                "expanded_url": "http://www.rfa.org/mandarin",
+                "start": 0,
+                "url": "https://t.co/A7MLgsDkcc"
+              }
+            ]
+          }
+        },
+        "id": "17595489",
+        "location": "Washington, DC",
+        "name": "自由亚洲电台",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1483174230644645898/dY1oXWhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1746098,
+          "following_count": 3582,
+          "like_count": 970,
+          "listed_count": 5873,
+          "media_count": 31007,
+          "tweet_count": 150703
+        },
+        "url": "https://t.co/A7MLgsDkcc",
+        "username": "RFA_Chinese",
+        "verified": true
+      }
+    ]
+  }
+}

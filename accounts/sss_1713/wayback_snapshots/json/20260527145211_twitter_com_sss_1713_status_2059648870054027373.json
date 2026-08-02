@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2059646457108635685",
+    "created_at": "2026-05-27T14:52:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T15:52:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059648870054027373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2053824487330852865",
+          "start": 0,
+          "username": "RusskiyCvyatoy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059648870054027373",
+    "in_reply_to_user_id": "2053824487330852865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059647947407499484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RusskiyCvyatoy 理论上人民的权力最大😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2059646457108635685",
+        "created_at": "2026-05-27T14:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059648870054027373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2053824487330852865",
+              "start": 0,
+              "username": "RusskiyCvyatoy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059648870054027373",
+        "in_reply_to_user_id": "2053824487330852865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059647947407499484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusskiyCvyatoy 理论上人民的权力最大😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053824487330852865",
+        "conversation_id": "2059646457108635685",
+        "created_at": "2026-05-27T14:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059647947407499484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059647947407499484",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059646457108635685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 人大代表又不代表人民，又不是实际上的决策机关。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5847,
+          "following_count": 750,
+          "like_count": 48402,
+          "listed_count": 18,
+          "media_count": 980,
+          "tweet_count": 8530
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T13:09:44.000Z",
+        "description": "不须放屁！这面烤熟了，翻过个来，撒点孜然，再来咬上一口！\n\nAngCathy/BCP/Non-Papacy/Russkiy/Tranny/Commy/Gaddafy\n\n拥护中共/反美/精俄",
+        "id": "2053824487330852865",
+        "name": "Fr.Dzhugashvius, Josephus（请使用🇲🇫共和法历！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056923289625530368/7pQb9npH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 47,
+          "like_count": 389,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 507
+        },
+        "username": "RusskiyCvyatoy",
+        "verified": false
+      }
+    ]
+  }
+}

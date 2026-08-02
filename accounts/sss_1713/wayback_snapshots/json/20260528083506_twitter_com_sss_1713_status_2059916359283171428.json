@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2059916359283171428",
+    "created_at": "2026-05-28T08:35:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T09:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059916359283171428"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bushi11f/statu…",
+          "end": 91,
+          "expanded_url": "https://twitter.com/bushi11f/status/2059815294047322343",
+          "start": 68,
+          "url": "https://t.co/wD7RTmZzmW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059916359283171428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059815294047322343",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一个男同学在谈了两年左右的时候出轨了，但是那个女生没答应他，于是他又灰溜溜的复合了，前两天刚发朋友圈过三周年纪念日。😶‍🌫️😶‍🌫️ https://t.co/wD7RTmZzmW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2059916359283171428",
+        "created_at": "2026-05-28T08:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059916359283171428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bushi11f/statu…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/bushi11f/status/2059815294047322343",
+              "start": 68,
+              "url": "https://t.co/wD7RTmZzmW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059916359283171428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059815294047322343",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一个男同学在谈了两年左右的时候出轨了，但是那个女生没答应他，于是他又灰溜溜的复合了，前两天刚发朋友圈过三周年纪念日。😶‍🌫️😶‍🌫️ https://t.co/wD7RTmZzmW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939704603882504193",
+        "conversation_id": "2059815294047322343",
+        "created_at": "2026-05-28T01:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T02:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059815294047322343"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059815294047322343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 120133,
+          "like_count": 221,
+          "quote_count": 1,
+          "reply_count": 162,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得谈好多年的情侣很牛逼 你们真的不会出轨吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5848,
+          "following_count": 749,
+          "like_count": 48488,
+          "listed_count": 18,
+          "media_count": 979,
+          "tweet_count": 8546
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T15:17:06.000Z",
+        "description": "该用户是个angel       https://t.co/3CL6uxUqMB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/11f50097",
+                "end": 40,
+                "expanded_url": "https://ngl.link/11f50097",
+                "start": 17,
+                "url": "https://t.co/3CL6uxUqMB"
+              }
+            ]
+          }
+        },
+        "id": "1939704603882504193",
+        "name": "11f",
+        "pinned_tweet_id": "2059324164394438770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939704841112293376/UWwdrnVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 22,
+          "like_count": 56,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 371
+        },
+        "username": "bushi11f",
+        "verified": false
+      }
+    ]
+  }
+}

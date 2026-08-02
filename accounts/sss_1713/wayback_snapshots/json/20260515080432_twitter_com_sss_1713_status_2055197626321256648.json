@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2055197626321256648",
+    "created_at": "2026-05-15T08:04:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T09:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055197626321256648"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wodanggangqian…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/wodanggangqiang/status/2054922990425686204",
+          "start": 18,
+          "url": "https://t.co/CGSgEtgDXu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055197626321256648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054922990425686204",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么电影还没结束就有人开始鼓掌了？ https://t.co/CGSgEtgDXu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1530,
+        "media_key": "3_2054922984926957568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISNkT1bUAA6wum.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1432,
+        "media_key": "3_2054922985048518656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISNkUSaMAAz8nr.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2055197626321256648",
+        "created_at": "2026-05-15T08:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T09:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055197626321256648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wodanggangqian…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/wodanggangqiang/status/2054922990425686204",
+              "start": 18,
+              "url": "https://t.co/CGSgEtgDXu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055197626321256648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054922990425686204",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么电影还没结束就有人开始鼓掌了？ https://t.co/CGSgEtgDXu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054922984926957568",
+            "3_2054922985048518656"
+          ]
+        },
+        "author_id": "1575765089030139905",
+        "conversation_id": "2054922990425686204",
+        "created_at": "2026-05-14T13:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T14:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054922990425686204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8qa8WyAau9",
+              "end": 35,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2054922990425686204/photo/1",
+              "media_key": "3_2054922984926957568",
+              "start": 12,
+              "url": "https://t.co/8qa8WyAau9"
+            },
+            {
+              "display_url": "pic.x.com/8qa8WyAau9",
+              "end": 35,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2054922990425686204/photo/1",
+              "media_key": "3_2054922985048518656",
+              "start": 12,
+              "url": "https://t.co/8qa8WyAau9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054922990425686204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10775,
+          "like_count": 67,
+          "quote_count": 3,
+          "reply_count": 37,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国内电影院这是要干啥？ https://t.co/8qa8WyAau9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5800,
+          "following_count": 746,
+          "like_count": 47408,
+          "listed_count": 18,
+          "media_count": 946,
+          "tweet_count": 8279
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T08:31:04.000Z",
+        "description": "独立而自由的灵魂，才是幸福之源。做自己，比任何事情都重要。",
+        "id": "1575765089030139905",
+        "location": "Japan",
+        "name": "我当刚强壮胆",
+        "pinned_tweet_id": "1824841439647515059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961052065981194240/mj8Sddub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29203,
+          "following_count": 563,
+          "like_count": 35833,
+          "listed_count": 91,
+          "media_count": 10046,
+          "tweet_count": 27549
+        },
+        "username": "wodanggangqiang",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2064644826453467224",
+    "created_at": "2026-06-11T01:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T02:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064879906882998647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "164224930",
+          "start": 0,
+          "username": "MinakoOikawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064879906882998647",
+    "in_reply_to_user_id": "164224930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064644826453467224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinakoOikawa 不仅连味道同款，连肉都是同款，甚至肉质更好☝️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2064644816743575552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcXhZlaMAAOLuF.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2064644826453467224",
+        "created_at": "2026-06-11T01:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T02:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064879906882998647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "164224930",
+              "start": 0,
+              "username": "MinakoOikawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064879906882998647",
+        "in_reply_to_user_id": "164224930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064644826453467224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinakoOikawa 不仅连味道同款，连肉都是同款，甚至肉质更好☝️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064644816743575552"
+          ]
+        },
+        "author_id": "164224930",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064644826453467224",
+        "created_at": "2026-06-10T09:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064644826453467224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B6KcPbGwm7",
+              "end": 23,
+              "expanded_url": "https://x.com/MinakoOikawa/status/2064644826453467224/photo/1",
+              "media_key": "3_2064644816743575552",
+              "start": 0,
+              "url": "https://t.co/B6KcPbGwm7"
+            },
+            {
+              "display_url": "x.com/shaonvbing/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/shaonvbing/status/2064530604000178559",
+              "start": 24,
+              "url": "https://t.co/xOsevyvcK6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064644826453467224",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 9780,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064530604000178559",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/B6KcPbGwm7 https://t.co/xOsevyvcK6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5884,
+          "following_count": 759,
+          "like_count": 50285,
+          "listed_count": 18,
+          "media_count": 1006,
+          "tweet_count": 8858
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-08T10:19:29.000Z",
+        "description": "Yet another Dev Rel / 空手道應酬 / Xoogler / OIer / Cosplay / My views / HRT since 2022.11.12",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shuizilong.com",
+                "end": 23,
+                "expanded_url": "http://www.shuizilong.com/",
+                "start": 0,
+                "url": "https://t.co/jcBGh2T5SX"
+              }
+            ]
+          }
+        },
+        "id": "164224930",
+        "location": "Shanghai, China",
+        "name": "小島みなこ 🏳️‍⚧️",
+        "pinned_tweet_id": "2061913149675290987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596711607845130240/1y4atMYq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9461,
+          "following_count": 6135,
+          "like_count": 88297,
+          "listed_count": 113,
+          "media_count": 2825,
+          "tweet_count": 60226
+        },
+        "url": "https://t.co/jcBGh2T5SX",
+        "username": "MinakoOikawa",
+        "verified": false
+      }
+    ]
+  }
+}

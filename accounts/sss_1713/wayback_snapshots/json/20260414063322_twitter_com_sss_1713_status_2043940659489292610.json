@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2043940659489292610",
+    "created_at": "2026-04-14T06:33:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T07:33:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043940659489292610"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kenntnis22/sta…",
+          "end": 106,
+          "expanded_url": "https://twitter.com/kenntnis22/status/2043827123996053654",
+          "start": 83,
+          "url": "https://t.co/19sPTqo7JT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043940659489292610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043827123996053654",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也喜欢哭，从小就被教育要把泪憋住，直到憋不住之后反胃呕吐，搞得满脸都是泪和鼻涕，那时候还会经常因为恐惧而失禁，弄的满裤子都是尿，到现在我也快成年了，还记得这些事。 https://t.co/19sPTqo7JT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1390,
+        "media_key": "3_2043827118476288001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF0h74MW4AELGwO.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1676,
+        "media_key": "3_2043827118488920064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF0h74PXoAAh0Wm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2043940659489292610",
+        "created_at": "2026-04-14T06:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T07:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043940659489292610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kenntnis22/sta…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/kenntnis22/status/2043827123996053654",
+              "start": 83,
+              "url": "https://t.co/19sPTqo7JT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043940659489292610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043827123996053654",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也喜欢哭，从小就被教育要把泪憋住，直到憋不住之后反胃呕吐，搞得满脸都是泪和鼻涕，那时候还会经常因为恐惧而失禁，弄的满裤子都是尿，到现在我也快成年了，还记得这些事。 https://t.co/19sPTqo7JT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043827118476288001",
+            "3_2043827118488920064"
+          ]
+        },
+        "author_id": "1535701819812462600",
+        "conversation_id": "2043827123996053654",
+        "created_at": "2026-04-13T23:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T00:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043827123996053654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/13GsEumarz",
+              "end": 35,
+              "expanded_url": "https://x.com/Kenntnis22/status/2043827123996053654/photo/1",
+              "media_key": "3_2043827118476288001",
+              "start": 12,
+              "url": "https://t.co/13GsEumarz"
+            },
+            {
+              "display_url": "pic.x.com/13GsEumarz",
+              "end": 35,
+              "expanded_url": "https://x.com/Kenntnis22/status/2043827123996053654/photo/1",
+              "media_key": "3_2043827118488920064",
+              "start": 12,
+              "url": "https://t.co/13GsEumarz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043827123996053654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 6431,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "现在需要这样的性别教育 https://t.co/13GsEumarz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5756,
+          "following_count": 1026,
+          "like_count": 47042,
+          "listed_count": 18,
+          "media_count": 938,
+          "tweet_count": 8143
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "本号在练号中，拟为社会运动储备宣传阵地。\n\n练号阶段所发布内容主要为转发，信息准确性请自行核实。\n\n谢谢！",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "2042811456064807135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989830498378485760/_J7xn0Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51416,
+          "following_count": 429,
+          "like_count": 54556,
+          "listed_count": 251,
+          "media_count": 11407,
+          "tweet_count": 17524
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

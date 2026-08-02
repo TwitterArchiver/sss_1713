@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074028692595167232"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2074028702858682566",
+    "created_at": "2026-07-06T07:12:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T08:12:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074028702858682566"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/06Kl0tq00X",
+          "end": 35,
+          "expanded_url": "https://x.com/sss_1713/status/2074028702858682566/photo/1",
+          "media_key": "3_2074028692595167232",
+          "start": 12,
+          "url": "https://t.co/06Kl0tq00X"
+        },
+        {
+          "display_url": "x.com/hvmhaber/statu…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/hvmhaber/status/2073751636619517952",
+          "start": 36,
+          "url": "https://t.co/jIsR2p0Yub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074028702858682566",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073751636619517952",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如何正确制止电梯抽烟： https://t.co/06Kl0tq00X https://t.co/jIsR2p0Yub"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 342,
+        "media_key": "3_2074028692595167232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhuG3QaUAABHpx.jpg",
+        "width": 498
+      },
+      {
+        "duration_ms": 29333,
+        "height": 270,
+        "media_key": "13_1944154880525877248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1944154880525877248/img/7xSyvwYsJOUTE5tS.jpg",
+        "public_metrics": {
+          "view_count": 9615069
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1944154880525877248/vid/avc1/472x270/xs9bHmOJD-e4qqO3.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1944154880525877248/pl/e0DRMPrm9VoFoqde.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074028692595167232"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2074028702858682566",
+        "created_at": "2026-07-06T07:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074028702858682566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/06Kl0tq00X",
+              "end": 35,
+              "expanded_url": "https://x.com/sss_1713/status/2074028702858682566/photo/1",
+              "media_key": "3_2074028692595167232",
+              "start": 12,
+              "url": "https://t.co/06Kl0tq00X"
+            },
+            {
+              "display_url": "x.com/hvmhaber/statu…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/hvmhaber/status/2073751636619517952",
+              "start": 36,
+              "url": "https://t.co/jIsR2p0Yub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074028702858682566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073751636619517952",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如何正确制止电梯抽烟： https://t.co/06Kl0tq00X https://t.co/jIsR2p0Yub"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1944154880525877248"
+          ],
+          "media_source_tweet_id": [
+            "1944154905800737087"
+          ]
+        },
+        "author_id": "1254882643478446082",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          }
+        ],
+        "conversation_id": "2073751636619517952",
+        "created_at": "2026-07-05T12:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073751636619517952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Ab7GNaTzN",
+              "end": 242,
+              "expanded_url": "https://x.com/CriminalTube/status/1944154905800737087/video/1",
+              "media_key": "13_1944154880525877248",
+              "start": 219,
+              "url": "https://t.co/4Ab7GNaTzN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073751636619517952",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 291,
+          "impression_count": 932924,
+          "like_count": 5576,
+          "quote_count": 9,
+          "reply_count": 93,
+          "retweet_count": 252
+        },
+        "reply_settings": "everyone",
+        "text": "Çin’de yaşanan olayda: Kapalı alanda yasak olmasına rağmen sigara içen genç, dumanı bir babanın kucağındaki oğluna üfleyince baba çileden çıkıyor! \n\n   Çocuğunu annesine veren baba, genç adamın ağzını yüzünü dağıtıyor. https://t.co/4Ab7GNaTzN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5936,
+          "following_count": 788,
+          "like_count": 53746,
+          "listed_count": 18,
+          "media_count": 1057,
+          "tweet_count": 9301
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-27T21:18:42.000Z",
+        "description": "Dijital Medya | Hızlı, Güvenilir, Tarafsız | Gündemden tek tweetle haberdar olmak için bildirimleri açın. iletisim@reklamlarmedya.com",
+        "id": "1254882643478446082",
+        "location": "Türkiye",
+        "name": "Haberin Var Mı?",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060418549093404677/MyjzUecq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741036,
+          "following_count": 56,
+          "like_count": 18205,
+          "listed_count": 561,
+          "media_count": 28533,
+          "tweet_count": 31421
+        },
+        "url": "",
+        "username": "HVMHaber",
+        "verified": true
+      }
+    ]
+  }
+}

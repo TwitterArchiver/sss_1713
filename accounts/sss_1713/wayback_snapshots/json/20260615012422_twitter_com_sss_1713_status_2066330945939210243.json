@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2066287183288562090",
+    "created_at": "2026-06-15T01:24:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T02:24:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066330945939210243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1596427841943793664",
+          "start": 0,
+          "username": "TheWonderofu_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066330945939210243",
+    "in_reply_to_user_id": "1596427841943793664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066287183288562090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@TheWonderofu_1 好好休息🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2066287183288562090",
+        "created_at": "2026-06-15T01:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T02:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066330945939210243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1596427841943793664",
+              "start": 0,
+              "username": "TheWonderofu_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066330945939210243",
+        "in_reply_to_user_id": "1596427841943793664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066287183288562090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@TheWonderofu_1 好好休息🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596427841943793664",
+        "conversation_id": "2066287183288562090",
+        "created_at": "2026-06-14T22:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T23:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066287183288562090"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066287183288562090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "一发烧我就想把全世界捅了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5883,
+          "following_count": 761,
+          "like_count": 50946,
+          "listed_count": 18,
+          "media_count": 1025,
+          "tweet_count": 8970
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T08:57:23.000Z",
+        "description": "老鼠爱好者｜最喜欢的人@TheWonderofu_1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "TheWonderofu_1"
+              }
+            ]
+          }
+        },
+        "id": "1596427841943793664",
+        "location": "直到世界把我们分开",
+        "name": "GZ_",
+        "pinned_tweet_id": "2053921691190059384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015678671093370880/gWA3z00l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 275,
+          "like_count": 8855,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 2928
+        },
+        "username": "TheWonderofu_1",
+        "verified": false
+      }
+    ]
+  }
+}

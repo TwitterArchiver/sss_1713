@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1972505849617899693",
+    "created_at": "2025-09-29T03:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T04:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972505849617899693"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/torontobigface…",
+          "end": 99,
+          "expanded_url": "https://twitter.com/torontobigface/status/1972491365222318503",
+          "start": 76,
+          "url": "https://t.co/KIETfKyjIQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972505849617899693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972491365222318503",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "发现附近很多人以及习惯了没有选票的情况了，反而说你让我去投票我也不知道投谁，或者只能投给我的领导让我很不爽，大多数人说出来这种情况之后也是淡然一笑。。 https://t.co/KIETfKyjIQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1625,
+        "media_key": "3_1972491361942163456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1-ycWcW0AAtRXb.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1972505849617899693",
+        "created_at": "2025-09-29T03:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T04:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972505849617899693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/torontobigface…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/torontobigface/status/1972491365222318503",
+              "start": 76,
+              "url": "https://t.co/KIETfKyjIQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972505849617899693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972491365222318503",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发现附近很多人以及习惯了没有选票的情况了，反而说你让我去投票我也不知道投谁，或者只能投给我的领导让我很不爽，大多数人说出来这种情况之后也是淡然一笑。。 https://t.co/KIETfKyjIQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972491361942163456"
+          ]
+        },
+        "author_id": "1477342523555135490",
+        "conversation_id": "1972491365222318503",
+        "created_at": "2025-09-29T02:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T03:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972491365222318503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JyCLdbqXJl",
+              "end": 38,
+              "expanded_url": "https://x.com/torontobigface/status/1972491365222318503/photo/1",
+              "media_key": "3_1972491361942163456",
+              "start": 15,
+              "url": "https://t.co/JyCLdbqXJl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972491365222318503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 19786,
+          "like_count": 249,
+          "quote_count": 2,
+          "reply_count": 47,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "粉红们，自欺欺人也要有个限度 https://t.co/JyCLdbqXJl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5805,
+          "following_count": 975,
+          "like_count": 45873,
+          "listed_count": 17,
+          "media_count": 943,
+          "tweet_count": 7764
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-01T18:14:50.000Z",
+        "description": "YouTube：https://t.co/JrdyvNc63o 投稿邮箱:Torontosquareface@gmail.com 粉丝群：https://t.co/7fI2Xsn7l9 李币社区群：https://t.co/Uao93nfZ79",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Torontobigface",
+                "end": 31,
+                "expanded_url": "http://youtube.com/@Torontobigface",
+                "start": 8,
+                "url": "https://t.co/JrdyvNc63o"
+              },
+              {
+                "display_url": "t.me/+X3WjedrKfxUwY…",
+                "end": 92,
+                "expanded_url": "https://t.me/+X3WjedrKfxUwYTk1",
+                "start": 69,
+                "url": "https://t.co/7fI2Xsn7l9"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 122,
+                "expanded_url": "https://t.me/whyyoutouzhele_memecoin",
+                "start": 99,
+                "url": "https://t.co/Uao93nfZ79"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "torontosquareface.com",
+                "end": 23,
+                "expanded_url": "https://www.torontosquareface.com",
+                "start": 0,
+                "url": "https://t.co/t3lSrmZImQ"
+              }
+            ]
+          }
+        },
+        "id": "1477342523555135490",
+        "location": "乌鲁木齐中路，多伦多",
+        "name": "多伦多方脸",
+        "pinned_tweet_id": "1971152706808193473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581508796845019137/iNF3fAIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736544,
+          "following_count": 232,
+          "like_count": 4211,
+          "listed_count": 2256,
+          "media_count": 5800,
+          "tweet_count": 17779
+        },
+        "url": "https://t.co/t3lSrmZImQ",
+        "username": "torontobigface",
+        "verified": true
+      }
+    ]
+  }
+}

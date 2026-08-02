@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2058740026708832336",
+    "created_at": "2026-05-26T06:40:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T07:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059162692313587921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1476869179357630471",
+          "start": 0,
+          "username": "baidejiuyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059162692313587921",
+    "in_reply_to_user_id": "1476869179357630471",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058872385479258244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baidejiuyue 可以可以搜一下这些账号平时发布的内容。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2058740026708832336",
+        "created_at": "2026-05-26T06:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T07:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059162692313587921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1476869179357630471",
+              "start": 0,
+              "username": "baidejiuyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059162692313587921",
+        "in_reply_to_user_id": "1476869179357630471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058872385479258244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baidejiuyue 可以可以搜一下这些账号平时发布的内容。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476869179357630471",
+        "conversation_id": "2058740026708832336",
+        "created_at": "2026-05-25T11:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058872385479258244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058872385479258244",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058740026708832336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 为啥？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5849,
+          "following_count": 751,
+          "like_count": 48278,
+          "listed_count": 18,
+          "media_count": 978,
+          "tweet_count": 8487
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-31T10:54:03.000Z",
+        "description": "INFJ的观察者",
+        "id": "1476869179357630471",
+        "name": "白的酒月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842405766298513408/iPu0ZjxV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 1723,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 41
+        },
+        "username": "baidejiuyue",
+        "verified": false
+      }
+    ]
+  }
+}

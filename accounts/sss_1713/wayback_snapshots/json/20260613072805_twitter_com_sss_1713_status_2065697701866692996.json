@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2065390230614773991",
+    "created_at": "2026-06-13T07:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T08:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065697701866692996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2053830970596593664",
+          "start": 0,
+          "username": "smolc123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065697701866692996",
+    "in_reply_to_user_id": "2053830970596593664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065696988667199677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smolc123 🙂‍↕️叫大体现会更好理解一点"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2065696988667199677].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2065696988667199677",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2065696988667199677"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2065390230614773991",
+        "created_at": "2026-06-13T07:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065697701866692996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053830970596593664",
+              "start": 0,
+              "username": "smolc123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065697701866692996",
+        "in_reply_to_user_id": "2053830970596593664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065696988667199677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smolc123 🙂‍↕️叫大体现会更好理解一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5884,
+          "following_count": 760,
+          "like_count": 50703,
+          "listed_count": 18,
+          "media_count": 1021,
+          "tweet_count": 8939
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T13:34:34.000Z",
+        "description": "我是一个分身\n本体：@ForlikOOO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "ForlikOOO"
+              }
+            ]
+          }
+        },
+        "id": "2053830970596593664",
+        "location": "Hanover, Germany",
+        "name": "甜虾终结者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055141163657777152/ogO9h5WL_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 81,
+          "like_count": 1296,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 888
+        },
+        "username": "smolc123",
+        "verified": false
+      }
+    ]
+  }
+}

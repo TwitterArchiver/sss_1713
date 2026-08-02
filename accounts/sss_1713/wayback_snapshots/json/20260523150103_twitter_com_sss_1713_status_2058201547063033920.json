@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2058177194103541844",
+    "created_at": "2026-05-23T15:01:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T16:01:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058201547063033920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1884150839461421056",
+          "start": 0,
+          "username": "Msg1642040"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058201547063033920",
+    "in_reply_to_user_id": "1884150839461421056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058193084677304585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Msg1642040 谢谢你🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2058177194103541844",
+        "created_at": "2026-05-23T15:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058201547063033920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1884150839461421056",
+              "start": 0,
+              "username": "Msg1642040"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058201547063033920",
+        "in_reply_to_user_id": "1884150839461421056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058193084677304585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Msg1642040 谢谢你🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884150839461421056",
+        "conversation_id": "2058177194103541844",
+        "created_at": "2026-05-23T14:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058193084677304585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058193084677304585",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058177194103541844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 尝试着听歌（最好不要是听得懂的语言歌曲）同时看看视频就好了，你需要放松同时专注的娱乐可以减轻。增加一个人独处也对这个症状有效。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5810,
+          "following_count": 744,
+          "like_count": 48045,
+          "listed_count": 18,
+          "media_count": 972,
+          "tweet_count": 8435
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-28T08:06:27.000Z",
+        "description": "",
+        "id": "1884150839461421056",
+        "name": "Msg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884151038133035008/NaMr52H7_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 95,
+          "like_count": 426,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 379
+        },
+        "username": "Msg1642040",
+        "verified": false
+      }
+    ]
+  }
+}

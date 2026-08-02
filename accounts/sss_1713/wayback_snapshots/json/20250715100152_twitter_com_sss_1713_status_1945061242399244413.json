@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1944564997834846670",
+    "created_at": "2025-07-15T10:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T11:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945061242399244413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1743651797087277056",
+          "start": 0,
+          "username": "Aether89642952"
+        },
+        {
+          "end": 29,
+          "id": "1733825514723524608",
+          "start": 16,
+          "username": "noCPCinChina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945061242399244413",
+    "in_reply_to_user_id": "1743651797087277056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944597619335962832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aether89642952 @noCPCinChina 出场即爆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1944564997834846670",
+        "created_at": "2025-07-15T10:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T11:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945061242399244413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1743651797087277056",
+              "start": 0,
+              "username": "Aether89642952"
+            },
+            {
+              "end": 29,
+              "id": "1733825514723524608",
+              "start": 16,
+              "username": "noCPCinChina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945061242399244413",
+        "in_reply_to_user_id": "1743651797087277056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944597619335962832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aether89642952 @noCPCinChina 出场即爆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743651797087277056",
+        "conversation_id": "1944564997834846670",
+        "created_at": "2025-07-14T03:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T04:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944597619335962832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1733825514723524608",
+              "start": 0,
+              "username": "noCPCinChina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944597619335962832",
+        "in_reply_to_user_id": "1733825514723524608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8457,
+          "like_count": 453,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944564997834846670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noCPCinChina 我的細頸瓶呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJo6NX"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5784,
+          "following_count": 1047,
+          "like_count": 45997,
+          "listed_count": 18,
+          "media_count": 941,
+          "tweet_count": 7684
+        },
+        "url": "https://t.co/Z7RPjJo6NX",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T15:12:50.000Z",
+        "description": "看見會回跟，如果漏了可以留言\n日常👉@sora_kunidaime\nTelegram：https://t.co/ngpTT2PiFN\nMail：aether9008@proton.me",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "sora_kunidaime"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Aether_9008/",
+                "end": 66,
+                "expanded_url": "http://t.me/Aether_9008/",
+                "start": 43,
+                "url": "https://t.co/ngpTT2PiFN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Aethernochannel",
+                "end": 23,
+                "expanded_url": "https://t.me/Aethernochannel",
+                "start": 0,
+                "url": "https://t.co/8Qm6arCeaX"
+              }
+            ]
+          }
+        },
+        "id": "1743651797087277056",
+        "location": "Kingdom of Khaenri'ah",
+        "name": "空ちゃん",
+        "pinned_tweet_id": "1911433447567995386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932975858941296640/47oIDLtB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1295,
+          "following_count": 2209,
+          "like_count": 22971,
+          "listed_count": 10,
+          "media_count": 1308,
+          "tweet_count": 4153
+        },
+        "url": "https://t.co/8Qm6arCeaX",
+        "username": "Aether89642952",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-10T12:27:02.000Z",
+        "description": "新自由主义者",
+        "id": "1733825514723524608",
+        "location": "East Region, Singapore",
+        "name": "普通学生",
+        "pinned_tweet_id": "1925181056849965487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924821422519508992/jpagSEk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 721,
+          "like_count": 7183,
+          "listed_count": 9,
+          "media_count": 285,
+          "tweet_count": 3478
+        },
+        "username": "noCPCinChina",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2076701488433528990",
+    "created_at": "2026-07-13T16:13:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T17:13:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076701488433528990"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sss_1713/statu…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/sss_1713/status/2076700478004752876",
+          "start": 55,
+          "url": "https://t.co/GqKvgkdjtp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076701488433528990",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076700478004752876",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我好羡慕之前朋友发的自拍抖音下面有好多夸赞，但是我的私信和评论里里只有骚扰和新教人士传教🥲🥲我的抖音好难看。 https://t.co/GqKvgkdjtp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2076701488433528990",
+        "created_at": "2026-07-13T16:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076701488433528990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/sss_1713/status/2076700478004752876",
+              "start": 55,
+              "url": "https://t.co/GqKvgkdjtp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076701488433528990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076700478004752876",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我好羡慕之前朋友发的自拍抖音下面有好多夸赞，但是我的私信和评论里里只有骚扰和新教人士传教🥲🥲我的抖音好难看。 https://t.co/GqKvgkdjtp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2076700478004752876",
+        "created_at": "2026-07-13T16:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076700478004752876"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076700478004752876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也好想有人会因为长相喜欢我。我可以告诉别人不要因为容貌焦虑不要因为长相而自卑，但是我对自己好想动动鼻子动动嘴巴动动眼睛。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5980,
+          "following_count": 795,
+          "like_count": 54661,
+          "listed_count": 18,
+          "media_count": 1085,
+          "tweet_count": 9488
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      }
+    ]
+  }
+}

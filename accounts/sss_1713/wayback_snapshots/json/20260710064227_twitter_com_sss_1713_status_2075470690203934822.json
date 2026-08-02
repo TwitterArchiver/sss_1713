@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2075470690203934822",
+    "created_at": "2026-07-10T06:42:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T07:42:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075470690203934822"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 137,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2075444909067432356",
+          "start": 114,
+          "url": "https://t.co/5PeGlWmvdn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075470690203934822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075444909067432356",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死了，想起来中考刚结束的时候报的补习班，当时教我们化学的那个老师个子不高，看到教育局的人推门来查就直接坐到教室后面假装学生，但是长得实在不像15岁的学生被一眼丁真了，工作人员也是搞，还问她“你们老师呢😠”，她：“不知道啊🫪” https://t.co/5PeGlWmvdn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12794,
+        "height": 1920,
+        "media_key": "13_2075165074189119488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075165074189119488/img/zawPa-nEL2eEa_QU.jpg",
+        "public_metrics": {
+          "view_count": 9977
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075165074189119488/vid/avc1/720x1280/OP3Vv9og2xiGkOUZ.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075165074189119488/vid/avc1/1080x1920/LQMFq19DQeW-LNRX.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075165074189119488/vid/avc1/320x568/-pUIvGF-j_9x37Br.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075165074189119488/vid/avc1/480x852/6us-F7FPxKxuPpvt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075165074189119488/pl/PHJ342oGKy6rXoWo.m3u8?v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2075470690203934822",
+        "created_at": "2026-07-10T06:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T07:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075470690203934822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 137,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2075444909067432356",
+              "start": 114,
+              "url": "https://t.co/5PeGlWmvdn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075470690203934822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075444909067432356",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死了，想起来中考刚结束的时候报的补习班，当时教我们化学的那个老师个子不高，看到教育局的人推门来查就直接坐到教室后面假装学生，但是长得实在不像15岁的学生被一眼丁真了，工作人员也是搞，还问她“你们老师呢😠”，她：“不知道啊🫪” https://t.co/5PeGlWmvdn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075165074189119488"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2075444909067432356",
+        "created_at": "2026-07-10T05:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T06:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075444909067432356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cgnN0pKl8O",
+              "end": 62,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2075444909067432356/video/1",
+              "media_key": "13_2075165074189119488",
+              "start": 39,
+              "url": "https://t.co/cgnN0pKl8O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075444909067432356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 24459,
+          "like_count": 116,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "7月7日，安徽阜阳，疑似某补课中心被教育局检查，大量学生们到地下车库里躲避。 https://t.co/cgnN0pKl8O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5954,
+          "following_count": 792,
+          "like_count": 54353,
+          "listed_count": 18,
+          "media_count": 1078,
+          "tweet_count": 9421
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2245527,
+          "following_count": 1074,
+          "like_count": 9790,
+          "listed_count": 8818,
+          "media_count": 50151,
+          "tweet_count": 57358
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1989878306557010392",
+    "created_at": "2025-11-16T02:08:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T03:08:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989878306557010392"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/quarktalksss/s…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/quarktalksss/status/1989782401770557725",
+          "start": 49,
+          "url": "https://t.co/gYYHLcRDo5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989878306557010392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989782401770557725",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说怕摘器官的也是脑残一位跟吃米油的宝妈坐一桌，这小孩一看就没多大，老领导敢用这种没发育好的器官？ https://t.co/gYYHLcRDo5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37443,
+        "height": 1030,
+        "media_key": "7_1989782087067734018",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1989782087067734018/pu/img/sz68kex5jyROCZqW.jpg",
+        "public_metrics": {
+          "view_count": 9326
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989782087067734018/pu/vid/avc1/320x686/g-aqz1oD-ZgDsocq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989782087067734018/pu/vid/avc1/480x1030/jr1mqUfqhrV6egAV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1989782087067734018/pu/pl/UTqObb66PN3FjzyZ.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1989878306557010392",
+        "created_at": "2025-11-16T02:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T03:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989878306557010392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/quarktalksss/s…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/quarktalksss/status/1989782401770557725",
+              "start": 49,
+              "url": "https://t.co/gYYHLcRDo5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989878306557010392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989782401770557725",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说怕摘器官的也是脑残一位跟吃米油的宝妈坐一桌，这小孩一看就没多大，老领导敢用这种没发育好的器官？ https://t.co/gYYHLcRDo5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1989782087067734018"
+          ]
+        },
+        "author_id": "1621709543750385664",
+        "conversation_id": "1989782401770557725",
+        "created_at": "2025-11-15T19:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T20:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989782401770557725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rrgpN1PwIC",
+              "end": 105,
+              "expanded_url": "https://x.com/quarktalksss/status/1989782401770557725/video/1",
+              "media_key": "7_1989782087067734018",
+              "start": 82,
+              "url": "https://t.co/rrgpN1PwIC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989782401770557725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 14606,
+          "like_count": 106,
+          "quote_count": 3,
+          "reply_count": 31,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "浙江宁波一男孩，疝气卡住两天，命悬一线，医生要求马上做手术，结果父亲坚决要求去看中医，宛如邪教信徒。\n这就是党这些年纳粹教育和宣传的恶果，信它们，是真的能送命的。 https://t.co/rrgpN1PwIC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5831,
+          "following_count": 987,
+          "like_count": 45724,
+          "listed_count": 17,
+          "media_count": 925,
+          "tweet_count": 7852
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T03:18:05.000Z",
+        "description": "youtube账号：夸克说",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E5%A4%B8%E5%…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@%E5%A4%B8%E5%85%8B%E8%AF%B4",
+                "start": 0,
+                "url": "https://t.co/eZ6ILrdttM"
+              }
+            ]
+          }
+        },
+        "id": "1621709543750385664",
+        "location": "Canada",
+        "name": "夸克说",
+        "pinned_tweet_id": "1989403833009934367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969808918886105090/skT7BSEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5877,
+          "following_count": 13,
+          "like_count": 230,
+          "listed_count": 36,
+          "media_count": 110,
+          "tweet_count": 682
+        },
+        "url": "https://t.co/eZ6ILrdttM",
+        "username": "quarktalksss",
+        "verified": false
+      }
+    ]
+  }
+}

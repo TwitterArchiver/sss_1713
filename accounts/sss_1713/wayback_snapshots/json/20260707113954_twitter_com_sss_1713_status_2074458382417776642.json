@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2074411931759485389",
+    "created_at": "2026-07-07T11:39:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T12:39:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074458382417776642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1965778226627911680",
+          "start": 0,
+          "username": "cidao2310"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074458382417776642",
+    "in_reply_to_user_id": "1965778226627911680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074411931759485389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cidao2310 “fuck you”没打成fake you还算有点文化但不多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074411927846191104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnKqF0bAAA79vk.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074411927921664000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnKqGGaoAATNDy.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2074411931759485389",
+        "created_at": "2026-07-07T11:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T12:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074458382417776642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1965778226627911680",
+              "start": 0,
+              "username": "cidao2310"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074458382417776642",
+        "in_reply_to_user_id": "1965778226627911680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074411931759485389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cidao2310 “fuck you”没打成fake you还算有点文化但不多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074411927846191104",
+            "3_2074411927921664000"
+          ]
+        },
+        "author_id": "1965778226627911680",
+        "conversation_id": "2074411931759485389",
+        "created_at": "2026-07-07T08:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074411931759485389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/whDKQ7dvXl",
+              "end": 31,
+              "expanded_url": "https://x.com/cidao2310/status/2074411931759485389/photo/1",
+              "media_key": "3_2074411927846191104",
+              "start": 8,
+              "url": "https://t.co/whDKQ7dvXl"
+            },
+            {
+              "display_url": "pic.x.com/whDKQ7dvXl",
+              "end": 31,
+              "expanded_url": "https://x.com/cidao2310/status/2074411931759485389/photo/1",
+              "media_key": "3_2074411927921664000",
+              "start": 8,
+              "url": "https://t.co/whDKQ7dvXl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074411931759485389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2708,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇哦，你坤续！ https://t.co/whDKQ7dvXl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5945,
+          "following_count": 796,
+          "like_count": 53924,
+          "listed_count": 18,
+          "media_count": 1066,
+          "tweet_count": 9353
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-10T14:03:57.000Z",
+        "description": "我是叨叨。0%。一百年后，我们都死了。\n提问箱📪 https://t.co/gK9nreqZ6m",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cidao31181",
+                "end": 48,
+                "expanded_url": "https://ngl.link/cidao31181",
+                "start": 25,
+                "url": "https://t.co/gK9nreqZ6m"
+              }
+            ]
+          }
+        },
+        "id": "1965778226627911680",
+        "location": "小舟",
+        "name": "兔子的脚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029816491932364801/lEpnxFAE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 212,
+          "like_count": 2112,
+          "listed_count": 0,
+          "media_count": 371,
+          "tweet_count": 3400
+        },
+        "url": "",
+        "username": "cidao2310",
+        "verified": false
+      }
+    ]
+  }
+}

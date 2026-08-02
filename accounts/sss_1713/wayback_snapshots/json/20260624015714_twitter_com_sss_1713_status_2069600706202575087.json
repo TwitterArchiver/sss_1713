@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2069600706202575087",
+    "created_at": "2026-06-24T01:57:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T02:57:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069600706202575087"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sss_1713/statu…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/sss_1713/status/2069441938357727630",
+          "start": 24,
+          "url": "https://t.co/VSRbZUUKMR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069600706202575087",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069441938357727630",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呃呃我离不了互联网，我食言了，推特你害人不浅。 https://t.co/VSRbZUUKMR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2069600706202575087",
+        "created_at": "2026-06-24T01:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T02:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069600706202575087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/sss_1713/status/2069441938357727630",
+              "start": 24,
+              "url": "https://t.co/VSRbZUUKMR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069600706202575087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069441938357727630",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呃呃我离不了互联网，我食言了，推特你害人不浅。 https://t.co/VSRbZUUKMR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2069441938357727630",
+        "created_at": "2026-06-23T15:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T16:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069441938357727630"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069441938357727630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近有点忙也有点累，就淡推半个星期左右吧～（🥲其实无人在意吧），希望大家都好好的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5909,
+          "following_count": 774,
+          "like_count": 52215,
+          "listed_count": 18,
+          "media_count": 1040,
+          "tweet_count": 9151
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

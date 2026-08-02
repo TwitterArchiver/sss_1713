@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1846545412020404722",
+    "created_at": "2024-10-18T07:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-18T08:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847171301552935398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1397924779219292167",
+          "start": 0,
+          "username": "KawawaShota"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847171301552935398",
+    "in_reply_to_user_id": "1397924779219292167",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1846612205376360821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawawaShota 他如果当厨子我肯定去吃。就怕是盘菜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1846545412020404722",
+        "created_at": "2024-10-18T07:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-18T08:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847171301552935398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1397924779219292167",
+              "start": 0,
+              "username": "KawawaShota"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847171301552935398",
+        "in_reply_to_user_id": "1397924779219292167",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1846612205376360821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawawaShota 他如果当厨子我肯定去吃。就怕是盘菜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1397924779219292167",
+        "conversation_id": "1846545412020404722",
+        "created_at": "2024-10-16T18:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-16T19:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1846612205376360821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1846612205376360821",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1846545412020404722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 裤子都是定制的，不这么搞都成米其林了😹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJo6NX"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5644,
+          "following_count": 1009,
+          "like_count": 46173,
+          "listed_count": 20,
+          "tweet_count": 7586
+        },
+        "url": "https://t.co/Z7RPjJo6NX",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-27T14:37:03.000Z",
+        "description": "包蜜&Minecraft船大工&Flight enthusiast👨‍✈️&僵毁老司机\n日本語🔰、English⭕、蜀语⭕\n爱支TV全国模范汉奸候选人\n对线推文不留＞5h\n拉面仙人🍜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "17roco.qq.com",
+                "end": 23,
+                "expanded_url": "https://17roco.qq.com/",
+                "start": 0,
+                "url": "https://t.co/kN90VkOrf9"
+              }
+            ]
+          }
+        },
+        "id": "1397924779219292167",
+        "location": "卡洛西亚大陆",
+        "name": "翔太くん✈️",
+        "pinned_tweet_id": "1818618506080141480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789605085322072065/MLtOe3d__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11714,
+          "following_count": 1957,
+          "like_count": 41252,
+          "listed_count": 58,
+          "tweet_count": 5229
+        },
+        "url": "https://t.co/kN90VkOrf9",
+        "username": "KawawaShota",
+        "verified": true
+      }
+    ]
+  }
+}

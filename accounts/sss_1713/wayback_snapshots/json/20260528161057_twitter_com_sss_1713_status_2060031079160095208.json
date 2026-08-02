@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2059968755971801338",
+    "created_at": "2026-05-28T16:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060031079160095208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2019401624079462406",
+          "start": 0,
+          "username": "gdswweeeee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060031079160095208",
+    "in_reply_to_user_id": "2019401624079462406",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059968755971801338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdswweeeee 你很漂亮！不要在乎这种人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1385,
+        "media_key": "3_2059968732198531072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZ6pdMa8AAUgKB.jpg",
+        "width": 1032
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059968732143955969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZ6pc_aMAED7l6.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2059968755971801338",
+        "created_at": "2026-05-28T16:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060031079160095208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2019401624079462406",
+              "start": 0,
+              "username": "gdswweeeee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060031079160095208",
+        "in_reply_to_user_id": "2019401624079462406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059968755971801338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdswweeeee 你很漂亮！不要在乎这种人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059968732198531072",
+            "3_2059968732143955969"
+          ]
+        },
+        "author_id": "2019401624079462406",
+        "conversation_id": "2059968755971801338",
+        "created_at": "2026-05-28T12:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059968755971801338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xNiuE9DS3o",
+              "end": 53,
+              "expanded_url": "https://x.com/gdswweeeee/status/2059968755971801338/photo/1",
+              "media_key": "3_2059968732198531072",
+              "start": 30,
+              "url": "https://t.co/xNiuE9DS3o"
+            },
+            {
+              "display_url": "pic.x.com/xNiuE9DS3o",
+              "end": 53,
+              "expanded_url": "https://x.com/gdswweeeee/status/2059968755971801338/photo/1",
+              "media_key": "3_2059968732143955969",
+              "start": 30,
+              "url": "https://t.co/xNiuE9DS3o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059968755971801338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 16835,
+          "like_count": 123,
+          "quote_count": 0,
+          "reply_count": 103,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很像一个山东男同做了丰唇手术嘴唇有小香肠 很别扭吗？ https://t.co/xNiuE9DS3o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5853,
+          "following_count": 750,
+          "like_count": 48543,
+          "listed_count": 18,
+          "media_count": 982,
+          "tweet_count": 8559
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T13:24:19.000Z",
+        "description": "78岁离婚 天王星人 带两娃 皮下男 不是真人\n不约 不加 不看 不露 不线下 不互看\n没门 不要逼我回覆讯息",
+        "id": "2019401624079462406",
+        "name": "en",
+        "pinned_tweet_id": "2041750801987858460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035912058555002880/cw1rhnY6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5194,
+          "following_count": 50,
+          "like_count": 4115,
+          "listed_count": 14,
+          "media_count": 34,
+          "tweet_count": 573
+        },
+        "username": "gdswweeeee",
+        "verified": false
+      }
+    ]
+  }
+}

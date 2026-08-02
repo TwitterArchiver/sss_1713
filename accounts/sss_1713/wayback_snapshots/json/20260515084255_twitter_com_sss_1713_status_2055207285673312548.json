@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2055201171602809163",
+    "created_at": "2026-05-15T08:42:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T09:42:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055207285673312548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "888086394710765568",
+          "start": 0,
+          "username": "JHS_FR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055207285673312548",
+    "in_reply_to_user_id": "888086394710765568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055204015206719617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JHS_FR 好事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2055201171602809163",
+        "created_at": "2026-05-15T08:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T09:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055207285673312548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "888086394710765568",
+              "start": 0,
+              "username": "JHS_FR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055207285673312548",
+        "in_reply_to_user_id": "888086394710765568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055204015206719617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JHS_FR 好事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "888086394710765568",
+        "conversation_id": "2055201171602809163",
+        "created_at": "2026-05-15T08:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T09:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055204015206719617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055204015206719617",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055201171602809163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 不是错觉，严打 vpn 烂尾了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5800,
+          "following_count": 746,
+          "like_count": 47422,
+          "listed_count": 18,
+          "media_count": 946,
+          "tweet_count": 8284
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-20T17:21:11.000Z",
+        "description": "已脱离且不认同你国地上教会，在天主教会慕道半年受洗，在修道静修数月，探寻自我救赎，洁身保守，平静平和反世俗，行走四海，见天地众生。",
+        "id": "888086394710765568",
+        "location": "索多玛",
+        "name": "小王（推油寻回）",
+        "pinned_tweet_id": "2000360892014465050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049484839871823872/DjdULdKI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 646,
+          "like_count": 3496,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 891
+        },
+        "username": "JHS_FR",
+        "verified": false
+      }
+    ]
+  }
+}

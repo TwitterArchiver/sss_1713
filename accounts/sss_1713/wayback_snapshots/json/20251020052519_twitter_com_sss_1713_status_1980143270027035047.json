@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1980143270027035047",
+    "created_at": "2025-10-20T05:25:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T06:25:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980143270027035047"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/frost_szh/stat…",
+          "end": 114,
+          "expanded_url": "https://twitter.com/frost_szh/status/1980128094259495310",
+          "start": 91,
+          "url": "https://t.co/bV87NEy7Vt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980143270027035047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980128094259495310",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也很不理解一些人的行为，我是有耳钉的，当时出门比较早只戴了一只（左耳）还是十字架款式的，弥撒过程中被一个外国教友指着我耳朵用中文说是同性恋。在这之前没有一个神父修女和教友说过我。 https://t.co/bV87NEy7Vt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980128090828218368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3rUAeeWoAAfB0U.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1980128091344076800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3rUAgZWAAAuBWs.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1980143270027035047",
+        "created_at": "2025-10-20T05:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T06:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980143270027035047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/frost_szh/stat…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/frost_szh/status/1980128094259495310",
+              "start": 91,
+              "url": "https://t.co/bV87NEy7Vt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980143270027035047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980128094259495310",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也很不理解一些人的行为，我是有耳钉的，当时出门比较早只戴了一只（左耳）还是十字架款式的，弥撒过程中被一个外国教友指着我耳朵用中文说是同性恋。在这之前没有一个神父修女和教友说过我。 https://t.co/bV87NEy7Vt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980128090828218368",
+            "3_1980128091344076800"
+          ]
+        },
+        "author_id": "1674281529852174341",
+        "conversation_id": "1980128094259495310",
+        "created_at": "2025-10-20T04:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T05:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980128094259495310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H3ek73ZJ8L",
+              "end": 114,
+              "expanded_url": "https://x.com/Frost_SZH/status/1980128094259495310/photo/1",
+              "media_key": "3_1980128090828218368",
+              "start": 91,
+              "url": "https://t.co/H3ek73ZJ8L"
+            },
+            {
+              "display_url": "pic.x.com/H3ek73ZJ8L",
+              "end": 114,
+              "expanded_url": "https://x.com/Frost_SZH/status/1980128094259495310/photo/1",
+              "media_key": "3_1980128091344076800",
+              "start": 91,
+              "url": "https://t.co/H3ek73ZJ8L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980128094259495310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说，当我母后知道我去弥撒就问我有没有被刁难（刻板印象了属于是\n\n看了这下面两条评论，难怪为什么当初我母后不要让我选天主教（\n\n我这边对天主教徒的刻板印象是教徒的行为似乎有点极端（ https://t.co/H3ek73ZJ8L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5817,
+          "following_count": 979,
+          "like_count": 45980,
+          "listed_count": 17,
+          "media_count": 925,
+          "tweet_count": 7807
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-29T05:00:12.000Z",
+        "description": "苦批的半个大学生",
+        "id": "1674281529852174341",
+        "location": "Malaysia",
+        "name": "霜在華",
+        "pinned_tweet_id": "1830457791879971281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953915525354205189/3yeNoPX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 965,
+          "like_count": 30454,
+          "listed_count": 4,
+          "media_count": 845,
+          "tweet_count": 7260
+        },
+        "username": "Frost_SZH",
+        "verified": false
+      }
+    ]
+  }
+}

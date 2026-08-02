@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2073984349826060684",
+    "created_at": "2026-07-06T04:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T05:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073984349826060684"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rainstryin/sta…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/rainstryin/status/2073146661564764613",
+          "start": 38,
+          "url": "https://t.co/XzR7qlBLue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073984349826060684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073146661564764613",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我没太看懂什么叫炒作🫪🫪就是转发那些meme吗还是说了什么（真诚发问） https://t.co/XzR7qlBLue"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1942,
+        "media_key": "3_2073146654673489920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMVL5f8aUAArfd_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2073984349826060684",
+        "created_at": "2026-07-06T04:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073984349826060684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainstryin/sta…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/rainstryin/status/2073146661564764613",
+              "start": 38,
+              "url": "https://t.co/XzR7qlBLue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073984349826060684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073146661564764613",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我没太看懂什么叫炒作🫪🫪就是转发那些meme吗还是说了什么（真诚发问） https://t.co/XzR7qlBLue"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073146654673489920"
+          ]
+        },
+        "author_id": "1697936336228126721",
+        "conversation_id": "2073146661564764613",
+        "created_at": "2026-07-03T20:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T21:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073146661564764613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cB1AXquXyz",
+              "end": 50,
+              "expanded_url": "https://x.com/Rainstryin/status/2073146661564764613/photo/1",
+              "media_key": "3_2073146654673489920",
+              "start": 27,
+              "url": "https://t.co/cB1AXquXyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073146661564764613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 70595,
+          "like_count": 250,
+          "quote_count": 5,
+          "reply_count": 87,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "至此恩断义绝 我不喜欢炒作勾 哪怕你曾经跟我关系再好 https://t.co/cB1AXquXyz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5936,
+          "following_count": 788,
+          "like_count": 53711,
+          "listed_count": 18,
+          "media_count": 1056,
+          "tweet_count": 9296
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T11:35:50.000Z",
+        "description": "退役老男娘，野人大学生｜游戏群909853647欢迎来玩｜fo你=喜欢你｜同好扩列大薯ki",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/xrufZbE",
+                "end": 23,
+                "expanded_url": "https://b23.tv/xrufZbE",
+                "start": 0,
+                "url": "https://t.co/HHJcrPfn1y"
+              }
+            ]
+          }
+        },
+        "id": "1697936336228126721",
+        "location": "MYTV",
+        "name": "雨斯特云云☁️",
+        "pinned_tweet_id": "2017891795137646958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055732571032702976/rvxadw4q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2225,
+          "following_count": 1691,
+          "like_count": 106324,
+          "listed_count": 7,
+          "media_count": 517,
+          "tweet_count": 6987
+        },
+        "url": "https://t.co/HHJcrPfn1y",
+        "username": "Rainstryin",
+        "verified": false
+      }
+    ]
+  }
+}

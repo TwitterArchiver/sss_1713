@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2060152534849986743",
+    "created_at": "2026-05-29T06:49:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T07:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060252174702068210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "55964567",
+          "start": 0,
+          "username": "wuzuolai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060252174702068210",
+    "in_reply_to_user_id": "55964567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060152534849986743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuzuolai 审美很差的地方，建筑本身的古色古香被宣传栏打破了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060152521042411520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJchzX_bwAAbde1.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060152521038102528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJchzX-aAAAqpou.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060152521038110720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJchzX-aIAARaIt.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060152521042345984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJchzX_awAAiLgV.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2060152534849986743",
+        "created_at": "2026-05-29T06:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060252174702068210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "55964567",
+              "start": 0,
+              "username": "wuzuolai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060252174702068210",
+        "in_reply_to_user_id": "55964567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060152534849986743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuzuolai 审美很差的地方，建筑本身的古色古香被宣传栏打破了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060152521042411520",
+            "3_2060152521038102528",
+            "3_2060152521038110720",
+            "3_2060152521042345984"
+          ]
+        },
+        "author_id": "55964567",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060152534849986743",
+        "created_at": "2026-05-29T00:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T01:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060152534849986743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L2wZWrkMXw",
+              "end": 41,
+              "expanded_url": "https://x.com/wuzuolai/status/2060152534849986743/photo/1",
+              "media_key": "3_2060152521042411520",
+              "start": 18,
+              "url": "https://t.co/L2wZWrkMXw"
+            },
+            {
+              "display_url": "pic.x.com/L2wZWrkMXw",
+              "end": 41,
+              "expanded_url": "https://x.com/wuzuolai/status/2060152534849986743/photo/1",
+              "media_key": "3_2060152521038102528",
+              "start": 18,
+              "url": "https://t.co/L2wZWrkMXw"
+            },
+            {
+              "display_url": "pic.x.com/L2wZWrkMXw",
+              "end": 41,
+              "expanded_url": "https://x.com/wuzuolai/status/2060152534849986743/photo/1",
+              "media_key": "3_2060152521038110720",
+              "start": 18,
+              "url": "https://t.co/L2wZWrkMXw"
+            },
+            {
+              "display_url": "pic.x.com/L2wZWrkMXw",
+              "end": 41,
+              "expanded_url": "https://x.com/wuzuolai/status/2060152534849986743/photo/1",
+              "media_key": "3_2060152521042345984",
+              "start": 18,
+              "url": "https://t.co/L2wZWrkMXw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060152534849986743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1986,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这是啥地方啊\n正堂里供着马恩列厮毛 https://t.co/L2wZWrkMXw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5857,
+          "following_count": 750,
+          "like_count": 48606,
+          "listed_count": 18,
+          "media_count": 983,
+          "tweet_count": 8579
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-11T23:50:54.000Z",
+        "description": "独立学者 价值主义者 六四早晨最后一批撤离广场。因零八宪章第一批签名被撤职。 专栏与评论文章三百余篇，见：新京报、南方都市报，南方周末、中国青年报、东方早报、人民日报、新华网、中国青年报、环球时报 德国之声、BBC中文、风传媒、（台湾）中央广播电台、法广中文、CNN中文、动向、苹果日报（香港）东方日报另有编著十余种。",
+        "id": "55964567",
+        "location": "美国　洛杉矶",
+        "name": "吴祚来",
+        "pinned_tweet_id": "2059807724146430144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911452604376256512/WBYsM3QZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286304,
+          "following_count": 1571,
+          "like_count": 11528,
+          "listed_count": 1024,
+          "media_count": 10443,
+          "tweet_count": 69460
+        },
+        "username": "wuzuolai",
+        "verified": true
+      }
+    ]
+  }
+}

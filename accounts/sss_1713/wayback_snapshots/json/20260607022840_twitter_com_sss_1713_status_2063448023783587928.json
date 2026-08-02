@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063447995664961536"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2063448023783587928",
+    "created_at": "2026-06-07T02:28:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T03:28:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063448023783587928"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Icg7ZMVZuT",
+          "end": 114,
+          "expanded_url": "https://x.com/sss_1713/status/2063448023783587928/photo/1",
+          "media_key": "3_2063447995664961536",
+          "start": 91,
+          "url": "https://t.co/Icg7ZMVZuT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063448023783587928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们这群小头控制大头的蠢货上网能不能带点脑子，主页的位置可以随便改，别他妈看见个数字➕km就以为离你们很近了，于是在评论和私信里骚扰人家，挂个5m你是不是还得在屋子里翻箱倒柜的找？ https://t.co/Icg7ZMVZuT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 682,
+        "media_key": "3_2063447995664961536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLXBPoaEAAFb6-.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063447995664961536"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2063448023783587928",
+        "created_at": "2026-06-07T02:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063448023783587928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Icg7ZMVZuT",
+              "end": 114,
+              "expanded_url": "https://x.com/sss_1713/status/2063448023783587928/photo/1",
+              "media_key": "3_2063447995664961536",
+              "start": 91,
+              "url": "https://t.co/Icg7ZMVZuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063448023783587928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们这群小头控制大头的蠢货上网能不能带点脑子，主页的位置可以随便改，别他妈看见个数字➕km就以为离你们很近了，于是在评论和私信里骚扰人家，挂个5m你是不是还得在屋子里翻箱倒柜的找？ https://t.co/Icg7ZMVZuT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5876,
+          "following_count": 751,
+          "like_count": 49418,
+          "listed_count": 18,
+          "media_count": 999,
+          "tweet_count": 8732
+        },
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

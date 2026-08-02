@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2062735911507681420",
+    "created_at": "2026-06-05T03:18:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T04:18:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062735911507681420"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/only1_theevan/…",
+          "end": 101,
+          "expanded_url": "https://twitter.com/only1_theevan/status/2062477072551805259",
+          "start": 78,
+          "url": "https://t.co/DHyzBmULTv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062735911507681420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062477072551805259",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "男的当然无法拥有女性的全部经验，但讨论一种处境和拥有一种处境并不是同一回事。\n一个观点被反驳时应当讨论是否符合事实，而不是看观点的发出者是否属于某个群体。 https://t.co/DHyzBmULTv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2062735911507681420",
+        "created_at": "2026-06-05T03:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T04:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062735911507681420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/only1_theevan/…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/only1_theevan/status/2062477072551805259",
+              "start": 78,
+              "url": "https://t.co/DHyzBmULTv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062735911507681420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062477072551805259",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "男的当然无法拥有女性的全部经验，但讨论一种处境和拥有一种处境并不是同一回事。\n一个观点被反驳时应当讨论是否符合事实，而不是看观点的发出者是否属于某个群体。 https://t.co/DHyzBmULTv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766035551805992960",
+        "conversation_id": "2062477072551805259",
+        "created_at": "2026-06-04T10:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062477072551805259"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062477072551805259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 12665,
+          "like_count": 650,
+          "quote_count": 6,
+          "reply_count": 44,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "男的有啥资格讨论女性主义呢 你甚至连女的都不是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5874,
+          "following_count": 750,
+          "like_count": 49183,
+          "listed_count": 18,
+          "media_count": 994,
+          "tweet_count": 8676
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T09:37:51.000Z",
+        "description": "在美梦中永眠吧 |📭 https://t.co/5ubic5YoqZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/e1van",
+                "end": 34,
+                "expanded_url": "https://ngl.link/e1van",
+                "start": 11,
+                "url": "https://t.co/5ubic5YoqZ"
+              }
+            ]
+          }
+        },
+        "id": "1766035551805992960",
+        "name": "江月年年",
+        "pinned_tweet_id": "1875891286622040201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034600172898885632/1WwkD_jb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2262,
+          "following_count": 48,
+          "like_count": 6099,
+          "listed_count": 9,
+          "media_count": 1310,
+          "tweet_count": 7525
+        },
+        "username": "only1_theevan",
+        "verified": false
+      }
+    ]
+  }
+}

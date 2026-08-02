@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2078066248987140176",
+    "created_at": "2026-07-18T04:52:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T05:52:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078342104657645698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1532012863480811520",
+          "start": 0,
+          "username": "GensokyoPMO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078342104657645698",
+    "in_reply_to_user_id": "1532012863480811520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078066248987140176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GensokyoPMO 生日快乐！！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 451,
+        "media_key": "3_2078065420263944192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbFfVra8AA4TVe.png",
+        "width": 443
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2078066248987140176",
+        "created_at": "2026-07-18T04:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078342104657645698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1532012863480811520",
+              "start": 0,
+              "username": "GensokyoPMO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078342104657645698",
+        "in_reply_to_user_id": "1532012863480811520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078066248987140176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GensokyoPMO 生日快乐！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078065420263944192"
+          ]
+        },
+        "author_id": "1532012863480811520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078066248987140176",
+        "created_at": "2026-07-17T10:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078066248987140176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aD31m9Nx0L",
+              "end": 75,
+              "expanded_url": "https://x.com/GensokyoPMO/status/2078066248987140176/photo/1",
+              "media_key": "3_2078065420263944192",
+              "start": 52,
+              "url": "https://t.co/aD31m9Nx0L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078066248987140176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 623,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "總感覺少了點什麼...\n哦原來是今天沒咋上推特啊，那沒事了。\n\n總之還是歡迎各位推友來我的主頁戳氣球（ https://t.co/aD31m9Nx0L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5993,
+          "following_count": 797,
+          "like_count": 54925,
+          "listed_count": 18,
+          "media_count": 1087,
+          "tweet_count": 9519
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-01T14:55:18.000Z",
+        "description": "「你應當⋯永不言棄！」 \nLanguage: English/中文/日本語\n🟨🔴🟨漢本位/🏛️憲政主義/⛩💜東方眾/🛩️鋼4「戰犯」/🎶昭和ポップスが好き/📚架空歷史愛好者 \n會時不時地轉推一些美圖（\n希望和推上的各位朋友進行友好交流🥰 \n架空歷史作品 #TLM (原 #SMNS ) 持續更新中（",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 131,
+                "start": 127,
+                "tag": "TLM"
+              },
+              {
+                "end": 140,
+                "start": 135,
+                "tag": "SMNS"
+              }
+            ]
+          }
+        },
+        "id": "1532012863480811520",
+        "location": "Γκενσόκιο",
+        "name": "歴史の転換期における隙間妖怪👁️",
+        "pinned_tweet_id": "1988578799500624319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061833108564107264/AewcFmUt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1775,
+          "following_count": 1912,
+          "like_count": 280592,
+          "listed_count": 13,
+          "media_count": 2042,
+          "tweet_count": 52149
+        },
+        "url": "",
+        "username": "GensokyoPMO",
+        "verified": true
+      }
+    ]
+  }
+}

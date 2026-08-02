@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036787868216217601"
+      ],
+      "media_source_tweet_id": [
+        "2036787882787008650"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2036962263131971605",
+    "created_at": "2026-03-26T00:23:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T01:23:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036962263131971605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1089250348223602689",
+          "start": 3,
+          "username": "CardJosephZen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yi1Q0ubLRy",
+          "end": 113,
+          "expanded_url": "https://x.com/CardJosephZen/status/2036787882787008650/photo/1",
+          "media_key": "3_2036787868216217601",
+          "start": 90,
+          "url": "https://t.co/Yi1Q0ubLRy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036962263131971605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036787882787008650",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CardJosephZen: 感謝大家给我擢升樞機20周年的祝福。2006年3月24日，是我擢升樞機的日子，翌日25日是共祭彌撒，被授予樞機戒指，所以這兩天也算是正日。… https://t.co/Yi1Q0ubLRy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1102,
+        "media_key": "3_2036787868216217601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEQfxlfaUAE9vwT.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036787868216217601"
+          ],
+          "media_source_tweet_id": [
+            "2036787882787008650"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2036962263131971605",
+        "created_at": "2026-03-26T00:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T01:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036962263131971605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1089250348223602689",
+              "start": 3,
+              "username": "CardJosephZen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yi1Q0ubLRy",
+              "end": 113,
+              "expanded_url": "https://x.com/CardJosephZen/status/2036787882787008650/photo/1",
+              "media_key": "3_2036787868216217601",
+              "start": 90,
+              "url": "https://t.co/Yi1Q0ubLRy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036962263131971605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036787882787008650",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CardJosephZen: 感謝大家给我擢升樞機20周年的祝福。2006年3月24日，是我擢升樞機的日子，翌日25日是共祭彌撒，被授予樞機戒指，所以這兩天也算是正日。… https://t.co/Yi1Q0ubLRy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036787868216217601"
+          ]
+        },
+        "author_id": "1089250348223602689",
+        "conversation_id": "2036787882787008650",
+        "created_at": "2026-03-25T12:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T13:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036787882787008650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yi1Q0ubLRy",
+              "end": 93,
+              "expanded_url": "https://x.com/CardJosephZen/status/2036787882787008650/photo/1",
+              "media_key": "3_2036787868216217601",
+              "start": 70,
+              "url": "https://t.co/Yi1Q0ubLRy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036787882787008650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 166,
+                "start": 162,
+                "tag": "陳日君"
+              },
+              {
+                "end": 174,
+                "start": 167,
+                "tag": "預報救主降生"
+              },
+              {
+                "end": 178,
+                "start": 175,
+                "tag": "主教"
+              },
+              {
+                "end": 182,
+                "start": 179,
+                "tag": "樞機"
+              },
+              {
+                "end": 944,
+                "start": 931,
+                "tag": "Annunciation"
+              },
+              {
+                "end": 952,
+                "start": 945,
+                "tag": "Bishop"
+              },
+              {
+                "end": 962,
+                "start": 953,
+                "tag": "Cardinal"
+              },
+              {
+                "end": 973,
+                "start": 963,
+                "tag": "JosephZen"
+              },
+              {
+                "end": 1726,
+                "start": 1718,
+                "tag": "Vescovo"
+              },
+              {
+                "end": 1737,
+                "start": 1727,
+                "tag": "Cardinale"
+              },
+              {
+                "end": 1751,
+                "start": 1738,
+                "tag": "Annunzizione"
+              },
+              {
+                "end": 1756,
+                "start": 1752,
+                "tag": "Zen"
+              }
+            ]
+          },
+          "text": "感謝大家给我擢升樞機20周年的祝福。2006年3月24日，是我擢升樞機的日子，翌日25日是共祭彌撒，被授予樞機戒指，所以這兩天也算是正日。\n\n耶穌是從主教身上，從宗徒身上建立教會，樞機即是主教之中，有機會接近教宗並給他建議幫助。被擢升樞機，為我是一個重大責任，這20年當然有很多未竟之志，但我已盡力，希望沒有辜負天主和大家。#陳日君 #預報救主降生 #主教 #樞機\n\nThank you all for your kind wishes on the occasion of the 20th anniversary of my elevation to the College of Cardinals.\nMarch 24, 2006, was the day of my creation as a Cardinal, and on the following day, March 25, I concelebrated the Mass during which I received the cardinal’s ring. Therefore, both days may be considered the actual anniversary.\n\nJesus founded the Church upon the bishops, upon the Apostles. Cardinals are among the bishops who are called to be close to the Holy Father, offering him counsel and assistance.\nTo be created a Cardinal has been, for me, a great responsibility. Over these twenty years, there have certainly been many things left unfinished, yet I have done my best. I hope that I have not failed God or all of you. #Annunciation #Bishop #Cardinal #JosephZen \n\nRingrazio di cuore tutti per gli auguri in occasione del 20° anniversario della mia creazione a Cardinale.\nIl 24 marzo 2006 è stato il giorno della mia elevazione, mentre il giorno seguente, 25 marzo, ho concelebrato la Santa Messa durante la quale mi è stato consegnato l’anello cardinalizio. Per questo motivo, entrambi i giorni possono essere considerati come anniversario.\n\nGesù ha fondato la Chiesa sui vescovi, sugli Apostoli. I Cardinali sono vescovi chiamati ad essere vicini al Santo Padre, per offrirgli consiglio e sostegno.\nEssere creato Cardinale è stato per me una grande responsabilità. In questi vent’anni ci sono certamente molte cose rimaste incompiute, ma ho fatto del mio meglio. Spero di non aver deluso Dio e tutti voi. #Vescovo #Cardinale #Annunzizione #Zen"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 8148,
+          "like_count": 307,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "感謝大家给我擢升樞機20周年的祝福。2006年3月24日，是我擢升樞機的日子，翌日25日是共祭彌撒，被授予樞機戒指，所以這兩天也算是正日。 https://t.co/Yi1Q0ubLRy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5816,
+          "following_count": 1022,
+          "like_count": 46775,
+          "listed_count": 18,
+          "media_count": 938,
+          "tweet_count": 8109
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-26T19:54:55.000Z",
+        "description": "Joseph Zen, Bishop Emeritus of Hong Kong",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "oldyosef.hkcatholic.com",
+                "end": 23,
+                "expanded_url": "https://oldyosef.hkcatholic.com",
+                "start": 0,
+                "url": "https://t.co/sUGF9zoiZb"
+              }
+            ]
+          }
+        },
+        "id": "1089250348223602689",
+        "location": "Hong Kong",
+        "name": "Joseph Zen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1138829814654275584/T0OzWqdF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38240,
+          "following_count": 361,
+          "like_count": 2950,
+          "listed_count": 210,
+          "media_count": 513,
+          "tweet_count": 3663
+        },
+        "url": "https://t.co/sUGF9zoiZb",
+        "username": "CardJosephZen",
+        "verified": true
+      }
+    ]
+  }
+}

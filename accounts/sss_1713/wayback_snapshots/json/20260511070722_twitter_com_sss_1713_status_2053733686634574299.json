@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2053705433412677684",
+    "created_at": "2026-05-11T07:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T08:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053733686634574299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "888086394710765568",
+          "start": 0,
+          "username": "JHS_FR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053733686634574299",
+    "in_reply_to_user_id": "888086394710765568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053705433412677684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JHS_FR 是不是群发，感觉说话的方式跟我奶奶一样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2053705424705388544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIA6M-jbgAAPRd3.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2053705433412677684",
+        "created_at": "2026-05-11T07:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T08:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053733686634574299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "888086394710765568",
+              "start": 0,
+              "username": "JHS_FR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053733686634574299",
+        "in_reply_to_user_id": "888086394710765568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053705433412677684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JHS_FR 是不是群发，感觉说话的方式跟我奶奶一样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053705424705388544"
+          ]
+        },
+        "author_id": "888086394710765568",
+        "conversation_id": "2053705433412677684",
+        "created_at": "2026-05-11T05:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T06:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053705433412677684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xc9H0qQYjx",
+              "end": 80,
+              "expanded_url": "https://x.com/JHS_FR/status/2053705433412677684/photo/1",
+              "media_key": "3_2053705424705388544",
+              "start": 57,
+              "url": "https://t.co/Xc9H0qQYjx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053705433412677684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "地上教会人 be like：\n平时不来往，张口就是米\n\n感觉还不如坦坦荡荡拜玛门（Money），起码后者真实些😁 https://t.co/Xc9H0qQYjx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5799,
+          "following_count": 1038,
+          "like_count": 47501,
+          "listed_count": 18,
+          "media_count": 940,
+          "tweet_count": 8234
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-20T17:21:11.000Z",
+        "description": "已远离且不认同你国地上教会，在天主教会慕道半年受洗，在修道静修数月，探寻自我救赎，洁身保守，平静平和反世俗，行走四海，见天地众生。",
+        "id": "888086394710765568",
+        "location": "索多玛",
+        "name": "小王（推油寻回）",
+        "pinned_tweet_id": "2000360892014465050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049484839871823872/DjdULdKI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 644,
+          "like_count": 3371,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 869
+        },
+        "username": "JHS_FR",
+        "verified": false
+      }
+    ]
+  }
+}

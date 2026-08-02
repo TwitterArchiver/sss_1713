@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2056406519311401461",
+    "created_at": "2026-05-19T02:51:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T03:51:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056568367981691204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1410841706174455808",
+          "start": 0,
+          "username": "xixikeai_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056568367981691204",
+    "in_reply_to_user_id": "1410841706174455808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056406519311401461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixikeai_ 🥲我的感情就是这么如履薄冰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2056406519311401461",
+        "created_at": "2026-05-19T02:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T03:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056568367981691204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1410841706174455808",
+              "start": 0,
+              "username": "xixikeai_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056568367981691204",
+        "in_reply_to_user_id": "1410841706174455808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056406519311401461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixikeai_ 🥲我的感情就是这么如履薄冰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1410841706174455808",
+        "conversation_id": "2056406519311401461",
+        "created_at": "2026-05-18T16:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T17:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056406519311401461"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056406519311401461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 12132,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 73,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然想到以前能在床上口口声声说爱我的人已经没有任何联系了，我有点想哭 这是为什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2056258187355984313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5805,
+          "following_count": 751,
+          "like_count": 47632,
+          "listed_count": 18,
+          "media_count": 960,
+          "tweet_count": 8335
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-02T06:04:19.000Z",
+        "description": "152r+vx~ 提供满满的情绪价值",
+        "id": "1410841706174455808",
+        "name": "栖栖敲可爱",
+        "pinned_tweet_id": "1774665272907178226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600770625035198464/9PbbUsv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491034,
+          "following_count": 31,
+          "like_count": 915,
+          "listed_count": 513,
+          "media_count": 403,
+          "tweet_count": 1036
+        },
+        "username": "xixikeai_",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

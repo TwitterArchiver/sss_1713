@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2059651290435641350",
+    "created_at": "2026-05-28T03:02:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T04:02:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059832617755959400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "97841743",
+          "start": 0,
+          "username": "srkntnyldz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059832617755959400",
+    "in_reply_to_user_id": "97841743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059651290435641350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@srkntnyldz 我毕生都在追求这种生活，我父母买完之后还会再进行愧疚式教育。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29900,
+        "height": 1280,
+        "media_key": "13_2059651188425998339",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059651188425998339/img/tYyQMWva4LpJCqpT.jpg",
+        "public_metrics": {
+          "view_count": 1880467
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059651188425998339/vid/avc1/320x568/fDtEallZMzUGcaEY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059651188425998339/vid/avc1/480x852/nhjLIK7FtNfeMdrp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059651188425998339/vid/avc1/720x1280/wRKatLuLuOsJfs6r.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059651188425998339/pl/YraxiOVSCXDkvsRm.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2059651290435641350",
+        "created_at": "2026-05-28T03:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059832617755959400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "97841743",
+              "start": 0,
+              "username": "srkntnyldz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059832617755959400",
+        "in_reply_to_user_id": "97841743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059651290435641350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@srkntnyldz 我毕生都在追求这种生活，我父母买完之后还会再进行愧疚式教育。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059651188425998339"
+          ]
+        },
+        "author_id": "97841743",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2059651290435641350",
+        "created_at": "2026-05-27T15:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059651290435641350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jeMTcpgbQU",
+              "end": 265,
+              "expanded_url": "https://x.com/srkntnyldz/status/2059651290435641350/video/1",
+              "media_key": "13_2059651188425998339",
+              "start": 242,
+              "url": "https://t.co/jeMTcpgbQU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059651290435641350",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 817,
+          "impression_count": 3524939,
+          "like_count": 7418,
+          "quote_count": 14,
+          "reply_count": 159,
+          "retweet_count": 198
+        },
+        "reply_settings": "everyone",
+        "text": "Liseden mezun olan kızına iphone 17 promax alan baba, önce telefonun kılıfını verip, “Üniversite bitince telefonu alacağım” diye şaka yapıyor. Ardından çantasından çıkardığı telefonla dünyalar güzeli kızını, mutluluk gözyaşlarına boğuyor 😇♥️ https://t.co/jeMTcpgbQU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5847,
+          "following_count": 750,
+          "like_count": 48436,
+          "listed_count": 18,
+          "media_count": 980,
+          "tweet_count": 8536
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-19T06:43:04.000Z",
+        "description": "Bana büyük isimler değil, bana büyük davaya inanmış isimler lazım. (DM for Credits)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wa.me/905050543400",
+                "end": 23,
+                "expanded_url": "http://wa.me/905050543400",
+                "start": 0,
+                "url": "https://t.co/XsijSPqrJ6"
+              }
+            ]
+          }
+        },
+        "id": "97841743",
+        "location": "İstanbul, Türkiye",
+        "name": "Serkan Tanyildizi",
+        "pinned_tweet_id": "2038429267734696422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779474091562373120/y7ij4xX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483014,
+          "following_count": 415,
+          "like_count": 117405,
+          "listed_count": 829,
+          "media_count": 86542,
+          "tweet_count": 182436
+        },
+        "url": "https://t.co/XsijSPqrJ6",
+        "username": "srkntnyldz",
+        "verified": true
+      }
+    ]
+  }
+}

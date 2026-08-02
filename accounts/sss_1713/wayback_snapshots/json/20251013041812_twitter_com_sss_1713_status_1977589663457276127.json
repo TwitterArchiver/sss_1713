@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1977471253914243072"
+      ],
+      "media_source_tweet_id": [
+        "1977471424458833946"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1977589663457276127",
+    "created_at": "2025-10-13T04:18:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T05:18:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977589663457276127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "15259378",
+          "start": 3,
+          "username": "advoluntas"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NylUXdJuHe",
+          "end": 123,
+          "expanded_url": "https://x.com/advoluntas/status/1977471424458833946/video/1",
+          "media_key": "7_1977471253914243072",
+          "start": 100,
+          "url": "https://t.co/NylUXdJuHe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977589663457276127",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 272
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977471424458833946",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @advoluntas: ♰ Catholicism is Epic ♰\n\nCome home to the One, Holy, Catholic, and Apostolic Church https://t.co/NylUXdJuHe"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50573,
+        "height": 1024,
+        "media_key": "7_1977471253914243072",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1977471253914243072/pu/img/OV3nenkq0qdH5CIK.jpg",
+        "public_metrics": {
+          "view_count": 10365
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1977471253914243072/pu/vid/avc1/320x568/udFHvNBUPDFBb3sI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1977471253914243072/pu/vid/avc1/480x852/LPbXt70BhZLg7Gki.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1977471253914243072/pu/vid/avc1/576x1024/FgnW8ImNHWcFZfLt.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1977471253914243072/pu/pl/IWu6ZxKmi5qnsVM2.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1977471253914243072"
+          ],
+          "media_source_tweet_id": [
+            "1977471424458833946"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1977589663457276127",
+        "created_at": "2025-10-13T04:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T05:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977589663457276127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "15259378",
+              "start": 3,
+              "username": "advoluntas"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NylUXdJuHe",
+              "end": 123,
+              "expanded_url": "https://x.com/advoluntas/status/1977471424458833946/video/1",
+              "media_key": "7_1977471253914243072",
+              "start": 100,
+              "url": "https://t.co/NylUXdJuHe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977589663457276127",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 272
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977471424458833946",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @advoluntas: ♰ Catholicism is Epic ♰\n\nCome home to the One, Holy, Catholic, and Apostolic Church https://t.co/NylUXdJuHe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1977471253914243072"
+          ]
+        },
+        "author_id": "15259378",
+        "conversation_id": "1977471424458833946",
+        "created_at": "2025-10-12T20:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T21:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977471424458833946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NylUXdJuHe",
+              "end": 107,
+              "expanded_url": "https://x.com/advoluntas/status/1977471424458833946/video/1",
+              "media_key": "7_1977471253914243072",
+              "start": 84,
+              "url": "https://t.co/NylUXdJuHe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977471424458833946",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "♰ Catholicism is Epic ♰\n\nCome home to the One, Holy, Catholic, and Apostolic Church"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 155,
+          "impression_count": 12866,
+          "like_count": 1610,
+          "quote_count": 9,
+          "reply_count": 23,
+          "retweet_count": 272
+        },
+        "reply_settings": "everyone",
+        "text": "♰ Catholicism is Epic ♰\n\nCome home to the One, Holy, Catholic, and Apostolic Church https://t.co/NylUXdJuHe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5803,
+          "following_count": 977,
+          "like_count": 45900,
+          "listed_count": 17,
+          "media_count": 944,
+          "tweet_count": 7805
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2008-06-28T00:51:29.000Z",
+        "description": "Christus vincit! \nChristus regnat! \nChristus imperat! \n\nSáncte Míchael Archángele, defénde nos in proélio.",
+        "id": "15259378",
+        "name": "Beauty of the Catholic Faith",
+        "pinned_tweet_id": "1977563948833480853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784403559611777024/_mkOxgCM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44319,
+          "following_count": 40876,
+          "like_count": 86352,
+          "listed_count": 128,
+          "media_count": 15109,
+          "tweet_count": 22432
+        },
+        "username": "advoluntas",
+        "verified": true
+      }
+    ]
+  }
+}

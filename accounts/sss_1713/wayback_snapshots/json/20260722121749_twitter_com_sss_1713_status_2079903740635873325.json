@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2079040119429022066",
+    "created_at": "2026-07-22T12:17:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T13:17:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079903740635873325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2078008755325722624",
+          "start": 0,
+          "username": "tgqmao1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079903740635873325",
+    "in_reply_to_user_id": "2078008755325722624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079040119429022066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tgqmao1 再看到繁茂贼还可以艾特你吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 407,
+        "media_key": "3_2079040099652882432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNo79JWaUAAUG5f.jpg",
+        "width": 580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2079040119429022066",
+        "created_at": "2026-07-22T12:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T13:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079903740635873325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2078008755325722624",
+              "start": 0,
+              "username": "tgqmao1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079903740635873325",
+        "in_reply_to_user_id": "2078008755325722624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079040119429022066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tgqmao1 再看到繁茂贼还可以艾特你吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079040099652882432"
+          ]
+        },
+        "author_id": "2078008755325722624",
+        "conversation_id": "2079040119429022066",
+        "created_at": "2026-07-20T03:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T04:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079040119429022066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9VQlvpNNoL",
+              "end": 89,
+              "expanded_url": "https://x.com/tgqmao1/status/2079040119429022066/photo/1",
+              "media_key": "3_2079040099652882432",
+              "start": 66,
+              "url": "https://t.co/9VQlvpNNoL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079040119429022066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6116,
+          "like_count": 101,
+          "quote_count": 12,
+          "reply_count": 55,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我提议把华人做个分类\n支持毛泽东思想和无产阶级文化大革命的为好人\n并不了解的是正常人\n反毛的统称为支那人\n侮辱毛主席的统称为支那猪 https://t.co/9VQlvpNNoL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6002,
+          "following_count": 803,
+          "like_count": 55198,
+          "listed_count": 18,
+          "media_count": 1090,
+          "tweet_count": 9573
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-17T06:48:27.000Z",
+        "description": "反毛贼严父\n@TGQmmmao\n@tangangqinmao4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "TGQmmmao"
+              },
+              {
+                "end": 31,
+                "start": 16,
+                "username": "tangangqinmao4"
+              }
+            ]
+          }
+        },
+        "id": "2078008755325722624",
+        "location": "反毛贼屠宰场",
+        "name": "弹钢琴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078096475515691008/avdabwyM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 7,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 145
+        },
+        "url": "",
+        "username": "tgqmao1",
+        "verified": false
+      }
+    ]
+  }
+}

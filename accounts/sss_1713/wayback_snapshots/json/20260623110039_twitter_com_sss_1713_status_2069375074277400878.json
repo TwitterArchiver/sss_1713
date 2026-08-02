@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2069349630434062666",
+    "created_at": "2026-06-23T11:00:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T12:00:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069375074277400878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3700078994",
+          "start": 0,
+          "username": "midiexiang6555"
+        },
+        {
+          "end": 28,
+          "id": "1526517532055572481",
+          "start": 16,
+          "username": "wswm7212151"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069375074277400878",
+    "in_reply_to_user_id": "3700078994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069369829623210365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@midiexiang6555 @wswm7212151 🥹这是什么呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2069349630434062666",
+        "created_at": "2026-06-23T11:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069375074277400878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3700078994",
+              "start": 0,
+              "username": "midiexiang6555"
+            },
+            {
+              "end": 28,
+              "id": "1526517532055572481",
+              "start": 16,
+              "username": "wswm7212151"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069375074277400878",
+        "in_reply_to_user_id": "3700078994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069369829623210365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@midiexiang6555 @wswm7212151 🥹这是什么呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3700078994",
+        "conversation_id": "2069349630434062666",
+        "created_at": "2026-06-23T10:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069369829623210365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1526517532055572481",
+              "start": 0,
+              "username": "wswm7212151"
+            },
+            {
+              "end": 22,
+              "id": "1254605353838231553",
+              "start": 13,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069369829623210365",
+        "in_reply_to_user_id": "1526517532055572481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069363527442485396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wswm7212151 @sss_1713 啊，你说把这小伙子拉进我熬吧？😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5912,
+          "following_count": 775,
+          "like_count": 52175,
+          "listed_count": 18,
+          "media_count": 1041,
+          "tweet_count": 9149
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-27T04:52:42.000Z",
+        "description": "實名：陈燕慧   中年非油膩美少女  一枚。",
+        "id": "3700078994",
+        "location": "湖南長沙",
+        "name": "迷迭香",
+        "pinned_tweet_id": "1993891804270518723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1383101725763018753/I-c4hNRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29785,
+          "following_count": 182,
+          "like_count": 43153,
+          "listed_count": 81,
+          "media_count": 1086,
+          "tweet_count": 9995
+        },
+        "url": "",
+        "username": "midiexiang6555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-17T10:59:13.000Z",
+        "description": "",
+        "id": "1526517532055572481",
+        "location": "大陆江苏省淮安市淮安区",
+        "name": "王默 wswm721215",
+        "pinned_tweet_id": "1825504418143535429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718877516948180992/tDpeFMtV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11258,
+          "following_count": 924,
+          "like_count": 58905,
+          "listed_count": 50,
+          "media_count": 908,
+          "tweet_count": 22370
+        },
+        "url": "",
+        "username": "wswm7212151",
+        "verified": true
+      }
+    ]
+  }
+}

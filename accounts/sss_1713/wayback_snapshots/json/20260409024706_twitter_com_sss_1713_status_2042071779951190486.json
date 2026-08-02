@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2042071779951190486",
+    "created_at": "2026-04-09T02:47:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T03:47:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042071779951190486"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sam51824016070…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/sam51824016070/status/2041742805694042217",
+          "start": 18,
+          "url": "https://t.co/o1NvNAhRWf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042071779951190486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041742805694042217",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "两头吃，真到选举的时候就紧急切割。 https://t.co/o1NvNAhRWf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26239,
+        "height": 720,
+        "media_key": "7_2041742779190276099",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2041742779190276099/pu/img/ONlrBnb-A2mdA2qZ.jpg",
+        "public_metrics": {
+          "view_count": 188624
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041742779190276099/pu/vid/avc1/478x270/xdEviaWr9uWGpHf_.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041742779190276099/pu/vid/avc1/638x360/RDNCzW2gQjU1hkVC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041742779190276099/pu/vid/avc1/1276x720/3QCu4GncLQrxd45s.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2041742779190276099/pu/pl/CrM4HUlY1ev6nvt7.m3u8?v=ea4"
+          }
+        ],
+        "width": 1276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2042071779951190486",
+        "created_at": "2026-04-09T02:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T03:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042071779951190486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sam51824016070…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/sam51824016070/status/2041742805694042217",
+              "start": 18,
+              "url": "https://t.co/o1NvNAhRWf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042071779951190486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041742805694042217",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "两头吃，真到选举的时候就紧急切割。 https://t.co/o1NvNAhRWf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2041742779190276099"
+          ]
+        },
+        "author_id": "1639247931898306561",
+        "conversation_id": "2041742805694042217",
+        "created_at": "2026-04-08T04:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041742805694042217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4V5fLQcZz6",
+              "end": 47,
+              "expanded_url": "https://x.com/sam51824016070/status/2041742805694042217/video/1",
+              "media_key": "7_2041742779190276099",
+              "start": 24,
+              "url": "https://t.co/4V5fLQcZz6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041742805694042217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 311508,
+          "like_count": 1279,
+          "quote_count": 10,
+          "reply_count": 124,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "我退党\n我宣布退党\n这个国民党我不想玩了\n…… https://t.co/4V5fLQcZz6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5782,
+          "following_count": 1026,
+          "like_count": 46975,
+          "listed_count": 18,
+          "media_count": 938,
+          "tweet_count": 8133
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-24T12:50:09.000Z",
+        "description": "共产党那么邪恶，如果我们不反共，我们还是人吗❓\n\n爱国就反共，反共才是真爱国，没有共产党才有新中国，爱国反共，反共光荣，亲共可耻！\n\n请关注小号https://t.co/dllXpw0KFa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/Jamesso972309?…",
+                "end": 95,
+                "expanded_url": "https://x.com/Jamesso972309?t=HqKwQBV3q3Iar0J1ZHYvFQ&s=09",
+                "start": 72,
+                "url": "https://t.co/dllXpw0KFa"
+              }
+            ]
+          }
+        },
+        "id": "1639247931898306561",
+        "location": "California, USA",
+        "name": "YiFeng Su",
+        "pinned_tweet_id": "2007860353586384940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836500437815693314/URQTGhSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29175,
+          "following_count": 9806,
+          "like_count": 41246,
+          "listed_count": 137,
+          "media_count": 3444,
+          "tweet_count": 9853
+        },
+        "username": "sam51824016070",
+        "verified": true
+      }
+    ]
+  }
+}

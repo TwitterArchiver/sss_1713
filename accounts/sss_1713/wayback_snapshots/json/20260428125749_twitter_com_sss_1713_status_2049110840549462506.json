@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2049110840549462506",
+    "created_at": "2026-04-28T12:57:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T13:57:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049110840549462506"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/satireorcry1/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/satireorcry1/status/2049085311569805688",
+          "start": 6,
+          "url": "https://t.co/XX4fxNDu8F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049110840549462506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049085311569805688",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太傻逼了。 https://t.co/XX4fxNDu8F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1204,
+        "media_key": "3_2049085305068875776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_QOnsacAAKmlr.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2049110840549462506",
+        "created_at": "2026-04-28T12:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T13:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049110840549462506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/satireorcry1/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/satireorcry1/status/2049085311569805688",
+              "start": 6,
+              "url": "https://t.co/XX4fxNDu8F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049110840549462506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049085311569805688",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太傻逼了。 https://t.co/XX4fxNDu8F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049085305068875776"
+          ]
+        },
+        "author_id": "1993455710274043905",
+        "conversation_id": "2049085311569805688",
+        "created_at": "2026-04-28T11:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049085311569805688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jZ3XIgC7eb",
+              "end": 39,
+              "expanded_url": "https://x.com/satireorcry1/status/2049085311569805688/photo/1",
+              "media_key": "3_2049085305068875776",
+              "start": 16,
+              "url": "https://t.co/jZ3XIgC7eb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049085311569805688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1227,
+          "like_count": 31,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经典回顾\n馆长说大陆不禁止翻墙 https://t.co/jZ3XIgC7eb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5801,
+          "following_count": 1032,
+          "like_count": 47254,
+          "listed_count": 18,
+          "media_count": 938,
+          "tweet_count": 8170
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "专注梗图制作20年。 Professional meme maker for 20 years.\n\n欢迎商业洽谈，请用邮箱联系：furinana.x.com@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/furinanaX",
+                "end": 23,
+                "expanded_url": "https://t.me/furinanaX",
+                "start": 0,
+                "url": "https://t.co/EYxWvofvi1"
+              }
+            ]
+          }
+        },
+        "id": "1993455710274043905",
+        "location": "12 Millbank, London, SW1P 4QE",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2038163914714660961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23640,
+          "following_count": 1563,
+          "like_count": 14092,
+          "listed_count": 53,
+          "media_count": 2836,
+          "tweet_count": 4221
+        },
+        "url": "https://t.co/EYxWvofvi1",
+        "username": "satireorcry1",
+        "verified": true
+      }
+    ]
+  }
+}

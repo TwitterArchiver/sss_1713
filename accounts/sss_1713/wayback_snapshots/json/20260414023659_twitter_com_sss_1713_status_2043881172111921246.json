@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2043881172111921246",
+    "created_at": "2026-04-14T02:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T03:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043881172111921246"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/professorccmin…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/professorccming/status/2043694682820227464",
+          "start": 9,
+          "url": "https://t.co/vUpDPtMAmh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043881172111921246",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043694682820227464",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "国民党很莫名其妙 https://t.co/vUpDPtMAmh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 76602,
+        "height": 1920,
+        "media_key": "13_2043693524357660673",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043693524357660673/img/w1ttE2Se380OXStO.jpg",
+        "public_metrics": {
+          "view_count": 10056
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043693524357660673/vid/avc1/320x568/H29csGsstDFxK9vz.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043693524357660673/vid/avc1/480x852/3CIMadInqQ4XBlZ9.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043693524357660673/vid/avc1/720x1280/tkS1jBRpn1SqaePg.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043693524357660673/pl/d9Gdg66ys4v8VgyK.m3u8?tag=14&v=0cc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2043881172111921246",
+        "created_at": "2026-04-14T02:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T03:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043881172111921246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/professorccmin…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/professorccming/status/2043694682820227464",
+              "start": 9,
+              "url": "https://t.co/vUpDPtMAmh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043881172111921246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043694682820227464",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "国民党很莫名其妙 https://t.co/vUpDPtMAmh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043693524357660673"
+          ]
+        },
+        "author_id": "1727959259844091904",
+        "conversation_id": "2043694682820227464",
+        "created_at": "2026-04-13T14:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043694682820227464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VGxehOaGjR",
+              "end": 161,
+              "expanded_url": "https://x.com/professorccming/status/2043694682820227464/video/1",
+              "media_key": "13_2043693524357660673",
+              "start": 138,
+              "url": "https://t.co/VGxehOaGjR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043694682820227464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 13872,
+          "like_count": 424,
+          "quote_count": 5,
+          "reply_count": 47,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "如果國民黨到今天還對自己三民主義沒有信心\n還對共產主義的成就有信心的話\n那就不用玩了\n\n統跟獨其實就看老百姓的選擇\n但如果要統的話\n你就要看怎麼統法？\n在什麼條件下要統？\n民主、自由、法治、人權、軍隊國家化\n你說國際潮流\n這才是國際潮流\n現在國際上剩下幾個共產國家？三個半。 https://t.co/VGxehOaGjR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5756,
+          "following_count": 1024,
+          "like_count": 47030,
+          "listed_count": 18,
+          "media_count": 938,
+          "tweet_count": 8141
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-24T07:56:17.000Z",
+        "description": "🇹🇼 The only official account\n-\nProfessor Emeritus, Department of Political Science, National Taiwan University",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "portaly.cc/professorming",
+                "end": 23,
+                "expanded_url": "https://portaly.cc/professorming",
+                "start": 0,
+                "url": "https://t.co/2cdmp6WwJn"
+              }
+            ]
+          }
+        },
+        "id": "1727959259844091904",
+        "name": "Ming Chu-Cheng｜明居正",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730424429786931200/yx8jEpEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23791,
+          "following_count": 23,
+          "like_count": 198,
+          "listed_count": 72,
+          "media_count": 478,
+          "tweet_count": 644
+        },
+        "url": "https://t.co/2cdmp6WwJn",
+        "username": "professorccming",
+        "verified": false
+      }
+    ]
+  }
+}

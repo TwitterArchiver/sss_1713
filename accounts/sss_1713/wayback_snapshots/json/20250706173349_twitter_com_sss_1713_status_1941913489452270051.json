@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1941837418526872037",
+    "created_at": "2025-07-06T17:33:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T18:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941913489452270051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1892152061653028866",
+          "start": 0,
+          "username": "SuperShrimp9000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941913489452270051",
+    "in_reply_to_user_id": "1892152061653028866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941837418526872037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuperShrimp9000 风马秀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1941837418526872037",
+        "created_at": "2025-07-06T17:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T18:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941913489452270051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1892152061653028866",
+              "start": 0,
+              "username": "SuperShrimp9000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941913489452270051",
+        "in_reply_to_user_id": "1892152061653028866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941837418526872037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuperShrimp9000 风马秀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892152061653028866",
+        "conversation_id": "1941837418526872037",
+        "created_at": "2025-07-06T12:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T13:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941837418526872037"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941837418526872037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4058,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虾查了下发现还真有“风”这个姓，有这姓起什么名字都好听"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJo6NX"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5771,
+          "following_count": 1039,
+          "like_count": 45968,
+          "listed_count": 18,
+          "media_count": 940,
+          "tweet_count": 7672
+        },
+        "url": "https://t.co/Z7RPjJo6NX",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T10:00:03.000Z",
+        "description": "進化した最強エビ、君の老北京美食、グラ姫のお菓子\nMega Ebi bigger then big, Your traditional Yuyan meal, Gura's snack\n前菜/Appetiser: @BigFreshShrimp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 107,
+                "username": "BigFreshShrimp"
+              }
+            ]
+          }
+        },
+        "id": "1892152061653028866",
+        "name": "SuperShrimp9000+",
+        "pinned_tweet_id": "1892161554013093935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912398191841988608/UcPyhO0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 494,
+          "like_count": 27379,
+          "listed_count": 4,
+          "media_count": 1389,
+          "tweet_count": 4451
+        },
+        "username": "SuperShrimp9000",
+        "verified": false
+      }
+    ]
+  }
+}

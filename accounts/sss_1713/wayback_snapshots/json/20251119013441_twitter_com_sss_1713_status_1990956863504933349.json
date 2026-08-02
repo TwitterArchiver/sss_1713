@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "1990956863504933349",
+    "created_at": "2025-11-19T01:34:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T02:34:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990956863504933349"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/s10408978/stat…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/s10408978/status/1990696028442632510",
+          "start": 10,
+          "url": "https://t.co/RfL8BDVjZN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990956863504933349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990696028442632510",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "具有中国特色的表演 https://t.co/RfL8BDVjZN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2002,
+        "media_key": "3_1990696023992512513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6BffJXbMAEl_qr.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1521,
+        "media_key": "3_1990696023573082112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6BffHzbMAANGQk.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1990956863504933349",
+        "created_at": "2025-11-19T01:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T02:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990956863504933349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/s10408978/stat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/s10408978/status/1990696028442632510",
+              "start": 10,
+              "url": "https://t.co/RfL8BDVjZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990956863504933349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990696028442632510",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "具有中国特色的表演 https://t.co/RfL8BDVjZN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990696023992512513",
+            "3_1990696023573082112"
+          ]
+        },
+        "author_id": "1256780878589509632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1990696028442632510",
+        "created_at": "2025-11-18T08:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T09:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990696028442632510"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "中国",
+              "probability": 0.6616,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 40,
+              "normalized_text": "日本",
+              "probability": 0.5964,
+              "start": 39,
+              "type": "Place"
+            },
+            {
+              "end": 64,
+              "normalized_text": "中国",
+              "probability": 0.8139,
+              "start": 63,
+              "type": "Place"
+            },
+            {
+              "end": 127,
+              "normalized_text": "中国",
+              "probability": 0.5302,
+              "start": 126,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Q80AFewvm",
+              "end": 166,
+              "expanded_url": "https://x.com/S10408978/status/1990696028442632510/photo/1",
+              "media_key": "3_1990696023992512513",
+              "start": 143,
+              "url": "https://t.co/3Q80AFewvm"
+            },
+            {
+              "display_url": "pic.x.com/3Q80AFewvm",
+              "end": 166,
+              "expanded_url": "https://x.com/S10408978/status/1990696028442632510/photo/1",
+              "media_key": "3_1990696023573082112",
+              "start": 143,
+              "url": "https://t.co/3Q80AFewvm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990696028442632510",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 759,
+          "impression_count": 761092,
+          "like_count": 27610,
+          "quote_count": 410,
+          "reply_count": 706,
+          "retweet_count": 6903
+        },
+        "reply_settings": "everyone",
+        "text": "中国メディアが出している映像は、会談後にエレベーター前で交わしただけの立ち話を日本が説教されている構図に加工したもの。\nそれを中国のSNSで垂れ流す。\n外交は会議室で行われるのであって廊下で行われるわけがない。内容で勝てないから退出の瞬間を演出に使う、中国式プロパガンダの典型ですよ。 https://t.co/3Q80AFewvm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5828,
+          "following_count": 994,
+          "like_count": 45767,
+          "listed_count": 17,
+          "media_count": 927,
+          "tweet_count": 7907
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-03T03:01:43.000Z",
+        "description": "20年間香港,上海,北京,台北で会社経営しておりました。2019年に帰国。 訳あって中共政府と長く関わってきた日本人としてたまに内部の情報をつぶやきます。本業は金融.コンサル会社経営。有志で外国人犯罪撲滅活動や外国人による日本の土地買収撃退活動、日本企業の中国撤退支援をやっております。",
+        "id": "1256780878589509632",
+        "location": "東京都港区　兵庫県神戸市",
+        "name": "三木慎一郎",
+        "pinned_tweet_id": "1459041583538466818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1370047402699235328/1IgVdTYf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114152,
+          "following_count": 548,
+          "like_count": 38033,
+          "listed_count": 639,
+          "media_count": 5553,
+          "tweet_count": 10384
+        },
+        "username": "S10408978",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076859211003371520"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2076859229944873437",
+    "created_at": "2026-07-14T02:40:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T03:40:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076859229944873437"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pMdz6rKLyK",
+          "end": 63,
+          "expanded_url": "https://x.com/sss_1713/status/2076859229944873437/photo/1",
+          "media_key": "3_2076859211003371520",
+          "start": 40,
+          "url": "https://t.co/pMdz6rKLyK"
+        },
+        {
+          "display_url": "x.com/chan19890604t0…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/chan19890604t04/status/2076498525484183715",
+          "start": 64,
+          "url": "https://t.co/SjJ1js4siJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076859229944873437",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076498525484183715",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我记得死亡率比出生率高之后好像就不太讲14亿人了，等过两年是不是就不到14亿了 https://t.co/pMdz6rKLyK https://t.co/SjJ1js4siJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1183,
+        "media_key": "3_2076859211003371520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNJ8cuBaoAAinjq.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076859211003371520"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2076859229944873437",
+        "created_at": "2026-07-14T02:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T03:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076859229944873437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pMdz6rKLyK",
+              "end": 63,
+              "expanded_url": "https://x.com/sss_1713/status/2076859229944873437/photo/1",
+              "media_key": "3_2076859211003371520",
+              "start": 40,
+              "url": "https://t.co/pMdz6rKLyK"
+            },
+            {
+              "display_url": "x.com/chan19890604t0…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/chan19890604t04/status/2076498525484183715",
+              "start": 64,
+              "url": "https://t.co/SjJ1js4siJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076859229944873437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076498525484183715",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我记得死亡率比出生率高之后好像就不太讲14亿人了，等过两年是不是就不到14亿了 https://t.co/pMdz6rKLyK https://t.co/SjJ1js4siJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682912923851841536",
+        "conversation_id": "2076498525484183715",
+        "created_at": "2026-07-13T02:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T03:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076498525484183715"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076498525484183715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 10758,
+          "like_count": 167,
+          "quote_count": 1,
+          "reply_count": 26,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "突然發現🕷️🐷🐰不再吹14億人口了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5978,
+          "following_count": 794,
+          "like_count": 54675,
+          "listed_count": 18,
+          "media_count": 1088,
+          "tweet_count": 9494
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-23T00:38:40.000Z",
+        "description": "不跟粉蛆🕷️🐷🐰對話 圖和影片皆是轉載的 備用號@chan19890604to5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 24,
+                "username": "chan19890604to5"
+              }
+            ]
+          }
+        },
+        "id": "1682912923851841536",
+        "location": "Taiwan",
+        "name": "陳少4.0",
+        "pinned_tweet_id": "2043861225516499293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906652458711171072/LTlW2rI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3823,
+          "following_count": 1818,
+          "like_count": 76933,
+          "listed_count": 24,
+          "media_count": 15095,
+          "tweet_count": 36177
+        },
+        "url": "",
+        "username": "chan19890604t04",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2053674991590527413",
+    "created_at": "2026-05-11T03:14:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T04:14:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053674991590527413"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2053392096942244217",
+          "start": 22,
+          "url": "https://t.co/UilguEkQq5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053674991590527413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053392096942244217",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "裸聊的时候有没有想过自己才是那个该死的鬼🤮 https://t.co/UilguEkQq5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1918,
+        "media_key": "3_2053384675184316416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8We5eXkAAVvit.jpg",
+        "width": 974
+      },
+      {
+        "height": 1958,
+        "media_key": "3_2053384680414564357",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8WfM9W0AUgZuH.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1043,
+        "media_key": "3_2053384686559223815",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8Wfj2W4Ac5vtY.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1917,
+        "media_key": "3_2053384695929262084",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8WgGwWUAQr9QB.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2053674991590527413",
+        "created_at": "2026-05-11T03:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053674991590527413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2053392096942244217",
+              "start": 22,
+              "url": "https://t.co/UilguEkQq5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053674991590527413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053392096942244217",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "裸聊的时候有没有想过自己才是那个该死的鬼🤮 https://t.co/UilguEkQq5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053384675184316416",
+            "3_2053384680414564357",
+            "3_2053384686559223815",
+            "3_2053384695929262084"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2053392096942244217",
+        "created_at": "2026-05-10T08:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053392096942244217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mdCctt7fgS",
+              "end": 149,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2053392096942244217/photo/1",
+              "media_key": "3_2053384675184316416",
+              "start": 126,
+              "url": "https://t.co/mdCctt7fgS"
+            },
+            {
+              "display_url": "pic.x.com/mdCctt7fgS",
+              "end": 149,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2053392096942244217/photo/1",
+              "media_key": "3_2053384680414564357",
+              "start": 126,
+              "url": "https://t.co/mdCctt7fgS"
+            },
+            {
+              "display_url": "pic.x.com/mdCctt7fgS",
+              "end": 149,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2053392096942244217/photo/1",
+              "media_key": "3_2053384686559223815",
+              "start": 126,
+              "url": "https://t.co/mdCctt7fgS"
+            },
+            {
+              "display_url": "pic.x.com/mdCctt7fgS",
+              "end": 149,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2053392096942244217/photo/1",
+              "media_key": "3_2053384695929262084",
+              "start": 126,
+              "url": "https://t.co/mdCctt7fgS"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2044712402349117551",
+              "start": 150,
+              "url": "https://t.co/vG6IaA0Tp2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053392096942244217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "5月8日，牢A发文，将“在德留学生迷奸案”的受害者们称为“良言难劝该死的鬼”\n\n多位留德女生反驳：没有任何一个受害人是出去玩时被迷奸，而是犯罪分子利用租房、接机等幌子接近受害者，甚至伪装成女性、选择白天实施犯罪，极具隐蔽于欺骗性，普通人根本防不胜防。\n\n牢A此番言论，类似于每次一有性骚扰性侵案件发声，总有舆论急于指责、构陷 “受害者不检点、不曾防护”\n\n每一次有同类案件，舆论总会淡化 “犯罪如何实施有预谋的侵害的社会事实” ，转而开始“受害者的审判”，迎合所谓的“完美受害者”叙述。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 306177,
+          "like_count": 1934,
+          "quote_count": 51,
+          "reply_count": 157,
+          "retweet_count": 128
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044712402349117551",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "5月8日，牢A发文，将“在德留学生迷奸案”的受害者们称为“良言难劝该死的鬼”\n\n多位留德女生反驳：没有任何一个受害人是出去玩时被迷奸，而是犯罪分子利用租房、接机等幌子接近受害者，甚至伪装成女性、选择白天实施犯罪，极具隐蔽于欺骗性，普通人根本防不胜防。 https://t.co/mdCctt7fgS https://t.co/vG6IaA0Tp2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5798,
+          "following_count": 1038,
+          "like_count": 47488,
+          "listed_count": 18,
+          "media_count": 940,
+          "tweet_count": 8230
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2218691,
+          "following_count": 1047,
+          "like_count": 9481,
+          "listed_count": 8719,
+          "media_count": 46516,
+          "tweet_count": 53620
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

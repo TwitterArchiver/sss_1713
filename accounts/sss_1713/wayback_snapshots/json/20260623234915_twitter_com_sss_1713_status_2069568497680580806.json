@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2068862192628502707",
+    "created_at": "2026-06-23T23:49:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T00:49:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069568497680580806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1442006998640300038",
+          "start": 0,
+          "username": "Fzdxw"
+        },
+        {
+          "end": 22,
+          "id": "2053824487330852865",
+          "start": 7,
+          "username": "RusskiyCvyatoy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069568497680580806",
+    "in_reply_to_user_id": "1442006998640300038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069563640253128907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fzdxw @RusskiyCvyatoy 呼喊派，可以维基一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2068862192628502707",
+        "created_at": "2026-06-23T23:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T00:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069568497680580806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1442006998640300038",
+              "start": 0,
+              "username": "Fzdxw"
+            },
+            {
+              "end": 22,
+              "id": "2053824487330852865",
+              "start": 7,
+              "username": "RusskiyCvyatoy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069568497680580806",
+        "in_reply_to_user_id": "1442006998640300038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069563640253128907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fzdxw @RusskiyCvyatoy 呼喊派，可以维基一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442006998640300038",
+        "conversation_id": "2068862192628502707",
+        "created_at": "2026-06-23T23:29:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T00:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069563640253128907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2053824487330852865",
+              "start": 0,
+              "username": "RusskiyCvyatoy"
+            },
+            {
+              "end": 25,
+              "id": "1254605353838231553",
+              "start": 16,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069563640253128907",
+        "in_reply_to_user_id": "2053824487330852865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068891433898058037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusskiyCvyatoy @sss_1713 那是啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5911,
+          "following_count": 775,
+          "like_count": 52192,
+          "listed_count": 18,
+          "media_count": 1040,
+          "tweet_count": 9150
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-26T06:04:01.000Z",
+        "description": "你进来想查我成分吗",
+        "id": "1442006998640300038",
+        "name": "风中的小王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1575788102399848449/mx2J83Nu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2140,
+          "following_count": 195,
+          "like_count": 26441,
+          "listed_count": 10,
+          "media_count": 1878,
+          "tweet_count": 13271
+        },
+        "url": "",
+        "username": "Fzdxw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T13:09:44.000Z",
+        "description": "凝聚意志，保卫领袖。",
+        "id": "2053824487330852865",
+        "name": "弹管风琴",
+        "pinned_tweet_id": "2060020055111287178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065013919379333120/YjWGzZup_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 95,
+          "like_count": 1081,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1288
+        },
+        "url": "",
+        "username": "RusskiyCvyatoy",
+        "verified": false
+      }
+    ]
+  }
+}

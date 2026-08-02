@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2048771698053501415",
+    "created_at": "2026-04-28T11:59:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T12:59:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049096148842143920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3700078994",
+          "start": 0,
+          "username": "midiexiang6555"
+        },
+        {
+          "end": 25,
+          "id": "4373117295",
+          "start": 16,
+          "username": "XianGuiE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049096148842143920",
+    "in_reply_to_user_id": "3700078994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048771698053501415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@midiexiang6555 @XianGuiE 😂😂爱国费从“五十万抓一个人”到“20万还不满足”😂😂爱国也消费降级了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2048771698053501415",
+        "created_at": "2026-04-28T11:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049096148842143920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3700078994",
+              "start": 0,
+              "username": "midiexiang6555"
+            },
+            {
+              "end": 25,
+              "id": "4373117295",
+              "start": 16,
+              "username": "XianGuiE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049096148842143920",
+        "in_reply_to_user_id": "3700078994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048771698053501415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@midiexiang6555 @XianGuiE 😂😂爱国费从“五十万抓一个人”到“20万还不满足”😂😂爱国也消费降级了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3700078994",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2048771698053501415",
+        "created_at": "2026-04-27T14:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048771698053501415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2048623171067089207",
+              "start": 28,
+              "url": "https://t.co/RbLXC6DOka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048771698053501415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 921,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048623171067089207",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爱国费20万？\n爱国原来是这么衡量的呀，真是涨姿势了。 https://t.co/RbLXC6DOka"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5802,
+          "following_count": 1031,
+          "like_count": 47247,
+          "listed_count": 18,
+          "media_count": 938,
+          "tweet_count": 8161
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-27T04:52:42.000Z",
+        "description": "實名：陈燕慧   中年非油膩美少女  一枚。",
+        "id": "3700078994",
+        "location": "湖南長沙",
+        "name": "迷迭香",
+        "pinned_tweet_id": "1993891804270518723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1383101725763018753/I-c4hNRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29893,
+          "following_count": 180,
+          "like_count": 42355,
+          "listed_count": 82,
+          "media_count": 1067,
+          "tweet_count": 9834
+        },
+        "username": "midiexiang6555",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-04T14:57:31.000Z",
+        "description": "五千年专制到此告一段落，个人崇拜从今可以休矣！ 我殷切的期望，中国的异议群体在未来的日子里，能夠改變目前这样的一盘散沙，各自为战，能忍则忍，不能忍也能忍的状态，能够堅定起来担当责任，勇敢的向獨裁者的監獄方向挺進，向群体的组织化方向挺进，必要的話，也應該考慮如何盡快的轉入地下。 --------------余志坚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E9%B2%9C%E4%…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@%E9%B2%9C%E4%BA%8E%E6%A1%82%E5%A8%A5",
+                "start": 0,
+                "url": "https://t.co/O6VQEVJRGq"
+              }
+            ]
+          }
+        },
+        "id": "4373117295",
+        "location": "美国印地安那州",
+        "name": "鲜于桂娥（시안 유 구이에）",
+        "pinned_tweet_id": "1144605566200963072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1400474931566088195/OWR4fK8f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25201,
+          "following_count": 1083,
+          "like_count": 197734,
+          "listed_count": 65,
+          "media_count": 4335,
+          "tweet_count": 31620
+        },
+        "url": "https://t.co/O6VQEVJRGq",
+        "username": "XianGuiE",
+        "verified": false
+      }
+    ]
+  }
+}

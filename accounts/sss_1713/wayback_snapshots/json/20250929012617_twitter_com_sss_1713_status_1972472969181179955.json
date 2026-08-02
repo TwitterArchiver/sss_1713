@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972439061227884544"
+      ],
+      "media_source_tweet_id": [
+        "1972439650544562580"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "1972472969181179955",
+    "created_at": "2025-09-29T01:26:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T02:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972472969181179955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1485279708325556227",
+          "start": 3,
+          "username": "xianguie1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1uwzhLx4ab",
+          "end": 102,
+          "expanded_url": "https://x.com/xianguie1/status/1972439650544562580/photo/1",
+          "media_key": "3_1972439061227884544",
+          "start": 79,
+          "url": "https://t.co/1uwzhLx4ab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972472969181179955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972439650544562580",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xianguie1: 被宣判前，不同于尘埃落定。\n\n请看AI对这次海外声援张雅迪的评论。\n\nFrom AI:\n\n在张雅迪（也称Tara Zhang… https://t.co/1uwzhLx4ab"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 783,
+        "media_key": "3_1972439061227884544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1-C4DGX0AAnQST.png",
+        "width": 826
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972439061227884544"
+          ],
+          "media_source_tweet_id": [
+            "1972439650544562580"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "1972472969181179955",
+        "created_at": "2025-09-29T01:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T02:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972472969181179955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1485279708325556227",
+              "start": 3,
+              "username": "xianguie1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1uwzhLx4ab",
+              "end": 102,
+              "expanded_url": "https://x.com/xianguie1/status/1972439650544562580/photo/1",
+              "media_key": "3_1972439061227884544",
+              "start": 79,
+              "url": "https://t.co/1uwzhLx4ab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972472969181179955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972439650544562580",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xianguie1: 被宣判前，不同于尘埃落定。\n\n请看AI对这次海外声援张雅迪的评论。\n\nFrom AI:\n\n在张雅迪（也称Tara Zhang… https://t.co/1uwzhLx4ab"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972439061227884544"
+          ]
+        },
+        "author_id": "1485279708325556227",
+        "conversation_id": "1972439650544562580",
+        "created_at": "2025-09-28T23:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T00:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972439650544562580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1uwzhLx4ab",
+              "end": 86,
+              "expanded_url": "https://x.com/xianguie1/status/1972439650544562580/photo/1",
+              "media_key": "3_1972439061227884544",
+              "start": 63,
+              "url": "https://t.co/1uwzhLx4ab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972439650544562580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "被宣判前，不同于尘埃落定。\n\n请看AI对这次海外声援张雅迪的评论。\n\nFrom AI:\n\n在张雅迪（也称Tara Zhang Yadi）这个具体案例中，海外高调造势（包括公开她的个人信息、照片、社交账号、参与活动细节等）确实可能带来负面影响，尤其是在判决尚未作出、案件仍处于刑事拘留阶段（截至2025年9月28日，她于7月31日被长沙市国家安全局以涉嫌“煽动分裂国家罪”拘留，律师尚未会见）的情况下。以下基于公开报道和X平台讨论，分析潜在负面影响：\n\n1. 提供额外“证据”给当局，加重指控\n海外组织（如“华语青年挺藏会”）和个人在声援帖中详细列出张雅迪的网名、Instagram账号、参与“白纸运动”、与达赖喇嘛相关照片、编辑藏权文章等等事迹细节，这些内容可能被当局视为“煽动分裂”的直接证据。 这相当于“递刀子”，让原本可能低调处理的案件升级为政治典型，延长拘留时间或加重刑期（该罪最高可判15年）。\nX上多位用户批评这种操作“把她送上祭坛”，因为当局已掌握部分信息，高调曝光只会坐实罪名，而非减轻。\n\n2. 忽略家属意愿，增加家庭压力\n声援行动未充分征得张雅迪家属同意（如母亲），反而公开批评家属“配合当局”或“这届家长不行”，这可能导致当局进一步施压家属（如监视或胁迫认罪），并让张雅迪在狱中更孤立无援。 一位X用户指出，这种“猪队友”行为会“害死人”，因为它绕过亲友，直接制造国际事件。\n当然，高调声援也有正面意图（如国际关注可能带来外交压力），但在当前中国司法环境下（政治案件独立性低），负面风险往往更大。类似案例（如其他留学生因海外言论被捕）显示，低调、专业营救（如通过外交渠道、私下律师协调）更有效。 如果你是她的亲友或关注者，建议优先联系可靠律师或国际组织（如HRW），避免自行放大信息。\n\n3. 政治化处理，减少低调营救机会高调涉及达赖喇嘛、联合国、欧盟等敏感元素，可能让案件从“普通留学生失联”转为“跨国镇压”典型，当局为维护形象而强硬判决（如拒绝对话或延长羁押）。 Human Rights Watch呼吁释放，但也承认当局“恐惧跨民族桥梁”，高调声援可能适得其反。\n对比低调策略：一些人权律师建议先删除相关内容、放缓步调，避免“英雄叙事”转为“罪证堆积”。\n\n4. 对张雅迪个人心理和未来的潜在伤害作为22岁年轻女性，她原本计划9月入读伦敦SOAS大学人类学硕士，高调曝光可能永久影响她的学术/职业路径（如签证、就业黑名单），并加剧狱中心理压力（担心家人安全）。\nX讨论中，有人称这“生吞活剥”一个女孩，利用她的“赤诚理想”做宣传，却不顾风险。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 629,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "被宣判前，不同于尘埃落定。\n\n请看AI对这次海外声援张雅迪的评论。\n\nFrom AI:\n\n在张雅迪（也称Tara Zhang https://t.co/1uwzhLx4ab"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5805,
+          "following_count": 975,
+          "like_count": 45873,
+          "listed_count": 17,
+          "media_count": 943,
+          "tweet_count": 7763
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T15:55:07.000Z",
+        "description": "五千年专制到此告一段落，个人崇拜从今可以休矣！我殷切的期望，中国的异议群体在未来的日子里，能够改变目前这样的一盘散沙，各自为战，能忍则忍，不能忍也能忍的状态，能够坚定起来担当责任，勇敢的向独裁者的监狱方向挺进，向群体的组织化方向挺进，必要的话，也应该考虑如何尽快的转入地下。 …………………….余志坚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E9%B2%9C%E4%…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@%E9%B2%9C%E4%BA%8E%E6%A1%82%E5%A8%A5",
+                "start": 0,
+                "url": "https://t.co/zLI3L5khaD"
+              }
+            ]
+          }
+        },
+        "id": "1485279708325556227",
+        "location": "美国印第安那州",
+        "name": "鲜于桂娥（备用号）",
+        "pinned_tweet_id": "1676390752845168640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1485285728779128845/uK71iN5B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6889,
+          "following_count": 428,
+          "like_count": 10611,
+          "listed_count": 19,
+          "media_count": 2522,
+          "tweet_count": 7891
+        },
+        "url": "https://t.co/zLI3L5khaD",
+        "username": "xianguie1",
+        "verified": true
+      }
+    ]
+  }
+}

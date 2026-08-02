@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062718120083750912"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2062718131202847059",
+    "created_at": "2026-06-05T02:08:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T03:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062718131202847059"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UOE3iLzjeV",
+          "end": 39,
+          "expanded_url": "https://x.com/sss_1713/status/2062718131202847059/photo/1",
+          "media_key": "3_2062718120083750912",
+          "start": 16,
+          "url": "https://t.co/UOE3iLzjeV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062718131202847059",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小茂密占领世界了(=^x^=) https://t.co/UOE3iLzjeV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1206,
+        "media_key": "3_2062718120083750912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKA_M5NagAAWIuo.jpg",
+        "width": 2622
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062718120083750912"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2062718131202847059",
+        "created_at": "2026-06-05T02:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T03:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062718131202847059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UOE3iLzjeV",
+              "end": 39,
+              "expanded_url": "https://x.com/sss_1713/status/2062718131202847059/photo/1",
+              "media_key": "3_2062718120083750912",
+              "start": 16,
+              "url": "https://t.co/UOE3iLzjeV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062718131202847059",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小茂密占领世界了(=^x^=) https://t.co/UOE3iLzjeV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5873,
+          "following_count": 750,
+          "like_count": 49168,
+          "listed_count": 18,
+          "media_count": 994,
+          "tweet_count": 8674
+        },
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

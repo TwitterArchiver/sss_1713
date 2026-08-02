@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2057420105211076714",
+    "created_at": "2026-05-21T11:15:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T12:15:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057420105211076714"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2057048689005273198",
+          "start": 10,
+          "url": "https://t.co/n0SSfSpT9i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057420105211076714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057048689005273198",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "知小礼无大义这一块 https://t.co/n0SSfSpT9i"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18669,
+        "height": 1280,
+        "media_key": "13_2057014648302432256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057014648302432256/img/-qx2-tDlyzug2xjI.jpg",
+        "public_metrics": {
+          "view_count": 149342
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057014648302432256/vid/avc1/320x568/OLaDE8pFRFszEhv3.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057014648302432256/vid/avc1/480x852/B6RpdUkDahQEEoql.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057014648302432256/vid/avc1/720x1280/U3mhyOnH5sRTFfj_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057014648302432256/pl/lVxnfg1zIpvoDbsE.m3u8?v=ea1"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1176,
+        "media_key": "3_2057017232291454976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIv-RjOW4AAuoI4.jpg",
+        "width": 2038
+      },
+      {
+        "height": 1141,
+        "media_key": "3_2057017296686579712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIv-VTHWgAA11PS.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2416,
+        "media_key": "3_2057017904487440384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIv-4rWXoAAvBJZ.jpg",
+        "width": 2747
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2057420105211076714",
+        "created_at": "2026-05-21T11:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057420105211076714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2057048689005273198",
+              "start": 10,
+              "url": "https://t.co/n0SSfSpT9i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057420105211076714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057048689005273198",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "知小礼无大义这一块 https://t.co/n0SSfSpT9i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057014648302432256",
+            "3_2057017232291454976",
+            "3_2057017296686579712",
+            "3_2057017904487440384"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057048689005273198",
+        "created_at": "2026-05-20T10:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057048689005273198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bgMltHhnsv",
+              "end": 152,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2057048689005273198/video/1",
+              "media_key": "13_2057014648302432256",
+              "start": 129,
+              "url": "https://t.co/bgMltHhnsv"
+            },
+            {
+              "display_url": "pic.x.com/bgMltHhnsv",
+              "end": 152,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2057048689005273198/video/1",
+              "media_key": "3_2057017232291454976",
+              "start": 129,
+              "url": "https://t.co/bgMltHhnsv"
+            },
+            {
+              "display_url": "pic.x.com/bgMltHhnsv",
+              "end": 152,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2057048689005273198/video/1",
+              "media_key": "3_2057017296686579712",
+              "start": 129,
+              "url": "https://t.co/bgMltHhnsv"
+            },
+            {
+              "display_url": "pic.x.com/bgMltHhnsv",
+              "end": 152,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2057048689005273198/video/1",
+              "media_key": "3_2057017904487440384",
+              "start": 129,
+              "url": "https://t.co/bgMltHhnsv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057048689005273198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "近日，山东青岛首家山姆超市开业，随后被曝出乱象频繁。\n有网友拍到货架上放着被人吃剩下的牛肋排、喝的只剩下半瓶的饮料、已被开封吃掉一半的鸡肉、一口气扯下好几卷塑料袋的大妈。\n\n还有网友反映，其他顾客没有抢到心仪的商品，就偷自己购物车里的。\n\n网友们对此表示：\n“学到了，原来260元的会员卡是自助餐年卡”\n“这是山姆新出的自助餐模式吗？”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 274,
+          "impression_count": 374224,
+          "like_count": 1382,
+          "quote_count": 41,
+          "reply_count": 349,
+          "retweet_count": 102
+        },
+        "reply_settings": "everyone",
+        "text": "近日，山东青岛首家山姆超市开业，随后被曝出乱象频繁。\n有网友拍到货架上放着被人吃剩下的牛肋排、喝的只剩下半瓶的饮料、已被开封吃掉一半的鸡肉、一口气扯下好几卷塑料袋的大妈。\n\n还有网友反映，其他顾客没有抢到心仪的商品，就偷自己购物车里的。\n\n网友们对此表示： https://t.co/bgMltHhnsv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5805,
+          "following_count": 745,
+          "like_count": 47932,
+          "listed_count": 18,
+          "media_count": 968,
+          "tweet_count": 8404
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2231885,
+          "following_count": 1061,
+          "like_count": 9586,
+          "listed_count": 8761,
+          "media_count": 47194,
+          "tweet_count": 54319
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

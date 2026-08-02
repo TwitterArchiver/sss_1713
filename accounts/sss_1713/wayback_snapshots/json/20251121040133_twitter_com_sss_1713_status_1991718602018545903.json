@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1991318455451283883",
+    "created_at": "2025-11-21T04:01:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T05:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991718602018545903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1794387376384376832",
+          "start": 0,
+          "username": "Starry_Sand_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991718602018545903",
+    "in_reply_to_user_id": "1794387376384376832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991718181753475183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Starry_Sand_ 室内还是很热的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1991318455451283883",
+        "created_at": "2025-11-21T04:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T05:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991718602018545903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794387376384376832",
+              "start": 0,
+              "username": "Starry_Sand_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991718602018545903",
+        "in_reply_to_user_id": "1794387376384376832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991718181753475183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starry_Sand_ 室内还是很热的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794387376384376832",
+        "conversation_id": "1991318455451283883",
+        "created_at": "2025-11-21T03:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T04:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991718181753475183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991718181753475183",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991704399215985018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 应该只有海南才会那么热吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5828,
+          "following_count": 996,
+          "like_count": 45792,
+          "listed_count": 17,
+          "media_count": 927,
+          "tweet_count": 7919
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T15:18:17.000Z",
+        "description": "推特个透明人，也并不想因推特而浪费太多时间。性情乖僻，热爱宗教历史文化；渴望能去各地访问堂口，体验当地圣教会历史文化，也希望能体验不同宗教文化的魅力。愿生活充满希望变美好，无关政治吵架且无特别政治立场、无明显意识形态，比较讨厌无用的吵架对线。通常各个时间会不定时地离线不刷推特、开放或关闭推特空间，非枯燥不刷，敬请谅解。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/105927773",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/105927773",
+                "start": 0,
+                "url": "https://t.co/OPH2VJB6mS"
+              }
+            ]
+          }
+        },
+        "id": "1794387376384376832",
+        "location": "中国大陆 UTC+8",
+        "name": "罗耀拉・伊纳爵 ✝︎JHS✝︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991424503721652224/HRYcFilu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1113,
+          "following_count": 1172,
+          "like_count": 129904,
+          "listed_count": 2,
+          "media_count": 3154,
+          "tweet_count": 16290
+        },
+        "url": "https://t.co/OPH2VJB6mS",
+        "username": "Starry_Sand_",
+        "verified": false
+      }
+    ]
+  }
+}

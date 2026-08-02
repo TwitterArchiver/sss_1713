@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2049045956856107287",
+    "created_at": "2026-04-28T11:02:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T12:02:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049081887121940635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049081887121940635",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049045956856107287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 傻逼老师手里有一点权利就会使劲往学生身上使，自己轻飘飘的一句不知道会给学生带来多大的身心负担"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14912,
+        "height": 2796,
+        "media_key": "13_2049031408593797120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049031408593797120/img/_fsi91oP2rlGKeX-.jpg",
+        "public_metrics": {
+          "view_count": 12720
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049031408593797120/vid/avc1/1290x2796/CSDdcoDL5rWnjup8.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049031408593797120/vid/avc1/320x692/R4vFQkNbwCt_AkUh.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049031408593797120/vid/avc1/480x1040/ncVLK7Cs6dBD0JfL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049031408593797120/pl/ilhflsrIV02K9Yt0.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049031408593797120/vid/avc1/720x1560/HgWVnE6TnE45QTeO.mp4"
+          }
+        ],
+        "width": 1290
+      },
+      {
+        "height": 1199,
+        "media_key": "3_2049031408816193537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-fNcgbgAEgN3E.jpg",
+        "width": 565
+      },
+      {
+        "height": 1199,
+        "media_key": "3_2049031408723881984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-fNcKa8AArwzl.jpg",
+        "width": 662
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2049045956856107287",
+        "created_at": "2026-04-28T11:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049081887121940635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049081887121940635",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049045956856107287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 傻逼老师手里有一点权利就会使劲往学生身上使，自己轻飘飘的一句不知道会给学生带来多大的身心负担"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049031408593797120",
+            "3_2049031408816193537",
+            "3_2049031408723881984"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2049045956856107287",
+        "created_at": "2026-04-28T08:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T09:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049045956856107287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zdzi1gb4KP",
+              "end": 147,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2049045956856107287/video/1",
+              "media_key": "13_2049031408593797120",
+              "start": 124,
+              "url": "https://t.co/Zdzi1gb4KP"
+            },
+            {
+              "display_url": "pic.x.com/Zdzi1gb4KP",
+              "end": 147,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2049045956856107287/video/1",
+              "media_key": "3_2049031408816193537",
+              "start": 124,
+              "url": "https://t.co/Zdzi1gb4KP"
+            },
+            {
+              "display_url": "pic.x.com/Zdzi1gb4KP",
+              "end": 147,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2049045956856107287/video/1",
+              "media_key": "3_2049031408723881984",
+              "start": 124,
+              "url": "https://t.co/Zdzi1gb4KP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049045956856107287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 26491,
+          "like_count": 151,
+          "quote_count": 7,
+          "reply_count": 54,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "4月27日，江西南昌。一名小学生只因忘记带跳绳，被老师罚抄中学手册30遍，学生坐在桌前崩溃大哭。\n\n近日，黑龙江一名中学生，被老师罚抄10000遍英语单词，凌晨三点她才抄完。\n\n4月11日，贵州一小学生只因忘记带书，被老师罚抄100遍“我要带书” https://t.co/Zdzi1gb4KP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5802,
+          "following_count": 1031,
+          "like_count": 47246,
+          "listed_count": 18,
+          "media_count": 938,
+          "tweet_count": 8158
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2210733,
+          "following_count": 1037,
+          "like_count": 9446,
+          "listed_count": 8681,
+          "media_count": 45903,
+          "tweet_count": 52991
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2054173320028053696",
+    "created_at": "2026-05-12T12:14:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T13:14:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054173320028053696"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dw_chinese/sta…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/dw_chinese/status/2054135493227663468",
+          "start": 29,
+          "url": "https://t.co/CLQKHykcOt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054173320028053696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054135493227663468",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "神他妈“谢谢领导”，自己都当市长了还要用这种口吻来媚上。 https://t.co/CLQKHykcOt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2054135448750989312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHBTq9XIAAZwXY.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2054173320028053696",
+        "created_at": "2026-05-12T12:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T13:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054173320028053696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dw_chinese/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/dw_chinese/status/2054135493227663468",
+              "start": 29,
+              "url": "https://t.co/CLQKHykcOt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054173320028053696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054135493227663468",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神他妈“谢谢领导”，自己都当市长了还要用这种口吻来媚上。 https://t.co/CLQKHykcOt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054135448750989312"
+          ]
+        },
+        "author_id": "143810986",
+        "conversation_id": "2054135493227663468",
+        "created_at": "2026-05-12T09:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T10:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054135493227663468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mpo5XneXfr",
+              "end": 156,
+              "expanded_url": "https://x.com/dw_chinese/status/2054135493227663468/photo/1",
+              "media_key": "3_2054135448750989312",
+              "start": 133,
+              "url": "https://t.co/mpo5XneXfr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054135493227663468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "【涉非法替中国政府宣传 加州华裔市长认罪、下台】\n美国加州一名华裔市长王爱琳（Eileen Wang，音译）遭联邦法院以“在美国境内非法充当外国政府代理人”罪名起诉。美国司法部周一（11日）表示，王爱琳已同意认罪，并辞去市长职务，相关罪名最高可判处10年联邦监禁。\n\n58岁的王爱琳于2022年11月当选加州亚凯迪亚（Arcadia）市议员，并于今年2月出任市长。起诉文件指出，王爱琳与同伙孙耀宁（Yaoning “Mike” Sun，音译）于2020年底至2022年间共同经营名为“U.S. News Center”的网站，表面上是面向美国华人社群的新闻平台，实际上则依中国官员指示发布亲中内容。\n\n例如，2021年6月，一名中国官员透过微信向王爱琳等人传送预先撰写的文章，其中包括一篇刊登于《洛杉矶时报》的评论文章，内容声称“新疆从未发生种族灭绝，也不存在强迫劳动”。王爱琳在收到讯息数分钟后，便将文章转发至自己的新闻网站，并将连结回传给该名官员。同年8月，王爱琳等人再度依中国官员要求刊登文章，并回传显示文章浏览量达1.5万次的截图。该官员回覆“太好了”，王爱琳则回应：“谢谢领导。”\n\n根据认罪协议，王爱琳承认自己未依法向美国司法部申报中国代理人身分，也未揭露网站部分内容是依中国政府官员指示刊登。她预计近日在洛杉矶联邦法院出庭，并将于未来数周正式认罪。\n\n美国FBI反间谍和间谍部门助理局长罗扎夫斯基（Roman Rozhavsky）表示： “王爱琳本人承认，她曾秘密为中国政府的利益服务......这应该是一个明确的警告：任何代表外国政府干预我们民主制度的人都将被查明、调查并绳之以法。”\n\n王爱琳的律师则发表声明表示，她已认知到指控的严重性，并愿意为“过去个人的错误”负责。 “她对自己在私人生活中犯下的错误感到抱歉与懊悔，但她对亚凯迪亚社区的热爱与投入从未改变，也未曾动摇。”\n\n2022年曾为王爱琳助选、共同经营新闻平台的同伙孙耀宁（Yaoning Sun）去年10月*已针对非法充当中国代理人认罪*，目前正在服4年联邦刑期。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 7805,
+          "like_count": 64,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "【涉非法替中国政府宣传 加州华裔市长认罪、下台】\n美国加州一名华裔市长王爱琳（Eileen Wang，音译）遭联邦法院以“在美国境内非法充当外国政府代理人”罪名起诉。美国司法部周一（11日）表示，王爱琳已同意认罪，并辞去市长职务，相关罪名最高可判处10年联邦监禁。 https://t.co/mpo5XneXfr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5796,
+          "following_count": 1039,
+          "like_count": 47560,
+          "listed_count": 18,
+          "media_count": 941,
+          "tweet_count": 8240
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-14T13:16:33.000Z",
+        "description": "德国之声中文官方推特：德国国际广播电台中文资讯服务，来自德国，介绍德国，聚焦华语区时政、经济、社会新闻，为您提供多媒体信息服务、背景报道、观点评论。欢迎积极参与互动!https://t.co/sd6bL3bDrv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/dwlegalnotice",
+                "end": 106,
+                "expanded_url": "http://bit.ly/dwlegalnotice",
+                "start": 83,
+                "url": "https://t.co/sd6bL3bDrv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dw.com/chinese",
+                "end": 23,
+                "expanded_url": "http://www.dw.com/chinese",
+                "start": 0,
+                "url": "https://t.co/MJXQ2XoxI2"
+              }
+            ]
+          }
+        },
+        "id": "143810986",
+        "location": "德国 波恩",
+        "name": "DW 中文- 德国之声",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799009694549413888/a4GIoJOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381620,
+          "following_count": 11,
+          "like_count": 398,
+          "listed_count": 5515,
+          "media_count": 15996,
+          "tweet_count": 84733
+        },
+        "url": "https://t.co/MJXQ2XoxI2",
+        "username": "dw_chinese",
+        "verified": true
+      }
+    ]
+  }
+}

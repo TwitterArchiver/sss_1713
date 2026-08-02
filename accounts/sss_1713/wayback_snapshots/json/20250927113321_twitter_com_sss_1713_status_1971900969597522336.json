@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1971868426647097821",
+    "created_at": "2025-09-27T11:33:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T12:33:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971900969597522336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1794387376384376832",
+          "start": 0,
+          "username": "Starry_Sand_"
+        },
+        {
+          "end": 26,
+          "id": "1600462056464867329",
+          "start": 14,
+          "username": "FarParadise"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971900969597522336",
+    "in_reply_to_user_id": "1794387376384376832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971874099225153802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Starry_Sand_ @FarParadise 🥲只有我没进去西什库吗，正好赶上中午关门"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1971868426647097821",
+        "created_at": "2025-09-27T11:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T12:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971900969597522336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794387376384376832",
+              "start": 0,
+              "username": "Starry_Sand_"
+            },
+            {
+              "end": 26,
+              "id": "1600462056464867329",
+              "start": 14,
+              "username": "FarParadise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971900969597522336",
+        "in_reply_to_user_id": "1794387376384376832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971874099225153802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starry_Sand_ @FarParadise 🥲只有我没进去西什库吗，正好赶上中午关门"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794387376384376832",
+        "conversation_id": "1971868426647097821",
+        "created_at": "2025-09-27T09:46:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T10:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971874099225153802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600462056464867329",
+              "start": 0,
+              "username": "FarParadise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971874099225153802",
+        "in_reply_to_user_id": "1600462056464867329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971868426647097821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FarParadise 不久后我去趟北京总教区朝圣，希望当地的教会也能这样热情邀请我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5806,
+          "following_count": 975,
+          "like_count": 45854,
+          "listed_count": 17,
+          "media_count": 943,
+          "tweet_count": 7755
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T15:18:17.000Z",
+        "description": "只是个透明人，并不想把太多时间浪费在推特上。有些PTSD，性情乖僻，热爱宗教历史文化；渴望能去各地朝圣，以体验当地圣教会的特色文化，也希望能体验到不同宗教的魅力。愿生活充满希望变得美好，无关政治吵架且无特别政治立场、无明显意识形态，比较讨厌无用的吵架对线。通常各个时间会不定时地开放与关闭推特空间，为避免打扰，敬请谅解。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/105927773",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/105927773",
+                "start": 0,
+                "url": "https://t.co/bxMMHQoRSN"
+              }
+            ]
+          }
+        },
+        "id": "1794387376384376832",
+        "location": "中国大陆 UTC+8",
+        "name": "☨̶ 保禄伊纳爵 ♰✝︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971213192832446464/s6-aKhr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 1093,
+          "like_count": 121769,
+          "listed_count": 2,
+          "media_count": 2900,
+          "tweet_count": 15247
+        },
+        "url": "https://t.co/bxMMHQoRSN",
+        "username": "Starry_Sand_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-07T12:07:52.000Z",
+        "description": "跟随主，我的天主，我无忧无惧，什么也不缺。\n\n退步保守，神定秩序。",
+        "id": "1600462056464867329",
+        "location": "索多玛",
+        "name": "小王✝",
+        "pinned_tweet_id": "1971476926662680811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956203071861870592/r5V8lWti_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2633,
+          "following_count": 1528,
+          "like_count": 33588,
+          "listed_count": 7,
+          "media_count": 3176,
+          "tweet_count": 13852
+        },
+        "username": "FarParadise",
+        "verified": false
+      }
+    ]
+  }
+}

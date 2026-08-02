@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2071039918684442921",
+    "created_at": "2026-06-28T04:03:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T05:03:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071081984508698892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1853777198018404352",
+          "start": 0,
+          "username": "huthawar17115"
+        },
+        {
+          "end": 31,
+          "id": "1557541453253038080",
+          "start": 15,
+          "username": "KawawaDiana8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071081984508698892",
+    "in_reply_to_user_id": "1853777198018404352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071071655213085131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huthawar17115 @KawawaDiana8964 有时候真不怪别人骂他们蜘蛛。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2071071655213085131].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2071071655213085131",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2071071655213085131"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2071039918684442921",
+        "created_at": "2026-06-28T04:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T05:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071081984508698892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1853777198018404352",
+              "start": 0,
+              "username": "huthawar17115"
+            },
+            {
+              "end": 31,
+              "id": "1557541453253038080",
+              "start": 15,
+              "username": "KawawaDiana8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071081984508698892",
+        "in_reply_to_user_id": "1853777198018404352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071071655213085131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huthawar17115 @KawawaDiana8964 有时候真不怪别人骂他们蜘蛛。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5914,
+          "following_count": 778,
+          "like_count": 52631,
+          "listed_count": 18,
+          "media_count": 1051,
+          "tweet_count": 9224
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-05T12:32:14.000Z",
+        "description": "Roma catholic🇻🇦☨/欢迎互fo/🚪1919180VND",
+        "id": "1853777198018404352",
+        "location": "距离你4.2光年",
+        "name": "✠葡萄汽水☨🥤🇻🇦",
+        "pinned_tweet_id": "2009624763724136527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023342430033219584/qAux-j0y_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1249,
+          "following_count": 1812,
+          "like_count": 50266,
+          "listed_count": 6,
+          "media_count": 1270,
+          "tweet_count": 16901
+        },
+        "url": "",
+        "username": "huthawar17115",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T01:36:58.000Z",
+        "description": "小蓝(Alan) NE美留一枚\n简中/English/Español/C/Python\nFriendly with everyone except SB,rac!st,支黑谣棍双标\nSUPPORT🇺🇦🇵🇸🇻🇪☮️↙️\n#中推名人评分 DemSoc, MLM\n\n欢迎友好交流(8964=勿转内网)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 116,
+                "start": 109,
+                "tag": "中推名人评分"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/672328094",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/672328094",
+                "start": 0,
+                "url": "https://t.co/wy2TJmPIIJ"
+              }
+            ]
+          }
+        },
+        "id": "1557541453253038080",
+        "location": "Boston Metropolitan Area ",
+        "name": "蓝蓝🫐然然浪浪(🏳️‍🌈🐻🤚🏻 Di Alan Chan)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062898467513532416/hKPNkjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205,
+          "following_count": 750,
+          "like_count": 9696,
+          "listed_count": 8,
+          "media_count": 1151,
+          "tweet_count": 4779
+        },
+        "url": "https://t.co/wy2TJmPIIJ",
+        "username": "KawawaDiana8964",
+        "verified": false
+      }
+    ]
+  }
+}

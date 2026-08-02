@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2069349630434062666",
+    "created_at": "2026-06-23T09:21:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T10:21:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069350081107730692"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069350081107730692",
+    "in_reply_to_user_id": "1254605353838231553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069349630434062666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我好难过，我也不想介入他俩具体有什么矛盾，我也不想站队任何一个，因为我觉得他俩人都很好🥹🥹现在造成的局面是我什么都不知道，还要假装没有矛盾在，最后又没人理我。🥲🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2069349630434062666",
+        "created_at": "2026-06-23T09:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069350081107730692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069350081107730692",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069349630434062666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我好难过，我也不想介入他俩具体有什么矛盾，我也不想站队任何一个，因为我觉得他俩人都很好🥹🥹现在造成的局面是我什么都不知道，还要假装没有矛盾在，最后又没人理我。🥲🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2069349630434062666",
+        "created_at": "2026-06-23T09:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069349630434062666"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069349630434062666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎，好心酸，三个人的友谊里面有两个人闹矛盾，一个就退小群，我作为群里仅剩的两个人的其中一个就很尴尬，俩人和好之后我又把那一个拉进群，现在不知道又怎么另一个又退群了，我又是还在群里的那一个。🥹🥹你们闹矛盾甚至宁愿出走都不带我吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5912,
+          "following_count": 775,
+          "like_count": 52166,
+          "listed_count": 18,
+          "media_count": 1041,
+          "tweet_count": 9150
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

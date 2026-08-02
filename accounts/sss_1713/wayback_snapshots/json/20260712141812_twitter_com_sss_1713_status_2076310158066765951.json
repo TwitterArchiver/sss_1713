@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2076310158066765951",
+    "created_at": "2026-07-12T14:18:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T15:18:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076310158066765951"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bros_of_salots…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/bros_of_salotsa/status/2076128663423385814",
+          "start": 23,
+          "url": "https://t.co/mkfMHVmmyV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076310158066765951",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076128663423385814",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "上次见这人还是在steam钢4的创意工坊里。 https://t.co/mkfMHVmmyV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2076128661036834816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM_kBHUboAAQ7C4.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2076310158066765951",
+        "created_at": "2026-07-12T14:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076310158066765951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bros_of_salots…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/bros_of_salotsa/status/2076128663423385814",
+              "start": 23,
+              "url": "https://t.co/mkfMHVmmyV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076310158066765951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076128663423385814",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上次见这人还是在steam钢4的创意工坊里。 https://t.co/mkfMHVmmyV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076128661036834816"
+          ]
+        },
+        "author_id": "1652627644012449792",
+        "conversation_id": "2076128663423385814",
+        "created_at": "2026-07-12T02:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T03:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076128663423385814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZU3NmNqzjM",
+              "end": 169,
+              "expanded_url": "https://x.com/Bros_of_SalotSa/status/2076128663423385814/photo/1",
+              "media_key": "3_2076128661036834816",
+              "start": 146,
+              "url": "https://t.co/ZU3NmNqzjM"
+            },
+            {
+              "display_url": "x.com/Bros_of_SalotS…",
+              "end": 193,
+              "expanded_url": "https://twitter.com/Bros_of_SalotSa/status/2076125898542289256",
+              "start": 170,
+              "url": "https://t.co/xaPgwUchJY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076128663423385814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1773,
+          "like_count": 5,
+          "quote_count": 8,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076125898542289256",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我作为一个革命观察家！痛心疾首！\n\n很多网左意淫和母人一起为革命战斗的情景是不存在的！起码在母人被资本消费主义异化的现代不存在！\n你说你想干革命\n母人想的是当军阀姨太太\n你说劳动最光荣\n母人想的是在席梦思上给有钱人把逼日的卷边\n你在宣传组织革命\n母人反手给你举报\n\n无产阶级，醒来吧，革命！ https://t.co/ZU3NmNqzjM https://t.co/xaPgwUchJY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5971,
+          "following_count": 794,
+          "like_count": 54569,
+          "listed_count": 18,
+          "media_count": 1085,
+          "tweet_count": 9466
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-30T10:55:17.000Z",
+        "description": "是本人，前面两个号都被“共产主义同志”背刺弄没了\n\n操你妈！连我的尖锐意见都容忍不了，玩举报是吧？\n\n你们这逼觉悟还共你妈逼呢！\n\n别让老子逮到你们这些披着共产主义皮的社自民小反革命，还有脸一口一个“同志”？走着瞧，共产主义一定会胜利的，共产之后杀你们全家！",
+        "id": "1652627644012449792",
+        "location": "列宁墓旁",
+        "name": "十月烽火",
+        "pinned_tweet_id": "1655991228054540288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655989181989154818/TEpVepMa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1267,
+          "following_count": 60,
+          "like_count": 27,
+          "listed_count": 9,
+          "media_count": 81,
+          "tweet_count": 560
+        },
+        "url": "",
+        "username": "Bros_of_SalotSa",
+        "verified": false
+      }
+    ]
+  }
+}

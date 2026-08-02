@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057713791786524672",
+        "3_2057713791828389888"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2057713810073657811",
+    "created_at": "2026-05-22T06:42:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T07:42:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057713810073657811"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IKaLoUH8RE",
+          "end": 41,
+          "expanded_url": "https://x.com/sss_1713/status/2057713810073657811/photo/1",
+          "media_key": "3_2057713791786524672",
+          "start": 18,
+          "url": "https://t.co/IKaLoUH8RE"
+        },
+        {
+          "display_url": "pic.x.com/IKaLoUH8RE",
+          "end": 41,
+          "expanded_url": "https://x.com/sss_1713/status/2057713810073657811/photo/1",
+          "media_key": "3_2057713791828389888",
+          "start": 18,
+          "url": "https://t.co/IKaLoUH8RE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057713810073657811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "故意杀人+奸淫幼女=死刑减刑释放？ https://t.co/IKaLoUH8RE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2921,
+        "media_key": "3_2057713791786524672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI53ypjboAAlm5t.jpg",
+        "width": 1053
+      },
+      {
+        "height": 2318,
+        "media_key": "3_2057713791828389888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI53yptacAAeSZo.jpg",
+        "width": 1053
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057713791786524672",
+            "3_2057713791828389888"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2057713810073657811",
+        "created_at": "2026-05-22T06:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T07:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057713810073657811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IKaLoUH8RE",
+              "end": 41,
+              "expanded_url": "https://x.com/sss_1713/status/2057713810073657811/photo/1",
+              "media_key": "3_2057713791786524672",
+              "start": 18,
+              "url": "https://t.co/IKaLoUH8RE"
+            },
+            {
+              "display_url": "pic.x.com/IKaLoUH8RE",
+              "end": 41,
+              "expanded_url": "https://x.com/sss_1713/status/2057713810073657811/photo/1",
+              "media_key": "3_2057713791828389888",
+              "start": 18,
+              "url": "https://t.co/IKaLoUH8RE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057713810073657811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "故意杀人+奸淫幼女=死刑减刑释放？ https://t.co/IKaLoUH8RE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5805,
+          "following_count": 746,
+          "like_count": 47991,
+          "listed_count": 18,
+          "media_count": 971,
+          "tweet_count": 8419
+        },
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

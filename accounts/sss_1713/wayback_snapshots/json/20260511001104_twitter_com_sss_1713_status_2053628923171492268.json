@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053628909334450176"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2053628923171492268",
+    "created_at": "2026-05-11T00:11:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T01:11:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053628923171492268"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QRJIuDVbdq",
+          "end": 42,
+          "expanded_url": "https://x.com/sss_1713/status/2053628923171492268/photo/1",
+          "media_key": "3_2053628909334450176",
+          "start": 19,
+          "url": "https://t.co/QRJIuDVbdq"
+        },
+        {
+          "display_url": "x.com/sss_1713/statu…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/sss_1713/status/2053497193064173976",
+          "start": 43,
+          "url": "https://t.co/3lcLSOgum1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053628923171492268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053497193064173976",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当时的那道题，不知道从哪篇外刊摘取的 https://t.co/QRJIuDVbdq https://t.co/3lcLSOgum1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1847,
+        "media_key": "3_2053628909334450176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH_0nMlaUAARPLy.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053628909334450176"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2053628923171492268",
+        "created_at": "2026-05-11T00:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T01:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053628923171492268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QRJIuDVbdq",
+              "end": 42,
+              "expanded_url": "https://x.com/sss_1713/status/2053628923171492268/photo/1",
+              "media_key": "3_2053628909334450176",
+              "start": 19,
+              "url": "https://t.co/QRJIuDVbdq"
+            },
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/sss_1713/status/2053497193064173976",
+              "start": 43,
+              "url": "https://t.co/3lcLSOgum1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053628923171492268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053497193064173976",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当时的那道题，不知道从哪篇外刊摘取的 https://t.co/QRJIuDVbdq https://t.co/3lcLSOgum1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2053497193064173976",
+        "created_at": "2026-05-10T15:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053497193064173976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2053346796278108579",
+              "start": 61,
+              "url": "https://t.co/hSjhHKGUgg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053497193064173976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 209,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053346796278108579",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😂如果真放“港独”、“台独”歌也没人能听出来，我们学校甚至给我们做过宣传神韵的英语题，就是轮子那个神韵😂也没一个人看出来 https://t.co/hSjhHKGUgg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5798,
+          "following_count": 1038,
+          "like_count": 47463,
+          "listed_count": 18,
+          "media_count": 942,
+          "tweet_count": 8233
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

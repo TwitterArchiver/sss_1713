@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058931440461783040"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058931489048555694",
+    "created_at": "2026-05-25T15:21:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T16:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058931489048555694"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OTlvL9rLFx",
+          "end": 177,
+          "expanded_url": "https://x.com/sss_1713/status/2058931489048555694/photo/1",
+          "media_key": "3_2058931440461783040",
+          "start": 154,
+          "url": "https://t.co/OTlvL9rLFx"
+        },
+        {
+          "display_url": "x.com/sss_1713/statu…",
+          "end": 201,
+          "expanded_url": "https://twitter.com/sss_1713/status/2058740026708832336",
+          "start": 178,
+          "url": "https://t.co/WQC3ImuLth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058931489048555694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058740026708832336",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就可能很多人不知道外网有一种很微妙的景象：\n名字后面挂🇨🇳＋互fo，主页IP显示“China”，然后每天高强度转发一些意义不明的“正能量”视频，内容既不像正常交流，也不像真实表达，反而更像某种流水线式外宣模板，并且正常上推的人ip都不会在“China”\n\n以为这样做能给自己脸上贴金，实际就是在污染网络环境 https://t.co/OTlvL9rLFx https://t.co/WQC3ImuLth"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2460,
+        "media_key": "3_2058931440461783040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLLPIWboAA4YFX.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058931440461783040"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058931489048555694",
+        "created_at": "2026-05-25T15:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058931489048555694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OTlvL9rLFx",
+              "end": 177,
+              "expanded_url": "https://x.com/sss_1713/status/2058931489048555694/photo/1",
+              "media_key": "3_2058931440461783040",
+              "start": 154,
+              "url": "https://t.co/OTlvL9rLFx"
+            },
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 201,
+              "expanded_url": "https://twitter.com/sss_1713/status/2058740026708832336",
+              "start": 178,
+              "url": "https://t.co/WQC3ImuLth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058931489048555694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058740026708832336",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就可能很多人不知道外网有一种很微妙的景象：\n名字后面挂🇨🇳＋互fo，主页IP显示“China”，然后每天高强度转发一些意义不明的“正能量”视频，内容既不像正常交流，也不像真实表达，反而更像某种流水线式外宣模板，并且正常上推的人ip都不会在“China”\n\n以为这样做能给自己脸上贴金，实际就是在污染网络环境 https://t.co/OTlvL9rLFx https://t.co/WQC3ImuLth"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2058740026708832336",
+        "created_at": "2026-05-25T02:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T03:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058740026708832336"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058740026708832336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 22551,
+          "like_count": 351,
+          "quote_count": 3,
+          "reply_count": 97,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我对推特昵称后面只带🇨🇳的人第一印象会很差……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5836,
+          "following_count": 750,
+          "like_count": 48244,
+          "listed_count": 18,
+          "media_count": 978,
+          "tweet_count": 8474
+        },
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

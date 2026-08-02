@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2070157169237041337",
+    "created_at": "2026-06-25T15:02:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T16:02:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070160762052735432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843201902550634496",
+          "start": 0,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070160762052735432",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070157169237041337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LwrDHYyuxR22499 言出法随。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 116200,
+        "height": 640,
+        "media_key": "7_2070156701672865792",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2070156701672865792/pu/img/pnWL-uExtYuMTvhT.jpg",
+        "public_metrics": {
+          "view_count": 35
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070156701672865792/pu/vid/avc1/320x568/oukWlNNvkgrUgrGi.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070156701672865792/pu/vid/avc1/360x640/NGq3TOHA5eNTqtNX.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2070156701672865792/pu/pl/G1bAmX5G66Kthf-N.m3u8?tag=12"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2070157169237041337",
+        "created_at": "2026-06-25T15:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T16:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070160762052735432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070160762052735432",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070157169237041337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 言出法随。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2070156701672865792"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2070157169237041337",
+        "created_at": "2026-06-25T14:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T15:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070157169237041337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "本次连夜赶往学校调查，不逃避责任，只为还原真相, 视频播放量 278387、弹幕量 1218、点赞数 14216、投硬币枚数 1929、收藏人数 1588、转发人数 594, 视频作者 健身华哥, 作者简介 百日彭于晏招募中 选手报名?:huage9231@163.com 教官招募?:huage9117@163.com 以行动传递全民健身，相关视频：百万网红演假剧本宣传戒网瘾学校？还打孩子造谣？，良子发病大骂健哥是骗子，500减肥是骗局自己才跑的，李维刚力挺华哥认为华哥虽然玩剧本但是人不错，揭露为网瘾学校背书的健身华哥背后的资本方，全网曝光健身华哥的所作所为（上），闹大了！军训教官棍打脚踹学生后续，教官被停职，武装部介入调查。，什么？百万正能量网红PT健身华哥竟然和我这个。。。，【陈欣然弑母案】囚禁母亲8天虐其致死：“我不后悔，帮凶也有错”，我们花了三年时间，把这群恶人送进监狱！【温柔JUNZ】，戒网瘾学校改名“青少年叛逆管教机构”，教官进家门强制绑走学生",
+              "display_url": "b23.tv/7QqFRiE",
+              "end": 129,
+              "expanded_url": "http://b23.tv/7QqFRiE",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2070154730970710016/ZwqBQ1Th?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2070154730970710016/ZwqBQ1Th?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 106,
+              "status": 200,
+              "title": "本次连夜赶往学校调查，不逃避责任，只为还原真相_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1ws7h6uE8j/?buvid=XX1A77012D6D9DBA9AD8EA19DE179051E9F69&from_spmid=search.search-result.0.0&is_story_h5=false&mid=uoPk00%2FaqGZAX%2Bn59NDimH8FTQ%2FSZMtL1rElX6M3iMo%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=3edb76e1-4f32-46f4-ac97-629ffe5cc52a&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1782398068&unique_k=7QqFRiE&up_id=1667026531",
+              "url": "https://t.co/2VGDxBVZ0G"
+            },
+            {
+              "display_url": "pic.x.com/idY2lYX4qj",
+              "end": 153,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2070157169237041337/video/1",
+              "media_key": "7_2070156701672865792",
+              "start": 130,
+              "url": "https://t.co/idY2lYX4qj"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2069737466488369247",
+              "start": 154,
+              "url": "https://t.co/EdRz6LNfA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070157169237041337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069737466488369247",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“健身华哥”已道歉\n官方承诺三十天内清场并解散学员\n“健身华哥”会全资处理这件事情\n不过真的会蠢到在学校里问孩子有没有遭受虐待吗?\n下附自媒体链接:\n【本次连夜赶往学校调查，不逃避责任，只为还原真相-哔哩哔哩】 https://t.co/2VGDxBVZ0G https://t.co/idY2lYX4qj https://t.co/EdRz6LNfA3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5912,
+          "following_count": 776,
+          "like_count": 52427,
+          "listed_count": 18,
+          "media_count": 1044,
+          "tweet_count": 9190
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6015,
+          "following_count": 3261,
+          "like_count": 3514,
+          "listed_count": 19,
+          "media_count": 472,
+          "tweet_count": 3167
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

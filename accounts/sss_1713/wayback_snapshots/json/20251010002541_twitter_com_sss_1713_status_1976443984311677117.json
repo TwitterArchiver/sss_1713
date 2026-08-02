@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1976214034606326068",
+    "created_at": "2025-10-10T00:25:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T01:25:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976443984311677117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1853777198018404352",
+          "start": 0,
+          "username": "huthawar17115"
+        },
+        {
+          "end": 23,
+          "id": "1873105262971887616",
+          "start": 15,
+          "username": "yly1229"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976443984311677117",
+    "in_reply_to_user_id": "1853777198018404352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976256838678262063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huthawar17115 @yly1229 不是天主教的，是三自的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1976214034606326068",
+        "created_at": "2025-10-10T00:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T01:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976443984311677117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1853777198018404352",
+              "start": 0,
+              "username": "huthawar17115"
+            },
+            {
+              "end": 23,
+              "id": "1873105262971887616",
+              "start": 15,
+              "username": "yly1229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976443984311677117",
+        "in_reply_to_user_id": "1853777198018404352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976256838678262063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huthawar17115 @yly1229 不是天主教的，是三自的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853777198018404352",
+        "conversation_id": "1976214034606326068",
+        "created_at": "2025-10-09T12:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T13:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976256838678262063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            },
+            {
+              "end": 18,
+              "id": "1873105262971887616",
+              "start": 10,
+              "username": "yly1229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976256838678262063",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976245294707933364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 @yly1229 😰也是够出生的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5809,
+          "following_count": 972,
+          "like_count": 45831,
+          "listed_count": 17,
+          "media_count": 943,
+          "tweet_count": 7773
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-05T12:32:14.000Z",
+        "description": "天主教✝️/欢迎互fo/🚪1919180VND",
+        "id": "1853777198018404352",
+        "name": "坂下葡萄汽水🥤🇻🇦✝️",
+        "pinned_tweet_id": "1914251129963286853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940273123896561664/5uvFE0k1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 1218,
+          "like_count": 28042,
+          "listed_count": 5,
+          "media_count": 668,
+          "tweet_count": 8798
+        },
+        "username": "huthawar17115",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-28T20:34:44.000Z",
+        "description": "愿世界和平 再无泪水\n\n只是记录生活 派系或意见不同的不要和我对打 烦 谁也说服不了谁₍₍ (̨̡ ‾᷄ᗣ‾᷅ )̧̢ ₎₎\n\n把反人类 虐杀等等当玩笑的……就请不要和我说话 闹麻了…… \n\nfo的推文我有可能漏刷了 ……૮ o̴̶̷᷄ ·̫ o̴̶̷̥᷅ ა",
+        "id": "1873105262971887616",
+        "name": "六月六",
+        "pinned_tweet_id": "1974056787906343133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971732545818841088/b1QfNGry_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 98,
+          "like_count": 1019,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 445
+        },
+        "username": "yly1229",
+        "verified": false
+      }
+    ]
+  }
+}

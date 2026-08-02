@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1951283149901636090",
+    "created_at": "2025-08-02T10:57:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T11:57:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951598228538835266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1917695669550108672",
+          "start": 0,
+          "username": "zzyreform19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951598228538835266",
+    "in_reply_to_user_id": "1917695669550108672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951283149901636090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzyreform19 炒币"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1951283149901636090",
+        "created_at": "2025-08-02T10:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T11:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951598228538835266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1917695669550108672",
+              "start": 0,
+              "username": "zzyreform19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951598228538835266",
+        "in_reply_to_user_id": "1917695669550108672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951283149901636090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzyreform19 炒币"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917695669550108672",
+        "conversation_id": "1951283149901636090",
+        "created_at": "2025-08-01T14:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T15:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951283149901636090"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951283149901636090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7924,
+          "like_count": 147,
+          "quote_count": 1,
+          "reply_count": 34,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "中推核心出装\n简政\n搬石\n看皇\n炒作\n请补充"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJo6NX"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5789,
+          "following_count": 973,
+          "like_count": 46059,
+          "listed_count": 18,
+          "media_count": 945,
+          "tweet_count": 7724
+        },
+        "url": "https://t.co/Z7RPjJo6NX",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-30T21:42:03.000Z",
+        "description": "原名赵修业，河南滑县人，1919年10月生，1932年3月加入中国共产主义青年团，1937年参加革命工作，1938年2月加入中国共产党，中国共产党和中华人民共和国的第二代主要领导人之一。曾任中共中央总书记，中共中央军委副主席，国家中央军委副主席，国务院总理，中央财经领导小组组长，国务院科技领导小组组长。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cppcc.gov.cn",
+                "end": 23,
+                "expanded_url": "http://cppcc.gov.cn",
+                "start": 0,
+                "url": "https://t.co/doCYhKzCKM"
+              }
+            ]
+          }
+        },
+        "id": "1917695669550108672",
+        "location": "河南滑县",
+        "name": "赵紫阳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948304729433341952/j6vypWgH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 248,
+          "like_count": 3635,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 1353
+        },
+        "url": "https://t.co/doCYhKzCKM",
+        "username": "zzyreform19",
+        "verified": false
+      }
+    ]
+  }
+}

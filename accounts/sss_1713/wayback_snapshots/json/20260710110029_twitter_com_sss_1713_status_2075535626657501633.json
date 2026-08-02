@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2075259283013534004",
+    "created_at": "2026-07-10T11:00:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T12:00:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075535626657501633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2019987652796407808",
+          "start": 0,
+          "username": "Yang91699Yang"
+        },
+        {
+          "end": 27,
+          "id": "1978032792383709184",
+          "start": 15,
+          "username": "Sabrina8964"
+        },
+        {
+          "end": 44,
+          "id": "1754227609930735616",
+          "start": 28,
+          "username": "lilisan18991118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075535626657501633",
+    "in_reply_to_user_id": "2019987652796407808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075519830074257542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yang91699Yang @Sabrina8964 @lilisan18991118 咱俩一个宿舍吗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2075259283013534004",
+        "created_at": "2026-07-10T11:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075535626657501633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2019987652796407808",
+              "start": 0,
+              "username": "Yang91699Yang"
+            },
+            {
+              "end": 27,
+              "id": "1978032792383709184",
+              "start": 15,
+              "username": "Sabrina8964"
+            },
+            {
+              "end": 44,
+              "id": "1754227609930735616",
+              "start": 28,
+              "username": "lilisan18991118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075535626657501633",
+        "in_reply_to_user_id": "2019987652796407808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075519830074257542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yang91699Yang @Sabrina8964 @lilisan18991118 咱俩一个宿舍吗。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019987652796407808",
+        "conversation_id": "2075259283013534004",
+        "created_at": "2026-07-10T09:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T10:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075519830074257542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1978032792383709184",
+              "start": 0,
+              "username": "Sabrina8964"
+            },
+            {
+              "end": 29,
+              "id": "1754227609930735616",
+              "start": 13,
+              "username": "lilisan18991118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075519830074257542",
+        "in_reply_to_user_id": "1978032792383709184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075518968228708795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sabrina8964 @lilisan18991118 舍敌每晚准时三角洲启动平均五分钟鬼叫一声谁敢闻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5958,
+          "following_count": 792,
+          "like_count": 54391,
+          "listed_count": 18,
+          "media_count": 1078,
+          "tweet_count": 9425
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-07T04:12:54.000Z",
+        "description": "一个伊凡的宝宝的诞生/1sTTPD/超美丽实习中/拉瑞安你再不出新作我就要枯萎了",
+        "id": "2019987652796407808",
+        "location": "Rivellon",
+        "name": "(｡ì _ í｡)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069399074458202112/eA2Ldur__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 147,
+          "like_count": 701,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 146
+        },
+        "url": "",
+        "username": "Yang91699Yang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T09:39:22.000Z",
+        "description": "想吃屌是一种处境",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "girledm.com",
+                "end": 23,
+                "expanded_url": "https://girledm.com",
+                "start": 0,
+                "url": "https://t.co/Wbnd5PNLGq"
+              }
+            ]
+          }
+        },
+        "id": "1978032792383709184",
+        "location": "我要让所有虚伪的人都看清自己",
+        "name": "恋爱中的女孩为何如此悲伤",
+        "pinned_tweet_id": "2060029359701033379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075509655581900800/ou9ZCtqv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 409,
+          "like_count": 27412,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 4901
+        },
+        "url": "https://t.co/Wbnd5PNLGq",
+        "username": "Sabrina8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-04T19:37:25.000Z",
+        "description": "果真如此，那我也真够不幸了，因为我一直在努力摆脱知识分子哲学的毒害。",
+        "id": "1754227609930735616",
+        "location": "中华总工会",
+        "name": "王亚樵",
+        "pinned_tweet_id": "1908531538557288747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074698249479589888/hi27VY1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 1226,
+          "like_count": 54797,
+          "listed_count": 10,
+          "media_count": 1363,
+          "tweet_count": 22254
+        },
+        "url": "",
+        "username": "lilisan18991118",
+        "verified": false
+      }
+    ]
+  }
+}

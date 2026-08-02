@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1980480494916759719",
+    "created_at": "2025-10-21T07:20:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T08:20:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980534747597271194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1548157400632270848",
+          "start": 0,
+          "username": "annayanamisuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980534747597271194",
+    "in_reply_to_user_id": "1548157400632270848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980480494916759719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@annayanamisuki 这他妈啥啊哈哈哈哈哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 853,
+        "media_key": "3_1980480491867308032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3wUg6pXgAADg7F.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1980480494916759719",
+        "created_at": "2025-10-21T07:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T08:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980534747597271194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1548157400632270848",
+              "start": 0,
+              "username": "annayanamisuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980534747597271194",
+        "in_reply_to_user_id": "1548157400632270848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980480494916759719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@annayanamisuki 这他妈啥啊哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980480491867308032"
+          ]
+        },
+        "author_id": "1548157400632270848",
+        "conversation_id": "1980480494916759719",
+        "created_at": "2025-10-21T03:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T04:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980480494916759719"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 0,
+              "normalized_text": "典",
+              "probability": 0.7025,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hczBBPvlsY",
+              "end": 25,
+              "expanded_url": "https://x.com/annayanamisuki/status/1980480494916759719/photo/1",
+              "media_key": "3_1980480491867308032",
+              "start": 2,
+              "url": "https://t.co/hczBBPvlsY"
+            },
+            {
+              "display_url": "x.com/laitonyjiantao…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/laitonyjiantao/status/1980188117253656869",
+              "start": 26,
+              "url": "https://t.co/58xJJ8mzjH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980480494916759719",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1664,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980188117253656869",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "典 https://t.co/hczBBPvlsY https://t.co/58xJJ8mzjH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5817,
+          "following_count": 980,
+          "like_count": 46008,
+          "listed_count": 17,
+          "media_count": 925,
+          "tweet_count": 7814
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-16T04:08:07.000Z",
+        "description": "Alt：@sima_musk｜High Commissioner of @enchenia in North America",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "sima_musk"
+              },
+              {
+                "end": 45,
+                "start": 36,
+                "username": "enchenia"
+              }
+            ]
+          }
+        },
+        "id": "1548157400632270848",
+        "location": "Boston, MA",
+        "name": "韦大厨今天吃两脚羊☭⃠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864175949681401857/nU4COn35_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4260,
+          "following_count": 990,
+          "like_count": 45044,
+          "listed_count": 19,
+          "media_count": 1588,
+          "tweet_count": 7865
+        },
+        "username": "annayanamisuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1976456710404579765",
+    "created_at": "2025-10-10T01:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T02:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976456710404579765"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pear14525902/s…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/pear14525902/status/1976217252673589360",
+          "start": 14,
+          "url": "https://t.co/RpiSF5vzkN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976456710404579765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976217252673589360",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "忆往昔，谁还有元气森林的图 https://t.co/RpiSF5vzkN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976217249020248065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2zvHhbaAAEQ0Fx.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1976456710404579765",
+        "created_at": "2025-10-10T01:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T02:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976456710404579765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pear14525902/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/pear14525902/status/1976217252673589360",
+              "start": 14,
+              "url": "https://t.co/RpiSF5vzkN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976456710404579765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976217252673589360",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "忆往昔，谁还有元气森林的图 https://t.co/RpiSF5vzkN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976217249020248065"
+          ]
+        },
+        "author_id": "1381523094087507974",
+        "conversation_id": "1976217252673589360",
+        "created_at": "2025-10-09T09:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T10:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976217252673589360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 110,
+              "id": "1260553941714186241",
+              "start": 95,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hKiQuFz6Di",
+              "end": 157,
+              "expanded_url": "https://x.com/pear14525902/status/1976217252673589360/photo/1",
+              "media_key": "3_1976217249020248065",
+              "start": 134,
+              "url": "https://t.co/hKiQuFz6Di"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976217252673589360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 272,
+          "impression_count": 663127,
+          "like_count": 1091,
+          "quote_count": 221,
+          "reply_count": 339,
+          "retweet_count": 122
+        },
+        "reply_settings": "everyone",
+        "text": "半年前的今天，是我走出白湖监狱大门重获自由的日子，经过180天的休整，准备正式复出。失联一年多，今天看到好友都在，甚是感动，非常感谢大家不离不弃，接下来，我将与大家共同战斗。坐了一年牢都是拜@whyyoutouzhele所赐，只因给他提供了爆料惨遭其出卖被黑皮咬上。 https://t.co/hKiQuFz6Di"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5809,
+          "following_count": 974,
+          "like_count": 45840,
+          "listed_count": 17,
+          "media_count": 943,
+          "tweet_count": 7776
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-12T08:22:37.000Z",
+        "description": "在美国佛州养老。政治经济学者，现代马克思主义者，新左派，现代毛派。数十次预言成功。支持高福利社会+毒品合法化+自由开明独裁。爱中国人民。人比较复杂介绍不完。tg群：https://t.co/yofG5Z0M7z 个人tg：https://t.co/GShUlP4pC4 长毛象：pear14525。男，双性恋",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/pearfan",
+                "end": 105,
+                "expanded_url": "http://t.me/pearfan",
+                "start": 82,
+                "url": "https://t.co/yofG5Z0M7z"
+              },
+              {
+                "display_url": "t.me/orange113",
+                "end": 134,
+                "expanded_url": "http://t.me/orange113",
+                "start": 111,
+                "url": "https://t.co/GShUlP4pC4"
+              }
+            ]
+          }
+        },
+        "id": "1381523094087507974",
+        "location": "Florida, USA",
+        "name": "🍐老师🔮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1621701647465594882/YyRdZJ5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44169,
+          "following_count": 1423,
+          "like_count": 134205,
+          "listed_count": 192,
+          "media_count": 2615,
+          "tweet_count": 120649
+        },
+        "username": "pear14525902",
+        "verified": false
+      }
+    ]
+  }
+}

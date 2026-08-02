@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2049418544530800934",
+    "created_at": "2026-04-29T09:20:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T10:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049418544530800934"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shaojiull/stat…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/shaojiull/status/2049101067703718185",
+          "start": 34,
+          "url": "https://t.co/2KoEK2lXEC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049418544530800934",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049101067703718185",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😇😇我们至今未知推特究竟发生了什么，出现这么多万达广场和男大弟弟。 https://t.co/2KoEK2lXEC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2049418544530800934",
+        "created_at": "2026-04-29T09:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T10:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049418544530800934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shaojiull/stat…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/shaojiull/status/2049101067703718185",
+              "start": 34,
+              "url": "https://t.co/2KoEK2lXEC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049418544530800934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049101067703718185",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😇😇我们至今未知推特究竟发生了什么，出现这么多万达广场和男大弟弟。 https://t.co/2KoEK2lXEC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1501915925578420228",
+        "conversation_id": "2049101067703718185",
+        "created_at": "2026-04-28T12:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T13:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049101067703718185"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049101067703718185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 77586,
+          "like_count": 471,
+          "quote_count": 1,
+          "reply_count": 137,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "推特这么好的一个软件算是让人机给毁了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5803,
+          "following_count": 1035,
+          "like_count": 47279,
+          "listed_count": 18,
+          "media_count": 940,
+          "tweet_count": 8183
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-10T13:40:45.000Z",
+        "description": "发什么看什么呗",
+        "id": "1501915925578420228",
+        "location": "🚪88",
+        "name": "mio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840020929520513025/qXjrqdVo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162324,
+          "following_count": 32,
+          "like_count": 985,
+          "listed_count": 248,
+          "media_count": 374,
+          "tweet_count": 740
+        },
+        "username": "shaojiull",
+        "verified": false
+      }
+    ]
+  }
+}

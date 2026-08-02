@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2050106110686921206",
+    "created_at": "2026-05-01T06:52:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T07:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050106110686921206"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2049805975884833062",
+          "start": 9,
+          "url": "https://t.co/JpIyaLn4s3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050106110686921206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049805975884833062",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只要有宗教就敏感 https://t.co/JpIyaLn4s3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2049480913998974976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHE4CFzaEAAHFBm.jpg",
+        "width": 552
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2050106110686921206",
+        "created_at": "2026-05-01T06:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T07:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050106110686921206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2049805975884833062",
+              "start": 9,
+              "url": "https://t.co/JpIyaLn4s3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050106110686921206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049805975884833062",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只要有宗教就敏感 https://t.co/JpIyaLn4s3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049480913998974976"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049805975884833062",
+        "created_at": "2026-04-30T11:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049805975884833062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8MyH3S1K4s",
+              "end": 116,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2049805975884833062/photo/1",
+              "media_key": "3_2049480913998974976",
+              "start": 93,
+              "url": "https://t.co/8MyH3S1K4s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049805975884833062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 55600,
+          "like_count": 251,
+          "quote_count": 2,
+          "reply_count": 44,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "近日，有网友发帖反映，其大学毕业设计原选题为“敦煌本生故事”相关内容，但在开题阶段被导师要求更换题目。导师给出的理由是该题材“涉及宗教元素，可能存在敏感性，未来存在被反复抽查的风险”。 https://t.co/8MyH3S1K4s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5806,
+          "following_count": 1035,
+          "like_count": 47318,
+          "listed_count": 18,
+          "media_count": 939,
+          "tweet_count": 8190
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2212075,
+          "following_count": 1038,
+          "like_count": 9444,
+          "listed_count": 8703,
+          "media_count": 46042,
+          "tweet_count": 53128
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

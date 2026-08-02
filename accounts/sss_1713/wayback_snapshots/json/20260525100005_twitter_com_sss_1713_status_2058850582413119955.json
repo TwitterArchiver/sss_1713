@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058850565199650816"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2058850582413119955",
+    "created_at": "2026-05-25T10:00:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T11:00:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058850582413119955"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4cKTaLgKyz",
+          "end": 81,
+          "expanded_url": "https://x.com/sss_1713/status/2058850582413119955/photo/1",
+          "media_key": "3_2058850565199650816",
+          "start": 58,
+          "url": "https://t.co/4cKTaLgKyz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058850582413119955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "平时我发自肺腑的话不如一句随口发的吐槽推……莫名其妙的推流，被骂也是应该的，哎，今晚注定不能温和地走入这个良夜了。 https://t.co/4cKTaLgKyz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1143,
+        "media_key": "3_2058850565199650816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKBrkhWYAAr31F.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058850565199650816"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2058850582413119955",
+        "created_at": "2026-05-25T10:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058850582413119955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4cKTaLgKyz",
+              "end": 81,
+              "expanded_url": "https://x.com/sss_1713/status/2058850582413119955/photo/1",
+              "media_key": "3_2058850565199650816",
+              "start": 58,
+              "url": "https://t.co/4cKTaLgKyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058850582413119955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "平时我发自肺腑的话不如一句随口发的吐槽推……莫名其妙的推流，被骂也是应该的，哎，今晚注定不能温和地走入这个良夜了。 https://t.co/4cKTaLgKyz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5824,
+          "following_count": 747,
+          "like_count": 48215,
+          "listed_count": 18,
+          "media_count": 977,
+          "tweet_count": 8471
+        },
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

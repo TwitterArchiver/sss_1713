@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2064665434276950022",
+    "created_at": "2026-06-10T11:11:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T12:11:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064666672678764703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2056215337113382912",
+          "start": 0,
+          "username": "FreeX2222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064666672678764703",
+    "in_reply_to_user_id": "2056215337113382912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064665434276950022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FreeX2222 挣得也是辛苦钱啊……🥲"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 139979,
+        "height": 1080,
+        "media_key": "13_2063377947608989697",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063377947608989697/img/zKzyDPF1nf4by6ph.jpg",
+        "public_metrics": {
+          "view_count": 217491
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063377947608989697/vid/avc1/480x270/amG9pPUroMFlDTG0.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063377947608989697/vid/avc1/640x360/Mi3EiF59SecKvHsu.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063377947608989697/vid/avc1/1280x720/9aphrn2KDYr-Asd5.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063377947608989697/pl/AdGNX81MdWFWrYFP.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2064665434276950022",
+        "created_at": "2026-06-10T11:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064666672678764703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2056215337113382912",
+              "start": 0,
+              "username": "FreeX2222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064666672678764703",
+        "in_reply_to_user_id": "2056215337113382912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064665434276950022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreeX2222 挣得也是辛苦钱啊……🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063377947608989697"
+          ],
+          "media_source_tweet_id": [
+            "2063378093193171369"
+          ]
+        },
+        "author_id": "2056215337113382912",
+        "conversation_id": "2064665434276950022",
+        "created_at": "2026-06-10T11:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064665434276950022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5gB0K654tB",
+              "end": 65,
+              "expanded_url": "https://x.com/himawari_zenra/status/2063378093193171369/video/1",
+              "media_key": "13_2063377947608989697",
+              "start": 42,
+              "url": "https://t.co/5gB0K654tB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064665434276950022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 85,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真是看出来当女优的不容易了 我真的心疼了我操泥水得糊脸上我真是想都不敢想我的法克 https://t.co/5gB0K654tB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5883,
+          "following_count": 755,
+          "like_count": 50113,
+          "listed_count": 18,
+          "media_count": 1004,
+          "tweet_count": 8826
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-18T03:29:24.000Z",
+        "description": "Love forever\n被盗图的骗了别找我\n讨厌我就把手机砸掉\n@FreeX114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 33,
+                "username": "FreeX114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/JustCloudOvO",
+                "end": 23,
+                "expanded_url": "http://t.me/JustCloudOvO",
+                "start": 0,
+                "url": "https://t.co/Tc2lYEQM8o"
+              }
+            ]
+          }
+        },
+        "id": "2056215337113382912",
+        "location": "Tianjin",
+        "name": "FreeX",
+        "pinned_tweet_id": "2061012242796347747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060272213274828800/VOo8qXtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12014,
+          "following_count": 39,
+          "like_count": 2088,
+          "listed_count": 8,
+          "media_count": 95,
+          "tweet_count": 476
+        },
+        "url": "https://t.co/Tc2lYEQM8o",
+        "username": "FreeX2222",
+        "verified": false
+      }
+    ]
+  }
+}

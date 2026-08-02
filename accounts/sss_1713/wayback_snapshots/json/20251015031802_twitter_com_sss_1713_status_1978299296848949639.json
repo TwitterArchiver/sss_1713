@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1978299296848949639",
+    "created_at": "2025-10-15T03:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T04:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978299296848949639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1347265835082141703",
+          "start": 0,
+          "username": "shipin_xiazai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/catholic_bro/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/catholic_bro/status/1961624921131684215",
+          "start": 15,
+          "url": "https://t.co/mHoM0Xr2f5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978299296848949639",
+    "in_reply_to_user_id": "1347265835082141703",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961624921131684215",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shipin_xiazai https://t.co/mHoM0Xr2f5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 76200,
+        "height": 1280,
+        "media_key": "13_1959807021953212416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1959807021953212416/img/yY-Nlc0Ey8tQKjBW.jpg",
+        "public_metrics": {
+          "view_count": 7287
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959807021953212416/vid/avc1/320x568/T77yuVnEiO6uM_68.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959807021953212416/vid/avc1/480x852/b-hgydHHrcQDOV3N.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959807021953212416/vid/avc1/720x1280/ob-N6JMZzo_qq0tV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1959807021953212416/pl/lDeA9bW5LSuNwk44.m3u8?v=8ec"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1978299296848949639",
+        "created_at": "2025-10-15T03:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T04:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978299296848949639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1347265835082141703",
+              "start": 0,
+              "username": "shipin_xiazai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/catholic_bro/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/catholic_bro/status/1961624921131684215",
+              "start": 15,
+              "url": "https://t.co/mHoM0Xr2f5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978299296848949639",
+        "in_reply_to_user_id": "1347265835082141703",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961624921131684215",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shipin_xiazai https://t.co/mHoM0Xr2f5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1959807021953212416"
+          ]
+        },
+        "author_id": "1641817050254327811",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1961624921131684215",
+        "created_at": "2025-08-30T03:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T04:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961624921131684215"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "Pope",
+              "probability": 0.5029,
+              "start": 3,
+              "type": "Person"
+            },
+            {
+              "end": 19,
+              "normalized_text": "John Paul II",
+              "probability": 0.8771,
+              "start": 8,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/54Cna4mqS7",
+              "end": 56,
+              "expanded_url": "https://x.com/Catholic_bro/status/1961624921131684215/video/1",
+              "media_key": "13_1959807021953212416",
+              "start": 33,
+              "url": "https://t.co/54Cna4mqS7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961624921131684215",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 154,
+          "impression_count": 7188,
+          "like_count": 1919,
+          "quote_count": 6,
+          "reply_count": 14,
+          "retweet_count": 258
+        },
+        "reply_settings": "everyone",
+        "text": "St Pope John Paul II pray for us https://t.co/54Cna4mqS7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5818,
+          "following_count": 979,
+          "like_count": 45943,
+          "listed_count": 17,
+          "media_count": 944,
+          "tweet_count": 7816
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-07T19:36:41.000Z",
+        "description": "请在推文中提及@shipin_xiazai 我将在几秒内回复您推特视频下载链接。请关注我 获取通知。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "shipin_xiazai"
+              }
+            ]
+          }
+        },
+        "id": "1347265835082141703",
+        "name": "推特视频下载机器人",
+        "pinned_tweet_id": "1845405735230030239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1627378676424736771/opzBXYEW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475597,
+          "following_count": 0,
+          "like_count": 6,
+          "listed_count": 379,
+          "media_count": 12,
+          "tweet_count": 167108
+        },
+        "username": "shipin_xiazai",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-31T14:57:51.000Z",
+        "description": "Catholic Convert, Husband, Father and Proud Rosary Rattler",
+        "id": "1641817050254327811",
+        "location": "Louisiana, USA",
+        "name": "That Catholic Guy 🇻🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964372777021976576/YOIgvaiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21036,
+          "following_count": 1793,
+          "like_count": 55930,
+          "listed_count": 90,
+          "media_count": 12867,
+          "tweet_count": 57353
+        },
+        "username": "Catholic_bro",
+        "verified": true
+      }
+    ]
+  }
+}

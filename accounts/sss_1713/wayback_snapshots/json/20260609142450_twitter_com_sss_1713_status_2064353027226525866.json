@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "id": "1147215121103503360",
+          "name": "UNESCO"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1147215121103503360",
+          "name": "UNESCO"
+        }
+      }
+    ],
+    "conversation_id": "2064353027226525866",
+    "created_at": "2026-06-09T14:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T15:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064353027226525866"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wuerbangbang/s…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/wuerbangbang/status/2063955475419525423",
+          "start": 45,
+          "url": "https://t.co/onmQ1yx3zc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064353027226525866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063955475419525423",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "令人感叹在主播面对这么多傻逼的时候还能坚持如此理智的科普，知识储备和耐心都是我要学习的🥲 https://t.co/onmQ1yx3zc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2136,
+        "media_key": "3_2063955456905859072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSkjYEaUAAzKs4.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "id": "1147215121103503360",
+              "name": "UNESCO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1147215121103503360",
+              "name": "UNESCO"
+            }
+          }
+        ],
+        "conversation_id": "2064353027226525866",
+        "created_at": "2026-06-09T14:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064353027226525866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wuerbangbang/s…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/wuerbangbang/status/2063955475419525423",
+              "start": 45,
+              "url": "https://t.co/onmQ1yx3zc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064353027226525866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063955475419525423",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "令人感叹在主播面对这么多傻逼的时候还能坚持如此理智的科普，知识储备和耐心都是我要学习的🥲 https://t.co/onmQ1yx3zc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063955456905859072"
+          ]
+        },
+        "author_id": "1677732423667445760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "id": "1147215121103503360",
+              "name": "UNESCO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1147215121103503360",
+              "name": "UNESCO"
+            }
+          }
+        ],
+        "conversation_id": "2063955475419525423",
+        "created_at": "2026-06-08T12:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:43:31.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063950042352824788",
+          "2063955475419525423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tWzy6LTLNF",
+              "end": 173,
+              "expanded_url": "https://x.com/wuerbangbang/status/2063955475419525423/photo/1",
+              "media_key": "3_2063955456905859072",
+              "start": 150,
+              "url": "https://t.co/tWzy6LTLNF"
+            },
+            {
+              "display_url": "x.com/ran_sonic/stat…",
+              "end": 197,
+              "expanded_url": "https://twitter.com/ran_sonic/status/2063932539295904143",
+              "start": 174,
+              "url": "https://t.co/3hGoKjF4Sl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063955475419525423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我发现因为国内自媒体的造谣，许多中国网友对联合国教科文组织的“申遗”政策有重大误解。申遗不是申请商标或专利，根本谈不上“抢占”。UNESCO明确规定：非遗申报没有排他性，不问最早出处，只要有助于体现文化多样性和人类创造力、得到社区的广泛参与和认同，便可申报。2005年韩国端午祭成功申报，2009年中国端午节同样成功申报。你只知道韩国“抢占”，是不是不知道中国2005年申报了木卡姆音乐后，阿塞拜疆、哈萨克斯坦、伊拉克等国也相继成功申报？他们也没骂中国“抢占”啊？你还提到屈原，说明你甚至完全不了解韩国端午祭是什么形态，误以为跟中国端午节是同一个东西，完全听信了自媒体的一面之词；至于泡菜，韩国申请了，中国政府也完全可以申请啊，这是联合国一直鼓励的事啊！\n\n非遗不是一个死的文物，其特点就在于活态性，谁也占不了。联合国教科文组织和各成员国（包括中国）一直承认同一文化可能在多地有不同形态流传，其“源流”往往是多元而非单一的，因此，UNESCO公约明确鼓励拥有同一遗产项目的多个国家联合申报。我搞不懂了：一个联合国和中国政府都支持多元文化共同发展的好政策，怎么被你们在网上搞得好像小孩吵架一样，当不了爸爸就变儿子，这么乌烟瘴气？\n\n顺便回复一下另一个中国网友骂我的“理中客”问题：\n\n这人说什么“你看支持你的都是日韩网友，骂你的都是中国人”。先不说你装瞎看不见比例问题，我看了日韩网友跟帖内容，许多也是承认与中国政府一致的文明交流互鉴的。如果我今天的观点是由中国政府发布而许多日韩网友支持点赞的话，你还会把我骂得狗血淋头吗？回帖的中日韩网友大部分和我一样是理中客，理中客难道不对吗？抗战时毛泽东说过：“中国人民与日本人民是一致的，只有一个敌人，就是日本军国主义与中国的民族败类。”借用这句话的话，那么承认文明交流互鉴的中日韩网友是一致的，共同敌人是用信息差故意混淆视听、用挑拨三国关系收割流量的非蠢即坏的人。你说对不对？\n\n至于谁是非蠢即坏者，我早在第一个帖就说了：比如说中国“偷”日本抹茶的那个日本人（我的帖子下方也有骂他的日本网友），以及说韩国“偷”中国端午节的中国自媒体，等等。我一直旗帜鲜明地反对这种反智的极端民族主义言论。难道这也有错？\n\n傻逼哪都有，当你说“韩国人/日本人认为怎么怎么样”的时候，请你记住中国也有同样的“欧洲是大明殖民地”“中国发明了蒸汽机”的极端民族主义者（如图）。看一个事要看矛盾主要方面和次要方面，你每天花大量时间跟最傻逼的那群人天天骂战，当然会感觉全世界都是要抢中国文化的大爹。我和帖子下方其他日韩的理中客你不团结，甚至也要骂，难道不知道毛泽东有句话叫“把拥护我们的人搞得多多的，把反对我们的人搞得少少的”吗？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 19496,
+          "like_count": 327,
+          "quote_count": 12,
+          "reply_count": 54,
+          "retweet_count": 81
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063932539295904143",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我发现因为国内自媒体的造谣，许多中国网友对联合国教科文组织的“申遗”政策有重大误解。申遗不是申请商标或专利，根本谈不上“抢占”。UNESCO明确规定：非遗申报没有排他性，不问最早出处，只要有助于体现文化多样性和人类创造力、得到社区的广泛参与和认同，便可申报。2005年韩国端午祭成功申报，2009年 https://t.co/tWzy6LTLNF https://t.co/3hGoKjF4Sl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5882,
+          "following_count": 753,
+          "like_count": 49867,
+          "listed_count": 18,
+          "media_count": 1005,
+          "tweet_count": 8814
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T17:32:43.000Z",
+        "description": "北大中文本硕，苗族，民俗学博士，国家博物馆前馆员。文史艺术、书画篆刻、三俗烂梗、旅游爱好者。对世界有旺盛的探索欲，喜欢有趣的人🤒PhDing of folklore, graduated from @PKU1898, Miao,  lover of history, heritage, art & tour🪭🐾",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 99,
+                "username": "PKU1898"
+              }
+            ]
+          }
+        },
+        "id": "1677732423667445760",
+        "location": "跳回三界内，待在五行中。",
+        "name": "吴二棒",
+        "pinned_tweet_id": "2011619057360126001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010919161988595713/rE9mkr0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11031,
+          "following_count": 968,
+          "like_count": 18887,
+          "listed_count": 46,
+          "media_count": 2804,
+          "tweet_count": 9016
+        },
+        "username": "wuerbangbang",
+        "verified": true
+      }
+    ]
+  }
+}

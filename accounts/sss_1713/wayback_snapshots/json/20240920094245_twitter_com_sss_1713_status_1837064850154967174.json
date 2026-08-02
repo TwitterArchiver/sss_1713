@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1836693292517568603",
+    "created_at": "2024-09-20T09:42:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T10:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837064850154967174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837064850154967174",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836693292517568603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 在中国有些东西好像要天生就要知道，但有些东西，即使知道了也要被迫遗忘。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1836693292517568603",
+        "created_at": "2024-09-20T09:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T10:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837064850154967174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837064850154967174",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836693292517568603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 在中国有些东西好像要天生就要知道，但有些东西，即使知道了也要被迫遗忘。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1836692769194356736",
+            "3_1836692779134746624",
+            "3_1836692794225934336"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1836693292517568603",
+        "created_at": "2024-09-19T09:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T10:05:56.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836693194995794320",
+          "1836693292517568603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mvkg2nmo1p",
+              "end": 84,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1836693292517568603/video/1",
+              "media_key": "7_1836692769194356736",
+              "start": 61,
+              "url": "https://t.co/mvKG2nmo1P"
+            },
+            {
+              "display_url": "pic.x.com/mvkg2nmo1p",
+              "end": 84,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1836693292517568603/video/1",
+              "media_key": "3_1836692779134746624",
+              "start": 61,
+              "url": "https://t.co/mvKG2nmo1P"
+            },
+            {
+              "display_url": "pic.x.com/mvkg2nmo1p",
+              "end": 84,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1836693292517568603/video/1",
+              "media_key": "3_1836692794225934336",
+              "start": 61,
+              "url": "https://t.co/mvKG2nmo1P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836693292517568603",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 602484,
+          "like_count": 1317,
+          "quote_count": 25,
+          "reply_count": 287,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "9月18日，拥有41万粉丝的网红“娟子爱吃”在直播时调侃918为618，称不关注这些。随后该网红直播间被封，账号被禁言。 https://t.co/mvKG2nmo1P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "锈叶🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5665,
+          "following_count": 1008,
+          "like_count": 46286,
+          "listed_count": 20,
+          "tweet_count": 7561
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 107,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 84,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1515412903356256275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1718372,
+          "following_count": 920,
+          "like_count": 5300,
+          "listed_count": 7744,
+          "tweet_count": 22926
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

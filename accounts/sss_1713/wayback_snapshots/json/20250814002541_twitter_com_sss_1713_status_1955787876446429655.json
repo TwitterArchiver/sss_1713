@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1955554875364044960",
+    "created_at": "2025-08-14T00:25:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T01:25:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955787876446429655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "757398339167981568",
+          "start": 0,
+          "username": "MankindFuture88"
+        },
+        {
+          "end": 26,
+          "id": "1790370144755351552",
+          "start": 17,
+          "username": "FurinaDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955787876446429655",
+    "in_reply_to_user_id": "757398339167981568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955571521063457229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MankindFuture88 @FurinaDF 看着不像日本像某党🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1955571515615059968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyOV7rEboAAQlmd.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1955554875364044960",
+        "created_at": "2025-08-14T00:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T01:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955787876446429655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "757398339167981568",
+              "start": 0,
+              "username": "MankindFuture88"
+            },
+            {
+              "end": 26,
+              "id": "1790370144755351552",
+              "start": 17,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955787876446429655",
+        "in_reply_to_user_id": "757398339167981568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955571521063457229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MankindFuture88 @FurinaDF 看着不像日本像某党🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955571515615059968"
+          ]
+        },
+        "author_id": "757398339167981568",
+        "conversation_id": "1955554875364044960",
+        "created_at": "2025-08-13T10:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T11:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955571521063457229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1790370144755351552",
+              "start": 0,
+              "username": "FurinaDF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/biYN0hkzuh",
+              "end": 39,
+              "expanded_url": "https://x.com/MankindFuture88/status/1955571521063457229/photo/1",
+              "media_key": "3_1955571515615059968",
+              "start": 16,
+              "url": "https://t.co/biYN0hkzuh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955571521063457229",
+        "in_reply_to_user_id": "1790370144755351552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 10590,
+          "like_count": 212,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955554875364044960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FurinaDF 又要出這張 https://t.co/biYN0hkzuh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJo6NX"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5794,
+          "following_count": 973,
+          "like_count": 46085,
+          "listed_count": 18,
+          "media_count": 947,
+          "tweet_count": 7744
+        },
+        "url": "https://t.co/Z7RPjJo6NX",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-25T02:13:30.000Z",
+        "description": "香港🇭🇰出身，以邏輯和人性琢磨人類的未來，與及和極權戰鬥，求互fo；HongKonger, Shaping the human future and fighting against totalitarianism with logic and humanity, will follows back.",
+        "id": "757398339167981568",
+        "location": "Earth",
+        "name": "人類存活研究所 Mankind future",
+        "pinned_tweet_id": "1712109336338846029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740059195020599296/TbJ9LMgl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1941,
+          "following_count": 1197,
+          "like_count": 6297,
+          "listed_count": 20,
+          "media_count": 1303,
+          "tweet_count": 9561
+        },
+        "username": "MankindFuture88",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "你知道“古德莉莉安”是谁吗？你知道“神奈川冲浪里”怎么读吗？@yongchuTaffyOwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "yongchuTaffyOwO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "http://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/69nE3RLjhg"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "pinned_tweet_id": "1953675964153471332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41484,
+          "following_count": 2295,
+          "like_count": 28045,
+          "listed_count": 105,
+          "media_count": 6140,
+          "tweet_count": 10504
+        },
+        "url": "https://t.co/69nE3RLjhg",
+        "username": "FurinaDF",
+        "verified": true
+      }
+    ]
+  }
+}

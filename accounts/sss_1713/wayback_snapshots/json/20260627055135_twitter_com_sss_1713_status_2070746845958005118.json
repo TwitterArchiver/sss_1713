@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2070746845958005118",
+    "created_at": "2026-06-27T05:51:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T06:51:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070746845958005118"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sss_1713/statu…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/sss_1713/status/1698703552258998761",
+          "start": 14,
+          "url": "https://t.co/fW4PxqgvlX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070746845958005118",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1698703552258998761",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁把我23年推文翻出来了。 https://t.co/fW4PxqgvlX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2070746845958005118",
+        "created_at": "2026-06-27T05:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070746845958005118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/sss_1713/status/1698703552258998761",
+              "start": 14,
+              "url": "https://t.co/fW4PxqgvlX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070746845958005118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1698703552258998761",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁把我23年推文翻出来了。 https://t.co/fW4PxqgvlX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1698703552258998761",
+        "created_at": "2023-09-04T14:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2023-09-04T15:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1698703552258998761"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1698703552258998761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 80698,
+          "like_count": 944,
+          "quote_count": 15,
+          "reply_count": 69,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "有个同学，割腕没死成，做手术缝了几针之后，他妈第一句话是：“以后不能当兵了”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5909,
+          "following_count": 776,
+          "like_count": 52558,
+          "listed_count": 18,
+          "media_count": 1050,
+          "tweet_count": 9215
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

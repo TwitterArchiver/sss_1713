@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2073043043255787835",
+    "created_at": "2026-07-03T15:18:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T16:18:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073063863365283961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1895409226220228608",
+          "start": 0,
+          "username": "tsf_fst40736"
+        },
+        {
+          "end": 27,
+          "id": "1907971199524810752",
+          "start": 14,
+          "username": "kaohanachang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073063863365283961",
+    "in_reply_to_user_id": "1895409226220228608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073054914440466820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsf_fst40736 @kaohanachang 上面不是说这个计划已经关闭了吗，如果你想用这张图说明西藏有国外势力扶持的话🫪🫪（只是提出这个疑问，没有恶意）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 741,
+        "media_key": "3_2073054553206095872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMT4IfPbAAAR36C.jpg",
+        "width": 1182
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2073043043255787835",
+        "created_at": "2026-07-03T15:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073063863365283961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1895409226220228608",
+              "start": 0,
+              "username": "tsf_fst40736"
+            },
+            {
+              "end": 27,
+              "id": "1907971199524810752",
+              "start": 14,
+              "username": "kaohanachang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073063863365283961",
+        "in_reply_to_user_id": "1895409226220228608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073054914440466820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsf_fst40736 @kaohanachang 上面不是说这个计划已经关闭了吗，如果你想用这张图说明西藏有国外势力扶持的话🫪🫪（只是提出这个疑问，没有恶意）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073054553206095872"
+          ]
+        },
+        "author_id": "1895409226220228608",
+        "conversation_id": "2073043043255787835",
+        "created_at": "2026-07-03T14:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T15:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073054914440466820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907971199524810752",
+              "start": 0,
+              "username": "kaohanachang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MZNdqgNw3j",
+              "end": 111,
+              "expanded_url": "https://x.com/tsf_fst40736/status/2073054914440466820/photo/1",
+              "media_key": "3_2073054553206095872",
+              "start": 88,
+              "url": "https://t.co/MZNdqgNw3j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073054914440466820",
+        "in_reply_to_user_id": "1907971199524810752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073043043255787835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaohanachang 没有从绝大部分底层老百姓的利益出发的任何政治、军事行动，注定是失败的，哪怕你们有国外势力的扶持，哪怕你们有冠冕堂皇的理由，哪怕你们长期掌握话语权。 https://t.co/MZNdqgNw3j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5926,
+          "following_count": 785,
+          "like_count": 53448,
+          "listed_count": 18,
+          "media_count": 1051,
+          "tweet_count": 9262
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-28T09:42:43.000Z",
+        "description": "False online public opinion can not change the world, the media network discussion may only increase or lower their IQ.\n  仁者见仁智者见智\n  三人行，必有我师\n  和气生财",
+        "id": "1895409226220228608",
+        "name": "信天游",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 15,
+          "like_count": 94,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 1287
+        },
+        "url": "",
+        "username": "tsf_fst40736",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-04T01:39:26.000Z",
+        "description": "专骂和泰的皮帽子！（操你大爷和泰们不要再炸我的号！）",
+        "id": "1907971199524810752",
+        "name": "你民考汉东突一姐",
+        "pinned_tweet_id": "2032650316081148407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967436097342033920/1R--ORp1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 291,
+          "like_count": 13031,
+          "listed_count": 14,
+          "media_count": 302,
+          "tweet_count": 10116
+        },
+        "url": "",
+        "username": "kaohanachang",
+        "verified": false
+      }
+    ]
+  }
+}

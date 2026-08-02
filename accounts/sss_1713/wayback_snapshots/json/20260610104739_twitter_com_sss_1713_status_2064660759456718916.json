@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2064635772033204425",
+    "created_at": "2026-06-10T10:47:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T11:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064660759456718916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1696518778799190016",
+          "start": 0,
+          "username": "xixiong78951197"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064660759456718916",
+    "in_reply_to_user_id": "1696518778799190016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064659808607711513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixiong78951197 说你自己呢，就你还包蜜呢上来给老子扣个织女帽子，你不是傻逼谁是傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2064635772033204425",
+        "created_at": "2026-06-10T10:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064660759456718916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1696518778799190016",
+              "start": 0,
+              "username": "xixiong78951197"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064660759456718916",
+        "in_reply_to_user_id": "1696518778799190016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064659808607711513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixiong78951197 说你自己呢，就你还包蜜呢上来给老子扣个织女帽子，你不是傻逼谁是傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696518778799190016",
+        "conversation_id": "2064635772033204425",
+        "created_at": "2026-06-10T10:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064659808607711513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064659808607711513",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064659213801173000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 1.本包蜜没有攻击你，只是客观描述\n2.你大概率不算人，即使是攻击，也不是人身攻击。是畜生攻击"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5883,
+          "following_count": 755,
+          "like_count": 50096,
+          "listed_count": 18,
+          "media_count": 1004,
+          "tweet_count": 8824
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-29T13:42:59.000Z",
+        "description": "熟悉我的都知道我是资深包蜜。Fucking shameless and wicked Chinks",
+        "id": "1696518778799190016",
+        "name": "xixiong是习龘龘忠实的包蜜(大阿亚图版)",
+        "pinned_tweet_id": "1992417493085045013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047685014117384192/6PNnU4cn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6693,
+          "following_count": 1411,
+          "like_count": 237,
+          "listed_count": 43,
+          "media_count": 12902,
+          "tweet_count": 43869
+        },
+        "username": "xixiong78951197",
+        "verified": false
+      }
+    ]
+  }
+}

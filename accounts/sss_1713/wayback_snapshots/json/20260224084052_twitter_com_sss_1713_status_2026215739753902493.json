@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2026215739753902493",
+    "created_at": "2026-02-24T08:40:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T09:40:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026215739753902493"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mcdonalds/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/mcdonalds/status/2018232924022153413",
+          "start": 5,
+          "url": "https://t.co/ilum5aiHtV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026215739753902493",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018232924022153413",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "馋死我。 https://t.co/ilum5aiHtV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2026215739753902493",
+        "created_at": "2026-02-24T08:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T09:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026215739753902493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mcdonalds/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/mcdonalds/status/2018232924022153413",
+              "start": 5,
+              "url": "https://t.co/ilum5aiHtV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026215739753902493",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018232924022153413",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "馋死我。 https://t.co/ilum5aiHtV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "71026122",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026319212",
+              "name": "McDonald's"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026319212",
+              "name": "McDonald's"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "S&P 500",
+              "id": "864154902926196737",
+              "name": "S&P 500"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026319212",
+              "name": "McDonald's"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026319212",
+              "name": "McDonald's"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2018232924022153413",
+        "created_at": "2026-02-02T08:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T09:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018232924022153413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018232924022153413",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 2369377,
+          "like_count": 192,
+          "quote_count": 12,
+          "reply_count": 23,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "when something TOP calls, i’m answerin"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5852,
+          "following_count": 1016,
+          "like_count": 46520,
+          "listed_count": 18,
+          "media_count": 938,
+          "tweet_count": 8079
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-02T17:46:43.000Z",
+        "description": "grimace is a close personal friend of mine",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "McDonalds.com",
+                "end": 23,
+                "expanded_url": "http://McDonalds.com",
+                "start": 0,
+                "url": "https://t.co/Cxbhlk9ER7"
+              }
+            ]
+          }
+        },
+        "id": "71026122",
+        "name": "McDonald's",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020880845507379200/ezM5YO2b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4571814,
+          "following_count": 12880,
+          "like_count": 26902,
+          "listed_count": 9493,
+          "media_count": 8953,
+          "tweet_count": 926572
+        },
+        "url": "https://t.co/Cxbhlk9ER7",
+        "username": "McDonalds",
+        "verified": true
+      }
+    ]
+  }
+}

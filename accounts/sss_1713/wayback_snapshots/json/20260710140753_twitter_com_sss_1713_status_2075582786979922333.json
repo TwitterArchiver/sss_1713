@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075582772698353664"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2075582786979922333",
+    "created_at": "2026-07-10T14:07:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T15:07:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075582786979922333"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vSM8cN8nZR",
+          "end": 99,
+          "expanded_url": "https://x.com/sss_1713/status/2075582786979922333/photo/1",
+          "media_key": "3_2075582772698353664",
+          "start": 76,
+          "url": "https://t.co/vSM8cN8nZR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075582786979922333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得人还是要有每时每刻都可可能会去世的觉悟吧，不是悲观，只是清醒的认识到生活是珍贵的。\n\n“其实，关于明天的事，你们还不知道”（雅各伯书 4:14） https://t.co/vSM8cN8nZR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 589,
+        "media_key": "3_2075582772698353664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3ziOybEAAZYwN.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075582772698353664"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2075582786979922333",
+        "created_at": "2026-07-10T14:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T15:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075582786979922333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vSM8cN8nZR",
+              "end": 99,
+              "expanded_url": "https://x.com/sss_1713/status/2075582786979922333/photo/1",
+              "media_key": "3_2075582772698353664",
+              "start": 76,
+              "url": "https://t.co/vSM8cN8nZR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075582786979922333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得人还是要有每时每刻都可可能会去世的觉悟吧，不是悲观，只是清醒的认识到生活是珍贵的。\n\n“其实，关于明天的事，你们还不知道”（雅各伯书 4:14） https://t.co/vSM8cN8nZR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5958,
+          "following_count": 792,
+          "like_count": 54415,
+          "listed_count": 18,
+          "media_count": 1080,
+          "tweet_count": 9435
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      }
+    ]
+  }
+}

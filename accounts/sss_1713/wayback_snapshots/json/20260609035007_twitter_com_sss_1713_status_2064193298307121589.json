@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2064027579716190669",
+    "created_at": "2026-06-09T03:50:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T04:50:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064193298307121589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1682625054092193795",
+          "start": 0,
+          "username": "zzzzzz65826"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064193298307121589",
+    "in_reply_to_user_id": "1682625054092193795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064189445604364381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzzzzz65826 待会他们就来让你养退休老人和少数群体了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2064027579716190669",
+        "created_at": "2026-06-09T03:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064193298307121589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1682625054092193795",
+              "start": 0,
+              "username": "zzzzzz65826"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064193298307121589",
+        "in_reply_to_user_id": "1682625054092193795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064189445604364381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzzzzz65826 待会他们就来让你养退休老人和少数群体了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682625054092193795",
+        "conversation_id": "2064027579716190669",
+        "created_at": "2026-06-09T03:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064189445604364381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064189445604364381",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064027579716190669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 他们真的和社达一样 一点儿生命尊重没有 不让家庭有负担我能理解 如果出生后因为不能独立生活 对社会无价值就要被杀掉 这次是杀残障人士 下一次就是杀退休老人 再下一次就是杀各种少数群体 谁能保证下一次杀的不是自己。。。。如果真的要论社会价值 底层人民能活几天。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5877,
+          "following_count": 752,
+          "like_count": 49701,
+          "listed_count": 18,
+          "media_count": 1004,
+          "tweet_count": 8798
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T05:34:17.000Z",
+        "description": "这是一个文字推。\n10 高一坐牢\n私信先发照片看看脸/也可以和我畅聊人生\n不聊色情不聊擦边不聊政治\n投缘可以加微信（仅限男初男高 女生也可以）",
+        "id": "1682625054092193795",
+        "name": "zzzz",
+        "pinned_tweet_id": "2061084487375839628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953482918891835394/Z4KkdrJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 16,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 235
+        },
+        "username": "zzzzzz65826",
+        "verified": false
+      }
+    ]
+  }
+}

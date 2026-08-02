@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2073434204894122222",
+    "created_at": "2026-07-06T12:29:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T13:29:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074108400066027900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2065669356818960386",
+          "start": 0,
+          "username": "hulatanghaohe66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074108400066027900",
+    "in_reply_to_user_id": "2065669356818960386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074103996000899540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hulatanghaohe66 古老的人物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2073434204894122222",
+        "created_at": "2026-07-06T12:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T13:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074108400066027900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2065669356818960386",
+              "start": 0,
+              "username": "hulatanghaohe66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074108400066027900",
+        "in_reply_to_user_id": "2065669356818960386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074103996000899540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hulatanghaohe66 古老的人物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065669356818960386",
+        "conversation_id": "2073434204894122222",
+        "created_at": "2026-07-06T12:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T13:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074103996000899540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074103996000899540",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074102091065573808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 是。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5936,
+          "following_count": 789,
+          "like_count": 53784,
+          "listed_count": 18,
+          "media_count": 1059,
+          "tweet_count": 9310
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-13T05:36:34.000Z",
+        "description": "百分百互Fo",
+        "id": "2065669356818960386",
+        "name": "落云成书（百分百互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072979240153382912/qctSfZQQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 104,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 49
+        },
+        "url": "",
+        "username": "hulatanghaohe66",
+        "verified": false
+      }
+    ]
+  }
+}

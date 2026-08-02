@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2075881132256788902",
+    "created_at": "2026-07-11T09:53:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T10:53:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075881132256788902"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sss_1713/statu…",
+          "end": 116,
+          "expanded_url": "https://twitter.com/sss_1713/status/2075874543017807951",
+          "start": 93,
+          "url": "https://t.co/gN3vEZZLUg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075881132256788902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075874543017807951",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本来还觉得很恬淡。低头一看沙子里全是烟头、瓜子皮和各种垃圾，旁边的垃圾桶也是破的。大海不属于任何人，于是有些人便觉得自己也不必对它负责。海还是那片海，只是有些人的公德心，被潮水冲走了。 https://t.co/gN3vEZZLUg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2075881132256788902",
+        "created_at": "2026-07-11T09:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T10:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075881132256788902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/sss_1713/status/2075874543017807951",
+              "start": 93,
+              "url": "https://t.co/gN3vEZZLUg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075881132256788902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075874543017807951",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本来还觉得很恬淡。低头一看沙子里全是烟头、瓜子皮和各种垃圾，旁边的垃圾桶也是破的。大海不属于任何人，于是有些人便觉得自己也不必对它负责。海还是那片海，只是有些人的公德心，被潮水冲走了。 https://t.co/gN3vEZZLUg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2075874543017807951",
+        "created_at": "2026-07-11T09:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T10:24:57.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075873973066469749",
+          "2075874543017807951"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075874543017807951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只是在做我喜欢的事情，打着遮阳伞坐在海边一个安静的长椅上，来了两家没素质的人在旁边大喊大叫并且还扬起来了很多沙子，小男孩还把沙子弄到我鞋子里，抬头一看，都不是很聪明的样子，我直接幸福者退让了。😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5958,
+          "following_count": 793,
+          "like_count": 54459,
+          "listed_count": 18,
+          "media_count": 1081,
+          "tweet_count": 9447
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      }
+    ]
+  }
+}

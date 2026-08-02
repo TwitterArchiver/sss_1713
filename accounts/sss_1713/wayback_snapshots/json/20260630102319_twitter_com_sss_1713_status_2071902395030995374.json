@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2071852531438026786",
+    "created_at": "2026-06-30T10:23:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T11:23:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071902395030995374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2053824487330852865",
+          "start": 0,
+          "username": "RusskiyCvyatoy"
+        },
+        {
+          "end": 28,
+          "id": "1978032792383709184",
+          "start": 16,
+          "username": "Sabrina8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071902395030995374",
+    "in_reply_to_user_id": "2053824487330852865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071880345574580642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RusskiyCvyatoy @Sabrina8964 是个梗啦哈哈哈最开始不是be like嘛，后面可能有人不小心打错了，然后大家玩梗就打成各种词组了，类似把deepseek说成suckdick"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2071852531438026786",
+        "created_at": "2026-06-30T10:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T11:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071902395030995374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2053824487330852865",
+              "start": 0,
+              "username": "RusskiyCvyatoy"
+            },
+            {
+              "end": 28,
+              "id": "1978032792383709184",
+              "start": 16,
+              "username": "Sabrina8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071902395030995374",
+        "in_reply_to_user_id": "2053824487330852865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071880345574580642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusskiyCvyatoy @Sabrina8964 是个梗啦哈哈哈最开始不是be like嘛，后面可能有人不小心打错了，然后大家玩梗就打成各种词组了，类似把deepseek说成suckdick"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053824487330852865",
+        "conversation_id": "2071852531438026786",
+        "created_at": "2026-06-30T08:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T09:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071880345574580642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            },
+            {
+              "end": 22,
+              "id": "1978032792383709184",
+              "start": 10,
+              "username": "Sabrina8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071880345574580642",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071873564438073606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 @Sabrina8964 hyw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5913,
+          "following_count": 782,
+          "like_count": 52906,
+          "listed_count": 18,
+          "media_count": 1056,
+          "tweet_count": 9261
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T13:09:44.000Z",
+        "description": "无限热爱伊玛目霍梅尼、无限崇拜伊玛目哈梅内伊，俩一俩海，银兰拉呼！\n串妮伊斯兰革命总指挥部（Sedes Seditio Islamicae Tranniorum）",
+        "id": "2053824487330852865",
+        "location": "Sankt-Paulsburg, RSFSR",
+        "name": "串妮伊斯兰革命总指挥部",
+        "pinned_tweet_id": "2060020055111287178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069630190095880192/DjdCd_pl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 104,
+          "like_count": 1263,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1478
+        },
+        "url": "",
+        "username": "RusskiyCvyatoy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T09:39:22.000Z",
+        "description": "Only God Was Above Us",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "girledm.com",
+                "end": 23,
+                "expanded_url": "https://girledm.com",
+                "start": 0,
+                "url": "https://t.co/Wbnd5PNLGq"
+              }
+            ]
+          }
+        },
+        "id": "1978032792383709184",
+        "location": "我要让所有虚伪的人都看清自己",
+        "name": "恋爱中的女孩为何如此悲伤",
+        "pinned_tweet_id": "2060029359701033379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069665327097483264/BWXDulXX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 392,
+          "like_count": 24893,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 4431
+        },
+        "url": "https://t.co/Wbnd5PNLGq",
+        "username": "Sabrina8964",
+        "verified": false
+      }
+    ]
+  }
+}

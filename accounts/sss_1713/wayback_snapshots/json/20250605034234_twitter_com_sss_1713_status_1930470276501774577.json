@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1930131745417932800"
+      ],
+      "media_source_tweet_id": [
+        "1930131837591969849"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "1930470276501774577",
+    "created_at": "2025-06-05T03:42:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T04:42:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930470276501774577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "147476095",
+          "start": 3,
+          "username": "ukinchina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/er1CmnCUYJ",
+          "end": 38,
+          "expanded_url": "https://x.com/ukinchina/status/1930131837591969849/video/1",
+          "media_key": "13_1930131745417932800",
+          "start": 15,
+          "url": "https://t.co/er1CmnCUYJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930470276501774577",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8911
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930131837591969849",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ukinchina: https://t.co/er1CmnCUYJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13366,
+        "height": 720,
+        "media_key": "13_1930131745417932800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1930131745417932800/img/yL-iY6NNVsJEPkda.jpg",
+        "public_metrics": {
+          "view_count": 2028481
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930131745417932800/vid/avc1/480x270/2FBLI6fiv1X6NH-_.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930131745417932800/vid/avc1/640x360/T2CfYxnDOYEsz19D.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930131745417932800/vid/avc1/1280x720/avZX7jx7FDF9RvLO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1930131745417932800/pl/scucES5ovmaFshLL.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1930131745417932800"
+          ],
+          "media_source_tweet_id": [
+            "1930131837591969849"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "1930470276501774577",
+        "created_at": "2025-06-05T03:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T04:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930470276501774577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "147476095",
+              "start": 3,
+              "username": "ukinchina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/er1CmnCUYJ",
+              "end": 38,
+              "expanded_url": "https://x.com/ukinchina/status/1930131837591969849/video/1",
+              "media_key": "13_1930131745417932800",
+              "start": 15,
+              "url": "https://t.co/er1CmnCUYJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930470276501774577",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8911
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930131837591969849",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ukinchina: https://t.co/er1CmnCUYJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1930131745417932800"
+          ]
+        },
+        "author_id": "147476095",
+        "conversation_id": "1930131837591969849",
+        "created_at": "2025-06-04T05:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T06:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930131837591969849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/er1CmnCUYJ",
+              "end": 23,
+              "expanded_url": "https://x.com/ukinchina/status/1930131837591969849/video/1",
+              "media_key": "13_1930131745417932800",
+              "start": 0,
+              "url": "https://t.co/er1CmnCUYJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930131837591969849",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4725,
+          "impression_count": 5504276,
+          "like_count": 49125,
+          "quote_count": 1222,
+          "reply_count": 868,
+          "retweet_count": 8911
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/er1CmnCUYJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJo6NX"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5754,
+          "following_count": 1034,
+          "like_count": 46029,
+          "listed_count": 18,
+          "media_count": 938,
+          "tweet_count": 7657
+        },
+        "url": "https://t.co/Z7RPjJo6NX",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-24T07:00:32.000Z",
+        "description": "英国驻华使馆官方推特账号. The official Twitter channel for the British Embassy Beijing.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.uk/world/china",
+                "end": 23,
+                "expanded_url": "http://gov.uk/world/china",
+                "start": 0,
+                "url": "https://t.co/EbH8UsF29y"
+              }
+            ]
+          }
+        },
+        "id": "147476095",
+        "location": "Beijing",
+        "name": "UK in China 🇬🇧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1592411142793592833/pVA7pwob_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57318,
+          "following_count": 205,
+          "like_count": 234,
+          "listed_count": 484,
+          "media_count": 666,
+          "tweet_count": 4258
+        },
+        "url": "https://t.co/EbH8UsF29y",
+        "username": "ukinchina",
+        "verified": true
+      }
+    ]
+  }
+}

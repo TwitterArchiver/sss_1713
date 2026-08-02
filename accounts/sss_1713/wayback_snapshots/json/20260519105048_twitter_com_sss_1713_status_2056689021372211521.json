@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2056686871103799720",
+    "created_at": "2026-05-19T10:50:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T11:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056689021372211521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2050530904645451776",
+          "start": 0,
+          "username": "FreeXfocus"
+        },
+        {
+          "end": 22,
+          "id": "2056215337113382912",
+          "start": 12,
+          "username": "FreeX2222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056689021372211521",
+    "in_reply_to_user_id": "2050530904645451776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056686871103799720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FreeXfocus @FreeX2222 被泥萌晕者…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3220,
+        "height": 1280,
+        "media_key": "13_2056686810856906752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056686810856906752/img/oXviTg-FIC1_hCgm.jpg",
+        "public_metrics": {
+          "view_count": 27
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056686810856906752/vid/avc1/320x568/nXR-4voqNbWKf_fk.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056686810856906752/vid/avc1/480x852/oa03dF1Is1o_dzBp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056686810856906752/vid/avc1/720x1280/hHpx5dUCQs2vyuBX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056686810856906752/pl/oEDcokeWZIG8Dm7d.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2056686871103799720",
+        "created_at": "2026-05-19T10:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T11:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056689021372211521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2050530904645451776",
+              "start": 0,
+              "username": "FreeXfocus"
+            },
+            {
+              "end": 22,
+              "id": "2056215337113382912",
+              "start": 12,
+              "username": "FreeX2222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056689021372211521",
+        "in_reply_to_user_id": "2050530904645451776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056686871103799720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreeXfocus @FreeX2222 被泥萌晕者…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056686810856906752"
+          ]
+        },
+        "author_id": "2050530904645451776",
+        "conversation_id": "2056686871103799720",
+        "created_at": "2026-05-19T10:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T11:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056686871103799720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CJuBO7qE1k",
+              "end": 30,
+              "expanded_url": "https://x.com/FreeXfocus/status/2056686871103799720/video/1",
+              "media_key": "13_2056686810856906752",
+              "start": 7,
+              "url": "https://t.co/CJuBO7qE1k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056686871103799720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 190,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "随手卖萌者！ https://t.co/CJuBO7qE1k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2056686933950996682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5803,
+          "following_count": 753,
+          "like_count": 47705,
+          "listed_count": 18,
+          "media_count": 962,
+          "tweet_count": 8349
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T11:01:48.000Z",
+        "description": "这个世界仍需学习善良与爱\n说一切我想说的\n09女高brat\n@FreeX2222",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "FreeX2222"
+              }
+            ]
+          }
+        },
+        "id": "2050530904645451776",
+        "location": "Tianjin",
+        "name": "FreeX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050531313233620992/aR5f_-4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9250,
+          "following_count": 91,
+          "like_count": 1710,
+          "listed_count": 8,
+          "media_count": 80,
+          "tweet_count": 472
+        },
+        "username": "FreeXfocus",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-18T03:29:24.000Z",
+        "description": "Love forever\n@FreeXfocus",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "FreeXfocus"
+              }
+            ]
+          }
+        },
+        "id": "2056215337113382912",
+        "location": "踏实向好 永远善良",
+        "name": "FreeXpro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056216486721859586/EzaGmuMI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3058,
+          "following_count": 4,
+          "like_count": 66,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 20
+        },
+        "username": "FreeX2222",
+        "verified": false
+      }
+    ]
+  }
+}

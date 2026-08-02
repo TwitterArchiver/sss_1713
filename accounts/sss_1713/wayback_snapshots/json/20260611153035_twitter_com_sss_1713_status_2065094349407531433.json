@@ -1,0 +1,516 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named places in the world, like Fenway Park",
+          "id": "13",
+          "name": "Place"
+        },
+        "entity": {
+          "id": "1285671868519690240",
+          "name": "La Sagrada Familia"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Destinations",
+          "id": "857603051657482241",
+          "name": "Destinations"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1194365176272699392",
+          "name": "Europe travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1285671868519690240",
+          "name": "La Sagrada Familia"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1306984092576002050",
+          "name": "Spain travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "Places of interest, like the Eiffel Tower or a coffee shop",
+          "id": "158",
+          "name": "Points of Interest"
+        },
+        "entity": {
+          "id": "1285671868519690240",
+          "name": "La Sagrada Familia"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Pope Francis",
+          "id": "806597775282421760",
+          "name": "Pope Francis"
+        }
+      }
+    ],
+    "conversation_id": "2065094349407531433",
+    "created_at": "2026-06-11T15:30:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T16:30:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065094349407531433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1922579527517208576",
+          "start": 3,
+          "username": "Pontifex_es"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065094349407531433",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1889
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064814866138116232",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pontifex_es: La belleza del templo de la Sagrada Familia nos anima a aprender cada vez más de nuestro Maestro y Señor el arte de vivir…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named places in the world, like Fenway Park",
+              "id": "13",
+              "name": "Place"
+            },
+            "entity": {
+              "id": "1285671868519690240",
+              "name": "La Sagrada Familia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Destinations",
+              "id": "857603051657482241",
+              "name": "Destinations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1194365176272699392",
+              "name": "Europe travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1285671868519690240",
+              "name": "La Sagrada Familia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1306984092576002050",
+              "name": "Spain travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Places of interest, like the Eiffel Tower or a coffee shop",
+              "id": "158",
+              "name": "Points of Interest"
+            },
+            "entity": {
+              "id": "1285671868519690240",
+              "name": "La Sagrada Familia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Pope Francis",
+              "id": "806597775282421760",
+              "name": "Pope Francis"
+            }
+          }
+        ],
+        "conversation_id": "2065094349407531433",
+        "created_at": "2026-06-11T15:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065094349407531433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1922579527517208576",
+              "start": 3,
+              "username": "Pontifex_es"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065094349407531433",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1889
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064814866138116232",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pontifex_es: La belleza del templo de la Sagrada Familia nos anima a aprender cada vez más de nuestro Maestro y Señor el arte de vivir…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922579527517208576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named places in the world, like Fenway Park",
+              "id": "13",
+              "name": "Place"
+            },
+            "entity": {
+              "id": "1285671868519690240",
+              "name": "La Sagrada Familia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Destinations",
+              "id": "857603051657482241",
+              "name": "Destinations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1194365176272699392",
+              "name": "Europe travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1285671868519690240",
+              "name": "La Sagrada Familia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1306984092576002050",
+              "name": "Spain travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Places of interest, like the Eiffel Tower or a coffee shop",
+              "id": "158",
+              "name": "Points of Interest"
+            },
+            "entity": {
+              "id": "1285671868519690240",
+              "name": "La Sagrada Familia"
+            }
+          }
+        ],
+        "conversation_id": "2064814866138116232",
+        "created_at": "2026-06-10T21:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T22:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064814866138116232"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064814866138116232",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 565,
+                "start": 549,
+                "tag": "ViajeApostólico"
+              },
+              {
+                "end": 573,
+                "start": 566,
+                "tag": "España"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vatican.va/content/leo-xi…",
+                "end": 597,
+                "expanded_url": "https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2026/6/10/spagna-messa-sagrada-familia.html",
+                "start": 574,
+                "url": "https://t.co/rxHaDTdChz"
+              }
+            ]
+          },
+          "text": "La belleza del templo de la Sagrada Familia nos anima a aprender cada vez más de nuestro Maestro y Señor el arte de vivir según su Evangelio. Mientras alzamos la mirada hacia Él, el Crucificado Resucitado, comprometámonos a levantar el rostro de quienes yacen en el polvo (1 Sam 2,8). Y demostremos así que la Sagrada Familia es la iglesia más alta del mundo no para destacar en clasificaciones mundanas, sino para guiar los pasos del pueblo de Dios con la cruz que ilumina el camino, como una lámpara encendida en la espera del regreso del Esposo. #ViajeApostólico #España\nhttps://t.co/rxHaDTdChz"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 260,
+          "impression_count": 233106,
+          "like_count": 13031,
+          "quote_count": 34,
+          "reply_count": 185,
+          "retweet_count": 1889
+        },
+        "reply_settings": "everyone",
+        "text": "La belleza del templo de la Sagrada Familia nos anima a aprender cada vez más de nuestro Maestro y Señor el arte de vivir según su Evangelio. Mientras alzamos la mirada hacia Él, el Crucificado Resucitado, comprometámonos a levantar el rostro de quienes yacen en el polvo (1 Sam"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5884,
+          "following_count": 759,
+          "like_count": 50491,
+          "listed_count": 18,
+          "media_count": 1009,
+          "tweet_count": 8894
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T09:08:35.000Z",
+        "description": "Bienvenidos al perfil oficial de Su Santidad el Papa León XIV.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vatican.va/content/leo-xi…",
+                "end": 23,
+                "expanded_url": "https://www.vatican.va/content/leo-xiv/es.html",
+                "start": 0,
+                "url": "https://t.co/Q2Ss3Xgi65"
+              }
+            ]
+          }
+        },
+        "id": "1922579527517208576",
+        "location": "Ciudad del Vaticano",
+        "name": "Papa León XIV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922579877196079105/fW5QA5rO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16661247,
+          "following_count": 48,
+          "like_count": 0,
+          "listed_count": 326,
+          "media_count": 22,
+          "tweet_count": 766
+        },
+        "url": "https://t.co/Q2Ss3Xgi65",
+        "username": "Pontifex_es",
+        "verified": true
+      }
+    ]
+  }
+}

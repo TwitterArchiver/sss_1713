@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1970072896501665794",
+    "created_at": "2025-09-22T10:29:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T11:29:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970072896501665794"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lilaoshizuikea…",
+          "end": 130,
+          "expanded_url": "https://twitter.com/lilaoshizuikeai/status/1805752635548451318",
+          "start": 107,
+          "url": "https://t.co/v3sfHL7NDJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970072896501665794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805752635548451318",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我们在当今为了追求生活的稳定，又何尝不是帮凶呢，每个人都想让别人挺身而出，好让自己“无痛”享受成功的果实，就像柴玲在八九录像带里说渴望“天安门流血”一样，最后还是大多数人追求稳定生活，把挺身而出的少数人埋没。 https://t.co/v3sfHL7NDJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1018,
+        "media_key": "3_1805752631274397697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQ9Sc2tWYAEadcw.jpg",
+        "width": 504
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1970072896501665794",
+        "created_at": "2025-09-22T10:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T11:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970072896501665794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lilaoshizuikea…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/lilaoshizuikeai/status/1805752635548451318",
+              "start": 107,
+              "url": "https://t.co/v3sfHL7NDJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970072896501665794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805752635548451318",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我们在当今为了追求生活的稳定，又何尝不是帮凶呢，每个人都想让别人挺身而出，好让自己“无痛”享受成功的果实，就像柴玲在八九录像带里说渴望“天安门流血”一样，最后还是大多数人追求稳定生活，把挺身而出的少数人埋没。 https://t.co/v3sfHL7NDJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1805752631274397697"
+          ]
+        },
+        "author_id": "1586332050528915457",
+        "conversation_id": "1805752635548451318",
+        "created_at": "2024-06-25T23:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T00:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805752635548451318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "韩秀是文革中的美国知青，1948年还是婴儿时被陌生人带回中国，此后32年经历了所有主要政治运动。8岁被当成靶子站在天安门广场的火圈里，17岁去山西插队，20岁在文革中逃亡新疆，险些葬身大漠。她的身世特殊，与周恩来和老舍有直接的命运交集。韩秀说，这是她第一次面向大陆背景的观众讲述历史，也将是她最后一次公开谈论往事。...",
+              "display_url": "youtu.be/xQrBGcdUdVg?si…",
+              "end": 29,
+              "expanded_url": "https://youtu.be/xQrBGcdUdVg?si=mpk5cpVpRm_EA7g7",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1969715615444197377/zYihYedX?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1969715615444197377/zYihYedX?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 6,
+              "status": 200,
+              "title": "柴静访谈韩秀：“ 17岁我与周恩来跳舞时，问到那个人，他的表情是鄙夷”",
+              "unwound_url": "https://www.youtube.com/watch?si=mpk5cpVpRm_EA7g7&v=xQrBGcdUdVg&feature=youtu.be",
+              "url": "https://t.co/PwAB5pxs19"
+            },
+            {
+              "display_url": "pic.x.com/Zr7hEotBrC",
+              "end": 53,
+              "expanded_url": "https://x.com/lilaoshizuikeai/status/1805752635548451318/photo/1",
+              "media_key": "3_1805752631274397697",
+              "start": 30,
+              "url": "https://t.co/Zr7hEotBrC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805752635548451318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 262,
+          "impression_count": 361669,
+          "like_count": 2255,
+          "quote_count": 25,
+          "reply_count": 403,
+          "retweet_count": 243
+        },
+        "reply_settings": "everyone",
+        "text": "柴静访谈韩秀https://t.co/PwAB5pxs19 https://t.co/Zr7hEotBrC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5803,
+          "following_count": 974,
+          "like_count": 45867,
+          "listed_count": 18,
+          "media_count": 943,
+          "tweet_count": 7746
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-29T12:20:25.000Z",
+        "description": "与你进退也共鸣",
+        "id": "1586332050528915457",
+        "location": "猴管",
+        "name": "Lee1ng",
+        "pinned_tweet_id": "1657814793439289346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600861407104335873/PIQM5Ii9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247518,
+          "following_count": 671,
+          "like_count": 5455,
+          "listed_count": 1304,
+          "media_count": 1372,
+          "tweet_count": 7040
+        },
+        "username": "lilaoshizuikeai",
+        "verified": true
+      }
+    ]
+  }
+}

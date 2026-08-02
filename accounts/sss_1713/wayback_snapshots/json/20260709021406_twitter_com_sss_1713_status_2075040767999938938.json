@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2075031838993661972",
+    "created_at": "2026-07-09T02:14:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T03:14:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075040767999938938"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075040767999938938",
+    "in_reply_to_user_id": "1254605353838231553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075031838993661972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原来是敏感在习太阳，我现在一看见太阳默认是北韩的那位🌞。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2075031838993661972",
+        "created_at": "2026-07-09T02:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T03:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075040767999938938"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075040767999938938",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075031838993661972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原来是敏感在习太阳，我现在一看见太阳默认是北韩的那位🌞。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2075031838993661972",
+        "created_at": "2026-07-09T01:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T02:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075031838993661972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2075029670748459096",
+              "start": 17,
+              "url": "https://t.co/VJEBXUfmS1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075031838993661972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075029670748459096",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太阳穴不是金正恩撅屁股的梗吗…… https://t.co/VJEBXUfmS1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5948,
+          "following_count": 799,
+          "like_count": 54140,
+          "listed_count": 18,
+          "media_count": 1070,
+          "tweet_count": 9382
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      }
+    ]
+  }
+}

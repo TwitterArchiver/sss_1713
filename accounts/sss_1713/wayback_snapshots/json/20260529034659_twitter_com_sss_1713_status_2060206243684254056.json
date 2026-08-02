@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2060206243684254056",
+    "created_at": "2026-05-29T03:46:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T04:46:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060206243684254056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1277934882027720709",
+          "start": 3,
+          "username": "cmoitibo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060206243684254056",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 257
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060104167905992784",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cmoitibo: Le but de Twitter c’est de parler tout seul jusqu’à ce que quelqu’un te calcule l’appli de schizophrène en vrai"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2060206243684254056",
+        "created_at": "2026-05-29T03:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060206243684254056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1277934882027720709",
+              "start": 3,
+              "username": "cmoitibo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060206243684254056",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 257
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060104167905992784",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cmoitibo: Le but de Twitter c’est de parler tout seul jusqu’à ce que quelqu’un te calcule l’appli de schizophrène en vrai"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1277934882027720709",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2060104167905992784",
+        "created_at": "2026-05-28T21:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T22:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060104167905992784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060104167905992784",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 20748,
+          "like_count": 1720,
+          "quote_count": 7,
+          "reply_count": 15,
+          "retweet_count": 257
+        },
+        "reply_settings": "everyone",
+        "text": "Le but de Twitter c’est de parler tout seul jusqu’à ce que quelqu’un te calcule l’appli de schizophrène en vrai"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5855,
+          "following_count": 750,
+          "like_count": 48583,
+          "listed_count": 18,
+          "media_count": 983,
+          "tweet_count": 8573
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-30T12:00:04.000Z",
+        "description": "procrastineur ambitieux • @PSG_inside",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "PSG_inside"
+              }
+            ]
+          }
+        },
+        "id": "1277934882027720709",
+        "location": "en détente 🏝️ ",
+        "name": "TIBO ☔️",
+        "pinned_tweet_id": "1308442143900536835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802167032848236544/7oXtenIV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44627,
+          "following_count": 954,
+          "like_count": 76337,
+          "listed_count": 48,
+          "media_count": 1240,
+          "tweet_count": 21880
+        },
+        "username": "cmoitibo",
+        "verified": false
+      }
+    ]
+  }
+}

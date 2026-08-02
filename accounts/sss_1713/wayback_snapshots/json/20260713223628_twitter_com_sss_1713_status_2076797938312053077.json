@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076797925452402688"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2076701488433528990",
+    "created_at": "2026-07-13T22:36:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T23:36:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076797938312053077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1486921234700853249",
+          "start": 0,
+          "username": "xyzxy123123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YsSbYNT5Vu",
+          "end": 50,
+          "expanded_url": "https://x.com/sss_1713/status/2076797938312053077/photo/1",
+          "media_key": "3_2076797925452402688",
+          "start": 27,
+          "url": "https://t.co/YsSbYNT5Vu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076797938312053077",
+    "in_reply_to_user_id": "1486921234700853249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076772775587356765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xyzxy123123 确实离谱。🙂‍↕️🙂‍↕️ https://t.co/YsSbYNT5Vu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 703,
+        "media_key": "3_2076797925452402688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNJEtbjb0AAHMOa.jpg",
+        "width": 1034
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076797925452402688"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2076701488433528990",
+        "created_at": "2026-07-13T22:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T23:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076797938312053077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1486921234700853249",
+              "start": 0,
+              "username": "xyzxy123123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YsSbYNT5Vu",
+              "end": 50,
+              "expanded_url": "https://x.com/sss_1713/status/2076797938312053077/photo/1",
+              "media_key": "3_2076797925452402688",
+              "start": 27,
+              "url": "https://t.co/YsSbYNT5Vu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076797938312053077",
+        "in_reply_to_user_id": "1486921234700853249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076772775587356765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyzxy123123 确实离谱。🙂‍↕️🙂‍↕️ https://t.co/YsSbYNT5Vu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486921234700853249",
+        "conversation_id": "2076701488433528990",
+        "created_at": "2026-07-13T20:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T21:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076772775587356765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076772775587356765",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076701488433528990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 新教人士向天主教徒传教 这也太离谱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5979,
+          "following_count": 795,
+          "like_count": 54660,
+          "listed_count": 18,
+          "media_count": 1086,
+          "tweet_count": 9490
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-28T04:38:07.000Z",
+        "description": "",
+        "id": "1486921234700853249",
+        "name": "halo gong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044253206406946816/_bCiohPh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 222,
+          "like_count": 1891,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 879
+        },
+        "url": "",
+        "username": "xyzxy123123",
+        "verified": false
+      }
+    ]
+  }
+}

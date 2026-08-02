@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1836582025794560146",
+    "created_at": "2024-09-19T04:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T05:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836619689083949221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1342227007518744578",
+          "start": 0,
+          "username": "Qiangguofanzei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836619689083949221",
+    "in_reply_to_user_id": "1342227007518744578",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836582025794560146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiangguofanzei 被骗到外国说能挣钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1836582025794560146",
+        "created_at": "2024-09-19T04:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T05:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836619689083949221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1342227007518744578",
+              "start": 0,
+              "username": "Qiangguofanzei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836619689083949221",
+        "in_reply_to_user_id": "1342227007518744578",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836582025794560146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiangguofanzei 被骗到外国说能挣钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1342227007518744578",
+        "conversation_id": "1836582025794560146",
+        "created_at": "2024-09-19T01:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T02:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836582025794560146"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1836582025794560146",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1811,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "据说中国是最安全的国家😅😅😅\n\n因为民粹主义，一个外国孩子在上学路上直接被杀了\n\n这在我看来比什么东南亚割成年人腰子恐怖100倍都不止（虽然割腰子的故事大概率是假的）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "锈叶🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5671,
+          "following_count": 1009,
+          "like_count": 46286,
+          "listed_count": 20,
+          "tweet_count": 7559
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-24T21:54:01.000Z",
+        "description": "Youtube同名频道主，反抗共产极权专制，追求民主自由 频道链接：https://t.co/SAzkIL7ta9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCyxEt…",
+                "end": 57,
+                "expanded_url": "https://www.youtube.com/channel/UCyxEtwRTGj9yBBcZgrz6t1A/videos",
+                "start": 34,
+                "url": "https://t.co/SAzkIL7ta9"
+              }
+            ]
+          }
+        },
+        "id": "1342227007518744578",
+        "location": "Napa, CA",
+        "name": "墙国反贼",
+        "pinned_tweet_id": "1832856307331989535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1342227159360954368/s44QJ2Y4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44016,
+          "following_count": 382,
+          "like_count": 14957,
+          "listed_count": 176,
+          "tweet_count": 10773
+        },
+        "username": "Qiangguofanzei",
+        "verified": true
+      }
+    ]
+  }
+}

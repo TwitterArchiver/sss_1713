@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2082347563190288790",
+    "created_at": "2026-07-30T07:31:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T08:31:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082730874437849446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3009617401",
+          "start": 0,
+          "username": "Nagato_KKO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082730874437849446",
+    "in_reply_to_user_id": "3009617401",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082347563190288790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nagato_KKO 哎我草笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 687,
+        "media_key": "3_2082347555191746560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOX8EZYbcAAs5wE.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2082347563190288790",
+        "created_at": "2026-07-30T07:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T08:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082730874437849446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3009617401",
+              "start": 0,
+              "username": "Nagato_KKO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082730874437849446",
+        "in_reply_to_user_id": "3009617401",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082347563190288790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nagato_KKO 哎我草笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082347555191746560"
+          ]
+        },
+        "author_id": "3009617401",
+        "conversation_id": "2082347563190288790",
+        "created_at": "2026-07-29T06:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T07:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082347563190288790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nYoc2vtmQY",
+              "end": 23,
+              "expanded_url": "https://x.com/Nagato_KKO/status/2082347563190288790/photo/1",
+              "media_key": "3_2082347555191746560",
+              "start": 0,
+              "url": "https://t.co/nYoc2vtmQY"
+            },
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/sss_1713/status/2081585811867463725",
+              "start": 24,
+              "url": "https://t.co/MruMY0ESpi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082347563190288790",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3692,
+          "like_count": 71,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081585811867463725",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/nYoc2vtmQY https://t.co/MruMY0ESpi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5994,
+          "following_count": 797,
+          "like_count": 55516,
+          "listed_count": 18,
+          "media_count": 1095,
+          "tweet_count": 9619
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-05T01:16:58.000Z",
+        "description": "🕯敬愛的領袖江澤民主席永垂不朽！/🌊江学家/🚉都市鉄道愛好者/🇨🇳中國江学会所属🀄️/🇦🇪アラブ首長國聯邦常駐/✒️研究成果『江主席語録』『北京地下鉄列車時刻表』等/🇯🇵日本語/🇬🇧English🇺🇸/🇷🇺Русский/🇰🇵조선어🇰🇷/⛔️政治過激者一切拒否！🈲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "portal.circle.ms/Circle/Index/1…",
+                "end": 23,
+                "expanded_url": "https://portal.circle.ms/Circle/Index/10497847",
+                "start": 0,
+                "url": "https://t.co/9jnBlZFsAl"
+              }
+            ]
+          }
+        },
+        "id": "3009617401",
+        "location": "الإمارات",
+        "name": "中江学会長門@C108日曜東2ツ40a",
+        "pinned_tweet_id": "1597881314208022529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995283050423521280/hHNcV4TC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11139,
+          "following_count": 162,
+          "like_count": 3031,
+          "listed_count": 36,
+          "media_count": 2405,
+          "tweet_count": 6931
+        },
+        "url": "https://t.co/9jnBlZFsAl",
+        "username": "Nagato_KKO",
+        "verified": false
+      }
+    ]
+  }
+}

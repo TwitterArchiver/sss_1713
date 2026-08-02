@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2077492354559463510",
+    "created_at": "2026-07-16T01:53:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T02:53:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077572358366548475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2056215337113382912",
+          "start": 0,
+          "username": "FreeX2222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077572358366548475",
+    "in_reply_to_user_id": "2056215337113382912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077492354559463510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FreeX2222 之前我好多推友们不是炸号退推就是去世了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2077492354559463510",
+        "created_at": "2026-07-16T01:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T02:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077572358366548475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2056215337113382912",
+              "start": 0,
+              "username": "FreeX2222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077572358366548475",
+        "in_reply_to_user_id": "2056215337113382912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077492354559463510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreeX2222 之前我好多推友们不是炸号退推就是去世了……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056215337113382912",
+        "conversation_id": "2077492354559463510",
+        "created_at": "2026-07-15T20:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T21:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077492354559463510"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077492354559463510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1515,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好伤心 翻之前自己的回复帖发现很多互动过的推友都炸号了…好想念六月份啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5983,
+          "following_count": 794,
+          "like_count": 54778,
+          "listed_count": 18,
+          "media_count": 1091,
+          "tweet_count": 9527
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-18T03:29:24.000Z",
+        "description": "Love forever\n@FreeX114514\n不回复无意义消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "FreeX114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/FreeXOvO",
+                "end": 23,
+                "expanded_url": "https://t.me/FreeXOvO",
+                "start": 0,
+                "url": "https://t.co/xZNFqf5yBG"
+              }
+            ]
+          }
+        },
+        "id": "2056215337113382912",
+        "location": "这个世界没有岸 只有越来越会游泳的自己",
+        "name": "FreeX",
+        "pinned_tweet_id": "2076935999704469666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075154363677642752/_aZ5nh6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26956,
+          "following_count": 208,
+          "like_count": 5988,
+          "listed_count": 16,
+          "media_count": 248,
+          "tweet_count": 1715
+        },
+        "url": "https://t.co/xZNFqf5yBG",
+        "username": "FreeX2222",
+        "verified": true
+      }
+    ]
+  }
+}

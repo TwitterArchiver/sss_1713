@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2055670802423656728",
+    "created_at": "2026-05-17T10:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T11:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055965747474555092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2018742198356131840",
+          "start": 0,
+          "username": "lilidihv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055965747474555092",
+    "in_reply_to_user_id": "2018742198356131840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055670802423656728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lilidihv 把要🐍了改成要🐉了，会显得多一点😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2055670802423656728",
+        "created_at": "2026-05-17T10:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055965747474555092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2018742198356131840",
+              "start": 0,
+              "username": "lilidihv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055965747474555092",
+        "in_reply_to_user_id": "2018742198356131840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055670802423656728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lilidihv 把要🐍了改成要🐉了，会显得多一点😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018742198356131840",
+        "conversation_id": "2055670802423656728",
+        "created_at": "2026-05-16T15:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055670802423656728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055670802423656728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2653,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 33,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "把打✈️改成打🚀会很威猛\n\n把🦌改成🦒会显得更长一点\n\n关注我 学到更多小妙招"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5803,
+          "following_count": 751,
+          "like_count": 47540,
+          "listed_count": 18,
+          "media_count": 950,
+          "tweet_count": 8314
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T17:45:43.000Z",
+        "description": "09 宁性恋 \n\n希望你一直笑 想要的都得到@Aloneovo_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "Aloneovo_"
+              }
+            ]
+          }
+        },
+        "id": "2018742198356131840",
+        "location": "Amore",
+        "name": "萌狗仆",
+        "pinned_tweet_id": "2045187335147622701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053039680669765632/HAOnuXWc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 93,
+          "like_count": 2847,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 4855
+        },
+        "username": "lilidihv",
+        "verified": false
+      }
+    ]
+  }
+}

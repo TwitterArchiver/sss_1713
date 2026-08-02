@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2077714468440883346",
+    "created_at": "2026-07-16T13:31:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T14:31:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077747915175743870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2067052325227606016",
+          "start": 0,
+          "username": "MirianHingsf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077747915175743870",
+    "in_reply_to_user_id": "2067052325227606016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077742146258436339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MirianHingsf 你上一边去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2077714468440883346",
+        "created_at": "2026-07-16T13:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077747915175743870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2067052325227606016",
+              "start": 0,
+              "username": "MirianHingsf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077747915175743870",
+        "in_reply_to_user_id": "2067052325227606016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077742146258436339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MirianHingsf 你上一边去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067052325227606016",
+        "conversation_id": "2077714468440883346",
+        "created_at": "2026-07-16T13:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077742146258436339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077742146258436339",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077714468440883346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 🤮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5984,
+          "following_count": 794,
+          "like_count": 54821,
+          "listed_count": 18,
+          "media_count": 1094,
+          "tweet_count": 9544
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-17T01:11:14.000Z",
+        "description": "22岁女大 身高168cm 接线下 口嗨的勿扰 喝🍵可以深入哟\n\n~桐👩‍❤️‍👨城💘上⏰椚~下方👇👇可联系✈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/linlove9",
+                "end": 23,
+                "expanded_url": "http://t.me/linlove9",
+                "start": 0,
+                "url": "https://t.co/l2xKr9MQVM"
+              }
+            ]
+          }
+        },
+        "id": "2067052325227606016",
+        "location": "距离2.5km👉✈",
+        "name": "马薇🌸同城丄门🌸外围喝🍵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077742150096191488/GuBuoAF5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 295
+        },
+        "url": "https://t.co/l2xKr9MQVM",
+        "username": "MirianHingsf",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2061475693091852432",
+    "created_at": "2026-06-02T07:18:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T08:18:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061709097968513407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1894390126262063107",
+          "start": 0,
+          "username": "SydneyBoBoKun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061709097968513407",
+    "in_reply_to_user_id": "1894390126262063107",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061705262768222567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SydneyBoBoKun 豪迈！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2061475693091852432",
+        "created_at": "2026-06-02T07:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T08:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061709097968513407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1894390126262063107",
+              "start": 0,
+              "username": "SydneyBoBoKun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061709097968513407",
+        "in_reply_to_user_id": "1894390126262063107",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061705262768222567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SydneyBoBoKun 豪迈！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894390126262063107",
+        "conversation_id": "2061475693091852432",
+        "created_at": "2026-06-02T07:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T08:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061705262768222567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061705262768222567",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061475693091852432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 一派胡言，我感到非常气愤😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5857,
+          "following_count": 753,
+          "like_count": 48840,
+          "listed_count": 18,
+          "media_count": 989,
+          "tweet_count": 8632
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T14:13:19.000Z",
+        "description": "This is complete nonsense and makes me very angry!",
+        "id": "1894390126262063107",
+        "location": "将军澳秦城",
+        "name": "悉尼奶薄 SydneyBo 雪梨奶薄 🇦🇺",
+        "pinned_tweet_id": "1904919080957542622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894608114193719296/vGlpUR3u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 61,
+          "like_count": 9214,
+          "listed_count": 1,
+          "media_count": 1385,
+          "tweet_count": 4005
+        },
+        "username": "SydneyBoBoKun",
+        "verified": false
+      }
+    ]
+  }
+}

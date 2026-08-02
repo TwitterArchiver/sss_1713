@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2068259053248397415",
+    "created_at": "2026-06-20T12:39:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T13:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068312793602986357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2051761383197339648",
+          "start": 0,
+          "username": "TSimehpo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068312793602986357",
+    "in_reply_to_user_id": "2051761383197339648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068259053248397415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TSimehpo 恭喜～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2055,
+        "media_key": "3_2068259050480156672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPupfdbQAA4ziY.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2068259053248397415",
+        "created_at": "2026-06-20T12:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068312793602986357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2051761383197339648",
+              "start": 0,
+              "username": "TSimehpo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068312793602986357",
+        "in_reply_to_user_id": "2051761383197339648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068259053248397415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TSimehpo 恭喜～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068259050480156672"
+          ]
+        },
+        "author_id": "2051761383197339648",
+        "conversation_id": "2068259053248397415",
+        "created_at": "2026-06-20T09:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T10:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068259053248397415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nFrmMwVCoy",
+              "end": 31,
+              "expanded_url": "https://x.com/TSimehpo/status/2068259053248397415/photo/1",
+              "media_key": "3_2068259050480156672",
+              "start": 8,
+              "url": "https://t.co/nFrmMwVCoy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068259053248397415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 513,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "历史性的一刻😇 https://t.co/nFrmMwVCoy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5907,
+          "following_count": 773,
+          "like_count": 51809,
+          "listed_count": 18,
+          "media_count": 1039,
+          "tweet_count": 9103
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-05T20:30:26.000Z",
+        "description": "用善意对待世界的小麦面包🍞 uwu | 日常碎碎念 | 友跨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tsimehpo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tsimehpo",
+                "start": 0,
+                "url": "https://t.co/NUTbcuJGZH"
+              }
+            ]
+          }
+        },
+        "id": "2051761383197339648",
+        "name": "小麦面包",
+        "pinned_tweet_id": "2067979790322373110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052826594633494529/LjkZT3TN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 608,
+          "like_count": 6948,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 1345
+        },
+        "url": "https://t.co/NUTbcuJGZH",
+        "username": "TSimehpo",
+        "verified": true
+      }
+    ]
+  }
+}

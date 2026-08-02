@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2049418544530800934",
+    "created_at": "2026-04-29T11:53:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T12:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049457027475534011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1231434335737110528",
+          "start": 0,
+          "username": "GMREDOFFICIAL60"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049457027475534011",
+    "in_reply_to_user_id": "1231434335737110528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049443464363077976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GMREDOFFICIAL60 对啊对啊😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2049418544530800934",
+        "created_at": "2026-04-29T11:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T12:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049457027475534011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1231434335737110528",
+              "start": 0,
+              "username": "GMREDOFFICIAL60"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049457027475534011",
+        "in_reply_to_user_id": "1231434335737110528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049443464363077976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GMREDOFFICIAL60 对啊对啊😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1231434335737110528",
+        "conversation_id": "2049418544530800934",
+        "created_at": "2026-04-29T10:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049443464363077976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049443464363077976",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049418544530800934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 怀念六年前刚上推时的环境"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5804,
+          "following_count": 1036,
+          "like_count": 47290,
+          "listed_count": 18,
+          "media_count": 940,
+          "tweet_count": 8187
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-23T04:23:58.000Z",
+        "description": "已过气四年的人，删除了23年12月前所有推文｜思想变化:粉红→自由派→网左→存在主义→卫理公会(想加但是还没有加入) ｜大三政治学系，希望考到哲学院｜渴望交流学习",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/GMREDOFFICIAL60",
+                "end": 23,
+                "expanded_url": "https://x.com/GMREDOFFICIAL60",
+                "start": 0,
+                "url": "https://t.co/yl26pe3olu"
+              }
+            ]
+          }
+        },
+        "id": "1231434335737110528",
+        "location": "✠",
+        "name": "一般通过R2D2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036486211309883392/-eEn6_BU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2240,
+          "following_count": 183,
+          "like_count": 2163,
+          "listed_count": 15,
+          "media_count": 37,
+          "tweet_count": 633
+        },
+        "url": "https://t.co/yl26pe3olu",
+        "username": "GMREDOFFICIAL60",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1952981772582699461",
+    "created_at": "2025-08-06T06:35:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T07:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952981772582699461"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cpup2024/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/cpup2024/status/1952575526708949179",
+          "start": 9,
+          "url": "https://t.co/pp9mFAc8j3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952981772582699461",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952575526708949179",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "疯狂多元宇宙《》 https://t.co/pp9mFAc8j3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1952981772582699461",
+        "created_at": "2025-08-06T06:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T07:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952981772582699461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cpup2024/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/cpup2024/status/1952575526708949179",
+              "start": 9,
+              "url": "https://t.co/pp9mFAc8j3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952981772582699461",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952575526708949179",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "疯狂多元宇宙《》 https://t.co/pp9mFAc8j3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799308675158605825",
+        "conversation_id": "1952555140319514844",
+        "created_at": "2025-08-05T03:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T04:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952575526708949179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1818464663983865863",
+              "start": 0,
+              "username": "lairuilin223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952575526708949179",
+        "in_reply_to_user_id": "1818464663983865863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 90945,
+          "like_count": 29,
+          "quote_count": 64,
+          "reply_count": 78,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952572963695591564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lairuilin223 我很同情他们，我最早的定义就是群众一腔热血，我依然这么认为，哪怕我绝不能接受他们像霸凌者一样暴力袭击警察的行为。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJo6NX"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5792,
+          "following_count": 973,
+          "like_count": 46076,
+          "listed_count": 18,
+          "media_count": 945,
+          "tweet_count": 7734
+        },
+        "url": "https://t.co/Z7RPjJo6NX",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T05:13:27.000Z",
+        "description": "#葱娘酱巡回推友企划 此为原建制派bot号，原号没了。本不想注册新号，左右脑互搏还是有新号了@mikulovermua 新号键政少，更从心所欲。葱是左翼建制派，支持CPC领导之PRC。本人非粉蛆，但骄傲于做某些人嘴里的粉蛆。ally&非二元性别 勿忘我们的骄傲🏳️‍🌈stand with🇷🇺🇵🇸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "葱娘酱巡回推友企划"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 59,
+                "start": 46,
+                "username": "mikulovermua"
+              }
+            ]
+          }
+        },
+        "id": "1799308675158605825",
+        "location": "中华人民共和国PRC",
+        "name": "赛高の葱娘酱miku🇨🇳",
+        "pinned_tweet_id": "1952951834404110349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933516872659709952/x9MxFB_9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1535,
+          "following_count": 1132,
+          "like_count": 30904,
+          "listed_count": 27,
+          "media_count": 624,
+          "tweet_count": 7823
+        },
+        "username": "CPUP2024",
+        "verified": false
+      }
+    ]
+  }
+}

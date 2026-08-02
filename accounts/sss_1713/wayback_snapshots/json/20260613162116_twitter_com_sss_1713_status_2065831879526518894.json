@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2065829986498646026",
+    "created_at": "2026-06-13T16:21:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T17:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065831879526518894"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065831879526518894",
+    "in_reply_to_user_id": "1254605353838231553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065829986498646026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "从西方国家的视角里看似先进的“立法思想”，在得不到正确引导下的社会里反而会成为儿童以及青少年侵害的推手。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2065829986498646026",
+        "created_at": "2026-06-13T16:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T17:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065831879526518894"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065831879526518894",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065829986498646026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从西方国家的视角里看似先进的“立法思想”，在得不到正确引导下的社会里反而会成为儿童以及青少年侵害的推手。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2065829986498646026",
+        "created_at": "2026-06-13T16:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T17:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065829986498646026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/sss_1713/status/2065829478417457237",
+              "start": 147,
+              "url": "https://t.co/13IdOr2MHr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065829986498646026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065829478417457237",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“儿童作为性主体的权利”，需要建立在儿童具备相应认知和行为能力的基础上。但在性教育缺位、性污名化严重的社会里，儿童的所谓“性决定”，往往是无知状态下的盲从，是被精心诱导后的结果。这14岁线，可能不是把权利交给了孩子，而是把“责任”推给了孩子——你看，法律都同意你14岁可以了，是你自己自愿的。 https://t.co/13IdOr2MHr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5883,
+          "following_count": 760,
+          "like_count": 50799,
+          "listed_count": 18,
+          "media_count": 1022,
+          "tweet_count": 8952
+        },
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

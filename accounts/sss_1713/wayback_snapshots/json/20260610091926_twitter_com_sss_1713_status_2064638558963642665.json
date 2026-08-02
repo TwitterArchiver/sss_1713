@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2064460781690007813",
+    "created_at": "2026-06-10T09:19:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T10:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064638558963642665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2041218436651794433",
+          "start": 0,
+          "username": "4pinkmatter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064638558963642665",
+    "in_reply_to_user_id": "2041218436651794433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064460781690007813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4pinkmatter 对啊，这种事本来就要讨论，互联网上好像事事都要走极端。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2064460781690007813",
+        "created_at": "2026-06-10T09:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064638558963642665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2041218436651794433",
+              "start": 0,
+              "username": "4pinkmatter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064638558963642665",
+        "in_reply_to_user_id": "2041218436651794433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064460781690007813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4pinkmatter 对啊，这种事本来就要讨论，互联网上好像事事都要走极端。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041218436651794433",
+        "conversation_id": "2064460781690007813",
+        "created_at": "2026-06-09T21:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T22:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064460781690007813"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064460781690007813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 275,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "性同意年龄干嘛要调到18岁，啥意思我16岁和同龄人做爱也能被一刀切判强奸吗，不能加个罗密欧与朱丽叶条款吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5883,
+          "following_count": 755,
+          "like_count": 50077,
+          "listed_count": 18,
+          "media_count": 1004,
+          "tweet_count": 8811
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T18:18:32.000Z",
+        "description": "❤️@chibanak1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "chibanak1"
+              }
+            ]
+          }
+        },
+        "id": "2041218436651794433",
+        "name": "Kagayaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041558738923089922/et6jQmnl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 90,
+          "like_count": 1805,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 608
+        },
+        "username": "4pinkmatter",
+        "verified": false
+      }
+    ]
+  }
+}

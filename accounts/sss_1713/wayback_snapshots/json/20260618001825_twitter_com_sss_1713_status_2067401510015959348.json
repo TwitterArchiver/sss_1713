@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2067274887924949474",
+    "created_at": "2026-06-18T00:18:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T01:18:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067401510015959348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1217855766167556096",
+          "start": 0,
+          "username": "SummerTwT9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067401510015959348",
+    "in_reply_to_user_id": "1217855766167556096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067274887924949474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SummerTwT9 生日快乐🎂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067274876394799105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBvjBSaAAEaH2s.jpg",
+        "width": 1462
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067274876214489088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBvjAnasAAmBCq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2067274887924949474",
+        "created_at": "2026-06-18T00:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T01:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067401510015959348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1217855766167556096",
+              "start": 0,
+              "username": "SummerTwT9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067401510015959348",
+        "in_reply_to_user_id": "1217855766167556096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067274887924949474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SummerTwT9 生日快乐🎂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067274876394799105",
+            "3_2067274876214489088"
+          ]
+        },
+        "author_id": "1217855766167556096",
+        "conversation_id": "2067274887924949474",
+        "created_at": "2026-06-17T15:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067274887924949474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9S6TarOB86",
+              "end": 30,
+              "expanded_url": "https://x.com/SummerTwT9/status/2067274887924949474/photo/1",
+              "media_key": "3_2067274876394799105",
+              "start": 7,
+              "url": "https://t.co/9S6TarOB86"
+            },
+            {
+              "display_url": "pic.x.com/9S6TarOB86",
+              "end": 30,
+              "expanded_url": "https://x.com/SummerTwT9/status/2067274887924949474/photo/1",
+              "media_key": "3_2067274876214489088",
+              "start": 7,
+              "url": "https://t.co/9S6TarOB86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067274887924949474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 732,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "19岁了，， https://t.co/9S6TarOB86"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5904,
+          "following_count": 771,
+          "like_count": 51497,
+          "listed_count": 18,
+          "media_count": 1038,
+          "tweet_count": 9072
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-16T17:07:03.000Z",
+        "description": "于风雨之中绽放的蓝蔷薇\n無休止直至死去\n因为你太柔软@Akinoyo_desu\n路的尽头是海的入口@noth1nghere14\n丢失了地图的少年旅行家@q72248442",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Akinoyo_desu"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "noth1nghere14"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "username": "q72248442"
+              }
+            ]
+          }
+        },
+        "id": "1217855766167556096",
+        "location": "地靈殿",
+        "name": "村雨",
+        "pinned_tweet_id": "2043958461323698567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043636900381237248/_ViH72iv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 125,
+          "like_count": 240,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 600
+        },
+        "url": "",
+        "username": "SummerTwT9",
+        "verified": false
+      }
+    ]
+  }
+}

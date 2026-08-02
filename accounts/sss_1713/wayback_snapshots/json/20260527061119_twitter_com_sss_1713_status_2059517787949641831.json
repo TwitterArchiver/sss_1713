@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2059517684308394238",
+    "created_at": "2026-05-27T06:11:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T07:11:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059517787949641831"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059517787949641831",
+    "in_reply_to_user_id": "1254605353838231553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059517783038153089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为她们担心：\n“女性”会被简化成一种外在风格。\n\n但反过来，跨性别群体又会认为：\n“你是在否认我们的主体认同”。\n\n所以这个问题至今没有真正共识。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2059517684308394238",
+        "created_at": "2026-05-27T06:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059517787949641831"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059517787949641831",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059517783038153089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为她们担心：\n“女性”会被简化成一种外在风格。\n\n但反过来，跨性别群体又会认为：\n“你是在否认我们的主体认同”。\n\n所以这个问题至今没有真正共识。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2059517684308394238",
+        "created_at": "2026-05-27T06:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059517783038153089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059517783038153089",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059517778294448620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "另一种观点认为：\n\n女性首先是一种主体认同。\n如果一个人长期认同自己为女性，\n并以女性身份生活，\n那她就是女性的一种存在形式。\n\n⸻\n\n而“cos 女性刻板印象”这句话，本质上是：\n\n第一种观点，对第二种观点的一种反击。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5849,
+          "following_count": 752,
+          "like_count": 48355,
+          "listed_count": 18,
+          "media_count": 979,
+          "tweet_count": 8531
+        },
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

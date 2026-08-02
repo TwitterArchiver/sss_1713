@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2063184018296717783",
+    "created_at": "2026-06-06T13:16:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T14:16:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063248620565250419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1454760613280841736",
+          "start": 0,
+          "username": "kwwmirukuti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063248620565250419",
+    "in_reply_to_user_id": "1454760613280841736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063227245997797886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kwwmirukuti 中推的讨论度比较高，但是我没看懂，就去墙内搜，但是一点提及的也没有，我也是了解了个大概。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2063184018296717783",
+        "created_at": "2026-06-06T13:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063248620565250419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1454760613280841736",
+              "start": 0,
+              "username": "kwwmirukuti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063248620565250419",
+        "in_reply_to_user_id": "1454760613280841736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063227245997797886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kwwmirukuti 中推的讨论度比较高，但是我没看懂，就去墙内搜，但是一点提及的也没有，我也是了解了个大概。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1454760613280841736",
+        "conversation_id": "2063184018296717783",
+        "created_at": "2026-06-06T11:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063227245997797886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063227245997797886",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 295,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063184018296717783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 討論度熱烈在哪？除了台灣三民自和中推李老師這兩個原本就同情尹錫悅仇視李在明的消息來源，有哪個國際大媒體報導了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "   天安门坦克下",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5877,
+          "following_count": 751,
+          "like_count": 49378,
+          "listed_count": 18,
+          "media_count": 998,
+          "tweet_count": 8711
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-31T10:42:28.000Z",
+        "description": "川和奶茶的話，水平最高，威信最高，威力最大，句句是真理，一句頂一萬句。你們相信奶茶要相信到迷信的程度，服從奶茶要服從到盲從的程度。凡是奶茶作出的決策，你們都要堅決維護；凡是奶茶的指示，你們都要始終不渝地遵循 | 漢字研究愛好者 | 的地得警察在再警察錯別字警察",
+        "id": "1454760613280841736",
+        "name": "川和奶茶🥤",
+        "pinned_tweet_id": "1704746543226749345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1615718843959357440/8vgFfuqB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4602,
+          "following_count": 853,
+          "like_count": 56357,
+          "listed_count": 22,
+          "media_count": 626,
+          "tweet_count": 6993
+        },
+        "username": "kwwmirukuti",
+        "verified": false
+      }
+    ]
+  }
+}

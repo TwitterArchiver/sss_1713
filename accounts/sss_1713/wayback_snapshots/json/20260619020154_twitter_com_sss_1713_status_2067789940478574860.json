@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2067763085570605192",
+    "created_at": "2026-06-19T02:01:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T03:01:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067789940478574860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1432351612182229001",
+          "start": 0,
+          "username": "Merlyn_Void"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067789940478574860",
+    "in_reply_to_user_id": "1432351612182229001",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067763085570605192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Merlyn_Void 🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2067763085570605192",
+        "created_at": "2026-06-19T02:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T03:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067789940478574860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1432351612182229001",
+              "start": 0,
+              "username": "Merlyn_Void"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067789940478574860",
+        "in_reply_to_user_id": "1432351612182229001",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067763085570605192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Merlyn_Void 🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1432351612182229001",
+        "conversation_id": "2067763085570605192",
+        "created_at": "2026-06-19T00:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T01:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067763085570605192"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067763085570605192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "待我如亲子的姑父，在这个月离开了。消息传来时，我只是静静听着，像听见远处又落了一场雨。既不惊讶，也不悲恸。后来反反复复地想着，自己是不是已经失去了悲伤的能力。人们总说，至亲离世，应当有撕裂般的痛楚；然而我心中空空荡荡，像退潮后的海滩。\n\n可是再细想，又觉得未必。因为离开这件事，于我并不陌生。幼时寄养在姑姑家，亲生父母反倒像远远站在雾里的影子。后来回到家中，相聚没有几年，又匆匆离散。高二休学，在外漂泊；大病一场，才重新停靠下来。那短短一年多的光阴，竟已算得上长久。再后来，又远渡重洋，为学业与申请奔忙。许多人来了，许多人又走了。人生仿佛一间旅馆，门开了又关，关了又开。有人把行李放下，有人把行李带走，到最后，连自己也分不清究竟是谁先离开的。\n\n因此死亡反倒显得平常。像树叶终究会落，像潮水终究会退，像春天开到极盛的时候，花瓣便已经预备着腐烂。我忽然记起自己为什么执意要继续念书。原先总以为那是逃避现实，如今才知道，并不尽然。这世上有太多不可捉摸的东西。人的感情，人的命运，人的聚散，都像风里的柳絮，今日还在眼前，明日便不知飘向何处。唯独学校里的成绩单、学分与申请表，还勉强遵循着某种秩序。付出几分心力，便得几分结果；像在黑夜里摸索的人，好歹握住了一根绳索。而人呢？人是握不住的。\n\n想到这里，我有些疲倦了。窗外的雨依旧落着，楼下的车笛又低低地响了一声。我知道自己并非不难过，只是那悲伤来得太深，太慢，像海底的暗流，并不在水面上掀起波浪。它只是静静流淌着，流过许多年离散的时光，流过那些来不及告别的人。灯光渐渐暗下来，玻璃上映出我模糊的影子。我猛地一怔，从今以后，这世上再不会有一个人，用从前那样的目光望着我了。雨声潺潺，夜色四合。有些人的离去，并不使人立刻落泪；只是让人生忽然空出了一角，像旧屋拆去一根梁柱，当时未觉，日后每逢风雨，方知其中冷暖。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 310,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "待我如亲子的姑父，在这个月离开了。消息传来时，我只是静静听着，像听见远处又落了一场雨。既不惊讶，也不悲恸。后来反反复复地想着，自己是不是已经失去了悲伤的能力。人们总说，至亲离世，应当有撕裂般的痛楚；然而我心中空空荡荡，像退潮后的海滩。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5903,
+          "following_count": 773,
+          "like_count": 51667,
+          "listed_count": 18,
+          "media_count": 1037,
+          "tweet_count": 9092
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-30T14:37:00.000Z",
+        "description": "Queer，顺直勿扰。\n我有恋高癖 ๑ᦲ 𖥦 ᦲ๑\n喜欢的动物是信天翁",
+        "id": "1432351612182229001",
+        "location": "🚪288",
+        "name": "黄徵灏",
+        "pinned_tweet_id": "2049105797842665732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002420892949983232/XXFwiCyy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24813,
+          "following_count": 254,
+          "like_count": 13242,
+          "listed_count": 51,
+          "media_count": 103,
+          "tweet_count": 4175
+        },
+        "url": "",
+        "username": "Merlyn_Void",
+        "verified": true
+      }
+    ]
+  }
+}

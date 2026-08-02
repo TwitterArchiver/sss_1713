@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075124653564317696"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2075124685956902930",
+    "created_at": "2026-07-09T07:47:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T08:47:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075124685956902930"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8kFBnWFZtv",
+          "end": 33,
+          "expanded_url": "https://x.com/sss_1713/status/2075124685956902930/photo/1",
+          "media_key": "3_2075124653564317696",
+          "start": 10,
+          "url": "https://t.co/8kFBnWFZtv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075124685956902930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "？。这是可以说的吗 https://t.co/8kFBnWFZtv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 858,
+        "media_key": "3_2075124653564317696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxS4MBbUAAwM6_.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075124653564317696"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2075124685956902930",
+        "created_at": "2026-07-09T07:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T08:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075124685956902930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8kFBnWFZtv",
+              "end": 33,
+              "expanded_url": "https://x.com/sss_1713/status/2075124685956902930/photo/1",
+              "media_key": "3_2075124653564317696",
+              "start": 10,
+              "url": "https://t.co/8kFBnWFZtv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075124685956902930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？。这是可以说的吗 https://t.co/8kFBnWFZtv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5946,
+          "following_count": 791,
+          "like_count": 54183,
+          "listed_count": 18,
+          "media_count": 1072,
+          "tweet_count": 9389
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      }
+    ]
+  }
+}

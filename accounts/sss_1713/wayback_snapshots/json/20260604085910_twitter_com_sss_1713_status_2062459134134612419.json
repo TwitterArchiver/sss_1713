@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2062457397441175768",
+    "created_at": "2026-06-04T08:59:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T09:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062459134134612419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2060271531297792000",
+          "start": 0,
+          "username": "FreeX114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062459134134612419",
+    "in_reply_to_user_id": "2060271531297792000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062457397441175768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FreeX114514 已严肃复制！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2062457397441175768",
+        "created_at": "2026-06-04T08:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062459134134612419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2060271531297792000",
+              "start": 0,
+              "username": "FreeX114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062459134134612419",
+        "in_reply_to_user_id": "2060271531297792000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062457397441175768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreeX114514 已严肃复制！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060271531297792000",
+        "conversation_id": "2062457397441175768",
+        "created_at": "2026-06-04T08:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062457397441175768"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062457397441175768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国底层代码\n高三：高考加油\n初三：中考加油\n生日：生日快乐\n洗澡：看看\n表白：?\n文案：複製\n美食：你好我吃一点\n星期四：V我50"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5872,
+          "following_count": 751,
+          "like_count": 49105,
+          "listed_count": 18,
+          "media_count": 992,
+          "tweet_count": 8661
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-29T08:07:02.000Z",
+        "description": "不要伤害我\n盗FreeX图的人穷一辈子\n@FreeX2222",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "FreeX2222"
+              }
+            ]
+          }
+        },
+        "id": "2060271531297792000",
+        "location": "8.9km",
+        "name": "FreeX",
+        "pinned_tweet_id": "2061785821913723286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060272030159921152/AeAFNOJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6054,
+          "following_count": 1,
+          "like_count": 235,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 39
+        },
+        "username": "FreeX114514",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2070535026492768694",
+    "created_at": "2026-06-27T05:52:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T06:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070746983099170880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1482716597077037056",
+          "start": 0,
+          "username": "Lemonadize"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070746983099170880",
+    "in_reply_to_user_id": "1482716597077037056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070685698001416200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lemonadize 🥹🥹谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2070535026492768694",
+        "created_at": "2026-06-27T05:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070746983099170880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1482716597077037056",
+              "start": 0,
+              "username": "Lemonadize"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070746983099170880",
+        "in_reply_to_user_id": "1482716597077037056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070685698001416200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lemonadize 🥹🥹谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482716597077037056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2070535026492768694",
+        "created_at": "2026-06-27T01:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T02:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070685698001416200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070685698001416200",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070683496465535237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 其实理由有很多很多，一个是因为正规训练很重要，还有就是我自从大学学了心理学以后才发现跟自己想的完全不一样…🥲更重要的是在面对复杂的个案时能否首先保护好自己不被同理心刺伤甚至吞噬🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5909,
+          "following_count": 776,
+          "like_count": 52558,
+          "listed_count": 18,
+          "media_count": 1050,
+          "tweet_count": 9216
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-16T14:19:28.000Z",
+        "description": "Avarice, Condescension, Egocentrism, Heresy, Narcissism.",
+        "id": "1482716597077037056",
+        "location": "Laria Sœles",
+        "name": "Lemonadize",
+        "pinned_tweet_id": "1890440916864770116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792221676144635904/9xlvNAwF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 42,
+          "like_count": 8712,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 821
+        },
+        "url": "",
+        "username": "Lemonadize",
+        "verified": true
+      }
+    ]
+  }
+}

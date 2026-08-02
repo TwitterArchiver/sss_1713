@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2072849570342621357",
+    "created_at": "2026-07-03T01:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T02:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072854748458369499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2053824487330852865",
+          "start": 0,
+          "username": "RusskiyCvyatoy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072854748458369499",
+    "in_reply_to_user_id": "2053824487330852865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072849570342621357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RusskiyCvyatoy 喷不了这是真誓反教"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2072849570342621357",
+        "created_at": "2026-07-03T01:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T02:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072854748458369499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2053824487330852865",
+              "start": 0,
+              "username": "RusskiyCvyatoy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072854748458369499",
+        "in_reply_to_user_id": "2053824487330852865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072849570342621357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusskiyCvyatoy 喷不了这是真誓反教"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053824487330852865",
+        "conversation_id": "2072849570342621357",
+        "created_at": "2026-07-03T01:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T02:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072849570342621357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/WestConfucian/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/WestConfucian/status/2072828971268370490",
+              "start": 11,
+              "url": "https://t.co/b4TXbA0oAK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072849570342621357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072828971268370490",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个是真誓反教没得黑 https://t.co/b4TXbA0oAK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5920,
+          "following_count": 784,
+          "like_count": 53367,
+          "listed_count": 18,
+          "media_count": 1049,
+          "tweet_count": 9249
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T13:09:44.000Z",
+        "description": "无限热爱伊玛目霍梅尼、无限崇拜伊玛目哈梅内伊，俩一俩海，银兰拉呼！\n黄俄罗斯伊斯兰革命总指挥部（Sedes Revolutionis Islamicae Zheltrossae）",
+        "id": "2053824487330852865",
+        "location": "Sankt-Paulsburg, RSFSR",
+        "name": "黄俄罗斯伊斯兰革命总指挥部",
+        "pinned_tweet_id": "2060020055111287178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069630190095880192/DjdCd_pl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 111,
+          "like_count": 1359,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1542
+        },
+        "url": "",
+        "username": "RusskiyCvyatoy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1970282828840534404",
+    "created_at": "2025-09-23T00:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T01:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970282828840534404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "620632841",
+          "start": 3,
+          "username": "nytchinese"
+        }
+      ],
+      "urls": [
+        {
+          "description": "美国历史上一直是言论自由的捍卫者，但特朗普政府试图控制媒体机构、打击关于总统的负面言论，其策略符合威权国家的行为模式，这让美国陷入尴尬境地。",
+          "display_url": "cn.nytimes.com/usa/20250922/t…",
+          "end": 110,
+          "expanded_url": "https://cn.nytimes.com/usa/20250922/trump-jimmy-kimmel-fcc-comedy-autocracy/?utm_source=tw-nytimeschinese&utm_medium=social&utm_campaign=cur",
+          "images": [
+            {
+              "height": 400,
+              "url": "https://pbs.twimg.com/news_img/1970066292666404864/yNyHM4s1?format=jpg&name=orig",
+              "width": 600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1970066292666404864/yNyHM4s1?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 87,
+          "status": 200,
+          "title": "特朗普向威权国家看齐，美国言论自由状况恶化",
+          "unwound_url": "https://cn.nytimes.com/usa/20250922/trump-jimmy-kimmel-fcc-comedy-autocracy/?utm_campaign=cur&utm_medium=social&utm_source=tw-nytimeschinese",
+          "url": "https://t.co/XU8mY6ckb4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970282828840534404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970120899794714781",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nytchinese: 美国历史上一直是言论自由的捍卫者，但特朗普政府试图控制媒体机构、打击关于总统的负面言论，其策略符合威权国家的行为模式，这让美国陷入尴尬境地。\nhttps://t.co/XU8mY6ckb4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1970282828840534404",
+        "created_at": "2025-09-23T00:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T01:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970282828840534404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "620632841",
+              "start": 3,
+              "username": "nytchinese"
+            }
+          ],
+          "urls": [
+            {
+              "description": "美国历史上一直是言论自由的捍卫者，但特朗普政府试图控制媒体机构、打击关于总统的负面言论，其策略符合威权国家的行为模式，这让美国陷入尴尬境地。",
+              "display_url": "cn.nytimes.com/usa/20250922/t…",
+              "end": 110,
+              "expanded_url": "https://cn.nytimes.com/usa/20250922/trump-jimmy-kimmel-fcc-comedy-autocracy/?utm_source=tw-nytimeschinese&utm_medium=social&utm_campaign=cur",
+              "images": [
+                {
+                  "height": 400,
+                  "url": "https://pbs.twimg.com/news_img/1970066292666404864/yNyHM4s1?format=jpg&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1970066292666404864/yNyHM4s1?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 87,
+              "status": 200,
+              "title": "特朗普向威权国家看齐，美国言论自由状况恶化",
+              "unwound_url": "https://cn.nytimes.com/usa/20250922/trump-jimmy-kimmel-fcc-comedy-autocracy/?utm_campaign=cur&utm_medium=social&utm_source=tw-nytimeschinese",
+              "url": "https://t.co/XU8mY6ckb4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970282828840534404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970120899794714781",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nytchinese: 美国历史上一直是言论自由的捍卫者，但特朗普政府试图控制媒体机构、打击关于总统的负面言论，其策略符合威权国家的行为模式，这让美国陷入尴尬境地。\nhttps://t.co/XU8mY6ckb4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "620632841",
+        "conversation_id": "1970120899794714781",
+        "created_at": "2025-09-22T13:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T14:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970120899794714781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "美国历史上一直是言论自由的捍卫者，但特朗普政府试图控制媒体机构、打击关于总统的负面言论，其策略符合威权国家的行为模式，这让美国陷入尴尬境地。",
+              "display_url": "cn.nytimes.com/usa/20250922/t…",
+              "end": 94,
+              "expanded_url": "https://cn.nytimes.com/usa/20250922/trump-jimmy-kimmel-fcc-comedy-autocracy/?utm_source=tw-nytimeschinese&utm_medium=social&utm_campaign=cur",
+              "images": [
+                {
+                  "height": 400,
+                  "url": "https://pbs.twimg.com/news_img/1970066292666404864/yNyHM4s1?format=jpg&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1970066292666404864/yNyHM4s1?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 71,
+              "status": 200,
+              "title": "特朗普向威权国家看齐，美国言论自由状况恶化",
+              "unwound_url": "https://cn.nytimes.com/usa/20250922/trump-jimmy-kimmel-fcc-comedy-autocracy/?utm_campaign=cur&utm_medium=social&utm_source=tw-nytimeschinese",
+              "url": "https://t.co/XU8mY6ckb4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970120899794714781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 36602,
+          "like_count": 294,
+          "quote_count": 11,
+          "reply_count": 106,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "美国历史上一直是言论自由的捍卫者，但特朗普政府试图控制媒体机构、打击关于总统的负面言论，其策略符合威权国家的行为模式，这让美国陷入尴尬境地。\nhttps://t.co/XU8mY6ckb4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5799,
+          "following_count": 973,
+          "like_count": 45876,
+          "listed_count": 18,
+          "media_count": 943,
+          "tweet_count": 7748
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-28T04:25:01.000Z",
+        "description": "纽约时报中文网官方推特。Official Twitter Account of The New York Times Chinese Website.\niPhone & iPad app: https://t.co/hzbwaOOxA6\nAndroid app: https://t.co/NIusFpRU2S",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "apple.co/2aLBQZl",
+                "end": 118,
+                "expanded_url": "http://apple.co/2aLBQZl",
+                "start": 95,
+                "url": "https://t.co/hzbwaOOxA6"
+              },
+              {
+                "display_url": "bit.ly/2qbAFH4",
+                "end": 155,
+                "expanded_url": "http://bit.ly/2qbAFH4",
+                "start": 132,
+                "url": "https://t.co/NIusFpRU2S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cn.nytimes.com",
+                "end": 23,
+                "expanded_url": "http://cn.nytimes.com",
+                "start": 0,
+                "url": "https://t.co/iOfk7hg4wi"
+              }
+            ]
+          }
+        },
+        "id": "620632841",
+        "name": "纽约时报中文网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/963709224466374656/W7eiSwd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3809517,
+          "following_count": 370,
+          "like_count": 1108,
+          "listed_count": 8955,
+          "media_count": 12927,
+          "tweet_count": 72939
+        },
+        "url": "https://t.co/iOfk7hg4wi",
+        "username": "nytchinese",
+        "verified": true
+      }
+    ]
+  }
+}

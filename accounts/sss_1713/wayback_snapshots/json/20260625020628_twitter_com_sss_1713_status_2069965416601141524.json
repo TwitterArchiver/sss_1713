@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2069670217983414410",
+    "created_at": "2026-06-25T02:06:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T03:06:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069965416601141524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1613079089879076864",
+          "start": 0,
+          "username": "YunJiu"
+        },
+        {
+          "end": 18,
+          "id": "2056215337113382912",
+          "start": 8,
+          "username": "FreeX2222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069965416601141524",
+    "in_reply_to_user_id": "1613079089879076864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069670217983414410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YunJiu @FreeX2222  🌚装个钓鱼mod能增强星露谷幸福度"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 777,
+        "media_key": "3_2069670211708424192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjyF4sWkAADXBW.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2069670217983414410",
+        "created_at": "2026-06-25T02:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T03:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069965416601141524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "YunJiu"
+            },
+            {
+              "end": 18,
+              "id": "2056215337113382912",
+              "start": 8,
+              "username": "FreeX2222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069965416601141524",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069670217983414410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YunJiu @FreeX2222  🌚装个钓鱼mod能增强星露谷幸福度"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069670211708424192"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2069670217983414410",
+        "created_at": "2026-06-24T06:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T07:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069670217983414410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/626pM9E0TP",
+              "end": 41,
+              "expanded_url": "https://x.com/YunJiu/status/2069670217983414410/photo/1",
+              "media_key": "3_2069670211708424192",
+              "start": 18,
+              "url": "https://t.co/626pM9E0TP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069670217983414410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 44255,
+          "like_count": 427,
+          "quote_count": 1,
+          "reply_count": 30,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "玩星露谷用鼠标钓鱼be like： https://t.co/626pM9E0TP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5911,
+          "following_count": 774,
+          "like_count": 52337,
+          "listed_count": 18,
+          "media_count": 1043,
+          "tweet_count": 9175
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105573,
+          "following_count": 812,
+          "like_count": 37354,
+          "listed_count": 294,
+          "media_count": 19622,
+          "tweet_count": 28056
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-18T03:29:24.000Z",
+        "description": "Love forever\n@FreeX114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "FreeX114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/JustCloudOvO",
+                "end": 23,
+                "expanded_url": "http://t.me/JustCloudOvO",
+                "start": 0,
+                "url": "https://t.co/Tc2lYEQM8o"
+              }
+            ]
+          }
+        },
+        "id": "2056215337113382912",
+        "location": "这个世界没有岸 只有越来越会游泳的自己",
+        "name": "FreeX",
+        "pinned_tweet_id": "2068292679964983355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060272213274828800/VOo8qXtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15504,
+          "following_count": 118,
+          "like_count": 3615,
+          "listed_count": 9,
+          "media_count": 148,
+          "tweet_count": 923
+        },
+        "url": "https://t.co/Tc2lYEQM8o",
+        "username": "FreeX2222",
+        "verified": true
+      }
+    ]
+  }
+}

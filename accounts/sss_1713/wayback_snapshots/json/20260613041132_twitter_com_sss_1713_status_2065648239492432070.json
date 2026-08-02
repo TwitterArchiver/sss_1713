@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065648220764794880",
+        "3_2065648220827774976",
+        "3_2065648220794195968"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2065648239492432070",
+    "created_at": "2026-06-13T04:11:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T05:11:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065648239492432070"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AwZwCJ3g6i",
+          "end": 28,
+          "expanded_url": "https://x.com/sss_1713/status/2065648239492432070/photo/1",
+          "media_key": "3_2065648220764794880",
+          "start": 5,
+          "url": "https://t.co/AwZwCJ3g6i"
+        },
+        {
+          "display_url": "pic.x.com/AwZwCJ3g6i",
+          "end": 28,
+          "expanded_url": "https://x.com/sss_1713/status/2065648239492432070/photo/1",
+          "media_key": "3_2065648220827774976",
+          "start": 5,
+          "url": "https://t.co/AwZwCJ3g6i"
+        },
+        {
+          "display_url": "pic.x.com/AwZwCJ3g6i",
+          "end": 28,
+          "expanded_url": "https://x.com/sss_1713/status/2065648239492432070/photo/1",
+          "media_key": "3_2065648220794195968",
+          "start": 5,
+          "url": "https://t.co/AwZwCJ3g6i"
+        },
+        {
+          "display_url": "x.com/sss_1713/statu…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/sss_1713/status/2065463386306138414",
+          "start": 29,
+          "url": "https://t.co/NCzJ3LT5Yv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065648239492432070",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065463386306138414",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就这人。 https://t.co/AwZwCJ3g6i https://t.co/NCzJ3LT5Yv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2065648220764794880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqoHM2acAAJpLg.jpg",
+        "width": 604
+      },
+      {
+        "height": 432,
+        "media_key": "3_2065648220827774976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqoHNFbcAAq6ig.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065648220794195968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqoHM9bEAAH0NF.jpg",
+        "width": 1208
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065648220764794880",
+            "3_2065648220827774976",
+            "3_2065648220794195968"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2065648239492432070",
+        "created_at": "2026-06-13T04:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065648239492432070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AwZwCJ3g6i",
+              "end": 28,
+              "expanded_url": "https://x.com/sss_1713/status/2065648239492432070/photo/1",
+              "media_key": "3_2065648220764794880",
+              "start": 5,
+              "url": "https://t.co/AwZwCJ3g6i"
+            },
+            {
+              "display_url": "pic.x.com/AwZwCJ3g6i",
+              "end": 28,
+              "expanded_url": "https://x.com/sss_1713/status/2065648239492432070/photo/1",
+              "media_key": "3_2065648220827774976",
+              "start": 5,
+              "url": "https://t.co/AwZwCJ3g6i"
+            },
+            {
+              "display_url": "pic.x.com/AwZwCJ3g6i",
+              "end": 28,
+              "expanded_url": "https://x.com/sss_1713/status/2065648239492432070/photo/1",
+              "media_key": "3_2065648220794195968",
+              "start": 5,
+              "url": "https://t.co/AwZwCJ3g6i"
+            },
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/sss_1713/status/2065463386306138414",
+              "start": 29,
+              "url": "https://t.co/NCzJ3LT5Yv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065648239492432070",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065463386306138414",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就这人。 https://t.co/AwZwCJ3g6i https://t.co/NCzJ3LT5Yv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2065463386306138414",
+        "created_at": "2026-06-12T15:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065463386306138414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zaregotouta/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/zaregotouta/status/2065346354923372757",
+              "start": 29,
+              "url": "https://t.co/u71LAklGI2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065463386306138414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 599,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065346354923372757",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太恶心了，让我想起来某“爱国人士”自曝给女儿洗澡会硬的话 https://t.co/u71LAklGI2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5883,
+          "following_count": 760,
+          "like_count": 50663,
+          "listed_count": 18,
+          "media_count": 1020,
+          "tweet_count": 8928
+        },
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

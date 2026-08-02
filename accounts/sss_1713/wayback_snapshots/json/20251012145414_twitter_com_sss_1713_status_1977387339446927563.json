@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1977355396957278327",
+    "created_at": "2025-10-12T14:54:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T15:54:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977387339446927563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1475153559427563522",
+          "start": 0,
+          "username": "114514dxp"
+        },
+        {
+          "end": 26,
+          "id": "1911458837107732480",
+          "start": 11,
+          "username": "kanameranaswly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977387339446927563",
+    "in_reply_to_user_id": "1475153559427563522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977382029760098562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@114514dxp @kanameranaswly 我听的是拿外蒙换新疆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1977355396957278327",
+        "created_at": "2025-10-12T14:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T15:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977387339446927563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1475153559427563522",
+              "start": 0,
+              "username": "114514dxp"
+            },
+            {
+              "end": 26,
+              "id": "1911458837107732480",
+              "start": 11,
+              "username": "kanameranaswly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977387339446927563",
+        "in_reply_to_user_id": "1475153559427563522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977382029760098562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@114514dxp @kanameranaswly 我听的是拿外蒙换新疆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1475153559427563522",
+        "conversation_id": "1977355396957278327",
+        "created_at": "2025-10-12T14:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T15:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977382029760098562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1911458837107732480",
+              "start": 0,
+              "username": "kanameranaswly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977382029760098562",
+        "in_reply_to_user_id": "1911458837107732480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977355396957278327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanameranaswly 苏联还真煽动过新疆的民族分裂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5806,
+          "following_count": 974,
+          "like_count": 45872,
+          "listed_count": 17,
+          "media_count": 944,
+          "tweet_count": 7793
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-26T17:16:43.000Z",
+        "description": "",
+        "id": "1475153559427563522",
+        "name": "小平的十个如果",
+        "pinned_tweet_id": "1956168385479483539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789337449078140928/N5R22yCp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11766,
+          "following_count": 960,
+          "like_count": 33845,
+          "listed_count": 23,
+          "media_count": 1560,
+          "tweet_count": 25058
+        },
+        "username": "114514dxp",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T16:39:04.000Z",
+        "description": "一个成分复杂的，抽象的，少前7年咸鱼的。看鸡团狗团少女乐队的，厨要乐奈的。混过少战和车万的，打战地的，P社老战犯的。苏联俄罗斯头号小黑子的，挺🇺🇦和🇮🇱的老右德棍🇩🇪与HK416厨（中文，japOK，English苦手，deutsch学习中）",
+        "id": "1911458837107732480",
+        "location": "団結協定–大ゲルマン国–ゲルマニア/ハンブルク",
+        "name": "✙守望莱茵的乐奈✙🇩🇪🇪🇺",
+        "pinned_tweet_id": "1941081542216085719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976659639585632256/G9k54GOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 519,
+          "like_count": 6180,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 807
+        },
+        "username": "kanameranaswly",
+        "verified": false
+      }
+    ]
+  }
+}

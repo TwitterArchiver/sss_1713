@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2053497193064173976",
+    "created_at": "2026-05-10T15:27:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T16:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053497193064173976"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2053346796278108579",
+          "start": 61,
+          "url": "https://t.co/hSjhHKGUgg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053497193064173976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053346796278108579",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😂如果真放“港独”、“台独”歌也没人能听出来，我们学校甚至给我们做过宣传神韵的英语题，就是轮子那个神韵😂也没一个人看出来 https://t.co/hSjhHKGUgg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1726,
+        "media_key": "3_2053224598242521090",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH6E5MZW8AIZgKW.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1643,
+        "media_key": "3_2053224878426238985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH6FJgKXMAkhEKF.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2053497193064173976",
+        "created_at": "2026-05-10T15:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053497193064173976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2053346796278108579",
+              "start": 61,
+              "url": "https://t.co/hSjhHKGUgg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053497193064173976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053346796278108579",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😂如果真放“港独”、“台独”歌也没人能听出来，我们学校甚至给我们做过宣传神韵的英语题，就是轮子那个神韵😂也没一个人看出来 https://t.co/hSjhHKGUgg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053224598242521090",
+            "3_2053224878426238985"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2053346796278108579",
+        "created_at": "2026-05-10T05:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053346796278108579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GHZTdibWY2",
+              "end": 120,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2053346796278108579/photo/1",
+              "media_key": "3_2053224598242521090",
+              "start": 97,
+              "url": "https://t.co/GHZTdibWY2"
+            },
+            {
+              "display_url": "pic.x.com/GHZTdibWY2",
+              "end": 120,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2053346796278108579/photo/1",
+              "media_key": "3_2053224878426238985",
+              "start": 97,
+              "url": "https://t.co/GHZTdibWY2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053346796278108579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 167,
+          "impression_count": 168826,
+          "like_count": 1166,
+          "quote_count": 18,
+          "reply_count": 200,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "5月9日，广州七中广播站发布通知：应校方要求，禁止播放英语在内的外语歌，减少播放粤语歌\n\n次日，再发澄清，甩锅给“部员理解有误，已经开除”，表明禁止播放日文、韩文歌曲，一律禁止播放港独、台独。 https://t.co/GHZTdibWY2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5798,
+          "following_count": 1039,
+          "like_count": 47454,
+          "listed_count": 18,
+          "media_count": 941,
+          "tweet_count": 8227
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2218310,
+          "following_count": 1047,
+          "like_count": 9479,
+          "listed_count": 8723,
+          "media_count": 46491,
+          "tweet_count": 53593
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

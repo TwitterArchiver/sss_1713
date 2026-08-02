@@ -1,0 +1,97 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2074367168213299662",
+    "created_at": "2026-07-07T05:37:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T06:37:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074367168213299662"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074367168213299662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "今年是我注册推特的第六年，推特已经占了我人生的三分之一。\n\n说实话，如今时间线上的很多内容，我已经不像当初那样让我感到新鲜、惊讶，甚至恐惧了。中间我也曾短暂淡出过这个软件，但总会在生活的某个瞬间想起许多以前的朋友。那些人和事，回忆起来仿佛还是昨天。\n\n而如今，他们之中的一些人已经退推，一些人被逮捕，还有一些人永远离开了这个世界。他们留下的推文、回复和那个互关标识，却依然静静地停留在那里，像不会说话的纪念碑。\n\n如果这次我的账号真的因为这场莫名其妙的 Premium 风波而不幸被封禁，我最舍不得的，不是账号本身，而是这些年来认识的朋友，以及那些被保存在时间线里的点点滴滴。🥲🥲"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今年是我注册推特的第六年，推特已经占了我人生的三分之一。\n\n说实话，如今时间线上的很多内容，我已经不像当初那样让我感到新鲜、惊讶，甚至恐惧了。中间我也曾短暂淡出过这个软件，但总会在生活的某个瞬间想起许多以前的朋友。那些人和事，回忆起来仿佛还是昨天。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2074367168213299662",
+        "created_at": "2026-07-07T05:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T06:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074367168213299662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074367168213299662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今年是我注册推特的第六年，推特已经占了我人生的三分之一。\n\n说实话，如今时间线上的很多内容，我已经不像当初那样让我感到新鲜、惊讶，甚至恐惧了。中间我也曾短暂淡出过这个软件，但总会在生活的某个瞬间想起许多以前的朋友。那些人和事，回忆起来仿佛还是昨天。\n\n而如今，他们之中的一些人已经退推，一些人被逮捕，还有一些人永远离开了这个世界。他们留下的推文、回复和那个互关标识，却依然静静地停留在那里，像不会说话的纪念碑。\n\n如果这次我的账号真的因为这场莫名其妙的 Premium 风波而不幸被封禁，我最舍不得的，不是账号本身，而是这些年来认识的朋友，以及那些被保存在时间线里的点点滴滴。🥲🥲"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今年是我注册推特的第六年，推特已经占了我人生的三分之一。\n\n说实话，如今时间线上的很多内容，我已经不像当初那样让我感到新鲜、惊讶，甚至恐惧了。中间我也曾短暂淡出过这个软件，但总会在生活的某个瞬间想起许多以前的朋友。那些人和事，回忆起来仿佛还是昨天。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5944,
+          "following_count": 795,
+          "like_count": 53878,
+          "listed_count": 18,
+          "media_count": 1065,
+          "tweet_count": 9344
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      }
+    ]
+  }
+}

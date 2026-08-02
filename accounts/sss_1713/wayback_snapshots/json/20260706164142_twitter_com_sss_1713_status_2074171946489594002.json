@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2074124694358458503",
+    "created_at": "2026-07-06T16:41:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T17:41:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074171946489594002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2053824487330852865",
+          "start": 0,
+          "username": "RusskiyCvyatoy"
+        },
+        {
+          "end": 26,
+          "id": "1661148065749942272",
+          "start": 16,
+          "username": "MeiyiSama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074171946489594002",
+    "in_reply_to_user_id": "2053824487330852865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074165476670779566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RusskiyCvyatoy @MeiyiSama 字面意义上的飞了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2074124694358458503",
+        "created_at": "2026-07-06T16:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074171946489594002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2053824487330852865",
+              "start": 0,
+              "username": "RusskiyCvyatoy"
+            },
+            {
+              "end": 26,
+              "id": "1661148065749942272",
+              "start": 16,
+              "username": "MeiyiSama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074171946489594002",
+        "in_reply_to_user_id": "2053824487330852865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074165476670779566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusskiyCvyatoy @MeiyiSama 字面意义上的飞了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053824487330852865",
+        "conversation_id": "2074124694358458503",
+        "created_at": "2026-07-06T16:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074165476670779566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1661148065749942272",
+              "start": 0,
+              "username": "MeiyiSama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074165476670779566",
+        "in_reply_to_user_id": "1661148065749942272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074124694358458503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeiyiSama 林彪夯飞了好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5938,
+          "following_count": 791,
+          "like_count": 53816,
+          "listed_count": 18,
+          "media_count": 1063,
+          "tweet_count": 9325
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T13:09:44.000Z",
+        "description": "无限热爱伊玛目霍梅尼、无限崇拜伊玛目哈梅内伊，俩一俩海，银兰拉呼！\n黄俄罗斯伊斯兰革命总指挥部（Sedes Revolutionis Islamicae Zheltrossae）",
+        "id": "2053824487330852865",
+        "location": "Sankt-Paulsburg, RSFSR",
+        "name": "黄俄罗斯伊斯兰革命总指挥部",
+        "pinned_tweet_id": "2060020055111287178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069630190095880192/DjdCd_pl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 116,
+          "like_count": 1554,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1663
+        },
+        "url": "",
+        "username": "RusskiyCvyatoy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-23T23:12:24.000Z",
+        "description": "1935出生于吉林长春，1950参加中国人民解放军并参加抗美援朝。1951加入中国共产党。复员后到上海入第十七棉纺织厂当工人。后于保卫科任干事。1966响应伟大领袖毛主席号召推翻上海市委反动统治打响夺权第一枪，并在党十大上成功当选副主席。 1976粉碎走资派妄图复辟资本主义的阴谋诡计，在党十一大当选中华人民共和国主席。",
+        "id": "1661148065749942272",
+        "location": "中华人民共和国北京市西城区中南海",
+        "name": "王洪文",
+        "pinned_tweet_id": "1849506577570726220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800529443313848321/pBGkVoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1661,
+          "following_count": 68,
+          "like_count": 1683,
+          "listed_count": 3,
+          "media_count": 388,
+          "tweet_count": 3747
+        },
+        "url": "",
+        "username": "MeiyiSama",
+        "verified": true
+      }
+    ]
+  }
+}

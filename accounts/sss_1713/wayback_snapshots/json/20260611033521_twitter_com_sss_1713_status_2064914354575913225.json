@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2064888417834746215",
+    "created_at": "2026-06-11T03:35:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T04:35:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064914354575913225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2040054095378083840",
+          "start": 0,
+          "username": "shsh531980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064914354575913225",
+    "in_reply_to_user_id": "2040054095378083840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064911752022929583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shsh531980 要好好在家休息哦！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2064888417834746215",
+        "created_at": "2026-06-11T03:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T04:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064914354575913225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040054095378083840",
+              "start": 0,
+              "username": "shsh531980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064914354575913225",
+        "in_reply_to_user_id": "2040054095378083840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064911752022929583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shsh531980 要好好在家休息哦！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040054095378083840",
+        "conversation_id": "2064888417834746215",
+        "created_at": "2026-06-11T03:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T04:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064911752022929583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064911752022929583",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064888417834746215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 我也是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5883,
+          "following_count": 759,
+          "like_count": 50320,
+          "listed_count": 18,
+          "media_count": 1006,
+          "tweet_count": 8866
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T13:09:47.000Z",
+        "description": "三年级白幼瘦小正太 求对喷 高考版",
+        "id": "2040054095378083840",
+        "name": "fukd✝️❤️‍🔥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062205597576232960/UOP4Uvbl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 5,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 231
+        },
+        "username": "shsh531980",
+        "verified": false
+      }
+    ]
+  }
+}

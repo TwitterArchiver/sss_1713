@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055191729439956992",
+        "3_2055191729444151296"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2055191744254267665",
+    "created_at": "2026-05-15T07:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T08:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055191744254267665"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hLoBVWyzAB",
+          "end": 58,
+          "expanded_url": "https://x.com/sss_1713/status/2055191744254267665/photo/1",
+          "media_key": "3_2055191729439956992",
+          "start": 35,
+          "url": "https://t.co/hLoBVWyzAB"
+        },
+        {
+          "display_url": "pic.x.com/hLoBVWyzAB",
+          "end": 58,
+          "expanded_url": "https://x.com/sss_1713/status/2055191744254267665/photo/1",
+          "media_key": "3_2055191729444151296",
+          "start": 35,
+          "url": "https://t.co/hLoBVWyzAB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055191744254267665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以前互关的绝大多数推友的两个结果：死亡、离开。\n集中在22年和23年 https://t.co/hLoBVWyzAB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 912,
+        "media_key": "3_2055191729439956992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWB_TKW4AAeA5l.jpg",
+        "width": 1206
+      },
+      {
+        "height": 833,
+        "media_key": "3_2055191729444151296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWB_TLW4AAN8aM.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055191729439956992",
+            "3_2055191729444151296"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055191744254267665",
+        "created_at": "2026-05-15T07:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T08:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055191744254267665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hLoBVWyzAB",
+              "end": 58,
+              "expanded_url": "https://x.com/sss_1713/status/2055191744254267665/photo/1",
+              "media_key": "3_2055191729439956992",
+              "start": 35,
+              "url": "https://t.co/hLoBVWyzAB"
+            },
+            {
+              "display_url": "pic.x.com/hLoBVWyzAB",
+              "end": 58,
+              "expanded_url": "https://x.com/sss_1713/status/2055191744254267665/photo/1",
+              "media_key": "3_2055191729444151296",
+              "start": 35,
+              "url": "https://t.co/hLoBVWyzAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055191744254267665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前互关的绝大多数推友的两个结果：死亡、离开。\n集中在22年和23年 https://t.co/hLoBVWyzAB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5800,
+          "following_count": 746,
+          "like_count": 47398,
+          "listed_count": 18,
+          "media_count": 946,
+          "tweet_count": 8274
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

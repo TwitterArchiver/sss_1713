@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051635879513636864",
+        "3_2051635879501012995"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2051635888011215034",
+    "created_at": "2026-05-05T12:11:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T13:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051635888011215034"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zvk8CwofjE",
+          "end": 119,
+          "expanded_url": "https://x.com/sss_1713/status/2051635888011215034/photo/1",
+          "media_key": "3_2051635879513636864",
+          "start": 96,
+          "url": "https://t.co/zvk8CwofjE"
+        },
+        {
+          "display_url": "pic.x.com/zvk8CwofjE",
+          "end": 119,
+          "expanded_url": "https://x.com/sss_1713/status/2051635888011215034/photo/1",
+          "media_key": "3_2051635879501012995",
+          "start": 96,
+          "url": "https://t.co/zvk8CwofjE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051635888011215034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对不起，我自从推特的私信界面更新之后就很少看私信了，也不太清楚那些按键都是干什么用的，今天阴差阳错点进去了才看到你的消息🥲对不起，我真的很内疚，如果我早两天看到你的信息是不是就可以帮到你了。 https://t.co/zvk8CwofjE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051635879513636864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHjf9l7bQAAVZHP.jpg",
+        "width": 1154
+      },
+      {
+        "height": 1233,
+        "media_key": "3_2051635879501012995",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHjf9l4aoAM0E6X.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051635879513636864",
+            "3_2051635879501012995"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2051635888011215034",
+        "created_at": "2026-05-05T12:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T13:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051635888011215034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zvk8CwofjE",
+              "end": 119,
+              "expanded_url": "https://x.com/sss_1713/status/2051635888011215034/photo/1",
+              "media_key": "3_2051635879513636864",
+              "start": 96,
+              "url": "https://t.co/zvk8CwofjE"
+            },
+            {
+              "display_url": "pic.x.com/zvk8CwofjE",
+              "end": 119,
+              "expanded_url": "https://x.com/sss_1713/status/2051635888011215034/photo/1",
+              "media_key": "3_2051635879501012995",
+              "start": 96,
+              "url": "https://t.co/zvk8CwofjE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051635888011215034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起，我自从推特的私信界面更新之后就很少看私信了，也不太清楚那些按键都是干什么用的，今天阴差阳错点进去了才看到你的消息🥲对不起，我真的很内疚，如果我早两天看到你的信息是不是就可以帮到你了。 https://t.co/zvk8CwofjE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5806,
+          "following_count": 1035,
+          "like_count": 47395,
+          "listed_count": 18,
+          "media_count": 941,
+          "tweet_count": 8210
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

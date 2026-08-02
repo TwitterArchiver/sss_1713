@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057824635354497024"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2057824645748023435",
+    "created_at": "2026-05-22T14:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T15:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057824645748023435"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EOb8S7cnMD",
+          "end": 32,
+          "expanded_url": "https://x.com/sss_1713/status/2057824645748023435/photo/1",
+          "media_key": "3_2057824635354497024",
+          "start": 9,
+          "url": "https://t.co/EOb8S7cnMD"
+        },
+        {
+          "display_url": "x.com/mypotato_o/sta…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/mypotato_o/status/2057480826359521435",
+          "start": 33,
+          "url": "https://t.co/Ph9lfHKXJ6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057824645748023435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057480826359521435",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就这样现学现卖🤣 https://t.co/EOb8S7cnMD https://t.co/Ph9lfHKXJ6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 404,
+        "media_key": "3_2057824635354497024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7cmmBaQAAvlH_.jpg",
+        "width": 898
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057824635354497024"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2057824645748023435",
+        "created_at": "2026-05-22T14:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057824645748023435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EOb8S7cnMD",
+              "end": 32,
+              "expanded_url": "https://x.com/sss_1713/status/2057824645748023435/photo/1",
+              "media_key": "3_2057824635354497024",
+              "start": 9,
+              "url": "https://t.co/EOb8S7cnMD"
+            },
+            {
+              "display_url": "x.com/mypotato_o/sta…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/mypotato_o/status/2057480826359521435",
+              "start": 33,
+              "url": "https://t.co/Ph9lfHKXJ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057824645748023435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057480826359521435",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就这样现学现卖🤣 https://t.co/EOb8S7cnMD https://t.co/Ph9lfHKXJ6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044284872366178304",
+        "conversation_id": "2057480826359521435",
+        "created_at": "2026-05-21T15:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057480826359521435"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057480826359521435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4684,
+          "like_count": 73,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "和喜欢的人之间相互当狗到底是什么感觉、、、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5805,
+          "following_count": 743,
+          "like_count": 48019,
+          "listed_count": 18,
+          "media_count": 972,
+          "tweet_count": 8427
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T05:23:15.000Z",
+        "description": "一些关于我的",
+        "id": "2044284872366178304",
+        "location": "谁的心里",
+        "name": "钰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044285660995928064/000bqF8K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 3,
+          "like_count": 194,
+          "listed_count": 4,
+          "media_count": 23,
+          "tweet_count": 55
+        },
+        "username": "Mypotato_o",
+        "verified": false
+      }
+    ]
+  }
+}

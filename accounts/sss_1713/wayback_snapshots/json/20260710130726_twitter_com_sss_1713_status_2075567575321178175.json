@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2075567575321178175",
+    "created_at": "2026-07-10T13:07:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T14:07:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075567575321178175"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2075490214471196806",
+          "start": 42,
+          "url": "https://t.co/reXfwfuyiI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075567575321178175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075490214471196806",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不浪费不代表教育的好，尤其是在山区里，底层老百姓也有浪费的权利时才代表真正富裕了。 https://t.co/reXfwfuyiI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18134,
+        "height": 1280,
+        "media_key": "13_2075150522567229441",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075150522567229441/img/SNbSpxE0bZx-35EH.jpg",
+        "public_metrics": {
+          "view_count": 10552
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075150522567229441/vid/avc1/320x568/osQBryz0KSASPOGM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075150522567229441/vid/avc1/480x852/K-Cn1EKlnc1X1txN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075150522567229441/vid/avc1/720x1280/ujR-hIkSng9_fm9p.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075150522567229441/pl/TFT9xwsbNi5jvF1I.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2075567575321178175",
+        "created_at": "2026-07-10T13:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075567575321178175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2075490214471196806",
+              "start": 42,
+              "url": "https://t.co/reXfwfuyiI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075567575321178175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075490214471196806",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不浪费不代表教育的好，尤其是在山区里，底层老百姓也有浪费的权利时才代表真正富裕了。 https://t.co/reXfwfuyiI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075150522567229441"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075490214471196806",
+        "created_at": "2026-07-10T08:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075490214471196806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UYpre7bNgv",
+              "end": 118,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2075490214471196806/video/1",
+              "media_key": "13_2075150522567229441",
+              "start": 95,
+              "url": "https://t.co/UYpre7bNgv"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1917971076728213951",
+              "start": 119,
+              "url": "https://t.co/bOXipGaKQS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075490214471196806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 37364,
+          "like_count": 94,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917971076728213951",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "7月8日，一名博主发布视频，记录了其走访青海玉树藏族自治州一所小学时的画面。\n\n视频中，学生们在用餐结束后，几乎都将餐盘里的食物吃得干干净净，不少孩子还反复将餐盘舔净，尽量不浪费一粒粮食。 https://t.co/UYpre7bNgv https://t.co/bOXipGaKQS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5957,
+          "following_count": 792,
+          "like_count": 54411,
+          "listed_count": 18,
+          "media_count": 1079,
+          "tweet_count": 9433
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2245694,
+          "following_count": 1074,
+          "like_count": 9791,
+          "listed_count": 8821,
+          "media_count": 50171,
+          "tweet_count": 57378
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

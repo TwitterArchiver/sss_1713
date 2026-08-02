@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2071606578760028438",
+    "created_at": "2026-06-29T14:47:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T15:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071606578760028438"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sss_1713/statu…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/sss_1713/status/2071189239413547336",
+          "start": 28,
+          "url": "https://t.co/f0vWuwVXIm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071606578760028438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071189239413547336",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那个摩洛哥女孩说她如果在中国学习不好的话就要回去结婚🥲 https://t.co/f0vWuwVXIm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2071606578760028438",
+        "created_at": "2026-06-29T14:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071606578760028438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/sss_1713/status/2071189239413547336",
+              "start": 28,
+              "url": "https://t.co/f0vWuwVXIm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071606578760028438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071189239413547336",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那个摩洛哥女孩说她如果在中国学习不好的话就要回去结婚🥲 https://t.co/f0vWuwVXIm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2071189239413547336",
+        "created_at": "2026-06-28T11:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071189239413547336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/sss_1713/status/2071137327058149451",
+              "start": 128,
+              "url": "https://t.co/oRrDgHJpLQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071189239413547336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 288,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071137327058149451",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不知道是不是摩洛哥比较世俗化的原因，和我比较熟的那个摩洛哥女生很尊重我的信仰，并且我们两个也会从圣经和古兰经里求同存异地交流。\n但是来着阿富汗的朋友就不太OK，他说我如果在他们国家暴露信仰的话会被当街打死😇聊到他们国家的政府的时候我们不约而同的选择沉默。 https://t.co/oRrDgHJpLQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5915,
+          "following_count": 781,
+          "like_count": 52813,
+          "listed_count": 18,
+          "media_count": 1054,
+          "tweet_count": 9253
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

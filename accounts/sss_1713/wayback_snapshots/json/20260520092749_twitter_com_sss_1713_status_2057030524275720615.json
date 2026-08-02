@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2057021433768022367",
+    "created_at": "2026-05-20T09:27:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T10:27:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057030524275720615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2056215337113382912",
+          "start": 0,
+          "username": "FreeX2222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057030524275720615",
+    "in_reply_to_user_id": "2056215337113382912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057021433768022367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FreeX2222 这次freex真的free了🧡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057021420644048896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwCFWDboAAskls.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2057021433768022367",
+        "created_at": "2026-05-20T09:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T10:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057030524275720615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2056215337113382912",
+              "start": 0,
+              "username": "FreeX2222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057030524275720615",
+        "in_reply_to_user_id": "2056215337113382912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057021433768022367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreeX2222 这次freex真的free了🧡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057021420644048896"
+          ]
+        },
+        "author_id": "2056215337113382912",
+        "conversation_id": "2057021433768022367",
+        "created_at": "2026-05-20T08:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T09:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057021433768022367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SgfA2LccdO",
+              "end": 44,
+              "expanded_url": "https://x.com/FreeX2222/status/2057021433768022367/photo/1",
+              "media_key": "3_2057021420644048896",
+              "start": 21,
+              "url": "https://t.co/SgfA2LccdO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057021433768022367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 403,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经到韩国了 不用再翻墙了o(^▽^)o https://t.co/SgfA2LccdO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2056686933950996682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5803,
+          "following_count": 744,
+          "like_count": 47841,
+          "listed_count": 18,
+          "media_count": 964,
+          "tweet_count": 8386
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-18T03:29:24.000Z",
+        "description": "Love forever\n@FreeXfocus",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "FreeXfocus"
+              }
+            ]
+          }
+        },
+        "id": "2056215337113382912",
+        "location": "踏实向好 永远善良",
+        "name": "FreeX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056939857994514432/q0yUkIMa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3845,
+          "following_count": 7,
+          "like_count": 102,
+          "listed_count": 3,
+          "media_count": 12,
+          "tweet_count": 36
+        },
+        "username": "FreeX2222",
+        "verified": false
+      }
+    ]
+  }
+}

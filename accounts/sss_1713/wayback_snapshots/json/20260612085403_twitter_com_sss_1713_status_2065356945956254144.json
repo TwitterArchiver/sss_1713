@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2065356945956254144",
+    "created_at": "2026-06-12T08:54:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T09:54:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065356945956254144"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/enletritas/sta…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/enletritas/status/2065090071863189676",
+          "start": 13,
+          "url": "https://t.co/3Ao3SCcKfZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065356945956254144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065090071863189676",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我现在就这样看着手机呢。 https://t.co/3Ao3SCcKfZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 549,
+        "media_key": "3_2065090069120106496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKisef8XQAA1ZUK.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2065356945956254144",
+        "created_at": "2026-06-12T08:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T09:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065356945956254144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/enletritas/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/enletritas/status/2065090071863189676",
+              "start": 13,
+              "url": "https://t.co/3Ao3SCcKfZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065356945956254144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065090071863189676",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在就这样看着手机呢。 https://t.co/3Ao3SCcKfZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065090069120106496"
+          ]
+        },
+        "author_id": "2011718067030802437",
+        "conversation_id": "2065090071863189676",
+        "created_at": "2026-06-11T15:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065090071863189676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pac4ZOr5pF",
+              "end": 90,
+              "expanded_url": "https://x.com/enletritas/status/2065090071863189676/photo/1",
+              "media_key": "3_2065090069120106496",
+              "start": 67,
+              "url": "https://t.co/Pac4ZOr5pF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065090071863189676",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 226,
+          "impression_count": 148111,
+          "like_count": 16842,
+          "quote_count": 34,
+          "reply_count": 8,
+          "retweet_count": 3307
+        },
+        "reply_settings": "everyone",
+        "text": "mi talento es que puedo quedarme en mi habitación las 24 horas así https://t.co/Pac4ZOr5pF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5886,
+          "following_count": 759,
+          "like_count": 50578,
+          "listed_count": 18,
+          "media_count": 1015,
+          "tweet_count": 8909
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T08:32:29.000Z",
+        "description": "sígueme para más contenido | meta 2K 📝",
+        "id": "2011718067030802437",
+        "name": "‏ًً",
+        "pinned_tweet_id": "2065090071863189676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024879842831773696/evL0E2XP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 0,
+          "like_count": 6472,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 131
+        },
+        "username": "enletritas",
+        "verified": false
+      }
+    ]
+  }
+}

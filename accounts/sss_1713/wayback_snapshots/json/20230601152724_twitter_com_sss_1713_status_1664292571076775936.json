@@ -1,0 +1,171 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1664285010185322499",
+    "created_at": "2023-06-01T15:27:24.000Z",
+    "edit_controls": {
+      "editable_until": "2023-06-01T15:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1664292571076775936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1283001843665104898",
+          "start": 0,
+          "username": "JDDDMX717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1664292571076775936",
+    "in_reply_to_user_id": "1283001843665104898",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1664288550882508800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JDDDMX717 考虑一下如果这人真是学生，那遇到这种媒体采访之后使用的语言应该会比较书面一点的🤔"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1664288550882508800].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1664288550882508800",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1664288550882508800"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1664285010185322499",
+        "created_at": "2023-06-01T15:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2023-06-01T15:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1664292571076775936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1283001843665104898",
+              "start": 0,
+              "username": "JDDDMX717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1664292571076775936",
+        "in_reply_to_user_id": "1283001843665104898",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1664288550882508800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JDDDMX717 考虑一下如果这人真是学生，那遇到这种媒体采访之后使用的语言应该会比较书面一点的🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Y5QyUoyob7"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "name": "1713",
+        "pinned_tweet_id": "1647245461957365763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1557709483509329921/JiR-Wq8j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3859,
+          "following_count": 1006,
+          "listed_count": 20,
+          "tweet_count": 6225
+        },
+        "url": "https://t.co/Y5QyUoyob7",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-14T11:34:22.000Z",
+        "description": "Niconico：119068321\n東方众，音MADer，エア本民\nLanguage：CN/EN\n支黑和小粉红勿扰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/user/119068321",
+                "end": 23,
+                "expanded_url": "https://www.nicovideo.jp/user/119068321",
+                "start": 0,
+                "url": "https://t.co/TePfLqNy3s"
+              }
+            ]
+          }
+        },
+        "id": "1283001843665104898",
+        "location": "Ленинград, СССР",
+        "name": "シンプルな 大 冒険",
+        "pinned_tweet_id": "1537464577440419840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1591696716062785536/N-iF3Awd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 301,
+          "listed_count": 2,
+          "tweet_count": 7827
+        },
+        "url": "https://t.co/TePfLqNy3s",
+        "username": "JDDDMX717",
+        "verified": false
+      }
+    ]
+  }
+}

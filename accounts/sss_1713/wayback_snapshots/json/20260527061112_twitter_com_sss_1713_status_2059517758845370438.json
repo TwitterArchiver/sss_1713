@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2059517684308394238",
+    "created_at": "2026-05-27T06:11:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T07:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059517758845370438"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059517758845370438",
+    "in_reply_to_user_id": "1254605353838231553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059517751824179487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "六、为什么互联网会放大“夸张样本”\n\n还有一个重要原因：\n\n互联网上最容易传播的是“戏剧化的人”\n\n于是你看到的可能总是：\n\n妆容很浓\n举止夸张\n非常高调\n强烈强调性别身份的人\n\n但大量现实中的跨性别女性其实非常普通。\n\n因为普通人不会出圈。\n\n这会导致一种认知偏差："
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2059517684308394238",
+        "created_at": "2026-05-27T06:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059517758845370438"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059517758845370438",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059517751824179487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "六、为什么互联网会放大“夸张样本”\n\n还有一个重要原因：\n\n互联网上最容易传播的是“戏剧化的人”\n\n于是你看到的可能总是：\n\n妆容很浓\n举止夸张\n非常高调\n强烈强调性别身份的人\n\n但大量现实中的跨性别女性其实非常普通。\n\n因为普通人不会出圈。\n\n这会导致一种认知偏差："
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2059517684308394238",
+        "created_at": "2026-05-27T06:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059517751824179487"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059517751824179487",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059517746992296277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而在于：\n\n“这些表达是不是唯一合法的女性模板”\n\n如果一个 MTF 认为：\n\n女人必须长发；\n必须娇柔；\n必须性感；\n必须符合男性审美；\n\n那确实容易被批评。\n\n但如果只是：\n“我个人喜欢这样表达自己”，\n\n那又是另一回事。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5849,
+          "following_count": 752,
+          "like_count": 48355,
+          "listed_count": 18,
+          "media_count": 979,
+          "tweet_count": 8529
+        },
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

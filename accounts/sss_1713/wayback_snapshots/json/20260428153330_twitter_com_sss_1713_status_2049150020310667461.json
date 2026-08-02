@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2049150020310667461",
+    "created_at": "2026-04-28T15:33:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T16:33:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049150020310667461"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sifan198964/st…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/sifan198964/status/2049092603694440819",
+          "start": 39,
+          "url": "https://t.co/b89dhSTRVA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049150020310667461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049092603694440819",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "王洪文这种从基层坐直升飞机上去的人性未泯，跟其它老狐狸比阴谋诡计肯定比不过。 https://t.co/b89dhSTRVA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 587,
+        "media_key": "3_2049092162403606529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_WdxQaoAEAK5h.png",
+        "width": 676
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2049150020310667461",
+        "created_at": "2026-04-28T15:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049150020310667461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sifan198964/st…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/sifan198964/status/2049092603694440819",
+              "start": 39,
+              "url": "https://t.co/b89dhSTRVA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049150020310667461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049092603694440819",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "王洪文这种从基层坐直升飞机上去的人性未泯，跟其它老狐狸比阴谋诡计肯定比不过。 https://t.co/b89dhSTRVA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049092162403606529"
+          ]
+        },
+        "author_id": "615948003",
+        "conversation_id": "2049092603694440819",
+        "created_at": "2026-04-28T11:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049092603694440819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/28plDX5KRg",
+              "end": 135,
+              "expanded_url": "https://x.com/sifan198964/status/2049092603694440819/photo/1",
+              "media_key": "3_2049092162403606529",
+              "start": 112,
+              "url": "https://t.co/28plDX5KRg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049092603694440819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "王洪文的遗孀崔根娣去世了，享年86岁。\n中共的老革命，红一代的政治老人，无论是文革中受益的革命派，还是被毛泽东打倒的走资派，没有几人看得起王洪文，视他为政治投机暴发户，但是王洪文的人品比中共这些延安过来的老干部要高尚的多。\n他的妻子崔根娣只是上海国棉十七厂的一个普通女工，小学文化，文革时期王洪文即使进入了中共权力核心，中共十大当选为中央副主席，他也没有像延安共产党领袖集体抛弃发妻，另娶小老婆一样，另寻新欢。\n文革后他本人作为四人帮被打倒，被判处了无期徒刑。当时时年只有36岁的发妻崔根娣没有选择离婚，没有跟他划清界限，没有脱掉反革命家属的帽子，而是一个人把三个子女默默养大。\n对比这对夫妻，中共的这些高级官员，有几个家庭比得了他们的人品？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 30141,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "王洪文的遗孀崔根娣去世了，享年86岁。\n中共的老革命，红一代的政治老人，无论是文革中受益的革命派，还是被毛泽东打倒的走资派，没有几人看得起王洪文，视他为政治投机暴发户，但是王洪文的人品比中共这些延安过来的老干部要高尚的多。 https://t.co/28plDX5KRg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5801,
+          "following_count": 1033,
+          "like_count": 47259,
+          "listed_count": 18,
+          "media_count": 939,
+          "tweet_count": 8175
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-23T06:30:12.000Z",
+        "description": "非外交官。八九六四南京学运领导人,判刑十年。\n美国国务卿贝克1991年访华时，向中共政府索要的政治犯。参见中共外长钱其琛回忆录《外交十记》。\n1997年出狱。\n2008年率众维权SOHO国际。\n2015年流亡赴美。\n2017年開通油管《建民論推墻》\n2022年出版六四紀實傳記《歲月有痕》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/channel/UC2Qpd…",
+                "end": 23,
+                "expanded_url": "https://m.youtube.com/channel/UC2QpdWej8WRwJZiyIUr0W6A",
+                "start": 0,
+                "url": "https://t.co/ihEDnmtiGR"
+              }
+            ]
+          }
+        },
+        "id": "615948003",
+        "location": "美国洛杉矶",
+        "name": "吴建民",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/867010460180242432/F7VRFb-s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101509,
+          "following_count": 2675,
+          "like_count": 17140,
+          "listed_count": 434,
+          "media_count": 4857,
+          "tweet_count": 9737
+        },
+        "url": "https://t.co/ihEDnmtiGR",
+        "username": "sifan198964",
+        "verified": true
+      }
+    ]
+  }
+}

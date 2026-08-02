@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2066151156200685675",
+    "created_at": "2026-06-14T23:26:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T00:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066301239822885136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2042906322937499648",
+          "start": 0,
+          "username": "Diaotaida5"
+        },
+        {
+          "end": 27,
+          "id": "912623216899715072",
+          "start": 12,
+          "username": "Xianzhong_1953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066301239822885136",
+    "in_reply_to_user_id": "2042906322937499648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066219891942686763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diaotaida5 @Xianzhong_1953 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2066151156200685675",
+        "created_at": "2026-06-14T23:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T00:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066301239822885136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2042906322937499648",
+              "start": 0,
+              "username": "Diaotaida5"
+            },
+            {
+              "end": 27,
+              "id": "912623216899715072",
+              "start": 12,
+              "username": "Xianzhong_1953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066301239822885136",
+        "in_reply_to_user_id": "2042906322937499648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066219891942686763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diaotaida5 @Xianzhong_1953 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042906322937499648",
+        "conversation_id": "2066151156200685675",
+        "created_at": "2026-06-14T18:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066219891942686763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "912623216899715072",
+              "start": 0,
+              "username": "Xianzhong_1953"
+            },
+            {
+              "end": 25,
+              "id": "1254605353838231553",
+              "start": 16,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066219891942686763",
+        "in_reply_to_user_id": "912623216899715072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066164649721229734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xianzhong_1953 @sss_1713 男人和女人之间本来就有区别，很多方面要承认男女有别，我觉得1713说的人格上的平等非常对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5882,
+          "following_count": 761,
+          "like_count": 50936,
+          "listed_count": 18,
+          "media_count": 1024,
+          "tweet_count": 8966
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T10:04:14.000Z",
+        "description": "哎卧槽四个号一起炸了\n此生无悔入华夏，来世还做中国人\n上推特之前：习近平是谁，不认识\n上推特之后：老人瞻仰，轻关易道，通商宽衣，金科律玉，精甚细腻，颐使气指，疯狂宇宙，萨格尔王，PM250，疫情迁灭战，兵帮外交",
+        "id": "2042906322937499648",
+        "location": "以色列",
+        "name": "正球级包蜜5🇮🇱🇺🇸",
+        "pinned_tweet_id": "2065803880420585846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047251250224246785/Nl_EqY2__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 83,
+          "like_count": 4839,
+          "listed_count": 1,
+          "media_count": 1200,
+          "tweet_count": 2387
+        },
+        "username": "Diaotaida5",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-26T10:21:45.000Z",
+        "description": "极度厌蠢！揭露一切反智行为！年过七旬的小孩子。不是著名支黑哦，但是不妨碍俺盼献忠。\n\n曾经的浙江苗族人，不是汉奸。",
+        "id": "912623216899715072",
+        "location": "Los Angeles, CA",
+        "name": "红袍猫后Penny",
+        "pinned_tweet_id": "1500427883395051523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974500216377163776/cCRJ74YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108150,
+          "following_count": 830,
+          "like_count": 270289,
+          "listed_count": 353,
+          "media_count": 24645,
+          "tweet_count": 48617
+        },
+        "username": "Xianzhong_1953",
+        "verified": false
+      }
+    ]
+  }
+}

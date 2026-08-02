@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2059294629992993092",
+    "created_at": "2026-05-27T02:16:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T03:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059458727883964560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2048743225763233793",
+          "start": 0,
+          "username": "Bfhhhxwwh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059458727883964560",
+    "in_reply_to_user_id": "2048743225763233793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059294629992993092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bfhhhxwwh 我真笑死了，互蹭是人能想到的吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059294619805048832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQVi81aYAApcjx.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2059294629992993092",
+        "created_at": "2026-05-27T02:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059458727883964560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2048743225763233793",
+              "start": 0,
+              "username": "Bfhhhxwwh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059458727883964560",
+        "in_reply_to_user_id": "2048743225763233793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059294629992993092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bfhhhxwwh 我真笑死了，互蹭是人能想到的吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059294619805048832"
+          ]
+        },
+        "author_id": "2048743225763233793",
+        "conversation_id": "2059294629992993092",
+        "created_at": "2026-05-26T15:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059294629992993092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zz87CRZkQ5",
+              "end": 33,
+              "expanded_url": "https://x.com/Bfhhhxwwh/status/2059294629992993092/photo/1",
+              "media_key": "3_2059294619805048832",
+              "start": 10,
+              "url": "https://t.co/Zz87CRZkQ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059294629992993092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 30510,
+          "like_count": 129,
+          "quote_count": 1,
+          "reply_count": 146,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "皮下男给我死一边去 https://t.co/Zz87CRZkQ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5848,
+          "following_count": 752,
+          "like_count": 48340,
+          "listed_count": 18,
+          "media_count": 979,
+          "tweet_count": 8510
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T13:00:56.000Z",
+        "description": "私信看眼缘回有意思的//\n主页全是吧唧照的不回//\n嘴毒别找骂// 没有门//不打游戏//\n喜欢我的碎碎念可以赞赏哦^_^",
+        "id": "2048743225763233793",
+        "name": "Bfhhh",
+        "pinned_tweet_id": "2051709202507411642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050903549023068160/7g1BESpz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 33,
+          "like_count": 2575,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 296
+        },
+        "username": "Bfhhhxwwh",
+        "verified": false
+      }
+    ]
+  }
+}

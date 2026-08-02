@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2060923772908257589",
+    "created_at": "2026-05-31T14:23:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T15:23:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061091089818243464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1125810740965675008",
+          "start": 0,
+          "username": "Harubom_ffxiv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061091089818243464",
+    "in_reply_to_user_id": "1125810740965675008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061090148734157213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Harubom_ffxiv 欢迎来旅游，但是请不要在景区购买任何东西😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2060923772908257589",
+        "created_at": "2026-05-31T14:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061091089818243464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1125810740965675008",
+              "start": 0,
+              "username": "Harubom_ffxiv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061091089818243464",
+        "in_reply_to_user_id": "1125810740965675008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061090148734157213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Harubom_ffxiv 欢迎来旅游，但是请不要在景区购买任何东西😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1125810740965675008",
+        "conversation_id": "2060923772908257589",
+        "created_at": "2026-05-31T14:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061090148734157213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061090148734157213",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061086885263425658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 당신이 중국에 거주한다면 저보다 훨씬 쉽게 구매할 수 있을 거예요. 나는 중국에 방문해 비취를 쇼핑하는 것이 소원이에요.🥹🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5860,
+          "following_count": 750,
+          "like_count": 48690,
+          "listed_count": 18,
+          "media_count": 983,
+          "tweet_count": 8590
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-07T17:12:51.000Z",
+        "description": "게임계이자 식계이자 원석계이자....etc",
+        "id": "1125810740965675008",
+        "location": "아모로트",
+        "name": "🌸Haru🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1578176029897928704/03eEmCvt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 274,
+          "like_count": 16216,
+          "listed_count": 3,
+          "media_count": 5839,
+          "tweet_count": 180489
+        },
+        "username": "Harubom_ffxiv",
+        "verified": false
+      }
+    ]
+  }
+}

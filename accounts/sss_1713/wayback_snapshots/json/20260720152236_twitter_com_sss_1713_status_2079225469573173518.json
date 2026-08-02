@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2079056591916331183",
+    "created_at": "2026-07-20T15:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T16:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079225469573173518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1442006998640300038",
+          "start": 0,
+          "username": "Fzdxw"
+        },
+        {
+          "end": 18,
+          "id": "1893149421480878081",
+          "start": 7,
+          "username": "myg1313113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079225469573173518",
+    "in_reply_to_user_id": "1442006998640300038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079118317730799910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fzdxw @myg1313113 不一样，天主教的不是这样的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079118309090607104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqDFiNbQAAfT8h.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2079056591916331183",
+        "created_at": "2026-07-20T15:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079225469573173518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1442006998640300038",
+              "start": 0,
+              "username": "Fzdxw"
+            },
+            {
+              "end": 18,
+              "id": "1893149421480878081",
+              "start": 7,
+              "username": "myg1313113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079225469573173518",
+        "in_reply_to_user_id": "1442006998640300038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079118317730799910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fzdxw @myg1313113 不一样，天主教的不是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079118309090607104"
+          ]
+        },
+        "author_id": "1442006998640300038",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2079056591916331183",
+        "created_at": "2026-07-20T08:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T09:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079118317730799910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1893149421480878081",
+              "start": 0,
+              "username": "myg1313113"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bJi4r0YKv1",
+              "end": 40,
+              "expanded_url": "https://x.com/Fzdxw/status/2079118317730799910/photo/1",
+              "media_key": "3_2079118309090607104",
+              "start": 17,
+              "url": "https://t.co/bJi4r0YKv1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079118317730799910",
+        "in_reply_to_user_id": "1893149421480878081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 261,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079056591916331183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@myg1313113 全凭自觉 https://t.co/bJi4r0YKv1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5999,
+          "following_count": 802,
+          "like_count": 55065,
+          "listed_count": 18,
+          "media_count": 1089,
+          "tweet_count": 9554
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-26T06:04:01.000Z",
+        "description": "你进来想查我成分吗",
+        "id": "1442006998640300038",
+        "name": "风中的小王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1575788102399848449/mx2J83Nu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2146,
+          "following_count": 194,
+          "like_count": 26598,
+          "listed_count": 10,
+          "media_count": 1886,
+          "tweet_count": 13331
+        },
+        "url": "",
+        "username": "Fzdxw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T04:03:28.000Z",
+        "description": "降来火毁判世，主勿记我罪🙏🏻🙏🏻🙏🏻",
+        "id": "1893149421480878081",
+        "name": "✝️进教之佑🇻🇦",
+        "pinned_tweet_id": "2058388402547069134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033621434640306176/5NXpBKEi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 117,
+          "like_count": 355,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 466
+        },
+        "url": "",
+        "username": "myg1313113",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058846313387823104"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2058846324888670442",
+    "created_at": "2026-05-25T09:43:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T10:43:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058846324888670442"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dH0EoYud3C",
+          "end": 37,
+          "expanded_url": "https://x.com/sss_1713/status/2058846324888670442/photo/1",
+          "media_key": "3_2058846313387823104",
+          "start": 14,
+          "url": "https://t.co/dH0EoYud3C"
+        },
+        {
+          "display_url": "x.com/sss_1713/statu…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/sss_1713/status/2058740026708832336",
+          "start": 38,
+          "url": "https://t.co/WQC3ImuLth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058846324888670442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058740026708832336",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "评论区的傻逼，你们满意了。 https://t.co/dH0EoYud3C https://t.co/WQC3ImuLth"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 763,
+        "media_key": "3_2058846313387823104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJ90FSakAADTky.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058846313387823104"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2058846324888670442",
+        "created_at": "2026-05-25T09:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058846324888670442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dH0EoYud3C",
+              "end": 37,
+              "expanded_url": "https://x.com/sss_1713/status/2058846324888670442/photo/1",
+              "media_key": "3_2058846313387823104",
+              "start": 14,
+              "url": "https://t.co/dH0EoYud3C"
+            },
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/sss_1713/status/2058740026708832336",
+              "start": 38,
+              "url": "https://t.co/WQC3ImuLth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058846324888670442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058740026708832336",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "评论区的傻逼，你们满意了。 https://t.co/dH0EoYud3C https://t.co/WQC3ImuLth"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2058740026708832336",
+        "created_at": "2026-05-25T02:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T03:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058740026708832336"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058740026708832336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 13381,
+          "like_count": 184,
+          "quote_count": 2,
+          "reply_count": 67,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我对推特昵称后面只带🇨🇳的人第一印象会很差……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713🇨🇳🇨🇳🇨🇳8964天安门",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5823,
+          "following_count": 746,
+          "like_count": 48209,
+          "listed_count": 18,
+          "media_count": 978,
+          "tweet_count": 8472
+        },
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

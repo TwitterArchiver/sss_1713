@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2075495665556173260",
+    "created_at": "2026-07-11T14:07:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T15:07:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075945140016009320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2031165111583354880",
+          "start": 0,
+          "username": "digitalfish19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075945140016009320",
+    "in_reply_to_user_id": "2031165111583354880",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075943313547444415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@digitalfish19 🫣🫣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2075495665556173260",
+        "created_at": "2026-07-11T14:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075945140016009320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2031165111583354880",
+              "start": 0,
+              "username": "digitalfish19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075945140016009320",
+        "in_reply_to_user_id": "2031165111583354880",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075943313547444415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@digitalfish19 🫣🫣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031165111583354880",
+        "conversation_id": "2075495665556173260",
+        "created_at": "2026-07-11T14:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075943313547444415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075943313547444415",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075800127206564060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 还好只是摔了一跤，我还听家里老人说过带金手镯被砍手、金项链被抹脖子的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5958,
+          "following_count": 793,
+          "like_count": 54494,
+          "listed_count": 18,
+          "media_count": 1082,
+          "tweet_count": 9455
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-10T00:28:46.000Z",
+        "description": "上网中……盗我图者死全家",
+        "id": "2031165111583354880",
+        "location": "Nara-shi, Nara",
+        "name": "电子鱼",
+        "pinned_tweet_id": "2031793676423151838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031168435779153921/lfbtRyGI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 109,
+          "like_count": 589,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 768
+        },
+        "url": "",
+        "username": "digitalfish19",
+        "verified": false
+      }
+    ]
+  }
+}

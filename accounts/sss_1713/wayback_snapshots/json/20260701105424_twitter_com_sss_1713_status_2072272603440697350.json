@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2072272603440697350",
+    "created_at": "2026-07-01T10:54:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T11:54:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072272603440697350"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/luo663663/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/luo663663/status/2072195988014723373",
+          "start": 16,
+          "url": "https://t.co/cNUYEmtL2n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072272603440697350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072195988014723373",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "飞机撞大楼都没见有这么大阵仗。 https://t.co/cNUYEmtL2n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072195985619767296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHrRRvbUAAmwTC.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2072272603440697350",
+        "created_at": "2026-07-01T10:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T11:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072272603440697350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luo663663/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/luo663663/status/2072195988014723373",
+              "start": 16,
+              "url": "https://t.co/cNUYEmtL2n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072272603440697350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072195988014723373",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "飞机撞大楼都没见有这么大阵仗。 https://t.co/cNUYEmtL2n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072195985619767296"
+          ]
+        },
+        "author_id": "1480218339557326849",
+        "conversation_id": "2072195988014723373",
+        "created_at": "2026-07-01T05:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072195988014723373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/teKyD1Za8f",
+              "end": 58,
+              "expanded_url": "https://x.com/luo663663/status/2072195988014723373/photo/1",
+              "media_key": "3_2072195985619767296",
+              "start": 35,
+              "url": "https://t.co/teKyD1Za8f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072195988014723373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 13047,
+          "like_count": 251,
+          "quote_count": 3,
+          "reply_count": 20,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "中国媒体没救了，一个破乙游 的声势搞得比国家地震和爆炸这些灾难还大。 https://t.co/teKyD1Za8f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5921,
+          "following_count": 783,
+          "like_count": 53034,
+          "listed_count": 18,
+          "media_count": 1056,
+          "tweet_count": 9276
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-09T16:42:13.000Z",
+        "description": "",
+        "id": "1480218339557326849",
+        "location": "china ",
+        "name": "造媱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774430459495424001/LYqofX6I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3773,
+          "following_count": 40,
+          "like_count": 12211,
+          "listed_count": 16,
+          "media_count": 1237,
+          "tweet_count": 4985
+        },
+        "url": "",
+        "username": "luo663663",
+        "verified": false
+      }
+    ]
+  }
+}

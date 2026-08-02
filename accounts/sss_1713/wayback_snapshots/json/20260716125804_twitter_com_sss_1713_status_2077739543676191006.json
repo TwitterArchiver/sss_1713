@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2077739543676191006",
+    "created_at": "2026-07-16T12:58:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T13:58:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077739543676191006"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sss_1713/statu…",
+          "end": 149,
+          "expanded_url": "https://twitter.com/sss_1713/status/2077625713449156985",
+          "start": 126,
+          "url": "https://t.co/hSnzjANzQN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077739543676191006",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077625713449156985",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "具体情况我也不是很了解，以前还从那里路过一次，是那种外面看着还蛮正常的足浴店，当时还问我家里人这是不是正经足浴，家里人也说不清楚，房子能租出去就行。今年房租到期之后房子没人管了，派出所才打过来电话说那个租户被抓了。\n别最后弄个容留卖淫罪了（bushi https://t.co/hSnzjANzQN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 598,
+        "media_key": "3_2077625701918978048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNU1kXMaMAA4Lrp.jpg",
+        "width": 986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2077739543676191006",
+        "created_at": "2026-07-16T12:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077739543676191006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/sss_1713/status/2077625713449156985",
+              "start": 126,
+              "url": "https://t.co/hSnzjANzQN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077739543676191006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077625713449156985",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "具体情况我也不是很了解，以前还从那里路过一次，是那种外面看着还蛮正常的足浴店，当时还问我家里人这是不是正经足浴，家里人也说不清楚，房子能租出去就行。今年房租到期之后房子没人管了，派出所才打过来电话说那个租户被抓了。\n别最后弄个容留卖淫罪了（bushi https://t.co/hSnzjANzQN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077625701918978048"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2077625713449156985",
+        "created_at": "2026-07-16T05:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T06:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077625713449156985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PGVdIZ3Muz",
+              "end": 77,
+              "expanded_url": "https://x.com/sss_1713/status/2077625713449156985/photo/1",
+              "media_key": "3_2077625701918978048",
+              "start": 54,
+              "url": "https://t.co/PGVdIZ3Muz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077625713449156985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 885,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是我家往外租的房子成卖淫窝点了啥意思，租我家房子的那个人去年就因为组织卖淫被抓进去了……🙂‍↕️🙂‍↕️ https://t.co/PGVdIZ3Muz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5984,
+          "following_count": 794,
+          "like_count": 54819,
+          "listed_count": 18,
+          "media_count": 1094,
+          "tweet_count": 9542
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      }
+    ]
+  }
+}

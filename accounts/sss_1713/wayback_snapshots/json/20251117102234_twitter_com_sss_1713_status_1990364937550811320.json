@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1990242913847296069",
+    "created_at": "2025-11-17T10:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T11:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990364937550811320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1490244963946446848",
+          "start": 0,
+          "username": "dounasaimasi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990364937550811320",
+    "in_reply_to_user_id": "1490244963946446848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990349653750301183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dounasaimasi 本身活着就压抑的要死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1990242913847296069",
+        "created_at": "2025-11-17T10:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T11:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990364937550811320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1490244963946446848",
+              "start": 0,
+              "username": "dounasaimasi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990364937550811320",
+        "in_reply_to_user_id": "1490244963946446848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990349653750301183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dounasaimasi 本身活着就压抑的要死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490244963946446848",
+        "conversation_id": "1990242913847296069",
+        "created_at": "2025-11-17T09:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T10:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990349653750301183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990349653750301183",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990242913847296069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 莫压抑自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5827,
+          "following_count": 994,
+          "like_count": 45754,
+          "listed_count": 17,
+          "media_count": 926,
+          "tweet_count": 7899
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-06T08:44:29.000Z",
+        "description": "らりるれろ",
+        "id": "1490244963946446848",
+        "location": "北緯28°24′西経80°36′",
+        "name": "理塘最強伝説と絕兇の猛虎！純真丁一郎です",
+        "pinned_tweet_id": "1976235914260279439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655246453726650368/xHAlGhG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 565,
+          "like_count": 65091,
+          "listed_count": 5,
+          "media_count": 769,
+          "tweet_count": 14485
+        },
+        "username": "dounasaimasi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2059072580905255099",
+    "created_at": "2026-05-26T08:35:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T09:35:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059191806445679009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1644328501980561409",
+          "start": 0,
+          "username": "LitangHospital2"
+        },
+        {
+          "end": 26,
+          "id": "1554424317483655175",
+          "start": 17,
+          "username": "yuu00401"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059191806445679009",
+    "in_reply_to_user_id": "1644328501980561409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059112224988492039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LitangHospital2 @yuu00401 我草他咋还没被封号哈哈哈哈"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2059112224988492039].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2059112224988492039",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2059112224988492039"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2059072580905255099",
+        "created_at": "2026-05-26T08:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059191806445679009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1644328501980561409",
+              "start": 0,
+              "username": "LitangHospital2"
+            },
+            {
+              "end": 26,
+              "id": "1554424317483655175",
+              "start": 17,
+              "username": "yuu00401"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059191806445679009",
+        "in_reply_to_user_id": "1644328501980561409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059112224988492039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LitangHospital2 @yuu00401 我草他咋还没被封号哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5849,
+          "following_count": 751,
+          "like_count": 48293,
+          "listed_count": 18,
+          "media_count": 978,
+          "tweet_count": 8494
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T13:17:27.000Z",
+        "description": "因为我们都还肺痒痒，不知烟高雾厚",
+        "id": "1644328501980561409",
+        "location": "理塘",
+        "name": "丁老师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053340076839735296/n75x0Idf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 9877,
+          "following_count": 3282,
+          "like_count": 48170,
+          "listed_count": 34,
+          "media_count": 1530,
+          "tweet_count": 12651
+        },
+        "username": "LitangHospital2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T11:10:23.000Z",
+        "description": "原来我走了那么远，远到那些无话不谈，渐渐听不清了",
+        "id": "1554424317483655175",
+        "location": "拉尼亚凯亚超星系",
+        "name": "yuu🎀",
+        "pinned_tweet_id": "1979443587306647701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931386075710365696/hZ7z3fLj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4023,
+          "following_count": 772,
+          "like_count": 74214,
+          "listed_count": 6,
+          "media_count": 2371,
+          "tweet_count": 34960
+        },
+        "username": "yuu00401",
+        "verified": false
+      }
+    ]
+  }
+}

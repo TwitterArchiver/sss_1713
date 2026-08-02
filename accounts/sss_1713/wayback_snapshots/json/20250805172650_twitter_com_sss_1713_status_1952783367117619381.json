@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1952783367117619381",
+    "created_at": "2025-08-05T17:26:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T18:26:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952783367117619381"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lilaoshizuikea…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/lilaoshizuikeai/status/1952470793335484890",
+          "start": 43,
+          "url": "https://t.co/WoBKDhnu7d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952783367117619381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952470793335484890",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只有拾瓶子的大爷不语，默默捡着瓶子，查着几分几毛的瓶子钱，心想明天一天的饭有着落了。 https://t.co/WoBKDhnu7d"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1952783367117619381",
+        "created_at": "2025-08-05T17:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T18:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952783367117619381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lilaoshizuikea…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/lilaoshizuikeai/status/1952470793335484890",
+              "start": 43,
+              "url": "https://t.co/WoBKDhnu7d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952783367117619381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952470793335484890",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只有拾瓶子的大爷不语，默默捡着瓶子，查着几分几毛的瓶子钱，心想明天一天的饭有着落了。 https://t.co/WoBKDhnu7d"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586332050528915457",
+        "conversation_id": "1952470793335484890",
+        "created_at": "2025-08-04T20:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T21:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952470793335484890"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952470793335484890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 213,
+          "impression_count": 407698,
+          "like_count": 4113,
+          "quote_count": 17,
+          "reply_count": 216,
+          "retweet_count": 275
+        },
+        "reply_settings": "everyone",
+        "text": "整个事件中，江油的市民们没有政治诉求，没有发生打砸抢，直到最后被逼急了，深夜才出现朝警察扔水平的情况，这已经是今晚最严重的群体暴力行为。\n市民们非常和平理性地要求严惩一件未成年人霸凌事件，换来的却是警方的暴力清场和羞辱。\n他们为什么会如此惧怕，仅仅只是想好好讲道理的人民呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJo6NX"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5791,
+          "following_count": 972,
+          "like_count": 46064,
+          "listed_count": 18,
+          "media_count": 945,
+          "tweet_count": 7729
+        },
+        "url": "https://t.co/Z7RPjJo6NX",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-29T12:20:25.000Z",
+        "description": "与你进退也共鸣",
+        "id": "1586332050528915457",
+        "location": "猴管",
+        "name": "Lee1ng",
+        "pinned_tweet_id": "1657814793439289346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600861407104335873/PIQM5Ii9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241424,
+          "following_count": 669,
+          "like_count": 5324,
+          "listed_count": 1284,
+          "media_count": 1362,
+          "tweet_count": 6960
+        },
+        "username": "lilaoshizuikeai",
+        "verified": true
+      }
+    ]
+  }
+}

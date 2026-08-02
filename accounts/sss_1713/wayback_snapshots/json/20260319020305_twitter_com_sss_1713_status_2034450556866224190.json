@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2034450556866224190",
+    "created_at": "2026-03-19T02:03:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T03:03:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034450556866224190"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 127,
+          "start": 122,
+          "tag": "大聖若瑟"
+        },
+        {
+          "end": 132,
+          "start": 128,
+          "tag": "老若瑟"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1089250348223602689",
+          "start": 3,
+          "username": "CardJosephZen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034450556866224190",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034407915956605025",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CardJosephZen: 聖若瑟被尊為普世教會的護守者，他以謙遜、信德與勇氣，默默守護聖家，也守護著教會。\n讓我們懇求聖若瑟，為整個教會、教宗良十四世和本人轉禱，也守護每位忠於信仰的人。\n我們也特別為世界和平，特別是中東的局勢祈禱！#大聖若瑟 #老若瑟 \n\n《萬福聖…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2034407909321494528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDurNvtaUAALgrh.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2034450556866224190",
+        "created_at": "2026-03-19T02:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T03:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034450556866224190"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 122,
+              "tag": "大聖若瑟"
+            },
+            {
+              "end": 132,
+              "start": 128,
+              "tag": "老若瑟"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1089250348223602689",
+              "start": 3,
+              "username": "CardJosephZen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034450556866224190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034407915956605025",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CardJosephZen: 聖若瑟被尊為普世教會的護守者，他以謙遜、信德與勇氣，默默守護聖家，也守護著教會。\n讓我們懇求聖若瑟，為整個教會、教宗良十四世和本人轉禱，也守護每位忠於信仰的人。\n我們也特別為世界和平，特別是中東的局勢祈禱！#大聖若瑟 #老若瑟 \n\n《萬福聖…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034407909321494528"
+          ]
+        },
+        "author_id": "1089250348223602689",
+        "conversation_id": "2034407915956605025",
+        "created_at": "2026-03-18T23:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T00:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034407915956605025"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 108,
+              "start": 103,
+              "tag": "大聖若瑟"
+            },
+            {
+              "end": 113,
+              "start": 109,
+              "tag": "老若瑟"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jEtv0fJyfj",
+              "end": 168,
+              "expanded_url": "https://x.com/CardJosephZen/status/2034407915956605025/photo/1",
+              "media_key": "3_2034407909321494528",
+              "start": 145,
+              "url": "https://t.co/jEtv0fJyfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034407915956605025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 108,
+                "start": 103,
+                "tag": "大聖若瑟"
+              },
+              {
+                "end": 113,
+                "start": 109,
+                "tag": "老若瑟"
+              },
+              {
+                "end": 699,
+                "start": 690,
+                "tag": "StJoseph"
+              },
+              {
+                "end": 709,
+                "start": 700,
+                "tag": "oldyosef"
+              },
+              {
+                "end": 1480,
+                "start": 1469,
+                "tag": "onomastico"
+              },
+              {
+                "end": 1490,
+                "start": 1481,
+                "tag": "Giuseppe"
+              }
+            ]
+          },
+          "text": "聖若瑟被尊為普世教會的護守者，他以謙遜、信德與勇氣，默默守護聖家，也守護著教會。\n讓我們懇求聖若瑟，為整個教會、教宗良十四世和本人轉禱，也守護每位忠於信仰的人。\n我們也特別為世界和平，特別是中東的局勢祈禱！#大聖若瑟 #老若瑟 \n\n《萬福聖若瑟》\n萬福，聖若瑟，你充滿恩寵，\n主與你同在。\n你在男子中受讚頌，\n你淨配瑪利亞胎中的耶穌，\n同受讚頌。\n\n聖若瑟，耶穌的養父，\n求你現在和我們臨終時，\n為我們罪人祈求天主。亞孟。\n\nEnglish\n\nSaint Joseph is venerated by the Church as the Patron of the Universal Church. With humility, faith, and courage, he silently protected the Holy Family and continues to protect the Church.\n\nLet us especially ask for the intercession of Saint Joseph to guard the whole Church, Pope Leo XIV, and myself, and to protect all those who remain faithful to the faith.\n\nWe also pray in a particular way for peace in the world, especially for the situation in the Middle East. #StJoseph #oldyosef \n\nHail Saint Joseph\n\nHail, Saint Joseph, full of grace,\nthe Lord is with you.\nBlessed are you among men,\nand blessed is Jesus,\nthe fruit of the womb of your spouse Mary.\n\nSaint Joseph, foster father of Jesus,\npray to God for us sinners,\nnow and at the hour of our death. Amen.\n\nItaliano\n\nSan Giuseppe è venerato dalla Chiesa come Patrono della Chiesa universale. Con umiltà, fede e coraggio egli custodì silenziosamente la Santa Famiglia e continua a custodire la Chiesa.\n\nChiediamo in modo speciale l’intercessione di San Giuseppe perché protegga tutta la Chiesa, Papa Leone XIV e anche me, e custodisca tutti coloro che rimangono fedeli alla fede.\n\nPreghiamo anche in modo particolare per la pace nel mondo, specialmente per la situazione in Medio Oriente. #onomastico #Giuseppe \n\nAve San Giuseppe\n\nAve, San Giuseppe, pieno di grazia,\nil Signore è con te.\nTu sei benedetto fra gli uomini\ne benedetto è Gesù,\nil frutto del seno della tua sposa Maria.\n\nSan Giuseppe, padre putativo di Gesù,\nprega Dio per noi peccatori,\nadesso e nell’ora della nostra morte. Amen."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3619,
+          "like_count": 259,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "聖若瑟被尊為普世教會的護守者，他以謙遜、信德與勇氣，默默守護聖家，也守護著教會。\n讓我們懇求聖若瑟，為整個教會、教宗良十四世和本人轉禱，也守護每位忠於信仰的人。\n我們也特別為世界和平，特別是中東的局勢祈禱！#大聖若瑟 #老若瑟 \n\n《萬福聖若瑟》\n萬福，聖若瑟，你充滿恩寵，\n主與你同在。 https://t.co/jEtv0fJyfj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5823,
+          "following_count": 1017,
+          "like_count": 46687,
+          "listed_count": 18,
+          "media_count": 938,
+          "tweet_count": 8098
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-26T19:54:55.000Z",
+        "description": "Joseph Zen, Bishop Emeritus of Hong Kong",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "oldyosef.hkcatholic.com",
+                "end": 23,
+                "expanded_url": "https://oldyosef.hkcatholic.com",
+                "start": 0,
+                "url": "https://t.co/sUGF9zoiZb"
+              }
+            ]
+          }
+        },
+        "id": "1089250348223602689",
+        "location": "Hong Kong",
+        "name": "Joseph Zen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1138829814654275584/T0OzWqdF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38180,
+          "following_count": 361,
+          "like_count": 2919,
+          "listed_count": 210,
+          "media_count": 511,
+          "tweet_count": 3656
+        },
+        "url": "https://t.co/sUGF9zoiZb",
+        "username": "CardJosephZen",
+        "verified": true
+      }
+    ]
+  }
+}

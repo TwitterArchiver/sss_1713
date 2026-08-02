@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "2075248742459211857",
+    "created_at": "2026-07-09T16:00:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T17:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075248742459211857"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ofcbostil/stat…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/ofcbostil/status/2075024627223396358",
+          "start": 25,
+          "url": "https://t.co/NNngBIYZIG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075248742459211857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075024627223396358",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他知道电视机不是一个身高一米九并且体型健硕的男人 https://t.co/NNngBIYZIG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10891,
+        "height": 938,
+        "media_key": "13_2075024565416116224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075024565416116224/img/R_drh3k6SflzhZ1F.jpg",
+        "public_metrics": {
+          "view_count": 139433
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075024565416116224/pl/csq0_xt6aJ90Dd4Y.m3u8?v=6c0"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075024565416116224/vid/avc1/336x270/NMCPTI2bVDJdaxIE.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075024565416116224/vid/avc1/448x360/fRvTLF8cOUI0EEam.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075024565416116224/vid/avc1/1168x938/zVSGuAALEiQPVrKP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075024565416116224/vid/avc1/896x720/6xHYQiM73jlHskkZ.mp4"
+          }
+        ],
+        "width": 1168
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2075248742459211857",
+        "created_at": "2026-07-09T16:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075248742459211857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ofcbostil/stat…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/ofcbostil/status/2075024627223396358",
+              "start": 25,
+              "url": "https://t.co/NNngBIYZIG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075248742459211857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075024627223396358",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他知道电视机不是一个身高一米九并且体型健硕的男人 https://t.co/NNngBIYZIG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075024565416116224"
+          ]
+        },
+        "author_id": "1660100003459629061",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2075024627223396358",
+        "created_at": "2026-07-09T01:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T02:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075024627223396358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CdDNnI277q",
+              "end": 229,
+              "expanded_url": "https://x.com/OFCBostil/status/2075024627223396358/video/1",
+              "media_key": "13_2075024565416116224",
+              "start": 206,
+              "url": "https://t.co/CdDNnI277q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075024627223396358",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 290,
+          "impression_count": 252703,
+          "like_count": 11687,
+          "quote_count": 42,
+          "reply_count": 242,
+          "retweet_count": 601
+        },
+        "reply_settings": "everyone",
+        "text": "Você nunca vai ver um médico cirurgião, um engenheiro milionário ou um advogado renomado quebrando a televisão por causa de futebol… é sempre um infeliz viciado em álcool e que tem vários filhos pra criar. https://t.co/CdDNnI277q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5945,
+          "following_count": 790,
+          "like_count": 54260,
+          "listed_count": 18,
+          "media_count": 1074,
+          "tweet_count": 9405
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-21T01:47:49.000Z",
+        "description": "Página de HUMOR político-social fundada por jovens que ainda tentam tankar o Bostil. Perfil reserva: @Bostil_reserva (estamos aceitando novos adms)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 101,
+                "username": "Bostil_reserva"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@ofcbostil?_r=…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@ofcbostil?_r=1&_t=ZS-948b8ZlNmKa",
+                "start": 0,
+                "url": "https://t.co/30gLFkldBR"
+              }
+            ]
+          }
+        },
+        "id": "1660100003459629061",
+        "name": "Como Tanka o Bostil???",
+        "pinned_tweet_id": "2066371154932035757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073839612762464256/XuV4fgti_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147371,
+          "following_count": 6613,
+          "like_count": 29320,
+          "listed_count": 150,
+          "media_count": 11173,
+          "tweet_count": 44468
+        },
+        "url": "https://t.co/30gLFkldBR",
+        "username": "OFCBostil",
+        "verified": true
+      }
+    ]
+  }
+}

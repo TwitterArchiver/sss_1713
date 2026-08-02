@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2036043938357006555",
+    "created_at": "2026-03-24T03:05:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T04:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036278129568690653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1512505650815070208",
+          "start": 0,
+          "username": "_ZeroZeroTwo_"
+        },
+        {
+          "end": 31,
+          "id": "1532599611684429824",
+          "start": 15,
+          "username": "Codforeverloyal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036278129568690653",
+    "in_reply_to_user_id": "1512505650815070208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036054040262651969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ZeroZeroTwo_ @Codforeverloyal 红🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2036043938357006555",
+        "created_at": "2026-03-24T03:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T04:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036278129568690653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1512505650815070208",
+              "start": 0,
+              "username": "_ZeroZeroTwo_"
+            },
+            {
+              "end": 31,
+              "id": "1532599611684429824",
+              "start": 15,
+              "username": "Codforeverloyal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036278129568690653",
+        "in_reply_to_user_id": "1512505650815070208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036054040262651969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ZeroZeroTwo_ @Codforeverloyal 红🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512505650815070208",
+        "conversation_id": "2036043938357006555",
+        "created_at": "2026-03-23T12:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T13:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036054040262651969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1532599611684429824",
+              "start": 0,
+              "username": "Codforeverloyal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036054040262651969",
+        "in_reply_to_user_id": "1532599611684429824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 431,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036043938357006555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Codforeverloyal 我是老资历捏w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5820,
+          "following_count": 1023,
+          "like_count": 46764,
+          "listed_count": 18,
+          "media_count": 938,
+          "tweet_count": 8104
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T19:00:38.000Z",
+        "description": "",
+        "id": "1512505650815070208",
+        "location": "地獄",
+        "name": "紅",
+        "pinned_tweet_id": "2033777463944425586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034277247583125504/NHrud_PY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3279,
+          "following_count": 2657,
+          "like_count": 103695,
+          "listed_count": 7,
+          "media_count": 1805,
+          "tweet_count": 8275
+        },
+        "username": "_ZeroZeroTwo_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T05:46:56.000Z",
+        "description": "永遠忠誠",
+        "id": "1532599611684429824",
+        "location": "暗黑鄕",
+        "name": "幼存",
+        "pinned_tweet_id": "1847481357972165054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006681955442765824/aPzEFsLV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 693,
+          "like_count": 195242,
+          "listed_count": 14,
+          "media_count": 1004,
+          "tweet_count": 7946
+        },
+        "username": "Codforeverloyal",
+        "verified": false
+      }
+    ]
+  }
+}

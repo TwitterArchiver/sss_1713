@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2067242106452578327",
+    "created_at": "2026-06-18T05:05:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T06:05:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067473814322307397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1682625054092193795",
+          "start": 0,
+          "username": "zzzzzz65826"
+        },
+        {
+          "end": 24,
+          "id": "836533158669500416",
+          "start": 13,
+          "username": "AnimexTwts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067473814322307397",
+    "in_reply_to_user_id": "1682625054092193795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067457285505618047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzzzzz65826 @AnimexTwts 有个初音未来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2067242106452578327",
+        "created_at": "2026-06-18T05:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067473814322307397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1682625054092193795",
+              "start": 0,
+              "username": "zzzzzz65826"
+            },
+            {
+              "end": 24,
+              "id": "836533158669500416",
+              "start": 13,
+              "username": "AnimexTwts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067473814322307397",
+        "in_reply_to_user_id": "1682625054092193795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067457285505618047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzzzzz65826 @AnimexTwts 有个初音未来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682625054092193795",
+        "conversation_id": "2067242106452578327",
+        "created_at": "2026-06-18T04:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067457285505618047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "836533158669500416",
+              "start": 0,
+              "username": "AnimexTwts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067457285505618047",
+        "in_reply_to_user_id": "836533158669500416",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067242106452578327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnimexTwts I can't see anything......."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5904,
+          "following_count": 772,
+          "like_count": 51582,
+          "listed_count": 18,
+          "media_count": 1037,
+          "tweet_count": 9081
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T05:34:17.000Z",
+        "description": "这是一个文字推。\n10 高一坐牢\n私信先发照片看看脸/也可以和我畅聊人生\n不聊色情不聊擦边不聊政治\n投缘可以加微信（仅限男初男高 女生也可以）",
+        "id": "1682625054092193795",
+        "name": "zzzz",
+        "pinned_tweet_id": "2061084487375839628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953482918891835394/Z4KkdrJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 18,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 285
+        },
+        "username": "zzzzzz65826",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-28T11:07:01.000Z",
+        "description": "Daily Anime Tweets 🕊️",
+        "id": "836533158669500416",
+        "location": "アニメ",
+        "name": "Anime Tweets",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1542000599050334208/eMyobmGf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1616694,
+          "following_count": 20,
+          "like_count": 42507,
+          "listed_count": 946,
+          "media_count": 10284,
+          "tweet_count": 10312
+        },
+        "username": "AnimexTwts",
+        "verified": true
+      }
+    ]
+  }
+}

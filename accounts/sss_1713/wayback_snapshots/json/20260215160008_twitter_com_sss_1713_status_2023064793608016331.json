@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2022701226404536476",
+    "created_at": "2026-02-15T16:00:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T17:00:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023064793608016331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2022696357031743498",
+          "start": 0,
+          "username": "YiXia90314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023064793608016331",
+    "in_reply_to_user_id": "2022696357031743498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022701226404536476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YiXia90314 原来一直都没有X的吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2022701226404536476",
+        "created_at": "2026-02-15T16:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T17:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023064793608016331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022696357031743498",
+              "start": 0,
+              "username": "YiXia90314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023064793608016331",
+        "in_reply_to_user_id": "2022696357031743498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022701226404536476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YiXia90314 原来一直都没有X的吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022696357031743498",
+        "conversation_id": "2022701226404536476",
+        "created_at": "2026-02-14T15:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T16:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022701226404536476"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022701226404536476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 349006,
+          "like_count": 5553,
+          "quote_count": 46,
+          "reply_count": 677,
+          "retweet_count": 347
+        },
+        "reply_settings": "everyone",
+        "text": "嗨，我是攝徒日記台灣的八炯，今天開始加入X的反共圈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5841,
+          "following_count": 1006,
+          "like_count": 46490,
+          "listed_count": 18,
+          "media_count": 935,
+          "tweet_count": 8067
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-14T15:36:16.000Z",
+        "description": "YT1.3M+ Subs. Targeted by CCP bounty for coverage of Asia-Pacific politics & countering CCP influence. Defending democracy from the frontlines.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@funtv8964",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@funtv8964",
+                "start": 0,
+                "url": "https://t.co/Enxv1fA9iO"
+              }
+            ]
+          }
+        },
+        "id": "2022696357031743498",
+        "location": "台灣",
+        "name": "八炯",
+        "pinned_tweet_id": "2022701226404536476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022699108369338371/HLn25IOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8763,
+          "following_count": 29,
+          "like_count": 24,
+          "listed_count": 32,
+          "media_count": 4,
+          "tweet_count": 14
+        },
+        "url": "https://t.co/Enxv1fA9iO",
+        "username": "YiXia90314",
+        "verified": true
+      }
+    ]
+  }
+}

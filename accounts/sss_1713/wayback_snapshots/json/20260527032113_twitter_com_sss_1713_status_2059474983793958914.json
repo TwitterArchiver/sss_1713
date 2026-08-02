@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Pope Francis",
+          "id": "806597775282421760",
+          "name": "Pope Francis"
+        }
+      }
+    ],
+    "conversation_id": "2059474983793958914",
+    "created_at": "2026-05-27T03:21:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T04:21:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059474983793958914"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 51,
+          "start": 28,
+          "tag": "ArtificialIntelligence"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1922567634907791360",
+          "start": 3,
+          "username": "Pontifex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059474983793958914",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13678
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058888313029685400",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pontifex: In the era of #ArtificialIntelligence, when human dignity is threatened by new forms of dehumanization, ours is the pressing…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Pope Francis",
+              "id": "806597775282421760",
+              "name": "Pope Francis"
+            }
+          }
+        ],
+        "conversation_id": "2059474983793958914",
+        "created_at": "2026-05-27T03:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059474983793958914"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 28,
+              "tag": "ArtificialIntelligence"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1922567634907791360",
+              "start": 3,
+              "username": "Pontifex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059474983793958914",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13678
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058888313029685400",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pontifex: In the era of #ArtificialIntelligence, when human dignity is threatened by new forms of dehumanization, ours is the pressing…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922567634907791360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2058888313029685400",
+        "created_at": "2026-05-25T12:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058888313029685400"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 14,
+              "tag": "ArtificialIntelligence"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058888313029685400",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 14,
+                "tag": "ArtificialIntelligence"
+              },
+              {
+                "end": 337,
+                "start": 318,
+                "tag": "MagnificaHumanitas"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vatican.va/content/leo-xi…",
+                "end": 361,
+                "expanded_url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+                "start": 338,
+                "url": "https://t.co/6i9MWs6LJl"
+              }
+            ]
+          },
+          "text": "In the era of #ArtificialIntelligence, when human dignity is threatened by new forms of dehumanization, ours is the pressing duty to remain profoundly human. We must lovingly safeguard the grandeur of humanity bestowed upon us and revealed in its fullness in Christ, the splendor of which no machine can ever replace. #MagnificaHumanitas\nhttps://t.co/6i9MWs6LJl"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8811,
+          "impression_count": 1916612,
+          "like_count": 65446,
+          "quote_count": 1109,
+          "reply_count": 810,
+          "retweet_count": 13678
+        },
+        "reply_settings": "everyone",
+        "text": "In the era of #ArtificialIntelligence, when human dignity is threatened by new forms of dehumanization, ours is the pressing duty to remain profoundly human. We must lovingly safeguard the grandeur of humanity bestowed upon us and revealed in its fullness in Christ, the splendor"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5849,
+          "following_count": 752,
+          "like_count": 48347,
+          "listed_count": 18,
+          "media_count": 979,
+          "tweet_count": 8510
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T08:21:32.000Z",
+        "description": "Welcome to the official account of His Holiness, Pope Leo XIV.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vatican.va/content/leo-xi…",
+                "end": 23,
+                "expanded_url": "https://www.vatican.va/content/leo-xiv/en.html",
+                "start": 0,
+                "url": "https://t.co/b4w8ATgvVU"
+              }
+            ]
+          }
+        },
+        "id": "1922567634907791360",
+        "location": "Vatican City",
+        "name": "Pope Leo XIV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922601341576216576/JA1DF-Tv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17902068,
+          "following_count": 47,
+          "like_count": 0,
+          "listed_count": 1692,
+          "media_count": 24,
+          "tweet_count": 724
+        },
+        "url": "https://t.co/b4w8ATgvVU",
+        "username": "Pontifex",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2075862923428421914",
+    "created_at": "2026-07-11T12:05:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T13:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075914459311452664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2040784613405298688",
+          "start": 0,
+          "username": "linbiao262"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075914459311452664",
+    "in_reply_to_user_id": "2040784613405298688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075894219512988142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linbiao262 要了解，要思考，要辩证。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2075862923428421914",
+        "created_at": "2026-07-11T12:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075914459311452664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040784613405298688",
+              "start": 0,
+              "username": "linbiao262"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075914459311452664",
+        "in_reply_to_user_id": "2040784613405298688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075894219512988142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linbiao262 要了解，要思考，要辩证。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040784613405298688",
+        "conversation_id": "2075862923428421914",
+        "created_at": "2026-07-11T10:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075894219512988142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075894219512988142",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075862923428421914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 大区一条"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5958,
+          "following_count": 793,
+          "like_count": 54480,
+          "listed_count": 18,
+          "media_count": 1081,
+          "tweet_count": 9451
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-05T13:33:10.000Z",
+        "description": "毛左/反对市场化和私有化/反对稻蛤桃包修正主义/打倒一切帝国主义和修正主义/包容其他左派（安壬和托派滚蛋）/支黑、粉红、反毛贼非人哉\n无产阶级专政万岁！战无不胜的毛泽东思想万岁！\n无产阶级文化大革命是毛主席开创的马列新篇章！",
+        "id": "2040784613405298688",
+        "location": "广东省革命委员会",
+        "name": "东方不败",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067952989466509312/HYxe-wWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 43,
+          "like_count": 1184,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 505
+        },
+        "url": "",
+        "username": "linbiao262",
+        "verified": false
+      }
+    ]
+  }
+}

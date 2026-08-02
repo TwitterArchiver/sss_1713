@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2079027718436593825",
+    "created_at": "2026-07-20T02:16:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T03:16:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079027718436593825"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ratshelprats/s…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/ratshelprats/status/2078791805416714674",
+          "start": 19,
+          "url": "https://t.co/U92cwDvFrg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079027718436593825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078791805416714674",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我已经分不清到底是装的还是真傻逼了。 https://t.co/U92cwDvFrg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2078791801411145728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlaISUbEAAL3wl.jpg",
+        "width": 418
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2078791802426216448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlaIWGb0AAinCV.jpg",
+        "width": 370
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2079027718436593825",
+        "created_at": "2026-07-20T02:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T03:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079027718436593825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ratshelprats/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/ratshelprats/status/2078791805416714674",
+              "start": 19,
+              "url": "https://t.co/U92cwDvFrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079027718436593825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078791805416714674",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我已经分不清到底是装的还是真傻逼了。 https://t.co/U92cwDvFrg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078791801411145728",
+            "3_2078791802426216448"
+          ]
+        },
+        "author_id": "1782932905419046912",
+        "conversation_id": "2078791805416714674",
+        "created_at": "2026-07-19T10:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T11:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078791805416714674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qOvfOgSKIo",
+              "end": 45,
+              "expanded_url": "https://x.com/ratshelprats/status/2078791805416714674/photo/1",
+              "media_key": "3_2078791801411145728",
+              "start": 22,
+              "url": "https://t.co/qOvfOgSKIo"
+            },
+            {
+              "display_url": "pic.x.com/qOvfOgSKIo",
+              "end": 45,
+              "expanded_url": "https://x.com/ratshelprats/status/2078791805416714674/photo/1",
+              "media_key": "3_2078791802426216448",
+              "start": 22,
+              "url": "https://t.co/qOvfOgSKIo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078791805416714674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 93274,
+          "like_count": 534,
+          "quote_count": 9,
+          "reply_count": 123,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "受不了了，什么时候复刻二次元人人喊打的时代 https://t.co/qOvfOgSKIo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5999,
+          "following_count": 802,
+          "like_count": 55037,
+          "listed_count": 18,
+          "media_count": 1089,
+          "tweet_count": 9549
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-24T00:41:54.000Z",
+        "description": "大鼠王（老鼠国王）",
+        "id": "1782932905419046912",
+        "name": "老鼠帮助老鼠🐭☝️",
+        "pinned_tweet_id": "2076925869059399997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822487372774494208/h_lDDH_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114267,
+          "following_count": 477,
+          "like_count": 103003,
+          "listed_count": 166,
+          "media_count": 606,
+          "tweet_count": 1587
+        },
+        "url": "",
+        "username": "ratshelprats",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2061634972470137000",
+    "created_at": "2026-06-02T07:15:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T08:15:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061708310395674738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1439042200940253185",
+          "start": 0,
+          "username": "QzuserX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061708310395674738",
+    "in_reply_to_user_id": "1439042200940253185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061634972470137000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QzuserX 🥲🥲不符合任意一条。但还是得了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2061634972470137000",
+        "created_at": "2026-06-02T07:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T08:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061708310395674738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1439042200940253185",
+              "start": 0,
+              "username": "QzuserX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061708310395674738",
+        "in_reply_to_user_id": "1439042200940253185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061634972470137000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QzuserX 🥲🥲不符合任意一条。但还是得了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1439042200940253185",
+        "conversation_id": "2061634972470137000",
+        "created_at": "2026-06-02T02:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061634972470137000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ozgeppn/status…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/ozgeppn/status/2061505090196763047",
+              "start": 35,
+              "url": "https://t.co/Xv7Uuo0Lxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061634972470137000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 523,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061505090196763047",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "少数是因为过度雄激素导致的，多数是因为不及时换被子或者衣服不换就睡。 https://t.co/Xv7Uuo0Lxu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5857,
+          "following_count": 753,
+          "like_count": 48839,
+          "listed_count": 18,
+          "media_count": 989,
+          "tweet_count": 8630
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-18T01:43:03.000Z",
+        "description": "Dem-Socialism&Pan-Asianism.     横幅是神奈川冲浪兔.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "QzuserX.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://QzuserX.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/jAJFNvN4Mr"
+              }
+            ]
+          }
+        },
+        "id": "1439042200940253185",
+        "location": "北落师门座",
+        "name": "𝑸𝒁𝑼𝑺𝑬𝑹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060971902672490496/qNDoIrj7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2757,
+          "following_count": 807,
+          "like_count": 143577,
+          "listed_count": 18,
+          "media_count": 2834,
+          "tweet_count": 24851
+        },
+        "url": "https://t.co/jAJFNvN4Mr",
+        "username": "QzuserX",
+        "verified": false
+      }
+    ]
+  }
+}

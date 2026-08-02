@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2062176512153944382",
+    "created_at": "2026-06-05T13:00:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T14:00:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062882276309090539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1806340854451466240",
+          "start": 0,
+          "username": "LengthBow88367"
+        },
+        {
+          "end": 25,
+          "id": "1920293823416258560",
+          "start": 16,
+          "username": "vonviciK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062882276309090539",
+    "in_reply_to_user_id": "1806340854451466240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062877517221089453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LengthBow88367 @vonviciK 嫉妒你的才华。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2062176512153944382",
+        "created_at": "2026-06-05T13:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062882276309090539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1806340854451466240",
+              "start": 0,
+              "username": "LengthBow88367"
+            },
+            {
+              "end": 25,
+              "id": "1920293823416258560",
+              "start": 16,
+              "username": "vonviciK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062882276309090539",
+        "in_reply_to_user_id": "1806340854451466240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062877517221089453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengthBow88367 @vonviciK 嫉妒你的才华。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806340854451466240",
+        "conversation_id": "2062176512153944382",
+        "created_at": "2026-06-05T12:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062877517221089453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            },
+            {
+              "end": 19,
+              "id": "1920293823416258560",
+              "start": 10,
+              "username": "vonviciK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062877517221089453",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062436775855812836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 @vonviciK 牛子与脑子齐飞，睾丸与认知一色"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5872,
+          "following_count": 749,
+          "like_count": 49264,
+          "listed_count": 18,
+          "media_count": 995,
+          "tweet_count": 8695
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-27T14:56:46.000Z",
+        "description": "共和国派（秋海棠叶版）自由民主文明和谐，爱国敬业诚信友善。支黑们最严厉的父亲，法轮功的妈妈粉，李洪志的辱追，磕普京和泽连斯基，嬷王志安和胡锡进，想看粉红反贼4i，温和的改良主义者，宇宙第二主佛，擅长在火星上发功",
+        "id": "1806340854451466240",
+        "location": "北京",
+        "name": "李洪志的臭香槟",
+        "pinned_tweet_id": "2027392388831010857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876934429006045184/FeMh5UW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 91,
+          "like_count": 7723,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 2165
+        },
+        "username": "LengthBow88367",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T01:45:10.000Z",
+        "description": "普通人",
+        "id": "1920293823416258560",
+        "name": "vonvici",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920293957671555072/NWD8ciC2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 79,
+          "like_count": 766,
+          "listed_count": 4,
+          "media_count": 92,
+          "tweet_count": 1669
+        },
+        "username": "vonviciK",
+        "verified": false
+      }
+    ]
+  }
+}

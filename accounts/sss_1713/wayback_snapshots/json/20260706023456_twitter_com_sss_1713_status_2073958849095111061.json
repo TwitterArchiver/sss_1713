@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073958830711435264"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2073958849095111061",
+    "created_at": "2026-07-06T02:34:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T03:34:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073958849095111061"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/a8WeOtpzC6",
+          "end": 71,
+          "expanded_url": "https://x.com/sss_1713/status/2073958849095111061/photo/1",
+          "media_key": "3_2073958830711435264",
+          "start": 48,
+          "url": "https://t.co/a8WeOtpzC6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073958849095111061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我发现和不会考虑交往的人相处时更轻松自在，但是这会更容易吸引对方的注意，甚至让对方喜欢上自己。 https://t.co/a8WeOtpzC6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2073958830711435264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMgukXdW8AA2g08.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073958830711435264"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2073958849095111061",
+        "created_at": "2026-07-06T02:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T03:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073958849095111061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a8WeOtpzC6",
+              "end": 71,
+              "expanded_url": "https://x.com/sss_1713/status/2073958849095111061/photo/1",
+              "media_key": "3_2073958830711435264",
+              "start": 48,
+              "url": "https://t.co/a8WeOtpzC6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073958849095111061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现和不会考虑交往的人相处时更轻松自在，但是这会更容易吸引对方的注意，甚至让对方喜欢上自己。 https://t.co/a8WeOtpzC6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5936,
+          "following_count": 788,
+          "like_count": 53707,
+          "listed_count": 18,
+          "media_count": 1057,
+          "tweet_count": 9297
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

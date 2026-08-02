@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2070878471744627049",
+    "created_at": "2026-06-28T10:56:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T11:56:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071186002073493826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1566739868688199680",
+          "start": 0,
+          "username": "wabnp"
+        },
+        {
+          "end": 22,
+          "id": "2053824487330852865",
+          "start": 7,
+          "username": "RusskiyCvyatoy"
+        },
+        {
+          "end": 39,
+          "id": "1754227609930735616",
+          "start": 23,
+          "username": "lilisan18991118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071186002073493826",
+    "in_reply_to_user_id": "1566739868688199680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071181358303760822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wabnp @RusskiyCvyatoy @lilisan18991118 我挺喜欢的🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2070878471744627049",
+        "created_at": "2026-06-28T10:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T11:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071186002073493826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1566739868688199680",
+              "start": 0,
+              "username": "wabnp"
+            },
+            {
+              "end": 22,
+              "id": "2053824487330852865",
+              "start": 7,
+              "username": "RusskiyCvyatoy"
+            },
+            {
+              "end": 39,
+              "id": "1754227609930735616",
+              "start": 23,
+              "username": "lilisan18991118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071186002073493826",
+        "in_reply_to_user_id": "1566739868688199680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071181358303760822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wabnp @RusskiyCvyatoy @lilisan18991118 我挺喜欢的🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1566739868688199680",
+        "conversation_id": "2070878471744627049",
+        "created_at": "2026-06-28T10:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T11:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071181358303760822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2053824487330852865",
+              "start": 0,
+              "username": "RusskiyCvyatoy"
+            },
+            {
+              "end": 32,
+              "id": "1754227609930735616",
+              "start": 16,
+              "username": "lilisan18991118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071181358303760822",
+        "in_reply_to_user_id": "2053824487330852865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070878904835805412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusskiyCvyatoy @lilisan18991118 你也喜欢掐脖子吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5911,
+          "following_count": 778,
+          "like_count": 52664,
+          "listed_count": 18,
+          "media_count": 1052,
+          "tweet_count": 9233
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T10:47:56.000Z",
+        "description": "",
+        "id": "1566739868688199680",
+        "location": "横幅2023.11",
+        "name": "醬燒魚乾",
+        "pinned_tweet_id": "1935293435520630965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069067316650999808/mVMrbVfT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2418,
+          "following_count": 908,
+          "like_count": 260434,
+          "listed_count": 5,
+          "media_count": 663,
+          "tweet_count": 16938
+        },
+        "url": "",
+        "username": "wabnp",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T13:09:44.000Z",
+        "description": "凝聚意志，保卫领袖。",
+        "id": "2053824487330852865",
+        "location": "Sankt-Paulsburg, RSFSR",
+        "name": "无限热爱伊玛目霍梅尼、无限崇拜伊玛目哈梅内伊",
+        "pinned_tweet_id": "2060020055111287178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069630190095880192/DjdCd_pl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 99,
+          "like_count": 1179,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1414
+        },
+        "url": "",
+        "username": "RusskiyCvyatoy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-04T19:37:25.000Z",
+        "description": "果真如此，那我也真够不幸了，因为我一直在努力摆脱知识分子哲学的毒害。",
+        "id": "1754227609930735616",
+        "location": "中华总工会",
+        "name": "王亚樵",
+        "pinned_tweet_id": "1908531538557288747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938878600767250432/PnXzBI7x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 1202,
+          "like_count": 53822,
+          "listed_count": 7,
+          "media_count": 1356,
+          "tweet_count": 21769
+        },
+        "url": "",
+        "username": "lilisan18991118",
+        "verified": false
+      }
+    ]
+  }
+}

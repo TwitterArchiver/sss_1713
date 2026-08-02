@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2054763761295376487",
+    "created_at": "2026-05-14T03:24:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T04:24:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054764731467014365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1402195832250667025",
+          "start": 0,
+          "username": "quid_ryo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054764731467014365",
+    "in_reply_to_user_id": "1402195832250667025",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054763761295376487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quid_ryo 支持后面蜜汁微笑的特朗普大头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2054763761295376487",
+        "created_at": "2026-05-14T03:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T04:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054764731467014365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1402195832250667025",
+              "start": 0,
+              "username": "quid_ryo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054764731467014365",
+        "in_reply_to_user_id": "1402195832250667025",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054763761295376487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quid_ryo 支持后面蜜汁微笑的特朗普大头"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1402195832250667025",
+        "conversation_id": "2054763761295376487",
+        "created_at": "2026-05-14T03:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T04:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054763761295376487"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054763761295376487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "台海戰爭支持誰？\nWho do you support in Taiwan Strait Conflicts?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5804,
+          "following_count": 1042,
+          "like_count": 47335,
+          "listed_count": 18,
+          "media_count": 942,
+          "tweet_count": 8255
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-08T09:28:50.000Z",
+        "description": "Artist from Eurasia…繪圖為主的帳號…繪製碧藍航線風格的現代艦娘中！無其他帳號，擴散希望！#ProjectModernAL| ex-owner: enen| ⚽️City xEngland 🏎️LH44 xOP81 💷RN xRAF 🎨 簡繪/艦娘！/AI will be marked",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 54,
+                "tag": "ProjectModernAL"
+              }
+            ]
+          }
+        },
+        "id": "1402195832250667025",
+        "location": "Starry Live House",
+        "name": "世界のYAMADA 🎧💙💛",
+        "pinned_tweet_id": "2054245264907780327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045045058588807168/N8e57-sL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5531,
+          "following_count": 1312,
+          "like_count": 133205,
+          "listed_count": 41,
+          "media_count": 6452,
+          "tweet_count": 42554
+        },
+        "username": "quid_ryo",
+        "verified": false
+      }
+    ]
+  }
+}

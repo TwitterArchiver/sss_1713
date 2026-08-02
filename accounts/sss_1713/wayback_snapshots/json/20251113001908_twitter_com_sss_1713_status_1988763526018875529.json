@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1988557486022893992",
+    "created_at": "2025-11-13T00:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T01:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988763526018875529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1815482193327935488",
+          "start": 0,
+          "username": "SOYO_2008_JPN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988763526018875529",
+    "in_reply_to_user_id": "1815482193327935488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988604718160191643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SOYO_2008_JPN 现在老多ai擦边女粉丝一堆，还假装自己是真人，点名微信公众号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1988557486022893992",
+        "created_at": "2025-11-13T00:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T01:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988763526018875529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1815482193327935488",
+              "start": 0,
+              "username": "SOYO_2008_JPN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988763526018875529",
+        "in_reply_to_user_id": "1815482193327935488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988604718160191643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SOYO_2008_JPN 现在老多ai擦边女粉丝一堆，还假装自己是真人，点名微信公众号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815482193327935488",
+        "conversation_id": "1988557486022893992",
+        "created_at": "2025-11-12T13:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T14:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988604718160191643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988604718160191643",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3575,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988557486022893992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 别急，再过一段时间，年轻人都分辨不出来了\n欢迎来到大造谣时代😃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5827,
+          "following_count": 986,
+          "like_count": 45674,
+          "listed_count": 17,
+          "media_count": 925,
+          "tweet_count": 7833
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-22T20:21:15.000Z",
+        "description": "o_O/无立场，勿扰",
+        "id": "1815482193327935488",
+        "name": "lyle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947079030382968832/K2XGyKRH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 207,
+          "like_count": 11426,
+          "listed_count": 5,
+          "media_count": 947,
+          "tweet_count": 3016
+        },
+        "username": "SOYO_2008_JPN",
+        "verified": false
+      }
+    ]
+  }
+}

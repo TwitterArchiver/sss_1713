@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2070449918993727822",
+    "created_at": "2026-06-26T10:11:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T11:11:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070449918993727822"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/4307lee/status…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/4307lee/status/2070405742050574783",
+          "start": 60,
+          "url": "https://t.co/aWTuGIXOqm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070449918993727822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070405742050574783",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大概是初中的时候，老师就让我们全体会背核心价值观，说是学校里会来人在路上随机检查，虽然我没遇到过也没听说有人被抽到过。 https://t.co/aWTuGIXOqm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2070449918993727822",
+        "created_at": "2026-06-26T10:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070449918993727822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/4307lee/status…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/4307lee/status/2070405742050574783",
+              "start": 60,
+              "url": "https://t.co/aWTuGIXOqm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070449918993727822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070405742050574783",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大概是初中的时候，老师就让我们全体会背核心价值观，说是学校里会来人在路上随机检查，虽然我没遇到过也没听说有人被抽到过。 https://t.co/aWTuGIXOqm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672578351670886401",
+        "conversation_id": "2070358450396414414",
+        "created_at": "2026-06-26T07:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T08:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070405742050574783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "193648759",
+              "start": 0,
+              "username": "ripo0079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070405742050574783",
+        "in_reply_to_user_id": "193648759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2016,
+          "like_count": 9,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070358450396414414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ripo0079 你是没经过那几年路上抽查让人背诵的时光"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5911,
+          "following_count": 777,
+          "like_count": 52510,
+          "listed_count": 18,
+          "media_count": 1048,
+          "tweet_count": 9206
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-24T12:12:17.000Z",
+        "description": "心存良善。爱自由胜于一切。即使为了王座也不背叛真理。——傅雷译《名人传》",
+        "id": "1672578351670886401",
+        "location": "Beijing",
+        "name": "Octavian",
+        "pinned_tweet_id": "1991688675965768175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032519987068567552/Zso-w-cK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1457,
+          "following_count": 2374,
+          "like_count": 40005,
+          "listed_count": 8,
+          "media_count": 270,
+          "tweet_count": 8801
+        },
+        "url": "",
+        "username": "4307Lee",
+        "verified": false
+      }
+    ]
+  }
+}

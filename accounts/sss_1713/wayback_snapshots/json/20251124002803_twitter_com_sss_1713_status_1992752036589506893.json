@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1992752036589506893",
+    "created_at": "2025-11-24T00:28:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T01:28:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992752036589506893"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/weiheyaokanwo/…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/weiheyaokanwo/status/1992478415799378414",
+          "start": 29,
+          "url": "https://t.co/MAZx1jIC0D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992752036589506893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992478415799378414",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吉他张我不知道跟丝竹的区别在哪，edl、小帕至少能看一下 https://t.co/MAZx1jIC0D"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1992752036589506893",
+        "created_at": "2025-11-24T00:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T01:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992752036589506893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/weiheyaokanwo/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/weiheyaokanwo/status/1992478415799378414",
+              "start": 29,
+              "url": "https://t.co/MAZx1jIC0D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992752036589506893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992478415799378414",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吉他张我不知道跟丝竹的区别在哪，edl、小帕至少能看一下 https://t.co/MAZx1jIC0D"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847153221900685312",
+        "conversation_id": "1992478415799378414",
+        "created_at": "2025-11-23T06:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T07:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992478415799378414"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992478415799378414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46466,
+          "like_count": 500,
+          "quote_count": 1,
+          "reply_count": 26,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "抖人真能把吉他张这头猪捧起来让我相信中国人和穆斯林不共戴天了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5825,
+          "following_count": 996,
+          "like_count": 45801,
+          "listed_count": 17,
+          "media_count": 927,
+          "tweet_count": 7923
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T05:50:33.000Z",
+        "description": "病み垢/陰キャ/ダメ女 请你把我吃掉吧 提问箱: https://t.co/MhyZBZn8Ai",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/noi48823",
+                "end": 48,
+                "expanded_url": "https://ngl.link/noi48823",
+                "start": 25,
+                "url": "https://t.co/MhyZBZn8Ai"
+              }
+            ]
+          }
+        },
+        "id": "1847153221900685312",
+        "name": "匿名同学@提不起劲",
+        "pinned_tweet_id": "1939932328668565864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990250273076600832/GZMeL-dW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2446,
+          "following_count": 567,
+          "like_count": 1343,
+          "listed_count": 2,
+          "media_count": 434,
+          "tweet_count": 2454
+        },
+        "username": "weiheyaokanwo",
+        "verified": false
+      }
+    ]
+  }
+}

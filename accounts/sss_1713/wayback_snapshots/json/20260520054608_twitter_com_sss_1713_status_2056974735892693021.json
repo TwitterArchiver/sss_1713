@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2056962760333037711",
+    "created_at": "2026-05-20T05:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T06:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056974735892693021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1988615575216795648",
+          "start": 0,
+          "username": "xinren21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056974735892693021",
+    "in_reply_to_user_id": "1988615575216795648",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056962760333037711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinren21 🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2056962760333037711",
+        "created_at": "2026-05-20T05:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T06:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056974735892693021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988615575216795648",
+              "start": 0,
+              "username": "xinren21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056974735892693021",
+        "in_reply_to_user_id": "1988615575216795648",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056962760333037711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinren21 🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988615575216795648",
+        "conversation_id": "2056962760333037711",
+        "created_at": "2026-05-20T04:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056962760333037711"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056962760333037711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "绿了我七天的锂矿偏偏在520这天红了。\n难怪我对它有一种别样的情愫，无论如何都不舍得离场。\n可能这就是双向奔赴吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2056686933950996682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5805,
+          "following_count": 746,
+          "like_count": 47799,
+          "listed_count": 18,
+          "media_count": 963,
+          "tweet_count": 8380
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-12T14:31:42.000Z",
+        "description": "把我变苦，把我当杏仁来数。",
+        "id": "1988615575216795648",
+        "name": "杏仁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055923654798774272/kmpJKSTw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 22,
+          "like_count": 509,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 51
+        },
+        "username": "xinren21",
+        "verified": false
+      }
+    ]
+  }
+}

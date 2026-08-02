@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2079762175380578330",
+    "created_at": "2026-07-22T13:48:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T14:48:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079926470622040570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1947644812875776000",
+          "start": 0,
+          "username": "Stefsunyax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079926470622040570",
+    "in_reply_to_user_id": "1947644812875776000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079921192451133520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stefsunyax 笑死我了我也觉得它像那个评论罗伯特"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2079762175380578330",
+        "created_at": "2026-07-22T13:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079926470622040570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1947644812875776000",
+              "start": 0,
+              "username": "Stefsunyax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079926470622040570",
+        "in_reply_to_user_id": "1947644812875776000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079921192451133520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stefsunyax 笑死我了我也觉得它像那个评论罗伯特"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947644812875776000",
+        "conversation_id": "2079762175380578330",
+        "created_at": "2026-07-22T13:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079921192451133520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079921192451133520",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079762175380578330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 外网罗伯特"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6003,
+          "following_count": 803,
+          "like_count": 55205,
+          "listed_count": 18,
+          "media_count": 1090,
+          "tweet_count": 9574
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-22T13:08:16.000Z",
+        "description": "阿诺生成中🏋🏽‍♀️",
+        "id": "1947644812875776000",
+        "location": "Chicago, IL",
+        "name": "小米ouo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078154258940358658/V8Mvqej7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 10,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "Stefsunyax",
+        "verified": false
+      }
+    ]
+  }
+}

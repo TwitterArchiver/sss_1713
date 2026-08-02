@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2017082179415589346",
+    "created_at": "2026-01-30T18:50:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T19:50:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017309385865732522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1896968782587052032",
+          "start": 0,
+          "username": "puppy1276113"
+        },
+        {
+          "end": 25,
+          "id": "901299158669180931",
+          "start": 14,
+          "username": "ShoBeiYong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017309385865732522",
+    "in_reply_to_user_id": "1896968782587052032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017307810682507293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@puppy1276113 @ShoBeiYong 你少装逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2017082179415589346",
+        "created_at": "2026-01-30T18:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T19:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017309385865732522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1896968782587052032",
+              "start": 0,
+              "username": "puppy1276113"
+            },
+            {
+              "end": 25,
+              "id": "901299158669180931",
+              "start": 14,
+              "username": "ShoBeiYong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017309385865732522",
+        "in_reply_to_user_id": "1896968782587052032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017307810682507293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puppy1276113 @ShoBeiYong 你少装逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896968782587052032",
+        "conversation_id": "2017082179415589346",
+        "created_at": "2026-01-30T18:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T19:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017307810682507293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            },
+            {
+              "end": 21,
+              "id": "901299158669180931",
+              "start": 10,
+              "username": "ShoBeiYong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017307810682507293",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017295376315777275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 @ShoBeiYong 说实话，你连键政小鬼都算不上，只能是属于听风就是雨那一类的，我以为你会有什么爆炸性言论，结果看完感觉毫无新意，认知能力果然是一道鸿沟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5810,
+          "following_count": 1004,
+          "like_count": 46180,
+          "listed_count": 18,
+          "media_count": 934,
+          "tweet_count": 8052
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T16:59:42.000Z",
+        "description": "",
+        "id": "1896968782587052032",
+        "name": "puppy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896969148552634370/lRjGrLfn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 0,
+          "like_count": 839,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 34
+        },
+        "username": "puppy1276113",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-26T04:23:59.000Z",
+        "description": "舊世凌遲，新國在火",
+        "id": "901299158669180931",
+        "location": "神圣兽国 游尾郡 窝窝乡",
+        "name": "魈✟ ❂☭ 暂离中左所",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925816941135990784/UMSLrXH0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2713,
+          "following_count": 338,
+          "like_count": 14475,
+          "listed_count": 14,
+          "media_count": 903,
+          "tweet_count": 8697
+        },
+        "username": "ShoBeiYong",
+        "verified": false
+      }
+    ]
+  }
+}

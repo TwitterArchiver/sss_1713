@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2074652658393337856"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2074652750085079291",
+    "created_at": "2026-07-08T00:32:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T01:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074652750085079291"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eE7MOrORAR",
+          "end": 102,
+          "expanded_url": "https://x.com/sss_1713/status/2074652750085079291/video/1",
+          "media_key": "13_2074652658393337856",
+          "start": 79,
+          "url": "https://t.co/eE7MOrORAR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074652750085079291",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "水泥墙，包浆的木门框，说是家徒四壁也不为过。还有她知道自己要结婚了吗，婚姻的前提不是自愿吗，她看起来    完全不能够表达自己的真实意愿 ，甚至还在叫妈妈。 https://t.co/eE7MOrORAR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23100,
+        "height": 960,
+        "media_key": "13_2074652658393337856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074652658393337856/img/0Rrp3VKGH71STEA5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074652658393337856/vid/avc1/320x568/f324S5f2SsKfw9Zn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074652658393337856/vid/avc1/480x852/Mrku-_exysxJSl9T.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074652658393337856/vid/avc1/540x960/cbXT2rJUOmhn8PzS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074652658393337856/pl/1K7E9AHAXsal9j2s.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074652658393337856"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2074652750085079291",
+        "created_at": "2026-07-08T00:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T01:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074652750085079291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eE7MOrORAR",
+              "end": 102,
+              "expanded_url": "https://x.com/sss_1713/status/2074652750085079291/video/1",
+              "media_key": "13_2074652658393337856",
+              "start": 79,
+              "url": "https://t.co/eE7MOrORAR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074652750085079291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "水泥墙，包浆的木门框，说是家徒四壁也不为过。还有她知道自己要结婚了吗，婚姻的前提不是自愿吗，她看起来    完全不能够表达自己的真实意愿 ，甚至还在叫妈妈。 https://t.co/eE7MOrORAR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5945,
+          "following_count": 798,
+          "like_count": 53954,
+          "listed_count": 18,
+          "media_count": 1069,
+          "tweet_count": 9361
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      }
+    ]
+  }
+}

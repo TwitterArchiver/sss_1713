@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2061805536652472646",
+    "created_at": "2026-06-02T17:08:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T18:08:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061857575927513195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1853777198018404352",
+          "start": 0,
+          "username": "huthawar17115"
+        },
+        {
+          "end": 25,
+          "id": "1674281529852174341",
+          "start": 15,
+          "username": "Frost_SZH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061857575927513195",
+    "in_reply_to_user_id": "1853777198018404352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061821987581051176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huthawar17115 @Frost_SZH 呃呃好恶心"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2061821987581051176].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2061821987581051176",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2061821987581051176"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2061805536652472646",
+        "created_at": "2026-06-02T17:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T18:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061857575927513195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1853777198018404352",
+              "start": 0,
+              "username": "huthawar17115"
+            },
+            {
+              "end": 25,
+              "id": "1674281529852174341",
+              "start": 15,
+              "username": "Frost_SZH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061857575927513195",
+        "in_reply_to_user_id": "1853777198018404352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061821987581051176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huthawar17115 @Frost_SZH 呃呃好恶心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5855,
+          "following_count": 753,
+          "like_count": 48900,
+          "listed_count": 18,
+          "media_count": 989,
+          "tweet_count": 8640
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-05T12:32:14.000Z",
+        "description": "Roma catholic🇻🇦☨/欢迎互fo/🚪1919180VND",
+        "id": "1853777198018404352",
+        "location": "距离你4.2光年",
+        "name": "✠坂下葡萄汽水☨🥤🇻🇦",
+        "pinned_tweet_id": "2009624763724136527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023342430033219584/qAux-j0y_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 1772,
+          "like_count": 48486,
+          "listed_count": 6,
+          "media_count": 1194,
+          "tweet_count": 16289
+        },
+        "username": "huthawar17115",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-29T05:00:12.000Z",
+        "description": "苦批的半个大学生 | 生日快乐🎂@Unnamed_RF 🎉不久以后，世人不再看见我，你们却要看见我，因为我活着，你们也要活着。(约 14:19) 不但这样，我们更以患难为荣；知道患难产生忍耐，忍耐产生毅力，毅力产生盼望；盼望是不会令人蒙羞的，因为神藉着所赐给我们的圣灵，把他的爱浇灌在我们的心里。(罗 5:3-5)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Unnamed_RF"
+              }
+            ]
+          }
+        },
+        "id": "1674281529852174341",
+        "location": "Malaysia",
+        "name": "✝️横山優智 Yokoyama Yūto（霜在華/布莱恩）",
+        "pinned_tweet_id": "1830457791879971281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058382651246133248/sd-tDz8f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 1136,
+          "like_count": 45532,
+          "listed_count": 7,
+          "media_count": 1278,
+          "tweet_count": 11478
+        },
+        "username": "Frost_SZH",
+        "verified": false
+      }
+    ]
+  }
+}

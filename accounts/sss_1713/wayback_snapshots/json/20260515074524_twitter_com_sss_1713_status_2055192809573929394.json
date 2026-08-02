@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055192797053919232"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2055192809573929394",
+    "created_at": "2026-05-15T07:45:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T08:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055192809573929394"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cIlWJMjhXu",
+          "end": 23,
+          "expanded_url": "https://x.com/sss_1713/status/2055192809573929394/photo/1",
+          "media_key": "3_2055192797053919232",
+          "start": 0,
+          "url": "https://t.co/cIlWJMjhXu"
+        },
+        {
+          "display_url": "x.com/xiaoyubuku3/st…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/xiaoyubuku3/status/2054918504084844686",
+          "start": 24,
+          "url": "https://t.co/jw4pz77ybe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055192809573929394",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054918504084844686",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/cIlWJMjhXu https://t.co/jw4pz77ybe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1282,
+        "media_key": "3_2055192797053919232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWC9cVXIAAQwVR.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055192797053919232"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2055192809573929394",
+        "created_at": "2026-05-15T07:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T08:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055192809573929394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cIlWJMjhXu",
+              "end": 23,
+              "expanded_url": "https://x.com/sss_1713/status/2055192809573929394/photo/1",
+              "media_key": "3_2055192797053919232",
+              "start": 0,
+              "url": "https://t.co/cIlWJMjhXu"
+            },
+            {
+              "display_url": "x.com/xiaoyubuku3/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/xiaoyubuku3/status/2054918504084844686",
+              "start": 24,
+              "url": "https://t.co/jw4pz77ybe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055192809573929394",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054918504084844686",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/cIlWJMjhXu https://t.co/jw4pz77ybe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557939997797482497",
+        "conversation_id": "2054918504084844686",
+        "created_at": "2026-05-14T13:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T14:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054918504084844686"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054918504084844686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7836,
+          "like_count": 30,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有一个问题  想做ATM奴的人到底图啥？…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5800,
+          "following_count": 746,
+          "like_count": 47404,
+          "listed_count": 18,
+          "media_count": 946,
+          "tweet_count": 8276
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-12T04:00:23.000Z",
+        "description": "07 | 死宅晚期 | 过门后可陪聊dy互关 一起打游戏 ！ | 谢谢哥哥们 | 攒钱出国留学 | 第二人格@xioy3819671 | 不接推广",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "xioy3819671"
+              }
+            ]
+          }
+        },
+        "id": "1557939997797482497",
+        "location": "🚪口令288带姓（个人v）",
+        "name": "我一直在哭",
+        "pinned_tweet_id": "2039945146368934040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625893385515012/kaiSvs4F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14633,
+          "following_count": 124,
+          "like_count": 596,
+          "listed_count": 16,
+          "media_count": 62,
+          "tweet_count": 219
+        },
+        "username": "Xiaoyubuku3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2049416067265753423",
+    "created_at": "2026-04-29T09:10:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T10:10:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049416067265753423"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xxx_jjkk/statu…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/xxx_jjkk/status/2049312680281067648",
+          "start": 36,
+          "url": "https://t.co/7OV3ZLJ9il"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049416067265753423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049312680281067648",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "长得跟猪头一样，唱的歌也是傻逼歌，只能说花钱看乐子跟真粉他的都是啥b。 https://t.co/7OV3ZLJ9il"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2049416067265753423",
+        "created_at": "2026-04-29T09:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T10:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049416067265753423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xxx_jjkk/statu…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/xxx_jjkk/status/2049312680281067648",
+              "start": 36,
+              "url": "https://t.co/7OV3ZLJ9il"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049416067265753423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049312680281067648",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "长得跟猪头一样，唱的歌也是傻逼歌，只能说花钱看乐子跟真粉他的都是啥b。 https://t.co/7OV3ZLJ9il"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472219833261772801",
+        "conversation_id": "2049312680281067648",
+        "created_at": "2026-04-29T02:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T03:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049312680281067648"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049312680281067648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8496,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吉他张的粉丝群体是谁啊？？极品贵公子有粉丝我倒相信，因为长得帅嘛。\n那喜欢吉他张的人到底图什么啊？他怎么还能搞起巡演了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5803,
+          "following_count": 1035,
+          "like_count": 47275,
+          "listed_count": 18,
+          "media_count": 939,
+          "tweet_count": 8181
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T14:59:07.000Z",
+        "description": "我把一生都存进这小小的屏幕里\n当我离去\n这里至少还留有我曾活过的痕迹\n@yn_xxxjkjk 2.0备份一下互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "yn_xxxjkjk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/yz1Ew7xhf4"
+              }
+            ]
+          }
+        },
+        "id": "1472219833261772801",
+        "name": "旖旎",
+        "pinned_tweet_id": "2045469984315658626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035262095277862912/s0vuE8mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 479,
+          "like_count": 12447,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 1755
+        },
+        "url": "https://t.co/yz1Ew7xhf4",
+        "username": "xxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

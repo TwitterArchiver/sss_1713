@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2075491618195374439",
+    "created_at": "2026-07-10T08:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T09:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075491618195374439"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tomorinao2022/…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/tomorinao2022/status/2075400443228987488",
+          "start": 50,
+          "url": "https://t.co/pjNaKS0K9l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075491618195374439",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075400443228987488",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一个工会一个妇联，除了过节发点米面油和妇女节发点电影票、抽纸、洗衣液以外，我真的想不到还有什么用。 https://t.co/pjNaKS0K9l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 344,
+        "media_key": "3_2075400417933180928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1NryWawAAgT-2.png",
+        "width": 270
+      },
+      {
+        "height": 270,
+        "media_key": "3_2075400435633192960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1Ns0SbgAAL8lv.png",
+        "width": 270
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2075491618195374439",
+        "created_at": "2026-07-10T08:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075491618195374439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tomorinao2022/…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/tomorinao2022/status/2075400443228987488",
+              "start": 50,
+              "url": "https://t.co/pjNaKS0K9l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075491618195374439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075400443228987488",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个工会一个妇联，除了过节发点米面油和妇女节发点电影票、抽纸、洗衣液以外，我真的想不到还有什么用。 https://t.co/pjNaKS0K9l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075400417933180928",
+            "3_2075400435633192960"
+          ]
+        },
+        "author_id": "1528798633168347137",
+        "conversation_id": "2075400443228987488",
+        "created_at": "2026-07-10T02:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T03:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075400443228987488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aGHA6Wo8qM",
+              "end": 37,
+              "expanded_url": "https://x.com/TomoriNao2022/status/2075400443228987488/photo/1",
+              "media_key": "3_2075400417933180928",
+              "start": 14,
+              "url": "https://t.co/aGHA6Wo8qM"
+            },
+            {
+              "display_url": "pic.x.com/aGHA6Wo8qM",
+              "end": 37,
+              "expanded_url": "https://x.com/TomoriNao2022/status/2075400443228987488/photo/1",
+              "media_key": "3_2075400435633192960",
+              "start": 14,
+              "url": "https://t.co/aGHA6Wo8qM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075400443228987488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1067,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "觉得自己没用的可以看看这个 https://t.co/aGHA6Wo8qM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5956,
+          "following_count": 791,
+          "like_count": 54373,
+          "listed_count": 18,
+          "media_count": 1078,
+          "tweet_count": 9424
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-23T18:04:26.000Z",
+        "description": "この世の因果を・・・断ち切る！",
+        "id": "1528798633168347137",
+        "location": "神奈川県",
+        "name": "なおNaO",
+        "pinned_tweet_id": "2073983646399365630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930261843559493635/CPcTKpRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16706,
+          "following_count": 835,
+          "like_count": 10834,
+          "listed_count": 58,
+          "media_count": 2494,
+          "tweet_count": 10471
+        },
+        "url": "",
+        "username": "TomoriNao2022",
+        "verified": true
+      }
+    ]
+  }
+}

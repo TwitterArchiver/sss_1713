@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2066790379169460292",
+    "created_at": "2026-06-16T07:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T08:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066790379169460292"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sss_1713/statu…",
+          "end": 151,
+          "expanded_url": "https://twitter.com/sss_1713/status/2066787786405921072",
+          "start": 128,
+          "url": "https://t.co/9HfekBaHu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066790379169460292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066787786405921072",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "同时也将矛头对准同为女性的人，当女性主动结婚生子时被骂“婚驴”，我有时也在想，一个运动到底是在“爱某个群体”，还是在“爱符合自己标准的那个群体”？\n既然女性拥有选择的权利，那么选择结婚难道不也是一种选择吗？女人不是男人的附庸，同时也不是意识形态的附庸吧。 https://t.co/9HfekBaHu0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2066790379169460292",
+        "created_at": "2026-06-16T07:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066790379169460292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/sss_1713/status/2066787786405921072",
+              "start": 128,
+              "url": "https://t.co/9HfekBaHu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066790379169460292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066787786405921072",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同时也将矛头对准同为女性的人，当女性主动结婚生子时被骂“婚驴”，我有时也在想，一个运动到底是在“爱某个群体”，还是在“爱符合自己标准的那个群体”？\n既然女性拥有选择的权利，那么选择结婚难道不也是一种选择吗？女人不是男人的附庸，同时也不是意识形态的附庸吧。 https://t.co/9HfekBaHu0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2066787786405921072",
+        "created_at": "2026-06-16T07:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066787786405921072"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066787786405921072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我反对激进主义女权，部分中国激女对刚出生的小男孩下手，本质只是对比自己更弱势的群体的侵害。\n我认为在这种人看来男婴生来带有原罪，即使他什么都没做，波伏娃在《第二性》中也批判“因为一个人是女性，所以被预先定义”的说法，反对的也是“身份决定本质”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5893,
+          "following_count": 763,
+          "like_count": 51220,
+          "listed_count": 18,
+          "media_count": 1030,
+          "tweet_count": 9014
+        },
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

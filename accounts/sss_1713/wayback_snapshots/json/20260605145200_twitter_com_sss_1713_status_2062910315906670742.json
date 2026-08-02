@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2062910315906670742",
+    "created_at": "2026-06-05T14:52:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T15:52:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062910315906670742"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fcogrx/status/…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/fcogrx/status/2062675745437090288",
+          "start": 33,
+          "url": "https://t.co/Z8XxXkzGX0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062910315906670742",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062675745437090288",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大错特错！我喝酒的时候从来不抽烟，就像我接吻的时候从来不做爱…… https://t.co/Z8XxXkzGX0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2062910315906670742",
+        "created_at": "2026-06-05T14:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062910315906670742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fcogrx/status/…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/fcogrx/status/2062675745437090288",
+              "start": 33,
+              "url": "https://t.co/Z8XxXkzGX0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062910315906670742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062675745437090288",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大错特错！我喝酒的时候从来不抽烟，就像我接吻的时候从来不做爱…… https://t.co/Z8XxXkzGX0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1526277277612384261",
+        "conversation_id": "2062675745437090288",
+        "created_at": "2026-06-04T23:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T00:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062675745437090288"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062675745437090288",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 344,
+          "impression_count": 219843,
+          "like_count": 11730,
+          "quote_count": 83,
+          "reply_count": 27,
+          "retweet_count": 2223
+        },
+        "reply_settings": "everyone",
+        "text": "Beber sin fumar es como coger sin besar."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5872,
+          "following_count": 749,
+          "like_count": 49278,
+          "listed_count": 18,
+          "media_count": 996,
+          "tweet_count": 8698
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-16T19:04:07.000Z",
+        "description": "Todo lo que somos cabe un espacio oscuro detrás del rostro.",
+        "id": "1526277277612384261",
+        "location": "En la frontera. ",
+        "name": "Pvcx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049029894915661824/rOT27v7y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 556,
+          "like_count": 20689,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 4600
+        },
+        "username": "fcogrx",
+        "verified": false
+      }
+    ]
+  }
+}

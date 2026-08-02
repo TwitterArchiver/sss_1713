@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2078637736106578278",
+    "created_at": "2026-07-19T00:27:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T01:27:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078637736106578278"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dearemon/statu…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/dearemon/status/2077949969030599110",
+          "start": 22,
+          "url": "https://t.co/jFzn6YMsSL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078637736106578278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077949969030599110",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "诶不是说苹果国行还没上线的ai是用的千问吗 https://t.co/jFzn6YMsSL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 710,
+        "media_key": "3_2077949958473633794",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZcek_b0AIMl6B.jpg",
+        "width": 1064
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2078637736106578278",
+        "created_at": "2026-07-19T00:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T01:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078637736106578278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dearemon/statu…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/dearemon/status/2077949969030599110",
+              "start": 22,
+              "url": "https://t.co/jFzn6YMsSL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078637736106578278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077949969030599110",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "诶不是说苹果国行还没上线的ai是用的千问吗 https://t.co/jFzn6YMsSL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077949958473633794"
+          ]
+        },
+        "author_id": "126581934",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077949969030599110",
+        "created_at": "2026-07-17T02:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T03:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077949969030599110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SYinKJIjum",
+              "end": 27,
+              "expanded_url": "https://x.com/dearemon/status/2077949969030599110/photo/1",
+              "media_key": "3_2077949958473633794",
+              "start": 4,
+              "url": "https://t.co/SYinKJIjum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077949969030599110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 486317,
+          "like_count": 2608,
+          "quote_count": 0,
+          "reply_count": 47,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "真的哎 https://t.co/SYinKJIjum"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5997,
+          "following_count": 801,
+          "like_count": 54965,
+          "listed_count": 18,
+          "media_count": 1087,
+          "tweet_count": 9533
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2010-03-26T09:45:48.000Z",
+        "description": "世上哪有Happy Ending这回事儿，Ending本身就够悲伤的了。 第一届皮皮虾花样去壳冠军 。SW 5792-2309-7599 动森梦境岛 DA-9972-7707-7708",
+        "id": "126581934",
+        "name": "禿道道🐟",
+        "pinned_tweet_id": "1917513212721090703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004910874897907712/QA8ibrUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65258,
+          "following_count": 711,
+          "like_count": 5867,
+          "listed_count": 237,
+          "media_count": 35528,
+          "tweet_count": 407728
+        },
+        "url": "",
+        "username": "dearemon",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1990041037935624198",
+    "created_at": "2025-11-17T03:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T04:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990262837445628278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1811373871033102336",
+          "start": 0,
+          "username": "duoduolin8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990262837445628278",
+    "in_reply_to_user_id": "1811373871033102336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990041037935624198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duoduolin8964 真的很恐怖🥲🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1990041037935624198",
+        "created_at": "2025-11-17T03:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T04:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990262837445628278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1811373871033102336",
+              "start": 0,
+              "username": "duoduolin8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990262837445628278",
+        "in_reply_to_user_id": "1811373871033102336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990041037935624198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duoduolin8964 真的很恐怖🥲🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811373871033102336",
+        "conversation_id": "1990041037935624198",
+        "created_at": "2025-11-16T12:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T13:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990041037935624198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/riexwx/status/…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/riexwx/status/1989761595564855722",
+              "start": 48,
+              "url": "https://t.co/gXyQAxYHTE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990041037935624198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 12140,
+          "like_count": 133,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989761595564855722",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发这种伤口前能不能打个敏感🤮总有之前没刷到过还没ban的会时不时刷出来，真的恶心啊瘆人生理不适 https://t.co/gXyQAxYHTE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5827,
+          "following_count": 992,
+          "like_count": 45750,
+          "listed_count": 17,
+          "media_count": 926,
+          "tweet_count": 7895
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T12:16:09.000Z",
+        "description": "废物/屌丝/养胃的3D精神病人💙💜💚，小账@duoduolin0/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "duoduolin0"
+              }
+            ]
+          }
+        },
+        "id": "1811373871033102336",
+        "location": "Rhodes",
+        "name": "朵朵玲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988159500302659584/RLQHDpb3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3405,
+          "following_count": 1399,
+          "like_count": 30488,
+          "listed_count": 7,
+          "media_count": 971,
+          "tweet_count": 10473
+        },
+        "username": "duoduolin8964",
+        "verified": false
+      }
+    ]
+  }
+}

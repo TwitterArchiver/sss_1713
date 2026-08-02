@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1899686542550942196",
+    "created_at": "2025-03-12T04:59:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T05:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1899686542550942196"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RFA_Chinese/st…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/RFA_Chinese/status/1898966884906905796",
+          "start": 62,
+          "url": "https://t.co/yC9Lomr1oQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899686542550942196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898966884906905796",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我有个疑问，free tibet的藏人要求释放班禅……不是说已经找不到当年那个班禅了吗（很久之前看的很久之前的美国之音了） https://t.co/yC9Lomr1oQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 136903,
+        "height": 1920,
+        "media_key": "7_1898966294508322816",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1898966294508322816/pu/img/otedhv8ktF_Z0I5m.jpg",
+        "public_metrics": {
+          "view_count": 76012
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1898966294508322816/pu/vid/avc1/320x568/SGYzaeBgQt0v0bUr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1898966294508322816/pu/vid/avc1/480x852/DixTt-cGtP4B0-NW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1898966294508322816/pu/vid/avc1/720x1280/w6EOLb2jpavJtI3O.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1898966294508322816/pu/pl/6cnI0u2deSXvw7P_.m3u8?tag=12&v=0fa"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1899686542550942196",
+        "created_at": "2025-03-12T04:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T05:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899686542550942196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RFA_Chinese/st…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/RFA_Chinese/status/1898966884906905796",
+              "start": 62,
+              "url": "https://t.co/yC9Lomr1oQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899686542550942196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898966884906905796",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我有个疑问，free tibet的藏人要求释放班禅……不是说已经找不到当年那个班禅了吗（很久之前看的很久之前的美国之音了） https://t.co/yC9Lomr1oQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1898966294508322816"
+          ]
+        },
+        "author_id": "17595489",
+        "conversation_id": "1898966884906905796",
+        "created_at": "2025-03-10T05:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T06:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898966884906905796"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 117,
+              "start": 108,
+              "tag": "西藏抗暴66周年"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C7r3LUvNj3",
+              "end": 141,
+              "expanded_url": "https://x.com/RFA_Chinese/status/1898966884906905796/video/1",
+              "media_key": "7_1898966294508322816",
+              "start": 118,
+              "url": "https://t.co/C7r3LUvNj3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898966884906905796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 194989,
+          "like_count": 579,
+          "quote_count": 20,
+          "reply_count": 410,
+          "retweet_count": 131
+        },
+        "reply_settings": "everyone",
+        "text": "【台湾举行西藏抗暴66周年大游行】\n“310西藏抗暴66周年台湾大游行”3月9日在台北举行，主办方今年的诉求是驳斥北京当局有关“西藏自古以来是中国一部分”的说法。在台藏人和参与游行的港人疾呼，千万不要相信中共的谎言。#西藏抗暴66周年 https://t.co/C7r3LUvNj3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJo6NX"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5769,
+          "following_count": 1025,
+          "like_count": 45758,
+          "listed_count": 20,
+          "media_count": 944,
+          "tweet_count": 7656
+        },
+        "url": "https://t.co/Z7RPjJo6NX",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-24T16:59:35.000Z",
+        "description": "提供准确及时的新闻资讯以及评论，为多元意见及声音提供平台。RT≠Endorsement",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rfa.org/mandarin",
+                "end": 23,
+                "expanded_url": "http://www.rfa.org/mandarin",
+                "start": 0,
+                "url": "https://t.co/A7MLgsDkcc"
+              }
+            ]
+          }
+        },
+        "id": "17595489",
+        "location": "Washington, DC",
+        "name": "自由亚洲电台",
+        "pinned_tweet_id": "1898358162547433923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1483174230644645898/dY1oXWhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1703387,
+          "following_count": 3615,
+          "like_count": 971,
+          "listed_count": 5795,
+          "media_count": 30363,
+          "tweet_count": 149872
+        },
+        "url": "https://t.co/A7MLgsDkcc",
+        "username": "RFA_Chinese",
+        "verified": true
+      }
+    ]
+  }
+}

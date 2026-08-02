@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2050807034095055293",
+    "created_at": "2026-05-03T06:14:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T07:14:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050821345924309322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3700078994",
+          "start": 0,
+          "username": "midiexiang6555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050821345924309322",
+    "in_reply_to_user_id": "3700078994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050807034095055293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@midiexiang6555 哈哈哈看起来好好吃，好幸福😌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9998,
+        "height": 544,
+        "media_key": "13_2050806970886893569",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050806970886893569/img/GJqKB1LwUPPjvaSt.jpg",
+        "public_metrics": {
+          "view_count": 70
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050806970886893569/vid/avc1/476x270/T_T32o3dFqmuxPUV.mp4?tag=27"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050806970886893569/vid/avc1/634x360/yQQNQFJ6_EWkEsfh.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050806970886893569/vid/avc1/960x544/J9cryErtMhhy7al-.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050806970886893569/pl/x75rUqI0Cj8nSNIo.m3u8?tag=27"
+          }
+        ],
+        "width": 960
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2050806970878410752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHXuEwoaQAAAo3t.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2050806970882650112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHXuEwpa8AArZO-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2050807034095055293",
+        "created_at": "2026-05-03T06:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T07:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050821345924309322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3700078994",
+              "start": 0,
+              "username": "midiexiang6555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050821345924309322",
+        "in_reply_to_user_id": "3700078994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050807034095055293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@midiexiang6555 哈哈哈看起来好好吃，好幸福😌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050806970886893569",
+            "3_2050806970878410752",
+            "3_2050806970882650112"
+          ]
+        },
+        "author_id": "3700078994",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2050807034095055293",
+        "created_at": "2026-05-03T05:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T06:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050807034095055293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sl4fy4o8kY",
+              "end": 61,
+              "expanded_url": "https://x.com/midiexiang6555/status/2050807034095055293/video/1",
+              "media_key": "13_2050806970886893569",
+              "start": 38,
+              "url": "https://t.co/Sl4fy4o8kY"
+            },
+            {
+              "display_url": "pic.x.com/Sl4fy4o8kY",
+              "end": 61,
+              "expanded_url": "https://x.com/midiexiang6555/status/2050807034095055293/video/1",
+              "media_key": "3_2050806970878410752",
+              "start": 38,
+              "url": "https://t.co/Sl4fy4o8kY"
+            },
+            {
+              "display_url": "pic.x.com/Sl4fy4o8kY",
+              "end": 61,
+              "expanded_url": "https://x.com/midiexiang6555/status/2050807034095055293/video/1",
+              "media_key": "3_2050806970882650112",
+              "start": 38,
+              "url": "https://t.co/Sl4fy4o8kY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050807034095055293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "五一假期，孩子们都放假回来了，给他们上他们最爱吃的湖南特产，爆炒小龙虾🦞😂 https://t.co/Sl4fy4o8kY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5806,
+          "following_count": 1037,
+          "like_count": 47354,
+          "listed_count": 18,
+          "media_count": 938,
+          "tweet_count": 8203
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-27T04:52:42.000Z",
+        "description": "實名：陈燕慧   中年非油膩美少女  一枚。",
+        "id": "3700078994",
+        "location": "湖南長沙",
+        "name": "迷迭香",
+        "pinned_tweet_id": "1993891804270518723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1383101725763018753/I-c4hNRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29896,
+          "following_count": 180,
+          "like_count": 42394,
+          "listed_count": 83,
+          "media_count": 1068,
+          "tweet_count": 9841
+        },
+        "username": "midiexiang6555",
+        "verified": false
+      }
+    ]
+  }
+}

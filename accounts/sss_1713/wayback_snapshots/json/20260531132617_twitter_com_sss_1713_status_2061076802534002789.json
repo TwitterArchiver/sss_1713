@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2061076802534002789",
+    "created_at": "2026-05-31T13:26:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T14:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061076802534002789"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/eduantao/statu…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/eduantao/status/2060855339428270219",
+          "start": 59,
+          "url": "https://t.co/g1FK9faB1O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061076802534002789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060855339428270219",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可以是爱和陪伴。\n我高二的时候确诊了重度焦虑和中度抑郁，但是后来有了周围人散发的爱意和耐心的陪伴，慢慢的就走出来了。 https://t.co/g1FK9faB1O"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2061076802534002789",
+        "created_at": "2026-05-31T13:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061076802534002789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eduantao/statu…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/eduantao/status/2060855339428270219",
+              "start": 59,
+              "url": "https://t.co/g1FK9faB1O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061076802534002789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060855339428270219",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以是爱和陪伴。\n我高二的时候确诊了重度焦虑和中度抑郁，但是后来有了周围人散发的爱意和耐心的陪伴，慢慢的就走出来了。 https://t.co/g1FK9faB1O"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046395388974845952",
+        "conversation_id": "2060855339428270219",
+        "created_at": "2026-05-30T22:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T23:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060855339428270219"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060855339428270219",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 274,
+          "impression_count": 175459,
+          "like_count": 877,
+          "quote_count": 372,
+          "reply_count": 776,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "Sem remédios... qual é a maior arma contra a ansiedade e a depressão?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5861,
+          "following_count": 749,
+          "like_count": 48674,
+          "listed_count": 18,
+          "media_count": 983,
+          "tweet_count": 8585
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T01:08:21.000Z",
+        "description": "",
+        "id": "2046395388974845952",
+        "name": "Anubis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050114631327272960/B_ptha3X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 463,
+          "like_count": 125,
+          "listed_count": 2,
+          "media_count": 139,
+          "tweet_count": 233
+        },
+        "username": "eduantao",
+        "verified": false
+      }
+    ]
+  }
+}

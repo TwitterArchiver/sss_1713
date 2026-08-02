@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2069616551393624068",
+    "created_at": "2026-06-24T03:00:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T04:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069616551393624068"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sisi7758/statu…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/sisi7758/status/2069433518967677285",
+          "start": 50,
+          "url": "https://t.co/hOfCKmxEWm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069616551393624068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069433518967677285",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喝喝，之前和前任在一起的时候就有位同学在下面这样评论，明明可以说“很般配”还硬要踩一捧一刻薄一下😅 https://t.co/hOfCKmxEWm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2069616551393624068",
+        "created_at": "2026-06-24T03:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T04:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069616551393624068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sisi7758/statu…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/sisi7758/status/2069433518967677285",
+              "start": 50,
+              "url": "https://t.co/hOfCKmxEWm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069616551393624068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069433518967677285",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喝喝，之前和前任在一起的时候就有位同学在下面这样评论，明明可以说“很般配”还硬要踩一捧一刻薄一下😅 https://t.co/hOfCKmxEWm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727273302857822208",
+        "conversation_id": "2069433518967677285",
+        "created_at": "2026-06-23T14:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069433518967677285"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069433518967677285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 19630,
+          "like_count": 253,
+          "quote_count": 2,
+          "reply_count": 52,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "刷到个博主评价那些情侣照中踩一捧一的我真的很认同，“宝宝你好美，男朋友也是个人”，又或者是“你杀人被他看见了？”，我真的觉得这种言论非常傻逼，甚至原博还给这个评论点了个赞，看不出来对方是在侮辱你对象吗，对我而言就是侮辱我的审美和眼光，以后谁敢说我对象一句坏话我就咬死谁。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5909,
+          "following_count": 774,
+          "like_count": 52238,
+          "listed_count": 18,
+          "media_count": 1040,
+          "tweet_count": 9154
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T10:30:33.000Z",
+        "description": "喜欢女生 小小思@sisidawang123 盗图替我挡灾 推广自辨 谢谢你的喜欢^_^",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "sisidawang123"
+              }
+            ]
+          }
+        },
+        "id": "1727273302857822208",
+        "location": "加联系方式需要过🚪(｡ì _ í｡) 188/520",
+        "name": "sisi",
+        "pinned_tweet_id": "2068280598838534159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833178858688032768/L96o5aM8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13576,
+          "following_count": 10,
+          "like_count": 2453,
+          "listed_count": 33,
+          "media_count": 166,
+          "tweet_count": 1566
+        },
+        "url": "",
+        "username": "sisi7758",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2059955105076805906",
+    "created_at": "2026-05-29T05:24:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T06:24:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060230890010165715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "872661313905803264",
+          "start": 0,
+          "username": "ufo3171258"
+        },
+        {
+          "end": 25,
+          "id": "1782932905419046912",
+          "start": 12,
+          "username": "ratshelprats"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060230890010165715",
+    "in_reply_to_user_id": "872661313905803264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059964221367218241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ufo3171258 @ratshelprats 俺不中了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2059955105076805906",
+        "created_at": "2026-05-29T05:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060230890010165715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "872661313905803264",
+              "start": 0,
+              "username": "ufo3171258"
+            },
+            {
+              "end": 25,
+              "id": "1782932905419046912",
+              "start": 12,
+              "username": "ratshelprats"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060230890010165715",
+        "in_reply_to_user_id": "872661313905803264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059964221367218241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ufo3171258 @ratshelprats 俺不中了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "872661313905803264",
+        "conversation_id": "2059955105076805906",
+        "created_at": "2026-05-28T11:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059964221367218241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782932905419046912",
+              "start": 0,
+              "username": "ratshelprats"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059964221367218241",
+        "in_reply_to_user_id": "1782932905419046912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1578,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059960880197247342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ratshelprats 给你个弥补的机会 腚沟私我看看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5855,
+          "following_count": 750,
+          "like_count": 48590,
+          "listed_count": 18,
+          "media_count": 983,
+          "tweet_count": 8575
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-08T03:47:25.000Z",
+        "description": "坐标0311",
+        "id": "872661313905803264",
+        "name": "玩世不恭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990400025250287617/QitUQBaM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 1510,
+          "like_count": 128,
+          "listed_count": 5,
+          "media_count": 2,
+          "tweet_count": 603
+        },
+        "username": "ufo3171258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T00:41:54.000Z",
+        "description": "大鼠王（老鼠国王）",
+        "id": "1782932905419046912",
+        "name": "老鼠帮助老鼠🐭☝️",
+        "pinned_tweet_id": "2059533914923012286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822487372774494208/h_lDDH_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107618,
+          "following_count": 491,
+          "like_count": 93573,
+          "listed_count": 160,
+          "media_count": 623,
+          "tweet_count": 1541
+        },
+        "username": "ratshelprats",
+        "verified": true
+      }
+    ]
+  }
+}

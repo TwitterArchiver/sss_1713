@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1837123762371633395",
+    "created_at": "2024-09-20T13:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T14:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837127131865727308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1830109128540246016",
+          "start": 0,
+          "username": "bitchelonmusk_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837127131865727308",
+    "in_reply_to_user_id": "1830109128540246016",
+    "lang": "pl",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837126729392881943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bitchelonmusk_ nienienie"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1837123762371633395",
+        "created_at": "2024-09-20T13:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T14:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837127131865727308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1830109128540246016",
+              "start": 0,
+              "username": "bitchelonmusk_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837127131865727308",
+        "in_reply_to_user_id": "1830109128540246016",
+        "lang": "pl",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837126729392881943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bitchelonmusk_ nienienie"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830109128540246016",
+        "conversation_id": "1837123762371633395",
+        "created_at": "2024-09-20T13:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T14:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837126729392881943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837126729392881943",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837126430099898662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 抱一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "锈叶🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5668,
+          "following_count": 1010,
+          "like_count": 46288,
+          "listed_count": 20,
+          "tweet_count": 7570
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T05:03:21.000Z",
+        "description": "ありのままなことをありのままに呟くつもりです/京都アニメ/#君の膵臓を食べたい/#夏目友人帳/YOASOBI/ボカロ/尖閣諸島、北方四島は日本の固有領土/高市早苗を日本総理大臣に/台湾有事は日本有事/shame on you Elon musk",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 29,
+                "tag": "君の膵臓を食べたい"
+              },
+              {
+                "end": 46,
+                "start": 40,
+                "tag": "夏目友人帳"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckyouelonmusk.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckyouelonmusk.com",
+                "start": 0,
+                "url": "https://t.co/Hhvx18Q9Lm"
+              }
+            ]
+          }
+        },
+        "id": "1830109128540246016",
+        "location": "elon musk's funeral ",
+        "name": "外の世界を見たい唯ちゃん🇯🇵🇫🇮🇺🇲🇺🇦🇮🇱言論弾圧にNO",
+        "pinned_tweet_id": "1834208427066769522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830924501913128962/BR4VvYpo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 336,
+          "like_count": 1085,
+          "listed_count": 0,
+          "tweet_count": 648
+        },
+        "url": "https://t.co/Hhvx18Q9Lm",
+        "username": "bitchelonmusk_",
+        "verified": false
+      }
+    ]
+  }
+}

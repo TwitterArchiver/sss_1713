@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2072556921870258625",
+    "created_at": "2026-07-02T05:44:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T06:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072556921870258625"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/meiyisama/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/meiyisama/status/2072260890523754578",
+          "start": 9,
+          "url": "https://t.co/83OmbpPW1Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072556921870258625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072260890523754578",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最看不清的一集。 https://t.co/83OmbpPW1Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2072260882806304768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMImSymbcAA9IN1.jpg",
+        "width": 1408
+      },
+      {
+        "height": 768,
+        "media_key": "3_2072260882806329344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMImSymb0AAmObL.jpg",
+        "width": 1408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2072556921870258625",
+        "created_at": "2026-07-02T05:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T06:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072556921870258625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meiyisama/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/meiyisama/status/2072260890523754578",
+              "start": 9,
+              "url": "https://t.co/83OmbpPW1Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072556921870258625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072260890523754578",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最看不清的一集。 https://t.co/83OmbpPW1Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072260882806304768",
+            "3_2072260882806329344"
+          ]
+        },
+        "author_id": "1661148065749942272",
+        "conversation_id": "2072260890523754578",
+        "created_at": "2026-07-01T10:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T11:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072260890523754578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JsozWYVEKy",
+              "end": 23,
+              "expanded_url": "https://x.com/MeiyiSama/status/2072260890523754578/photo/1",
+              "media_key": "3_2072260882806304768",
+              "start": 0,
+              "url": "https://t.co/JsozWYVEKy"
+            },
+            {
+              "display_url": "pic.x.com/JsozWYVEKy",
+              "end": 23,
+              "expanded_url": "https://x.com/MeiyiSama/status/2072260890523754578/photo/1",
+              "media_key": "3_2072260882806329344",
+              "start": 0,
+              "url": "https://t.co/JsozWYVEKy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072260890523754578",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 36136,
+          "like_count": 99,
+          "quote_count": 5,
+          "reply_count": 36,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JsozWYVEKy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5922,
+          "following_count": 783,
+          "like_count": 53188,
+          "listed_count": 18,
+          "media_count": 1062,
+          "tweet_count": 9303
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-23T23:12:24.000Z",
+        "description": "1935出生于吉林长春，1950参加中国人民解放军并参加抗美援朝。1951加入中国共产党。复员后到上海入第十七棉纺织厂当工人。后于保卫科任干事。1966响应伟大领袖毛主席号召推翻上海市委反动统治打响夺权第一枪，并在党十大上成功当选副主席。 1976粉碎走资派妄图复辟资本主义的阴谋诡计，在党十一大当选中华人民共和国主席。",
+        "id": "1661148065749942272",
+        "location": "中华人民共和国北京市西城区中南海",
+        "name": "王洪文",
+        "pinned_tweet_id": "1849506577570726220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800529443313848321/pBGkVoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 69,
+          "like_count": 1617,
+          "listed_count": 3,
+          "media_count": 384,
+          "tweet_count": 3684
+        },
+        "url": "",
+        "username": "MeiyiSama",
+        "verified": true
+      }
+    ]
+  }
+}

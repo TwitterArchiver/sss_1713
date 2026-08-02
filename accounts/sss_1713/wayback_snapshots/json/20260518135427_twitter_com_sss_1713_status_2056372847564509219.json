@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056372766476050433"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2056372847564509219",
+    "created_at": "2026-05-18T13:54:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T14:54:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056372847564509219"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GUguzw6G1i",
+          "end": 37,
+          "expanded_url": "https://x.com/sss_1713/status/2056372847564509219/photo/1",
+          "media_key": "3_2056372766476050433",
+          "start": 14,
+          "url": "https://t.co/GUguzw6G1i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056372847564509219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本人实拍鸟照🤓看过的都说好 https://t.co/GUguzw6G1i"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2056372847564509219].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2056372847564509219",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2056372847564509219"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056372766476050433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIm0Is-XoAEXVHn.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5804,
+          "following_count": 751,
+          "like_count": 47652,
+          "listed_count": 18,
+          "media_count": 956,
+          "tweet_count": 8336
+        },
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

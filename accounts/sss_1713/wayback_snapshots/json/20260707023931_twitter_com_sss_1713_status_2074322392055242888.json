@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2074322392055242888",
+    "created_at": "2026-07-07T02:39:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T03:39:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074322392055242888"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074322392055242888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "后续如果收回的话，就当送的premium体验卡了，感觉开了之后也没什么特别的变化，嘿嘿，只是有时候喜欢打错字可以编辑一下推文蛮好的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2074322392055242888",
+        "created_at": "2026-07-07T02:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074322392055242888"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074322392055242888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "后续如果收回的话，就当送的premium体验卡了，感觉开了之后也没什么特别的变化，嘿嘿，只是有时候喜欢打错字可以编辑一下推文蛮好的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5943,
+          "following_count": 795,
+          "like_count": 53856,
+          "listed_count": 18,
+          "media_count": 1065,
+          "tweet_count": 9337
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      }
+    ]
+  }
+}

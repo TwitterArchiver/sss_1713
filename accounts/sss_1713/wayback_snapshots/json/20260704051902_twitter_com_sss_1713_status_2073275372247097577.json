@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2073146661564764613",
+    "created_at": "2026-07-04T05:19:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T06:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073275372247097577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1581763821391138816",
+          "start": 0,
+          "username": "chenlia07323890"
+        },
+        {
+          "end": 28,
+          "id": "1697936336228126721",
+          "start": 17,
+          "username": "Rainstryin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073275372247097577",
+    "in_reply_to_user_id": "1581763821391138816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073267277252940148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenlia07323890 @Rainstryin 这是怎么了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2073146661564764613",
+        "created_at": "2026-07-04T05:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073275372247097577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1581763821391138816",
+              "start": 0,
+              "username": "chenlia07323890"
+            },
+            {
+              "end": 28,
+              "id": "1697936336228126721",
+              "start": 17,
+              "username": "Rainstryin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073275372247097577",
+        "in_reply_to_user_id": "1581763821391138816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073267277252940148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenlia07323890 @Rainstryin 这是怎么了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581763821391138816",
+        "conversation_id": "2073146661564764613",
+        "created_at": "2026-07-04T04:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T05:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073267277252940148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1697936336228126721",
+              "start": 0,
+              "username": "Rainstryin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073267277252940148",
+        "in_reply_to_user_id": "1697936336228126721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073146661564764613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainstryin 发生什么了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5931,
+          "following_count": 788,
+          "like_count": 53509,
+          "listed_count": 18,
+          "media_count": 1052,
+          "tweet_count": 9267
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T21:47:55.000Z",
+        "description": "",
+        "id": "1581763821391138816",
+        "location": "中南海",
+        "name": "旅行中的魔女",
+        "pinned_tweet_id": "1975267363164750190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971983017133617152/4uYTBzMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 1163,
+          "like_count": 15524,
+          "listed_count": 4,
+          "media_count": 632,
+          "tweet_count": 7967
+        },
+        "url": "",
+        "username": "chenlia07323890",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T11:35:50.000Z",
+        "description": "退役老男娘，野人大学生｜游戏群909853647欢迎来玩｜fo你=喜欢你｜同好扩列大薯ki",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/xrufZbE",
+                "end": 23,
+                "expanded_url": "https://b23.tv/xrufZbE",
+                "start": 0,
+                "url": "https://t.co/HHJcrPfn1y"
+              }
+            ]
+          }
+        },
+        "id": "1697936336228126721",
+        "location": "MYTV",
+        "name": "雨斯特云云☁️",
+        "pinned_tweet_id": "2017891795137646958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055732571032702976/rvxadw4q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2190,
+          "following_count": 1665,
+          "like_count": 105708,
+          "listed_count": 7,
+          "media_count": 513,
+          "tweet_count": 6933
+        },
+        "url": "https://t.co/HHJcrPfn1y",
+        "username": "Rainstryin",
+        "verified": false
+      }
+    ]
+  }
+}

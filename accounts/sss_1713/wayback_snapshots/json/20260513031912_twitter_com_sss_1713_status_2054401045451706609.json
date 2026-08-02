@@ -1,0 +1,504 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Phineas Flynn and his stepbrother, Ferb Fletcher, are determined to make every day of their summer vacation fun. They try building a full-scale roller coaster, becoming musicians, building a backyard beach, and traveling back in time to meet dinosaurs. Their family pet, Perry the Platypus, doubles as a secret agent and battles evil. Meanwhile, older sister Candace is tattling on them to Mom and Dad, though she can never seem to catch them in the act.",
+          "id": "10000273400",
+          "name": "Phineas and Ferb"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1263546431853359104",
+          "name": "Phineas and Ferb"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1283481313492652032",
+          "name": "Family & nostalgic"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1263546431853359104",
+          "name": "Phineas and Ferb"
+        }
+      }
+    ],
+    "conversation_id": "2054401045451706609",
+    "created_at": "2026-05-13T03:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T04:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054401045451706609"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/reynarabi/stat…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/reynarabi/status/2054067185056936404",
+          "start": 22,
+          "url": "https://t.co/Qq3dLxfz3c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054401045451706609",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054067185056936404",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“Hey, where’s Perry?” https://t.co/Qq3dLxfz3c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2054067176496336896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGDNs_akAA8qbN.jpg",
+        "width": 513
+      },
+      {
+        "height": 680,
+        "media_key": "3_2054067179864346624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGDN5iaUAA0KB5.jpg",
+        "width": 437
+      },
+      {
+        "height": 680,
+        "media_key": "3_2054067182691328000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGDOEEaoAANAyp.jpg",
+        "width": 381
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Phineas Flynn and his stepbrother, Ferb Fletcher, are determined to make every day of their summer vacation fun. They try building a full-scale roller coaster, becoming musicians, building a backyard beach, and traveling back in time to meet dinosaurs. Their family pet, Perry the Platypus, doubles as a secret agent and battles evil. Meanwhile, older sister Candace is tattling on them to Mom and Dad, though she can never seem to catch them in the act.",
+              "id": "10000273400",
+              "name": "Phineas and Ferb"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1263546431853359104",
+              "name": "Phineas and Ferb"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283481313492652032",
+              "name": "Family & nostalgic"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1263546431853359104",
+              "name": "Phineas and Ferb"
+            }
+          }
+        ],
+        "conversation_id": "2054401045451706609",
+        "created_at": "2026-05-13T03:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054401045451706609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/reynarabi/stat…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/reynarabi/status/2054067185056936404",
+              "start": 22,
+              "url": "https://t.co/Qq3dLxfz3c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054401045451706609",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054067185056936404",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“Hey, where’s Perry?” https://t.co/Qq3dLxfz3c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054067176496336896",
+            "3_2054067179864346624",
+            "3_2054067182691328000"
+          ]
+        },
+        "author_id": "941916691717431297",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Phineas Flynn and his stepbrother, Ferb Fletcher, are determined to make every day of their summer vacation fun. They try building a full-scale roller coaster, becoming musicians, building a backyard beach, and traveling back in time to meet dinosaurs. Their family pet, Perry the Platypus, doubles as a secret agent and battles evil. Meanwhile, older sister Candace is tattling on them to Mom and Dad, though she can never seem to catch them in the act.",
+              "id": "10000273400",
+              "name": "Phineas and Ferb"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1263546431853359104",
+              "name": "Phineas and Ferb"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283481313492652032",
+              "name": "Family & nostalgic"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1263546431853359104",
+              "name": "Phineas and Ferb"
+            }
+          }
+        ],
+        "conversation_id": "2054067185056936404",
+        "created_at": "2026-05-12T05:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T06:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054067185056936404"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 0,
+              "tag": "PhineasAndFerb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K66exftH9y",
+              "end": 39,
+              "expanded_url": "https://x.com/reynarabi/status/2054067185056936404/photo/1",
+              "media_key": "3_2054067176496336896",
+              "start": 16,
+              "url": "https://t.co/K66exftH9y"
+            },
+            {
+              "display_url": "pic.x.com/K66exftH9y",
+              "end": 39,
+              "expanded_url": "https://x.com/reynarabi/status/2054067185056936404/photo/1",
+              "media_key": "3_2054067179864346624",
+              "start": 16,
+              "url": "https://t.co/K66exftH9y"
+            },
+            {
+              "display_url": "pic.x.com/K66exftH9y",
+              "end": 39,
+              "expanded_url": "https://x.com/reynarabi/status/2054067185056936404/photo/1",
+              "media_key": "3_2054067182691328000",
+              "start": 16,
+              "url": "https://t.co/K66exftH9y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054067185056936404",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2668,
+          "impression_count": 581047,
+          "like_count": 42964,
+          "quote_count": 105,
+          "reply_count": 26,
+          "retweet_count": 6033
+        },
+        "reply_settings": "everyone",
+        "text": "#PhineasAndFerb https://t.co/K66exftH9y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5794,
+          "following_count": 1039,
+          "like_count": 47274,
+          "listed_count": 18,
+          "media_count": 941,
+          "tweet_count": 8239
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-16T06:23:34.000Z",
+        "description": "✦Draw something🖌✦ 20+ ✦ Chinese🇨🇳中文/English | 🚫AI",
+        "id": "941916691717431297",
+        "name": "BUNNYDOG",
+        "pinned_tweet_id": "1895147490326032574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007379729306042368/HWs2u4Xc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25499,
+          "following_count": 545,
+          "like_count": 9119,
+          "listed_count": 68,
+          "media_count": 1650,
+          "tweet_count": 5562
+        },
+        "username": "reynarabi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056025395233722368",
+        "3_2056025395246342144",
+        "3_2056025395242143744",
+        "3_2056025395254755328"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2056025408387056018",
+    "created_at": "2026-05-17T14:53:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T15:53:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056025408387056018"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/A7KQQKcchr",
+          "end": 61,
+          "expanded_url": "https://x.com/sss_1713/status/2056025408387056018/photo/1",
+          "media_key": "3_2056025395233722368",
+          "start": 38,
+          "url": "https://t.co/A7KQQKcchr"
+        },
+        {
+          "display_url": "pic.x.com/A7KQQKcchr",
+          "end": 61,
+          "expanded_url": "https://x.com/sss_1713/status/2056025408387056018/photo/1",
+          "media_key": "3_2056025395246342144",
+          "start": 38,
+          "url": "https://t.co/A7KQQKcchr"
+        },
+        {
+          "display_url": "pic.x.com/A7KQQKcchr",
+          "end": 61,
+          "expanded_url": "https://x.com/sss_1713/status/2056025408387056018/photo/1",
+          "media_key": "3_2056025395242143744",
+          "start": 38,
+          "url": "https://t.co/A7KQQKcchr"
+        },
+        {
+          "display_url": "pic.x.com/A7KQQKcchr",
+          "end": 61,
+          "expanded_url": "https://x.com/sss_1713/status/2056025408387056018/photo/1",
+          "media_key": "3_2056025395254755328",
+          "start": 38,
+          "url": "https://t.co/A7KQQKcchr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056025408387056018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为了跟朋友们聊天时更有温度一些，我存了这些颜文字  ˶&gt;ᴗ&lt;˶ https://t.co/A7KQQKcchr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056025395233722368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIh4NCQWkAAjMSD.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056025395246342144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIh4NCTXIAAaa0F.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056025395242143744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIh4NCSXEAAzkBZ.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056025395254755328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIh4NCVXgAAMPMw.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056025395233722368",
+            "3_2056025395246342144",
+            "3_2056025395242143744",
+            "3_2056025395254755328"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2056025408387056018",
+        "created_at": "2026-05-17T14:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056025408387056018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A7KQQKcchr",
+              "end": 61,
+              "expanded_url": "https://x.com/sss_1713/status/2056025408387056018/photo/1",
+              "media_key": "3_2056025395233722368",
+              "start": 38,
+              "url": "https://t.co/A7KQQKcchr"
+            },
+            {
+              "display_url": "pic.x.com/A7KQQKcchr",
+              "end": 61,
+              "expanded_url": "https://x.com/sss_1713/status/2056025408387056018/photo/1",
+              "media_key": "3_2056025395246342144",
+              "start": 38,
+              "url": "https://t.co/A7KQQKcchr"
+            },
+            {
+              "display_url": "pic.x.com/A7KQQKcchr",
+              "end": 61,
+              "expanded_url": "https://x.com/sss_1713/status/2056025408387056018/photo/1",
+              "media_key": "3_2056025395242143744",
+              "start": 38,
+              "url": "https://t.co/A7KQQKcchr"
+            },
+            {
+              "display_url": "pic.x.com/A7KQQKcchr",
+              "end": 61,
+              "expanded_url": "https://x.com/sss_1713/status/2056025408387056018/photo/1",
+              "media_key": "3_2056025395254755328",
+              "start": 38,
+              "url": "https://t.co/A7KQQKcchr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056025408387056018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为了跟朋友们聊天时更有温度一些，我存了这些颜文字  ˶&gt;ᴗ&lt;˶ https://t.co/A7KQQKcchr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5801,
+          "following_count": 751,
+          "like_count": 47554,
+          "listed_count": 18,
+          "media_count": 951,
+          "tweet_count": 8320
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

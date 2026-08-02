@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2059556353161547896",
+    "created_at": "2026-05-27T08:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T09:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059556353161547896"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/anblk984/statu…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/anblk984/status/2059526267729490073",
+          "start": 37,
+          "url": "https://t.co/Wa7AgSkj5u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059556353161547896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059526267729490073",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这还是拍下来的，还有更多更恶劣的暴行没有视频证据，校园霸凌的都去死一死。 https://t.co/Wa7AgSkj5u"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17693,
+        "height": 544,
+        "media_key": "7_2059526245961052160",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2059526245961052160/pu/img/S7xXzx2UyKjUL3tI.jpg",
+        "public_metrics": {
+          "view_count": 16199
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059526245961052160/pu/vid/avc1/476x270/FiEj6J81IYE0Iis1.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059526245961052160/pu/vid/avc1/634x360/BViKVtX4v_sT87e3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059526245961052160/pu/vid/avc1/960x544/xszYnzXQgKjYFxb4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2059526245961052160/pu/pl/WV17b-H2y6qrNTJY.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2059556353161547896",
+        "created_at": "2026-05-27T08:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059556353161547896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/anblk984/statu…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/anblk984/status/2059526267729490073",
+              "start": 37,
+              "url": "https://t.co/Wa7AgSkj5u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059556353161547896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059526267729490073",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这还是拍下来的，还有更多更恶劣的暴行没有视频证据，校园霸凌的都去死一死。 https://t.co/Wa7AgSkj5u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2059526245961052160"
+          ]
+        },
+        "author_id": "1103830967163117568",
+        "conversation_id": "2059526267729490073",
+        "created_at": "2026-05-27T06:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059526267729490073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lLKrrZ1uiM",
+              "end": 40,
+              "expanded_url": "https://x.com/anblk984/status/2059526267729490073/video/1",
+              "media_key": "7_2059526245961052160",
+              "start": 17,
+              "url": "https://t.co/lLKrrZ1uiM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059526267729490073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 29868,
+          "like_count": 152,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "被堵在厕所围殴，又是谁的一辈子😢 https://t.co/lLKrrZ1uiM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5848,
+          "following_count": 752,
+          "like_count": 48361,
+          "listed_count": 18,
+          "media_count": 979,
+          "tweet_count": 8513
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/劳保爱鸟楠/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真  /有偿数学家教接单中 /最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "1991346530033496380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14510,
+          "following_count": 999,
+          "like_count": 118342,
+          "listed_count": 71,
+          "media_count": 2855,
+          "tweet_count": 28798
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

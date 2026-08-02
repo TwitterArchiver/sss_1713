@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2054526361063313414",
+    "created_at": "2026-05-13T11:37:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T12:37:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054526361063313414"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xxd58213555xxd…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/xxd58213555xxd/status/2054488811531632688",
+          "start": 19,
+          "url": "https://t.co/bbV6KroeGv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054526361063313414",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054488811531632688",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "拿女性感情经历当人格审判挺没意思的。 https://t.co/bbV6KroeGv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2054526361063313414",
+        "created_at": "2026-05-13T11:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T12:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054526361063313414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xxd58213555xxd…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/xxd58213555xxd/status/2054488811531632688",
+              "start": 19,
+              "url": "https://t.co/bbV6KroeGv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054526361063313414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054488811531632688",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拿女性感情经历当人格审判挺没意思的。 https://t.co/bbV6KroeGv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599222472599277569",
+        "conversation_id": "2054438620606742542",
+        "created_at": "2026-05-13T09:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T10:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054488811531632688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1593547850637791233",
+              "start": 0,
+              "username": "didengshengwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054488811531632688",
+        "in_reply_to_user_id": "1593547850637791233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8761,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054438620606742542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@didengshengwu 王菲典型的恋爱脑精神小妹，被男人一哄就能上手的那种，胎都不知道打几个了，这种女人没一点内涵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5799,
+          "following_count": 1042,
+          "like_count": 47296,
+          "listed_count": 18,
+          "media_count": 941,
+          "tweet_count": 8248
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T02:02:14.000Z",
+        "description": "",
+        "id": "1599222472599277569",
+        "name": "xxd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968281266132013057/EaMaCgfR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 252,
+          "like_count": 4004,
+          "listed_count": 9,
+          "media_count": 230,
+          "tweet_count": 3152
+        },
+        "username": "Xxd58213555Xxd",
+        "verified": false
+      }
+    ]
+  }
+}

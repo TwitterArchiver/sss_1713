@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2075495665556173260",
+    "created_at": "2026-07-10T08:21:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T09:21:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075495665556173260"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/snozakisakura/…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/snozakisakura/status/2075068402570596847",
+          "start": 37,
+          "url": "https://t.co/INYALWu5IS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075495665556173260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075068402570596847",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "之前看评论有人说自己奶奶耳朵那边有个豁口，就是被人硬生生拽掉耳环留下的。 https://t.co/INYALWu5IS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 779,
+        "media_key": "3_2075068396346220544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMwftljbIAApYLU.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2075495665556173260",
+        "created_at": "2026-07-10T08:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075495665556173260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/snozakisakura/…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/snozakisakura/status/2075068402570596847",
+              "start": 37,
+              "url": "https://t.co/INYALWu5IS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075495665556173260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075068402570596847",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前看评论有人说自己奶奶耳朵那边有个豁口，就是被人硬生生拽掉耳环留下的。 https://t.co/INYALWu5IS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075068396346220544"
+          ]
+        },
+        "author_id": "1573704119516176384",
+        "conversation_id": "2075068402570596847",
+        "created_at": "2026-07-09T04:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075068402570596847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sPqLaFPJKD",
+              "end": 48,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2075068402570596847/photo/1",
+              "media_key": "3_2075068396346220544",
+              "start": 25,
+              "url": "https://t.co/sPqLaFPJKD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075068402570596847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 60264,
+          "like_count": 757,
+          "quote_count": 6,
+          "reply_count": 103,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "有没有经历过的朋友，说说那个时候真的有那么乱吗？ https://t.co/sPqLaFPJKD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5956,
+          "following_count": 792,
+          "like_count": 54385,
+          "listed_count": 18,
+          "media_count": 1078,
+          "tweet_count": 9425
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "私は地雷系女の子です～🌸 | She/Her | 分享段子和有趣的故事 ｜好看的自拍照都在“亮点”里🍧｜Living today with the hope that tomorrow will be a little better🩷💙",
+        "id": "1573704119516176384",
+        "name": "草莓泡芙🍀",
+        "pinned_tweet_id": "2057809006421545370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070709599590920192/O5wJU2Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95492,
+          "following_count": 1646,
+          "like_count": 6391,
+          "listed_count": 208,
+          "media_count": 260,
+          "tweet_count": 2651
+        },
+        "url": "",
+        "username": "SnozakiSakura",
+        "verified": true
+      }
+    ]
+  }
+}

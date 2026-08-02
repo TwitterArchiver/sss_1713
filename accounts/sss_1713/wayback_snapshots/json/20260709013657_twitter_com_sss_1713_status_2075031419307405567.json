@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2075010556277461039",
+    "created_at": "2026-07-09T01:36:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T02:36:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075031419307405567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1346919998262939653",
+          "start": 0,
+          "username": "wzex8411"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075031419307405567",
+    "in_reply_to_user_id": "1346919998262939653",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075010556277461039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wzex8411 🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075010540343320576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMvrF7Ja4AAoNcW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2075010540330704896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMvrF7GaYAAdUXp.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075010540318130176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMvrF7DagAABMIf.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075010540334915584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMvrF7HaoAAR9IU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2075010556277461039",
+        "created_at": "2026-07-09T01:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T02:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075031419307405567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1346919998262939653",
+              "start": 0,
+              "username": "wzex8411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075031419307405567",
+        "in_reply_to_user_id": "1346919998262939653",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075010556277461039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wzex8411 🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075010540343320576",
+            "3_2075010540330704896",
+            "3_2075010540318130176",
+            "3_2075010540334915584"
+          ]
+        },
+        "author_id": "1346919998262939653",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075010556277461039",
+        "created_at": "2026-07-09T00:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T01:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075010556277461039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P1RCDyPtQ1",
+              "end": 38,
+              "expanded_url": "https://x.com/wzex8411/status/2075010556277461039/photo/1",
+              "media_key": "3_2075010540343320576",
+              "start": 15,
+              "url": "https://t.co/P1RCDyPtQ1"
+            },
+            {
+              "display_url": "pic.x.com/P1RCDyPtQ1",
+              "end": 38,
+              "expanded_url": "https://x.com/wzex8411/status/2075010556277461039/photo/1",
+              "media_key": "3_2075010540330704896",
+              "start": 15,
+              "url": "https://t.co/P1RCDyPtQ1"
+            },
+            {
+              "display_url": "pic.x.com/P1RCDyPtQ1",
+              "end": 38,
+              "expanded_url": "https://x.com/wzex8411/status/2075010556277461039/photo/1",
+              "media_key": "3_2075010540318130176",
+              "start": 15,
+              "url": "https://t.co/P1RCDyPtQ1"
+            },
+            {
+              "display_url": "pic.x.com/P1RCDyPtQ1",
+              "end": 38,
+              "expanded_url": "https://x.com/wzex8411/status/2075010556277461039/photo/1",
+              "media_key": "3_2075010540334915584",
+              "start": 15,
+              "url": "https://t.co/P1RCDyPtQ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075010556277461039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好像終於喝得懂精品豆在幹嘛了 https://t.co/P1RCDyPtQ1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5948,
+          "following_count": 797,
+          "like_count": 54130,
+          "listed_count": 18,
+          "media_count": 1070,
+          "tweet_count": 9379
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-06T20:42:17.000Z",
+        "description": "",
+        "id": "1346919998262939653",
+        "location": "235新北市中和區宜安路118巷42號",
+        "name": "🇯🇵🎌🇳🇫💚🤍屠支大佐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755538303863144448/O7Z8zYPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1865,
+          "following_count": 7435,
+          "like_count": 952223,
+          "listed_count": 14,
+          "media_count": 2277,
+          "tweet_count": 379210
+        },
+        "url": "",
+        "username": "wzex8411",
+        "verified": false
+      }
+    ]
+  }
+}

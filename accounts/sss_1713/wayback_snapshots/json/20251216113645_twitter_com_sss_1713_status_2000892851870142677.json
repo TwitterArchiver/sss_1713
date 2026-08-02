@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1369639427002175488",
+          "name": "The 90s"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1410504549006135296",
+          "name": "Cultural history"
+        }
+      }
+    ],
+    "conversation_id": "2000892851870142677",
+    "created_at": "2025-12-16T11:36:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T12:36:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000892851870142677"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "Chinese Communist Party",
+          "probability": 0.3771,
+          "start": 4,
+          "type": "Other"
+        },
+        {
+          "end": 145,
+          "normalized_text": "Hong Kong",
+          "probability": 0.9704,
+          "start": 137,
+          "type": "Place"
+        },
+        {
+          "end": 163,
+          "normalized_text": "Jimmy Lai",
+          "probability": 0.9663,
+          "start": 155,
+          "type": "Person"
+        },
+        {
+          "end": 251,
+          "normalized_text": "FreeJimmyLai",
+          "probability": 0.4707,
+          "start": 240,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 252,
+          "start": 239,
+          "tag": "FreeJimmyLai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000892851870142677",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "The Chinese Communist Party has tested the limits of global democracy and the rule of law, lying to the world in 1997 and to millions of Hong Kong people. Jimmy Lai must be released—he is a Hongkonger of conscience who will not compromise.#FreeJimmyLai"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1369639427002175488",
+              "name": "The 90s"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1410504549006135296",
+              "name": "Cultural history"
+            }
+          }
+        ],
+        "conversation_id": "2000892851870142677",
+        "created_at": "2025-12-16T11:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T12:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000892851870142677"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "Chinese Communist Party",
+              "probability": 0.3771,
+              "start": 4,
+              "type": "Other"
+            },
+            {
+              "end": 145,
+              "normalized_text": "Hong Kong",
+              "probability": 0.9704,
+              "start": 137,
+              "type": "Place"
+            },
+            {
+              "end": 163,
+              "normalized_text": "Jimmy Lai",
+              "probability": 0.9663,
+              "start": 155,
+              "type": "Person"
+            },
+            {
+              "end": 251,
+              "normalized_text": "FreeJimmyLai",
+              "probability": 0.4707,
+              "start": 240,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 252,
+              "start": 239,
+              "tag": "FreeJimmyLai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000892851870142677",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "The Chinese Communist Party has tested the limits of global democracy and the rule of law, lying to the world in 1997 and to millions of Hong Kong people. Jimmy Lai must be released—he is a Hongkonger of conscience who will not compromise.#FreeJimmyLai"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5774,
+          "following_count": 999,
+          "like_count": 45990,
+          "listed_count": 17,
+          "media_count": 931,
+          "tweet_count": 8008
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

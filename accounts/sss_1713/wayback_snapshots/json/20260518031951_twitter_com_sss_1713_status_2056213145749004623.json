@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056125112999456768"
+      ],
+      "media_source_tweet_id": [
+        "2056125137557103086"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2056213145749004623",
+    "created_at": "2026-05-18T03:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T04:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056213145749004623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1238520105841168386",
+          "start": 3,
+          "username": "cybercxre"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pWMb9YD4cQ",
+          "end": 38,
+          "expanded_url": "https://x.com/cybercxre/status/2056125137557103086/photo/1",
+          "media_key": "3_2056125112999456768",
+          "start": 15,
+          "url": "https://t.co/pWMb9YD4cQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056213145749004623",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 110
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056125137557103086",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cybercxre: https://t.co/pWMb9YD4cQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 891,
+        "media_key": "3_2056125112999456768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIjS5X4XsAApySR.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056125112999456768"
+          ],
+          "media_source_tweet_id": [
+            "2056125137557103086"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2056213145749004623",
+        "created_at": "2026-05-18T03:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T04:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056213145749004623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1238520105841168386",
+              "start": 3,
+              "username": "cybercxre"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pWMb9YD4cQ",
+              "end": 38,
+              "expanded_url": "https://x.com/cybercxre/status/2056125137557103086/photo/1",
+              "media_key": "3_2056125112999456768",
+              "start": 15,
+              "url": "https://t.co/pWMb9YD4cQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056213145749004623",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056125137557103086",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cybercxre: https://t.co/pWMb9YD4cQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056125112999456768"
+          ]
+        },
+        "author_id": "1238520105841168386",
+        "conversation_id": "2056125137557103086",
+        "created_at": "2026-05-17T21:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T22:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056125137557103086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pWMb9YD4cQ",
+              "end": 23,
+              "expanded_url": "https://x.com/cybercxre/status/2056125137557103086/photo/1",
+              "media_key": "3_2056125112999456768",
+              "start": 0,
+              "url": "https://t.co/pWMb9YD4cQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056125137557103086",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 7552,
+          "like_count": 571,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pWMb9YD4cQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5802,
+          "following_count": 751,
+          "like_count": 47590,
+          "listed_count": 18,
+          "media_count": 953,
+          "tweet_count": 8327
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-13T17:40:00.000Z",
+        "description": "plin plin plon",
+        "id": "1238520105841168386",
+        "name": "cybercore",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052839544215556097/AdMZJt62_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95930,
+          "following_count": 27,
+          "like_count": 2185,
+          "listed_count": 128,
+          "media_count": 2102,
+          "tweet_count": 2264
+        },
+        "username": "cybercxre",
+        "verified": true
+      }
+    ]
+  }
+}

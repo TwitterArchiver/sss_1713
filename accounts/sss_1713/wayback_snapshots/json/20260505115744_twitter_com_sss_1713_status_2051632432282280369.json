@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2051632432282280369",
+    "created_at": "2026-05-05T11:57:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T12:57:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051632432282280369"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 20,
+          "tag": "你没看过的六四"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051632432282280369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051622937418170657",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: #你没看过的六四 系列图片展10\n\n“只活了5天的民主女神”\n\n1989年5月29日深夜，中央美术学院等八所北京艺术院校的学生，将民主女神石膏塑像分块，以三轮车悄悄运入天安门广场。这组珍贵的历史照片，记录了她在天安门广场被组装的过程。…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1791,
+        "media_key": "3_2051568290615455746",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHiifZqW8AIWQG_.jpg",
+        "width": 1214
+      },
+      {
+        "height": 1818,
+        "media_key": "3_2051568296500027392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHiifvlWYAAnHRa.jpg",
+        "width": 1211
+      },
+      {
+        "height": 1818,
+        "media_key": "3_2051568302384685059",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHiigFgXIAMEkx_.jpg",
+        "width": 1228
+      },
+      {
+        "height": 1818,
+        "media_key": "3_2051568309263282178",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHiigfIWMAIgjwA.jpg",
+        "width": 1228
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2051632432282280369",
+        "created_at": "2026-05-05T11:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T12:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051632432282280369"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 20,
+              "tag": "你没看过的六四"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051632432282280369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051622937418170657",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: #你没看过的六四 系列图片展10\n\n“只活了5天的民主女神”\n\n1989年5月29日深夜，中央美术学院等八所北京艺术院校的学生，将民主女神石膏塑像分块，以三轮车悄悄运入天安门广场。这组珍贵的历史照片，记录了她在天安门广场被组装的过程。…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051568290615455746",
+            "3_2051568296500027392",
+            "3_2051568302384685059",
+            "3_2051568309263282178"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2051622937418170657",
+        "created_at": "2026-05-05T11:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T12:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051622937418170657"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "你没看过的六四"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qgj04vAap1",
+              "end": 151,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2051622937418170657/photo/1",
+              "media_key": "3_2051568290615455746",
+              "start": 128,
+              "url": "https://t.co/qgj04vAap1"
+            },
+            {
+              "display_url": "pic.x.com/qgj04vAap1",
+              "end": 151,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2051622937418170657/photo/1",
+              "media_key": "3_2051568296500027392",
+              "start": 128,
+              "url": "https://t.co/qgj04vAap1"
+            },
+            {
+              "display_url": "pic.x.com/qgj04vAap1",
+              "end": 151,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2051622937418170657/photo/1",
+              "media_key": "3_2051568302384685059",
+              "start": 128,
+              "url": "https://t.co/qgj04vAap1"
+            },
+            {
+              "display_url": "pic.x.com/qgj04vAap1",
+              "end": 151,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2051622937418170657/photo/1",
+              "media_key": "3_2051568309263282178",
+              "start": 128,
+              "url": "https://t.co/qgj04vAap1"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 175,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2046748319196881376",
+              "start": 152,
+              "url": "https://t.co/4F5ZqSDv0W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051622937418170657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "你没看过的六四"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 669,
+                "id": "20784367",
+                "start": 660,
+                "username": "hrichina"
+              }
+            ]
+          },
+          "text": "#你没看过的六四 系列图片展10\n\n“只活了5天的民主女神”\n\n1989年5月29日深夜，中央美术学院等八所北京艺术院校的学生，将民主女神石膏塑像分块，以三轮车悄悄运入天安门广场。这组珍贵的历史照片，记录了她在天安门广场被组装的过程。\n\n她是怎么诞生的？\n这座高约10米的雕像，由中央美术学院雕塑系、北京电影学院、中央戏剧学院等八所院校共二十多位学生，在中央美术学院工场内仅用四天赶制而成。雕塑内模为塑胶材质，外以石膏灌注。整个雕像分四部分运抵广场，次日拼装完毕，耸立在天安门城楼南300米处，与城楼上方的毛泽东肖像遥遥对望。专制与民主，就这样在天安门广场上，第一次真正地面对面。\n\n她站在那里说了什么？\n揭幕仪式上，八所院校学生代表宣读了民主之神宣言：\"今天在人民的广场，高耸起一尊人民的神像……我们坚信，真正的民主到来之日，我们一定会再来广场，树立起一座雄伟、高大、永远的民主之神像。这一天会到来的。\"\n\n她是如何离开的？\n北京市天安门管理委员会随即发表声明，斥之为\"对国家尊严与民族形象的污辱与践踏\"。人民日报连续三天发文抨击。1989年6月4日凌晨，民主女神像被戒严部队用坦克推倒碾碎，并以摄像机拍下全程，随后在中央电视台播放。她只在天安门广场站了五天。\n\n但她从未真正倒下！\n三十七年来，她的复制品矗立在华盛顿、温哥华、多伦多……她活在每一个不肯忘记的人心中。那些用双手将她从校园秘密运到广场的年轻学生，今天应该已年过半百。他们当年相信\"这一天会到来\"，我们不能让他们白白相信。\n\n真相不该被掩埋，欢迎私信向 @hrichina 投稿您手中的八九六四历史见证。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 15688,
+          "like_count": 129,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046748319196881376",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#你没看过的六四 系列图片展10\n\n“只活了5天的民主女神”\n\n1989年5月29日深夜，中央美术学院等八所北京艺术院校的学生，将民主女神石膏塑像分块，以三轮车悄悄运入天安门广场。这组珍贵的历史照片，记录了她在天安门广场被组装的过程。\n\n她是怎么诞生的？ https://t.co/qgj04vAap1 https://t.co/4F5ZqSDv0W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5806,
+          "following_count": 1035,
+          "like_count": 47392,
+          "listed_count": 18,
+          "media_count": 940,
+          "tweet_count": 8208
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2215427,
+          "following_count": 1041,
+          "like_count": 9467,
+          "listed_count": 8717,
+          "media_count": 46258,
+          "tweet_count": 53350
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

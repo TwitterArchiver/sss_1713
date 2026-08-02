@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2066039319035531744",
+    "created_at": "2026-06-14T07:03:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T08:03:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066053820283822179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2053830970596593664",
+          "start": 0,
+          "username": "smolc123"
+        },
+        {
+          "end": 23,
+          "id": "1646158513540874242",
+          "start": 10,
+          "username": "coynzh512364"
+        },
+        {
+          "end": 39,
+          "id": "2022980140305633280",
+          "start": 24,
+          "username": "orangemeow4545"
+        },
+        {
+          "end": 55,
+          "id": "2003562997604823040",
+          "start": 40,
+          "username": "chengorange777"
+        },
+        {
+          "end": 69,
+          "id": "1229828195031175174",
+          "start": 56,
+          "username": "broccoli3___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066053820283822179",
+    "in_reply_to_user_id": "2053830970596593664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066039319035531744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smolc123 @coynzh512364 @orangemeow4545 @chengorange777 @broccoli3___ oh，咪的天。🙂‍↕️🙂‍↕️"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2066039319035531744].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2066039319035531744",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2066039319035531744"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2066039319035531744",
+        "created_at": "2026-06-14T07:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066053820283822179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053830970596593664",
+              "start": 0,
+              "username": "smolc123"
+            },
+            {
+              "end": 23,
+              "id": "1646158513540874242",
+              "start": 10,
+              "username": "coynzh512364"
+            },
+            {
+              "end": 39,
+              "id": "2022980140305633280",
+              "start": 24,
+              "username": "orangemeow4545"
+            },
+            {
+              "end": 55,
+              "id": "2003562997604823040",
+              "start": 40,
+              "username": "chengorange777"
+            },
+            {
+              "end": 69,
+              "id": "1229828195031175174",
+              "start": 56,
+              "username": "broccoli3___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066053820283822179",
+        "in_reply_to_user_id": "2053830970596593664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066039319035531744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smolc123 @coynzh512364 @orangemeow4545 @chengorange777 @broccoli3___ oh，咪的天。🙂‍↕️🙂‍↕️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5885,
+          "following_count": 761,
+          "like_count": 50838,
+          "listed_count": 18,
+          "media_count": 1022,
+          "tweet_count": 8955
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T13:34:34.000Z",
+        "description": "我是一个分身\n本体：@ForlikOOO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "ForlikOOO"
+              }
+            ]
+          }
+        },
+        "id": "2053830970596593664",
+        "location": "Hanover, Germany",
+        "name": "甜虾终结者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055141163657777152/ogO9h5WL_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 82,
+          "like_count": 1330,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 935
+        },
+        "username": "smolc123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-12T14:29:25.000Z",
+        "description": "梦想是拯救世界🇳🇿只回感兴趣的私信 碎碎念日常 喜欢鲨鱼肌 4i/brat 爱狗人士",
+        "id": "1646158513540874242",
+        "location": "1.88km",
+        "name": "脆皮烤鸭𐃆 ˒˒",
+        "pinned_tweet_id": "1882746843945439662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057512189108563968/roWYuPJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 244,
+          "like_count": 4405,
+          "listed_count": 4,
+          "media_count": 701,
+          "tweet_count": 3137
+        },
+        "username": "coynzh512364",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-15T10:24:03.000Z",
+        "description": "你不喜欢我就拉黑呗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xliang31",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xliang31",
+                "start": 0,
+                "url": "https://t.co/4IPuQPwrwy"
+              }
+            ]
+          }
+        },
+        "id": "2022980140305633280",
+        "location": "想问问题在NGL发",
+        "name": "habitual line stepper",
+        "pinned_tweet_id": "2054830593267880173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044217714122641408/LPVFcRpi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2080,
+          "following_count": 196,
+          "like_count": 10598,
+          "listed_count": 8,
+          "media_count": 395,
+          "tweet_count": 2275
+        },
+        "url": "https://t.co/4IPuQPwrwy",
+        "username": "orangemeow4545",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-23T20:27:16.000Z",
+        "description": "CN/EN. 小桔Orange🍊|gap中|当前在忙自己的副业\n🖤EN音声|非黄推|纯抽象搞笑女\n🩶会预防性拉黑|互关至上原则|欢迎找我私联\n🤍来玩：https://t.co/zMlI8nnTxW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chengorange",
+                "end": 98,
+                "expanded_url": "https://ngl.link/chengorange",
+                "start": 75,
+                "url": "https://t.co/zMlI8nnTxW"
+              }
+            ]
+          }
+        },
+        "id": "2003562997604823040",
+        "location": "超市货架",
+        "name": "小桔不是程子🍊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003567055929499648/4l09gn_W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 263,
+          "like_count": 3223,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1398
+        },
+        "username": "chengorange777",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-18T18:01:30.000Z",
+        "description": "(*^^*)switch | 我都玩🌍online了 我爱咋咋 | 不约 | 号主多重人格随机切 | 无需关注 我发我喜欢的图跟你没关系 | tbc...\n\n#关你屁事#关我屁事#",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oi0ioi0io",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oi0ioi0io",
+                "start": 0,
+                "url": "https://t.co/R2aZ8y3200"
+              }
+            ]
+          }
+        },
+        "id": "1229828195031175174",
+        "location": "🌍online",
+        "name": ":3",
+        "pinned_tweet_id": "2063219878639923385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061083760767180800/S5hG02cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 290,
+          "like_count": 21758,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 678
+        },
+        "url": "https://t.co/R2aZ8y3200",
+        "username": "broccoli3___",
+        "verified": false
+      }
+    ]
+  }
+}

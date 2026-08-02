@@ -1,0 +1,457 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2033021711839629664",
+    "created_at": "2026-03-15T03:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T04:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033021711839629664"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xinwendiaocha/…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/xinwendiaocha/status/2032824839275442674",
+          "start": 35,
+          "url": "https://t.co/86xovcJtWT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033021711839629664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032824839275442674",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "推上的傻逼明知道说的不是那回事还故意给墙内的主播按个帽子给人整封号。 https://t.co/86xovcJtWT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 236400,
+        "height": 2400,
+        "media_key": "13_2032824648967270407",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032824648967270407/img/n8WHFLVrs7kLtZ_L.jpg",
+        "public_metrics": {
+          "view_count": 157416
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032824648967270407/vid/avc1/480x1066/B9l1wW7RJcINgsXp.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032824648967270407/vid/avc1/320x710/2Z22-JL6T336eo0y.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032824648967270407/vid/avc1/720x1600/J5hHU-jJcCYU_Bqu.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032824648967270407/vid/avc1/1080x2400/ovTrvMCtw2WVi5Za.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032824648967270407/pl/nvzXXichajBjJC5w.m3u8?v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2033021711839629664",
+        "created_at": "2026-03-15T03:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T04:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033021711839629664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xinwendiaocha/…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/xinwendiaocha/status/2032824839275442674",
+              "start": 35,
+              "url": "https://t.co/86xovcJtWT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033021711839629664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032824839275442674",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "推上的傻逼明知道说的不是那回事还故意给墙内的主播按个帽子给人整封号。 https://t.co/86xovcJtWT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032824648967270407"
+          ]
+        },
+        "author_id": "1332712954047856641",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2032824839275442674",
+        "created_at": "2026-03-14T14:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T15:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032824839275442674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HN6ox5EEnK",
+              "end": 139,
+              "expanded_url": "https://x.com/xinwendiaocha/status/2032824839275442674/video/1",
+              "media_key": "13_2032824648967270407",
+              "start": 116,
+              "url": "https://t.co/HN6ox5EEnK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032824839275442674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 336026,
+          "like_count": 879,
+          "quote_count": 2,
+          "reply_count": 139,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "勇敢博主在直播中批评习近平及中共官员，视频被全网封杀。希望他注意安全。\n\n“老百姓一百来斤，你200多斤就是不对！你闺女穿迪奥，老百姓冻死了就是不对！你吃鱼子酱、吃日本料理、吃金枪鱼，老百姓连米饭和肉汤都吃不上就是不对！怎么的！” https://t.co/HN6ox5EEnK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5826,
+          "following_count": 1015,
+          "like_count": 46655,
+          "listed_count": 18,
+          "media_count": 938,
+          "tweet_count": 8093
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-28T15:48:33.000Z",
+        "description": "追踪新闻，调查真相！ 投稿、商务合作邮箱：charles811203@gmail.com threads:https://t.co/vWaJQJxkd5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "threads.com/@caijingshujuk…",
+                "end": 76,
+                "expanded_url": "https://www.threads.com/@caijingshujuku?igshid=NTc4MTIwNjQ2YQ==",
+                "start": 53,
+                "url": "https://t.co/vWaJQJxkd5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@caijinglengya…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@caijinglengyan?si=c8_FduFeV9Xu3KnO",
+                "start": 0,
+                "url": "https://t.co/7tHKzRuGFb"
+              }
+            ]
+          }
+        },
+        "id": "1332712954047856641",
+        "name": "新闻调查",
+        "pinned_tweet_id": "2031227446062985561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1347827975383760896/6aV1UyGk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632981,
+          "following_count": 140,
+          "like_count": 4106,
+          "listed_count": 1656,
+          "media_count": 38896,
+          "tweet_count": 59341
+        },
+        "url": "https://t.co/7tHKzRuGFb",
+        "username": "xinwendiaocha",
+        "verified": true
+      }
+    ]
+  }
+}

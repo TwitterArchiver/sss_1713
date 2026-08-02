@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2077199558828843406",
+    "created_at": "2026-07-15T04:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T05:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077243966748319830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1835139537418567680",
+          "start": 0,
+          "username": "WellingtonPixel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077243966748319830",
+    "in_reply_to_user_id": "1835139537418567680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077199558828843406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WellingtonPixel 有点太极端。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 608,
+        "media_key": "3_2077199555683143680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNOx_YwX0AAnfUy.jpg",
+        "width": 608
+      },
+      {
+        "height": 368,
+        "media_key": "3_2077199556375171072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNOx_bVXUAAB5_C.jpg",
+        "width": 415
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2077199558828843406",
+        "created_at": "2026-07-15T04:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T05:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077243966748319830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1835139537418567680",
+              "start": 0,
+              "username": "WellingtonPixel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077243966748319830",
+        "in_reply_to_user_id": "1835139537418567680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077199558828843406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WellingtonPixel 有点太极端。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077199555683143680",
+            "3_2077199556375171072"
+          ]
+        },
+        "author_id": "1835139537418567680",
+        "conversation_id": "2077199558828843406",
+        "created_at": "2026-07-15T01:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T02:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077199558828843406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CLMp10Ow99",
+              "end": 35,
+              "expanded_url": "https://x.com/WellingtonPixel/status/2077199558828843406/photo/1",
+              "media_key": "3_2077199555683143680",
+              "start": 12,
+              "url": "https://t.co/CLMp10Ow99"
+            },
+            {
+              "display_url": "pic.x.com/CLMp10Ow99",
+              "end": 35,
+              "expanded_url": "https://x.com/WellingtonPixel/status/2077199558828843406/photo/1",
+              "media_key": "3_2077199556375171072",
+              "start": 12,
+              "url": "https://t.co/CLMp10Ow99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077199558828843406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请找出图片中人物不同点 https://t.co/CLMp10Ow99"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5984,
+          "following_count": 794,
+          "like_count": 54702,
+          "listed_count": 18,
+          "media_count": 1090,
+          "tweet_count": 9515
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-15T02:12:33.000Z",
+        "description": "The three men I admire most—\nthe Father, Son, and the Holy Ghost, \nthey caught the last train for the coast.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/TheRtHonWP",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/TheRtHonWP",
+                "start": 0,
+                "url": "https://t.co/D6JVLpj8Fx"
+              }
+            ]
+          }
+        },
+        "id": "1835139537418567680",
+        "location": "Den Haag, Nederland",
+        "name": "𝑾𝒆𝒍𝒍𝒊𝒏𝒈𝒕𝒐𝒏等日落",
+        "pinned_tweet_id": "2076714319891329397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070119866296619008/2wrMAa5P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2722,
+          "following_count": 2666,
+          "like_count": 22694,
+          "listed_count": 3,
+          "media_count": 470,
+          "tweet_count": 4998
+        },
+        "url": "https://t.co/D6JVLpj8Fx",
+        "username": "WellingtonPixel",
+        "verified": true
+      }
+    ]
+  }
+}

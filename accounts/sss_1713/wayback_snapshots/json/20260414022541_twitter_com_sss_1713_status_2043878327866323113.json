@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2043878327866323113",
+    "created_at": "2026-04-14T02:25:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T03:25:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043878327866323113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1669608992719654917",
+          "start": 3,
+          "username": "CryptoMaster_70"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043878327866323113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043605084836401463",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CryptoMaster_70: 日本有個詞叫「過勞死」。\n英文沒有對應的翻譯。\n\n因為這個概念本身就很日本。\n但韓國有「과로사」。\n中國有「996猝死」。\n台灣有「爆肝」。\n\n只有東亞文化圈\n需要為「工作到死」發明專門的詞。\n西方人不是不累。\n是他們不覺得累到死\n是一…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2043878327866323113",
+        "created_at": "2026-04-14T02:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T03:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043878327866323113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1669608992719654917",
+              "start": 3,
+              "username": "CryptoMaster_70"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043878327866323113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043605084836401463",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CryptoMaster_70: 日本有個詞叫「過勞死」。\n英文沒有對應的翻譯。\n\n因為這個概念本身就很日本。\n但韓國有「과로사」。\n中國有「996猝死」。\n台灣有「爆肝」。\n\n只有東亞文化圈\n需要為「工作到死」發明專門的詞。\n西方人不是不累。\n是他們不覺得累到死\n是一…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669608992719654917",
+        "conversation_id": "2043605084836401463",
+        "created_at": "2026-04-13T08:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T09:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043605084836401463"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043605084836401463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 28320,
+          "like_count": 771,
+          "quote_count": 4,
+          "reply_count": 15,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "日本有個詞叫「過勞死」。\n英文沒有對應的翻譯。\n\n因為這個概念本身就很日本。\n但韓國有「과로사」。\n中國有「996猝死」。\n台灣有「爆肝」。\n\n只有東亞文化圈\n需要為「工作到死」發明專門的詞。\n西方人不是不累。\n是他們不覺得累到死\n是一種值得命名的現象。\n這不是語言問題。是價值觀問題。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5756,
+          "following_count": 1024,
+          "like_count": 47029,
+          "listed_count": 18,
+          "media_count": 938,
+          "tweet_count": 8140
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T07:33:40.000Z",
+        "description": "Master in MIS.\nStock, Crypto trader, ex-SW engineer. \n以前是碼農，後來是操盤手，現在是全職小丑 \n在透明的區塊鏈裡，你我都在裸奔\n\n大號沒了, 穢土轉生再出發",
+        "id": "1669608992719654917",
+        "location": "moon",
+        "name": "Master | 最強打野(穢土轉生)",
+        "pinned_tweet_id": "1774076142313668661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748982365152784384/vxAfgPmS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7107,
+          "following_count": 1005,
+          "like_count": 3324,
+          "listed_count": 52,
+          "media_count": 2271,
+          "tweet_count": 8632
+        },
+        "username": "CryptoMaster_70",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064662693282451456"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2064635772033204425",
+    "created_at": "2026-06-10T10:55:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T11:55:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064662701553676630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2055666047215345664",
+          "start": 0,
+          "username": "lebronXvvljg"
+        },
+        {
+          "end": 30,
+          "id": "1696518778799190016",
+          "start": 14,
+          "username": "xixiong78951197"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P7jRXfjO3q",
+          "end": 59,
+          "expanded_url": "https://x.com/sss_1713/status/2064662701553676630/photo/1",
+          "media_key": "3_2064662693282451456",
+          "start": 36,
+          "url": "https://t.co/P7jRXfjO3q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064662701553676630",
+    "in_reply_to_user_id": "2055666047215345664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064662482124472812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lebronXvvljg @xixiong78951197 第一定律 https://t.co/P7jRXfjO3q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2064662693282451456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcnx84aEAAgYfp.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064662693282451456"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2064635772033204425",
+        "created_at": "2026-06-10T10:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064662701553676630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2055666047215345664",
+              "start": 0,
+              "username": "lebronXvvljg"
+            },
+            {
+              "end": 30,
+              "id": "1696518778799190016",
+              "start": 14,
+              "username": "xixiong78951197"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P7jRXfjO3q",
+              "end": 59,
+              "expanded_url": "https://x.com/sss_1713/status/2064662701553676630/photo/1",
+              "media_key": "3_2064662693282451456",
+              "start": 36,
+              "url": "https://t.co/P7jRXfjO3q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064662701553676630",
+        "in_reply_to_user_id": "2055666047215345664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064662482124472812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lebronXvvljg @xixiong78951197 第一定律 https://t.co/P7jRXfjO3q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055666047215345664",
+        "conversation_id": "2064635772033204425",
+        "created_at": "2026-06-10T10:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064662482124472812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            },
+            {
+              "end": 26,
+              "id": "1696518778799190016",
+              "start": 10,
+              "username": "xixiong78951197"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064662482124472812",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064661005804933474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 @xixiong78951197 我脑子里是操你那个臭逼的画面"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5883,
+          "following_count": 755,
+          "like_count": 50097,
+          "listed_count": 18,
+          "media_count": 1006,
+          "tweet_count": 8831
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T15:06:27.000Z",
+        "description": "",
+        "id": "2055666047215345664",
+        "name": "Askiss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056695033529843712/TcbxC_qb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 82,
+          "like_count": 427,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 65
+        },
+        "username": "lebronXvvljg",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-29T13:42:59.000Z",
+        "description": "熟悉我的都知道我是资深包蜜。Fucking shameless and wicked Chinks",
+        "id": "1696518778799190016",
+        "name": "xixiong是习龘龘忠实的包蜜(大阿亚图版)",
+        "pinned_tweet_id": "1992417493085045013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047685014117384192/6PNnU4cn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6693,
+          "following_count": 1411,
+          "like_count": 237,
+          "listed_count": 43,
+          "media_count": 12904,
+          "tweet_count": 43873
+        },
+        "username": "xixiong78951197",
+        "verified": false
+      }
+    ]
+  }
+}

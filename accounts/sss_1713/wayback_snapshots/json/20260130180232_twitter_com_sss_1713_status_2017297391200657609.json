@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2017297391200657609",
+    "created_at": "2026-01-30T18:02:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T19:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017297391200657609"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/da_lao82161/st…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/da_lao82161/status/2017251788676894962",
+          "start": 46,
+          "url": "https://t.co/XSGbKjwS9X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017297391200657609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017251788676894962",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你的名字去掉u和最后一个字母比较合适，把唐氏综合征病人当成骂人的标签，这是你反驳我的方式？ https://t.co/XSGbKjwS9X"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2017297391200657609",
+        "created_at": "2026-01-30T18:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T19:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017297391200657609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/da_lao82161/st…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/da_lao82161/status/2017251788676894962",
+              "start": 46,
+              "url": "https://t.co/XSGbKjwS9X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017297391200657609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017251788676894962",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你的名字去掉u和最后一个字母比较合适，把唐氏综合征病人当成骂人的标签，这是你反驳我的方式？ https://t.co/XSGbKjwS9X"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776131831617957888",
+        "conversation_id": "2017082179415589346",
+        "created_at": "2026-01-30T15:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T16:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017251788676894962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017251788676894962",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017082179415589346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 你真是🍬的没边"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5808,
+          "following_count": 1004,
+          "like_count": 46164,
+          "listed_count": 18,
+          "media_count": 933,
+          "tweet_count": 8048
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-05T06:16:56.000Z",
+        "description": "",
+        "id": "1776131831617957888",
+        "name": "Subs",
+        "pinned_tweet_id": "1791690054961877224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873584736427290624/nWIYughO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 13,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 71
+        },
+        "username": "da_lao82161",
+        "verified": false
+      }
+    ]
+  }
+}

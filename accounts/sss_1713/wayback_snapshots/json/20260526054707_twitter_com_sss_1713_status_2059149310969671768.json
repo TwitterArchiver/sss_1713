@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2059127785646702660",
+    "created_at": "2026-05-26T05:47:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T06:47:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059149310969671768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2056215337113382912",
+          "start": 0,
+          "username": "FreeX2222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059149310969671768",
+    "in_reply_to_user_id": "2056215337113382912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059128985997697355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FreeX2222 好恶心，别理这种人，他急死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059128976816418816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJN-5QnbMAArbEk.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2059127785646702660",
+        "created_at": "2026-05-26T05:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T06:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059149310969671768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2056215337113382912",
+              "start": 0,
+              "username": "FreeX2222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059149310969671768",
+        "in_reply_to_user_id": "2056215337113382912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059128985997697355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreeX2222 好恶心，别理这种人，他急死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059128976816418816"
+          ]
+        },
+        "author_id": "2056215337113382912",
+        "conversation_id": "2059127785646702660",
+        "created_at": "2026-05-26T04:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059128985997697355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rx76Q3JMJS",
+              "end": 51,
+              "expanded_url": "https://x.com/FreeX2222/status/2059128985997697355/photo/1",
+              "media_key": "3_2059128976816418816",
+              "start": 28,
+              "url": "https://t.co/Rx76Q3JMJS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059128985997697355",
+        "in_reply_to_user_id": "2056215337113382912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 553,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059127785646702660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个河北小伙还教唆人割腕 毫无人性 好意思把我挂出来？ https://t.co/Rx76Q3JMJS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5848,
+          "following_count": 751,
+          "like_count": 48276,
+          "listed_count": 18,
+          "media_count": 977,
+          "tweet_count": 8485
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-18T03:29:24.000Z",
+        "description": "Love forever\n大名李佳慧 不用开我户籍了\n@FreeXfocus",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "FreeXfocus"
+              }
+            ]
+          }
+        },
+        "id": "2056215337113382912",
+        "location": "2m",
+        "name": "FreeX",
+        "pinned_tweet_id": "2058535859302121688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056939857994514432/q0yUkIMa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6137,
+          "following_count": 19,
+          "like_count": 662,
+          "listed_count": 5,
+          "media_count": 47,
+          "tweet_count": 147
+        },
+        "username": "FreeX2222",
+        "verified": false
+      }
+    ]
+  }
+}

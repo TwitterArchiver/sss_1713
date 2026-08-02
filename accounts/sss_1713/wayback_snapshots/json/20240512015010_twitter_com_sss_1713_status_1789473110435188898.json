@@ -1,0 +1,212 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1789473110435188898",
+    "created_at": "2024-05-12T01:50:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-12T02:50:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1789473110435188898"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Yura8964/statu…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/Yura8964/status/1789312268439802078",
+          "start": 14,
+          "url": "https://t.co/K3bZNYxmg7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789473110435188898",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789312268439802078",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "《习主席或为中国最大支黑》 https://t.co/K3bZNYxmg7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1789473110435188898",
+        "created_at": "2024-05-12T01:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-12T02:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789473110435188898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yura8964/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Yura8964/status/1789312268439802078",
+              "start": 14,
+              "url": "https://t.co/K3bZNYxmg7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789473110435188898",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789312268439802078",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《习主席或为中国最大支黑》 https://t.co/K3bZNYxmg7"
+      },
+      {
+        "attachments": {},
+        "author_id": "1426789547954737153",
+        "conversation_id": "1789312268439802078",
+        "created_at": "2024-05-11T15:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-11T16:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789312268439802078"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1789312268439802078",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 13727,
+          "like_count": 406,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "虚假的支黑：每天在网络口嗨做小丑\n\n真正的支黑：\n上学时让你调休、让你上早晚自习、让你接受衡水式教育、让你不停地内卷，毕业后让你加班、让你卖命、夺走你的双休、拖欠你的工资、把你当奴隶使唤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "锈叶🍂",
+        "pinned_tweet_id": "1665009561508495368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5507,
+          "following_count": 1006,
+          "like_count": 46747,
+          "listed_count": 19,
+          "tweet_count": 7519
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-15T06:19:30.000Z",
+        "description": "淡推｜☮️🏳️‍🌈🇺🇦🇵🇸🇮🇱🌹 / Love From 🇰🇷Korea #FreeAssangeNOW #StandWithUkraine #InternetFreedom / 会回B，被B别叫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 37,
+                "tag": "FreeAssangeNOW"
+              },
+              {
+                "end": 70,
+                "start": 53,
+                "tag": "StandWithUkraine"
+              },
+              {
+                "end": 87,
+                "start": 71,
+                "tag": "InternetFreedom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HatimiCat",
+                "end": 23,
+                "expanded_url": "https://t.me/HatimiCat",
+                "start": 0,
+                "url": "https://t.co/JFB2u2Qd2i"
+              }
+            ]
+          }
+        },
+        "id": "1426789547954737153",
+        "location": "대한민국",
+        "name": "柑橘味波奇🖤💙",
+        "pinned_tweet_id": "1775003261189431308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778690234815041536/UO0dUPi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39987,
+          "following_count": 868,
+          "like_count": 26786,
+          "listed_count": 152,
+          "tweet_count": 13968
+        },
+        "url": "https://t.co/JFB2u2Qd2i",
+        "username": "Yura8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2072198017160298681",
+    "created_at": "2026-07-01T05:58:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T06:58:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072198017160298681"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/etoileeee9/sta…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/etoileeee9/status/2071846524146053216",
+          "start": 34,
+          "url": "https://t.co/BOIgCQb2z3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072198017160298681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071846524146053216",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真的过两天会去一趟韩国，别让我遇到这种事求求了。🙂‍↕️🙂‍↕️ https://t.co/BOIgCQb2z3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1752,
+        "media_key": "3_2071846253579616256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMCtMMXWQAAGr8n.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1750,
+        "media_key": "3_2071846281459232768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMCtN0OXcAA7QGA.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1656,
+        "media_key": "3_2071846315298840576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMCtPySW4AA0YAf.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1666,
+        "media_key": "3_2071846341223813120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMCtRS3WkAAQGJk.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2072198017160298681",
+        "created_at": "2026-07-01T05:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072198017160298681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/etoileeee9/sta…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/etoileeee9/status/2071846524146053216",
+              "start": 34,
+              "url": "https://t.co/BOIgCQb2z3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072198017160298681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071846524146053216",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的过两天会去一趟韩国，别让我遇到这种事求求了。🙂‍↕️🙂‍↕️ https://t.co/BOIgCQb2z3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071846253579616256",
+            "3_2071846281459232768",
+            "3_2071846315298840576",
+            "3_2071846341223813120"
+          ]
+        },
+        "author_id": "1511638389501853700",
+        "conversation_id": "2071846524146053216",
+        "created_at": "2026-06-30T06:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T07:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071846524146053216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iIRvprKBQT",
+              "end": 189,
+              "expanded_url": "https://x.com/etoileeee9/status/2071846524146053216/photo/1",
+              "media_key": "3_2071846253579616256",
+              "start": 166,
+              "url": "https://t.co/iIRvprKBQT"
+            },
+            {
+              "display_url": "pic.x.com/iIRvprKBQT",
+              "end": 189,
+              "expanded_url": "https://x.com/etoileeee9/status/2071846524146053216/photo/1",
+              "media_key": "3_2071846281459232768",
+              "start": 166,
+              "url": "https://t.co/iIRvprKBQT"
+            },
+            {
+              "display_url": "pic.x.com/iIRvprKBQT",
+              "end": 189,
+              "expanded_url": "https://x.com/etoileeee9/status/2071846524146053216/photo/1",
+              "media_key": "3_2071846315298840576",
+              "start": 166,
+              "url": "https://t.co/iIRvprKBQT"
+            },
+            {
+              "display_url": "pic.x.com/iIRvprKBQT",
+              "end": 189,
+              "expanded_url": "https://x.com/etoileeee9/status/2071846524146053216/photo/1",
+              "media_key": "3_2071846341223813120",
+              "start": 166,
+              "url": "https://t.co/iIRvprKBQT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071846524146053216",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {},
+          "text": "진짜 나라 망신 개오지네ㅋㅋㅋ 대만 팬이 우버 불렀는데 7만 원 나오는 거리를 택시 기사가 69만 원으로 긁어버림\n\n비행기 시간 없는 외국인 붙잡고 우버 결제 못 하게 한 뒤 차량 단말기로 결제시키고, 체크인 카운터까지 따라가 재촉했다는 게 넘  빡침\n여행 와서 저런 일 당하면 한국 기억이 뭐로 남겠냐"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 493,
+          "impression_count": 1065679,
+          "like_count": 5964,
+          "quote_count": 143,
+          "reply_count": 168,
+          "retweet_count": 1687
+        },
+        "reply_settings": "everyone",
+        "text": "진짜 나라 망신 개오지네ㅋㅋㅋ 대만 팬이 우버 불렀는데 7만 원 나오는 거리를 택시 기사가 69만 원으로 긁어버림\n\n비행기 시간 없는 외국인 붙잡고 우버 결제 못 하게 한 뒤 차량 단말기로 결제시키고, 체크인 카운터까지 따라가 재촉했다는 게 넘  빡침\n여행 와서 저런 일 당하면 한국 기억이 뭐로 https://t.co/iIRvprKBQT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5920,
+          "following_count": 782,
+          "like_count": 53010,
+          "listed_count": 18,
+          "media_count": 1057,
+          "tweet_count": 9275
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-06T09:34:18.000Z",
+        "description": "블루레이디🩵🤙\n일상계 수제트는 하이라이트에\n생물학적 여성만 청원은 링크\n📩광고/협찬 DM\netoileeee9@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20567…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/status/2056727922053091431",
+                "start": 0,
+                "url": "https://t.co/4noO7V9LUb"
+              }
+            ]
+          }
+        },
+        "id": "1511638389501853700",
+        "location": "블루레이디",
+        "name": "🌱사실은 호랑이였던 쑥쑥🫰",
+        "pinned_tweet_id": "2067084169554071561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064693042091794432/ySfDmRgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 788,
+          "like_count": 6619,
+          "listed_count": 6,
+          "media_count": 197,
+          "tweet_count": 6487
+        },
+        "url": "https://t.co/4noO7V9LUb",
+        "username": "etoileeee9",
+        "verified": true
+      }
+    ]
+  }
+}

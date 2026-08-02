@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1993343121317675113",
+    "created_at": "2025-11-25T15:36:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T16:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993343121317675113"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bright_hawkins…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/bright_hawkins/status/1993216644693606483",
+          "start": 24,
+          "url": "https://t.co/IapUjXVUo9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993343121317675113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993216644693606483",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "魏京生没参加六四啊，那个时候早两年已经在监狱了 https://t.co/IapUjXVUo9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1030,
+        "media_key": "3_1993216504020574208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6lT2ZKXoAA3G8R.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1993343121317675113",
+        "created_at": "2025-11-25T15:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T16:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993343121317675113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bright_hawkins…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/bright_hawkins/status/1993216644693606483",
+              "start": 24,
+              "url": "https://t.co/IapUjXVUo9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993343121317675113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993216644693606483",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "魏京生没参加六四啊，那个时候早两年已经在监狱了 https://t.co/IapUjXVUo9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993216504020574208"
+          ]
+        },
+        "author_id": "706255081",
+        "conversation_id": "1993216644693606483",
+        "created_at": "2025-11-25T07:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T08:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993216644693606483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c6LGRP2ZWZ",
+              "end": 60,
+              "expanded_url": "https://x.com/bright_hawkins/status/1993216644693606483/photo/1",
+              "media_key": "3_1993216504020574208",
+              "start": 37,
+              "url": "https://t.co/c6LGRP2ZWZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993216644693606483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 738,
+          "like_count": 26,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讲真，我觉得邓小平当年还是手软了，应该把魏京生脑袋放在坦克履带下面碾爆。 https://t.co/c6LGRP2ZWZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5825,
+          "following_count": 999,
+          "like_count": 45814,
+          "listed_count": 17,
+          "media_count": 927,
+          "tweet_count": 7932
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-20T02:32:52.000Z",
+        "description": "Youtube 非著名宠物与情感博主。\n\n一個北美，日本，波斯，埃及，希臘，羅馬，凱爾特，日耳曼文化的歷史小白。希望與大家共度歷史的美好瞬間。\n٩(๑❛ᴗ❛๑)۶\n 一個寵物，情感，游戲愛好者。在這個孤獨的時代，希望我能用一顆溫暖的心，給受到傷害的你一片小小的避風港。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCiuWF…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCiuWF2q7A5EZIPtHqPkPACQ",
+                "start": 0,
+                "url": "https://t.co/Jc3yeYbZef"
+              }
+            ]
+          }
+        },
+        "id": "706255081",
+        "location": "Canada Calgary",
+        "name": "落日海盗",
+        "pinned_tweet_id": "1822294715263603160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/630229867842269186/U7dxvNcp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2316,
+          "following_count": 108,
+          "like_count": 1097,
+          "listed_count": 19,
+          "media_count": 4396,
+          "tweet_count": 9231
+        },
+        "url": "https://t.co/Jc3yeYbZef",
+        "username": "bright_hawkins",
+        "verified": false
+      }
+    ]
+  }
+}

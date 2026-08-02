@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947230405599678464"
+      ],
+      "media_source_tweet_id": [
+        "1947230413144940961"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Nagoya",
+          "id": "859408970473066496",
+          "name": "Nagoya"
+        }
+      }
+    ],
+    "conversation_id": "1947747116161302661",
+    "created_at": "2025-07-22T19:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T20:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947747116161302661"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "名古屋",
+          "probability": 0.9052,
+          "start": 28,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882434792136040448",
+          "start": 3,
+          "username": "poyopypy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7YV1Azmkba",
+          "end": 68,
+          "expanded_url": "https://x.com/poyopypy/status/1947230413144940961/photo/1",
+          "media_key": "3_1947230405599678464",
+          "start": 45,
+          "url": "https://t.co/7YV1Azmkba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947747116161302661",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947230413144940961",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @poyopypy: 彼氏に振られたから出戻り。\n名古屋民仲良くしてくださいT^T https://t.co/7YV1Azmkba"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1695,
+        "media_key": "3_1947230405599678464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwXzvK2b0AA_-m9.jpg",
+        "width": 1251
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947230405599678464"
+          ],
+          "media_source_tweet_id": [
+            "1947230413144940961"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Nagoya",
+              "id": "859408970473066496",
+              "name": "Nagoya"
+            }
+          }
+        ],
+        "conversation_id": "1947747116161302661",
+        "created_at": "2025-07-22T19:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T20:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947747116161302661"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "名古屋",
+              "probability": 0.9052,
+              "start": 28,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882434792136040448",
+              "start": 3,
+              "username": "poyopypy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7YV1Azmkba",
+              "end": 68,
+              "expanded_url": "https://x.com/poyopypy/status/1947230413144940961/photo/1",
+              "media_key": "3_1947230405599678464",
+              "start": 45,
+              "url": "https://t.co/7YV1Azmkba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947747116161302661",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947230413144940961",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @poyopypy: 彼氏に振られたから出戻り。\n名古屋民仲良くしてくださいT^T https://t.co/7YV1Azmkba"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947230405599678464"
+          ]
+        },
+        "author_id": "1882434792136040448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Nagoya",
+              "id": "859408970473066496",
+              "name": "Nagoya"
+            }
+          }
+        ],
+        "conversation_id": "1947230413144940961",
+        "created_at": "2025-07-21T09:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T10:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947230413144940961"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "名古屋",
+              "probability": 0.9046,
+              "start": 14,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7YV1Azmkba",
+              "end": 54,
+              "expanded_url": "https://x.com/poyopypy/status/1947230413144940961/photo/1",
+              "media_key": "3_1947230405599678464",
+              "start": 31,
+              "url": "https://t.co/7YV1Azmkba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947230413144940961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 323,
+          "impression_count": 198263,
+          "like_count": 3209,
+          "quote_count": 8,
+          "reply_count": 56,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "彼氏に振られたから出戻り。\n名古屋民仲良くしてくださいT^T https://t.co/7YV1Azmkba"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJo6NX"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5785,
+          "following_count": 1051,
+          "like_count": 45961,
+          "listed_count": 18,
+          "media_count": 940,
+          "tweet_count": 7694
+        },
+        "url": "https://t.co/Z7RPjJo6NX",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T14:26:53.000Z",
+        "description": "20 名古屋に生息してます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/poyopypy00?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/poyopypy00?igsh=dzNuNDEzN2swc3lv&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/1uozPLBeah"
+              }
+            ]
+          }
+        },
+        "id": "1882434792136040448",
+        "location": "なごや",
+        "name": "ﾗﾝ",
+        "pinned_tweet_id": "1947230413144940961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947229239238934528/B1UotAT-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4151,
+          "following_count": 4,
+          "like_count": 1587,
+          "listed_count": 9,
+          "media_count": 2,
+          "tweet_count": 38
+        },
+        "url": "https://t.co/1uozPLBeah",
+        "username": "poyopypy",
+        "verified": false
+      }
+    ]
+  }
+}

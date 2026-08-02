@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2069740523120906267",
+    "created_at": "2026-06-24T11:59:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T12:59:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069752238386598153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1741063508102627328",
+          "start": 0,
+          "username": "kitty068_ly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069752238386598153",
+    "in_reply_to_user_id": "1741063508102627328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069740523120906267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kitty068_ly 贱不贱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 889,
+        "media_key": "3_2069740512626810880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkyB8BbIAA_U7I.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2069740523120906267",
+        "created_at": "2026-06-24T11:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069752238386598153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1741063508102627328",
+              "start": 0,
+              "username": "kitty068_ly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069752238386598153",
+        "in_reply_to_user_id": "1741063508102627328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069740523120906267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitty068_ly 贱不贱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069740512626810880"
+          ]
+        },
+        "author_id": "1741063508102627328",
+        "conversation_id": "2069740523120906267",
+        "created_at": "2026-06-24T11:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069740523120906267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZZZx9YorCU",
+              "end": 84,
+              "expanded_url": "https://x.com/kitty068_ly/status/2069740523120906267/photo/1",
+              "media_key": "3_2069740512626810880",
+              "start": 61,
+              "url": "https://t.co/ZZZx9YorCU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069740523120906267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 542,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么有人通过发我所有社交平台都发过一次的照片的方式和我朋友证明我会背刺？有些人是不是有女体恐惧症啊 其中的逻辑关系是？ https://t.co/ZZZx9YorCU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5908,
+          "following_count": 774,
+          "like_count": 52286,
+          "listed_count": 18,
+          "media_count": 1042,
+          "tweet_count": 9166
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T11:47:58.000Z",
+        "description": "你喜欢我我喜欢你你对我好我对你好/帮我爱的一切人事物说话/queer/时不时失踪欢迎私联\n会用@Eric52802090721 说一些可爱可怕的事 喜欢我的不会伤害我的朋友来找我玩吧陌生人不行\n老婆妈妈主人爸爸老公哥哥姐姐@dngyng169770781",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "Eric52802090721"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "dngyng169770781"
+              }
+            ]
+          }
+        },
+        "id": "1741063508102627328",
+        "location": "South Park",
+        "name": "易子而食",
+        "pinned_tweet_id": "2036628825292091673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019851159041949696/qYHRz2xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1807,
+          "following_count": 599,
+          "like_count": 11104,
+          "listed_count": 2,
+          "media_count": 342,
+          "tweet_count": 6268
+        },
+        "url": "",
+        "username": "kitty068_ly",
+        "verified": false
+      }
+    ]
+  }
+}

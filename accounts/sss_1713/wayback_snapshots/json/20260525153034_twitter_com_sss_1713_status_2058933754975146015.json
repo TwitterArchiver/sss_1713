@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2058933754975146015",
+    "created_at": "2026-05-25T15:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T16:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058933754975146015"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tangeorange/st…",
+          "end": 109,
+          "expanded_url": "https://twitter.com/tangeorange/status/2058698880808894608",
+          "start": 86,
+          "url": "https://t.co/CPY7KgJmSw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058933754975146015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058698880808894608",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "灾难新闻很多时候会进入一种很现实的传播困境，大家知道它很严重，但不会愿意长期停留在那种情绪里。\n矿难、爆炸、工伤这种新闻，往往只有“震惊的一瞬间”，之后很快就被算法淹没。 https://t.co/CPY7KgJmSw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2058933754975146015",
+        "created_at": "2026-05-25T15:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058933754975146015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tangeorange/st…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/tangeorange/status/2058698880808894608",
+              "start": 86,
+              "url": "https://t.co/CPY7KgJmSw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058933754975146015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058698880808894608",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "灾难新闻很多时候会进入一种很现实的传播困境，大家知道它很严重，但不会愿意长期停留在那种情绪里。\n矿难、爆炸、工伤这种新闻，往往只有“震惊的一瞬间”，之后很快就被算法淹没。 https://t.co/CPY7KgJmSw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806849464386416640",
+        "conversation_id": "2058698880808894608",
+        "created_at": "2026-05-24T23:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T00:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058698880808894608"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058698880808894608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 63235,
+          "like_count": 217,
+          "quote_count": 3,
+          "reply_count": 96,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识:\n我父母到现在都不知道山西的事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5836,
+          "following_count": 750,
+          "like_count": 48247,
+          "listed_count": 18,
+          "media_count": 978,
+          "tweet_count": 8475
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T00:37:43.000Z",
+        "description": "胡乱发言警告！⚠\n15 y.o.\n尝试不死 | \nbff @maoxian1527 @kxk1388574 @tangeror @mxyzcdb | \n喜欢编程，AI/ML，DIY，meme，写文章，做游戏，做产品，最近在折腾加密货币。(但是日常帖子居多)| \n我不是精神病。|\n微信 orgudev 🚧35",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "kxk1388574"
+              },
+              {
+                "end": 63,
+                "start": 54,
+                "username": "tangeror"
+              },
+              {
+                "end": 72,
+                "start": 64,
+                "username": "mxyzcdb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "orangestd.cn",
+                "end": 23,
+                "expanded_url": "http://orangestd.cn",
+                "start": 0,
+                "url": "https://t.co/NqG6Q8kFY7"
+              }
+            ]
+          }
+        },
+        "id": "1806849464386416640",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "橙子",
+        "pinned_tweet_id": "2055354468758429860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056276486991368192/tMDwIk9K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2931,
+          "following_count": 2710,
+          "like_count": 8457,
+          "listed_count": 4,
+          "media_count": 1157,
+          "tweet_count": 7981
+        },
+        "url": "https://t.co/NqG6Q8kFY7",
+        "username": "tangeorange",
+        "verified": true
+      }
+    ]
+  }
+}

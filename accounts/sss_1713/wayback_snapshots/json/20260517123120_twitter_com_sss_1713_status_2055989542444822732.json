@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2055989542444822732",
+    "created_at": "2026-05-17T12:31:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T13:31:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055989542444822732"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cngcngyngy3899…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/cngcngyngy38992/status/2055964805098561632",
+          "start": 28,
+          "url": "https://t.co/WdWLdad0XL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055989542444822732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055964805098561632",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看转发量和评论数就能知道部分人还是有比较清醒的认知的。 https://t.co/WdWLdad0XL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055964788493258752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhBFQjaEAAKfPP.jpg",
+        "width": 1133
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2055989542444822732",
+        "created_at": "2026-05-17T12:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055989542444822732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cngcngyngy3899…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/cngcngyngy38992/status/2055964805098561632",
+              "start": 28,
+              "url": "https://t.co/WdWLdad0XL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055989542444822732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055964805098561632",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看转发量和评论数就能知道部分人还是有比较清醒的认知的。 https://t.co/WdWLdad0XL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055964788493258752"
+          ]
+        },
+        "author_id": "1660637215335014402",
+        "conversation_id": "2055964805098561632",
+        "created_at": "2026-05-17T10:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055964805098561632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vIJciMLgJH",
+              "end": 23,
+              "expanded_url": "https://x.com/cngcngyngy38992/status/2055964805098561632/photo/1",
+              "media_key": "3_2055964788493258752",
+              "start": 0,
+              "url": "https://t.co/vIJciMLgJH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055964805098561632",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 2,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vIJciMLgJH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5803,
+          "following_count": 751,
+          "like_count": 47542,
+          "listed_count": 18,
+          "media_count": 950,
+          "tweet_count": 8317
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T13:23:04.000Z",
+        "description": "07｜二次元｜喜歡拿推上畫師的圖｜不精日不支黑｜不定時發評分系列｜互fo私信",
+        "id": "1660637215335014402",
+        "location": "SIDE 6",
+        "name": "瓜子Online_瑪秋Mode 🇹🇼",
+        "pinned_tweet_id": "1960011339298156743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036995723485646848/o86XMGv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4250,
+          "following_count": 4384,
+          "like_count": 15196,
+          "listed_count": 19,
+          "media_count": 1239,
+          "tweet_count": 6386
+        },
+        "username": "cngcngyngy38992",
+        "verified": false
+      }
+    ]
+  }
+}

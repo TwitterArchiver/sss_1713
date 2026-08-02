@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065328050468999168"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2065327642019234088",
+    "created_at": "2026-06-12T06:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T07:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065328058450788820"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zYJdFH3fmM",
+          "end": 42,
+          "expanded_url": "https://x.com/sss_1713/status/2065328058450788820/photo/1",
+          "media_key": "3_2065328050468999168",
+          "start": 19,
+          "url": "https://t.co/zYJdFH3fmM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065328058450788820",
+    "in_reply_to_user_id": "1254605353838231553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065327642019234088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第一定律☝️“我上推就是为了看黄片” https://t.co/zYJdFH3fmM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2065328050468999168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmE61ja0AAaXwF.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2622,
+        "media_key": "3_2065327623241404416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmEh-AbEAAwJqE.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065328050468999168"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2065327642019234088",
+        "created_at": "2026-06-12T06:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065328058450788820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zYJdFH3fmM",
+              "end": 42,
+              "expanded_url": "https://x.com/sss_1713/status/2065328058450788820/photo/1",
+              "media_key": "3_2065328050468999168",
+              "start": 19,
+              "url": "https://t.co/zYJdFH3fmM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065328058450788820",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065327642019234088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一定律☝️“我上推就是为了看黄片” https://t.co/zYJdFH3fmM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065327623241404416"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2065327642019234088",
+        "created_at": "2026-06-12T06:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065327642019234088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dq1DsAvcOc",
+              "end": 74,
+              "expanded_url": "https://x.com/sss_1713/status/2065327642019234088/photo/1",
+              "media_key": "3_2065327623241404416",
+              "start": 51,
+              "url": "https://t.co/Dq1DsAvcOc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065327642019234088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很久没有人跑来私信骂我了，这群人总以为选择不理他们就是他们赢了，说话带个哈基米只会显的自己有点蠢😂😂 https://t.co/Dq1DsAvcOc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5885,
+          "following_count": 759,
+          "like_count": 50535,
+          "listed_count": 18,
+          "media_count": 1013,
+          "tweet_count": 8903
+        },
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      }
+    ],
+    "conversation_id": "2082728881233305671",
+    "created_at": "2026-07-30T07:23:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T08:23:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082728881233305671"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sss_1713/statu…",
+          "end": 150,
+          "expanded_url": "https://twitter.com/sss_1713/status/2082726041739788525",
+          "start": 127,
+          "url": "https://t.co/x1QJYhvAwW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082728881233305671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082726041739788525",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "通过交流之后，这些基层法轮功成员是不觉得自己劝别人三退是政治活动，因为她们觉得法轮功作为一个“佛教组织”，做的事情是“宗教性”的，而非“政治性”的。并且认为三退是为了在末日审判中避免受到惩罚，即使客观上她们是在做有政治倾向的诉求和活动，但主观上并不是。 https://t.co/x1QJYhvAwW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          }
+        ],
+        "conversation_id": "2082728881233305671",
+        "created_at": "2026-07-30T07:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T08:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082728881233305671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/sss_1713/status/2082726041739788525",
+              "start": 127,
+              "url": "https://t.co/x1QJYhvAwW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082728881233305671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082726041739788525",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "通过交流之后，这些基层法轮功成员是不觉得自己劝别人三退是政治活动，因为她们觉得法轮功作为一个“佛教组织”，做的事情是“宗教性”的，而非“政治性”的。并且认为三退是为了在末日审判中避免受到惩罚，即使客观上她们是在做有政治倾向的诉求和活动，但主观上并不是。 https://t.co/x1QJYhvAwW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          }
+        ],
+        "conversation_id": "2082726041739788525",
+        "created_at": "2026-07-30T07:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T08:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082726041739788525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/sss_1713/status/2082664241207865374",
+              "start": 135,
+              "url": "https://t.co/rCWNOsLMd4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082726041739788525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082664241207865374",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得轮子最差劲的地方就是对中国旅行团里的小孩子灌输他们三退的理念以及那些历史。因为小孩子就是小孩子，是天真的、无邪的，在国外跟他们讲这些东西不用负任何责任，但是他们回国之后呢？他们不明白成年人世界里的险恶和各种弯弯绕绕，但会因为讲述国外的经历而在国内付出相应的代价。 https://t.co/rCWNOsLMd4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5994,
+          "following_count": 797,
+          "like_count": 55513,
+          "listed_count": 18,
+          "media_count": 1095,
+          "tweet_count": 9618
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

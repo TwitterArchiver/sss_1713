@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2055519397515763841",
+    "created_at": "2026-05-16T09:15:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T10:15:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055577949034991774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2045038782798503936",
+          "start": 0,
+          "username": "bohebinbin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055577949034991774",
+    "in_reply_to_user_id": "2045038782798503936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055519397515763841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bohebinbin 看到他们说青受音爆猪率最高了。因为脂肪压迫声带…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2055519397515763841",
+        "created_at": "2026-05-16T09:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055577949034991774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045038782798503936",
+              "start": 0,
+              "username": "bohebinbin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055577949034991774",
+        "in_reply_to_user_id": "2045038782798503936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055519397515763841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bohebinbin 看到他们说青受音爆猪率最高了。因为脂肪压迫声带…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045038782798503936",
+        "conversation_id": "2055519397515763841",
+        "created_at": "2026-05-16T05:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T06:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055519397515763841"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055519397515763841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 563,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们刷到语音厅运营把声优的照片发出来 的那个视频了吗\n每一个都好丑好恶心，看上去臭臭的….\n我现在不能直视男喘了….\n好害怕屏幕后面是一个肥头大耳的油腻中年男人……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5802,
+          "following_count": 746,
+          "like_count": 47454,
+          "listed_count": 18,
+          "media_count": 947,
+          "tweet_count": 8295
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T07:17:59.000Z",
+        "description": "可以叫我冰冰呀｜08女高｜brat 🐾｜记录我的生活｜你的电子女友｜私信只回🚪！｜感谢投喂！⬆️⬆️",
+        "id": "2045038782798503936",
+        "location": "绿🚪188｜288｜520｜1314",
+        "name": "薄荷冰冰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053862107947696128/u1_1RViT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 63,
+          "like_count": 2834,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 411
+        },
+        "username": "bohebinbin",
+        "verified": false
+      }
+    ]
+  }
+}

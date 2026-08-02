@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2074121045636755824",
+    "created_at": "2026-07-06T13:19:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T14:19:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074121045636755824"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2074032693504082027",
+          "start": 9,
+          "url": "https://t.co/rFyDS61wqD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074121045636755824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074032693504082027",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为受灾群众祈祷🙏 https://t.co/rFyDS61wqD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19100,
+        "height": 640,
+        "media_key": "13_2074032616031096832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074032616031096832/img/gMB0wAxItaEinbB_.jpg",
+        "public_metrics": {
+          "view_count": 51655
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074032616031096832/vid/avc1/320x562/0vSOoW4UU4Nh0O9u.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074032616031096832/vid/avc1/364x640/RJ_ooGJcK6_q_1nN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074032616031096832/pl/3U12OfJVOp1JG3in.m3u8?v=cfc"
+          }
+        ],
+        "width": 364
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2074121045636755824",
+        "created_at": "2026-07-06T13:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T14:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074121045636755824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2074032693504082027",
+              "start": 9,
+              "url": "https://t.co/rFyDS61wqD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074121045636755824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074032693504082027",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为受灾群众祈祷🙏 https://t.co/rFyDS61wqD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074032616031096832"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2074032693504082027",
+        "created_at": "2026-07-06T07:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074032693504082027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pBlGvL8eaq",
+              "end": 46,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2074032693504082027/video/1",
+              "media_key": "13_2074032616031096832",
+              "start": 23,
+              "url": "https://t.co/pBlGvL8eaq"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2074029998751822257",
+              "start": 47,
+              "url": "https://t.co/JPoyxstElh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074032693504082027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 167,
+          "impression_count": 158569,
+          "like_count": 796,
+          "quote_count": 17,
+          "reply_count": 173,
+          "retweet_count": 145
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074029998751822257",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "广西横州洪水\n网友拍摄到，一群被洪水卷走的人 https://t.co/pBlGvL8eaq https://t.co/JPoyxstElh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5937,
+          "following_count": 789,
+          "like_count": 53792,
+          "listed_count": 18,
+          "media_count": 1059,
+          "tweet_count": 9312
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2244282,
+          "following_count": 1072,
+          "like_count": 9784,
+          "listed_count": 8810,
+          "media_count": 49900,
+          "tweet_count": 57098
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

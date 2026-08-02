@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1989217543102558353",
+    "created_at": "2025-11-15T05:42:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T06:42:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989569598014808141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1344198449625923586",
+          "start": 0,
+          "username": "FXSWicked"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989569598014808141",
+    "in_reply_to_user_id": "1344198449625923586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989372949137408473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FXSWicked 🥲前些年互动还蛮多的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1989217543102558353",
+        "created_at": "2025-11-15T05:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T06:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989569598014808141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1344198449625923586",
+              "start": 0,
+              "username": "FXSWicked"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989569598014808141",
+        "in_reply_to_user_id": "1344198449625923586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989372949137408473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FXSWicked 🥲前些年互动还蛮多的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1344198449625923586",
+        "conversation_id": "1989217543102558353",
+        "created_at": "2025-11-14T16:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T17:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989372949137408473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989372949137408473",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989217543102558353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 毒狗好死没什么好说的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5826,
+          "following_count": 986,
+          "like_count": 45704,
+          "listed_count": 17,
+          "media_count": 925,
+          "tweet_count": 7841
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-30T08:28:10.000Z",
+        "description": "永远都会是个建州人/锤批",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12339.gov.cn/report",
+                "end": 23,
+                "expanded_url": "https://www.12339.gov.cn/report",
+                "start": 0,
+                "url": "https://t.co/qxPpgimFYh"
+              }
+            ]
+          }
+        },
+        "id": "1344198449625923586",
+        "name": "建州姜维客",
+        "pinned_tweet_id": "1376059056595509248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1577845045633642496/_vAohRBe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 213,
+          "like_count": 85037,
+          "listed_count": 8,
+          "media_count": 2045,
+          "tweet_count": 9964
+        },
+        "url": "https://t.co/qxPpgimFYh",
+        "username": "FXSWicked",
+        "verified": false
+      }
+    ]
+  }
+}

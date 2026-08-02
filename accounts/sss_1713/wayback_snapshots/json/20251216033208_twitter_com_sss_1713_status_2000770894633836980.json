@@ -1,0 +1,463 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Yvette Cooper",
+          "id": "857228369317855234",
+          "name": "Yvette Cooper"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Yvette Cooper",
+          "id": "857228369317855234",
+          "name": "Yvette Cooper"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Yvette Cooper",
+          "id": "857228369317855234",
+          "name": "Yvette Cooper"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2000770894633836980",
+    "created_at": "2025-12-16T03:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T04:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000770894633836980"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "UK",
+          "probability": 0.9765,
+          "start": 24,
+          "type": "Place"
+        },
+        {
+          "end": 63,
+          "normalized_text": "Jimmy Lai",
+          "probability": 0.9784,
+          "start": 55,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "328634628",
+          "start": 3,
+          "username": "YvetteCooperMP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000770894633836980",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 491
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000476711427686896",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YvetteCooperMP: The UK condemns the prosecution of Jimmy Lai and calls for his immediate release. \n\nMy statement on the verdict today;…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2000476703475269638",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Me9nwWgAYlUO_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Yvette Cooper",
+              "id": "857228369317855234",
+              "name": "Yvette Cooper"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Yvette Cooper",
+              "id": "857228369317855234",
+              "name": "Yvette Cooper"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Yvette Cooper",
+              "id": "857228369317855234",
+              "name": "Yvette Cooper"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2000770894633836980",
+        "created_at": "2025-12-16T03:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T04:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000770894633836980"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "UK",
+              "probability": 0.9765,
+              "start": 24,
+              "type": "Place"
+            },
+            {
+              "end": 63,
+              "normalized_text": "Jimmy Lai",
+              "probability": 0.9784,
+              "start": 55,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "328634628",
+              "start": 3,
+              "username": "YvetteCooperMP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000770894633836980",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 491
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000476711427686896",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YvetteCooperMP: The UK condemns the prosecution of Jimmy Lai and calls for his immediate release. \n\nMy statement on the verdict today;…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000476703475269638"
+          ]
+        },
+        "author_id": "328634628",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Yvette Cooper",
+              "id": "857228369317855234",
+              "name": "Yvette Cooper"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Yvette Cooper",
+              "id": "857228369317855234",
+              "name": "Yvette Cooper"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Yvette Cooper",
+              "id": "857228369317855234",
+              "name": "Yvette Cooper"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2000476711427686896",
+        "created_at": "2025-12-15T08:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T09:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000476711427686896"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "UK",
+              "probability": 0.9793,
+              "start": 4,
+              "type": "Place"
+            },
+            {
+              "end": 43,
+              "normalized_text": "Jimmy Lai",
+              "probability": 0.9741,
+              "start": 35,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rHttaOuktB",
+              "end": 142,
+              "expanded_url": "https://x.com/YvetteCooperMP/status/2000476711427686896/photo/1",
+              "media_key": "3_2000476703475269638",
+              "start": 119,
+              "url": "https://t.co/rHttaOuktB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000476711427686896",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 136,
+          "impression_count": 430395,
+          "like_count": 1780,
+          "quote_count": 293,
+          "reply_count": 2078,
+          "retweet_count": 491
+        },
+        "reply_settings": "everyone",
+        "text": "The UK condemns the prosecution of Jimmy Lai and calls for his immediate release. \n\nMy statement on the verdict today; https://t.co/rHttaOuktB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5777,
+          "following_count": 999,
+          "like_count": 45986,
+          "listed_count": 17,
+          "media_count": 931,
+          "tweet_count": 8004
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-03T18:59:51.000Z",
+        "description": "UK Foreign Secretary and Labour MP for Pontefract, Castleford & Knottingley",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yvettecooper.com",
+                "end": 23,
+                "expanded_url": "http://www.yvettecooper.com",
+                "start": 0,
+                "url": "https://t.co/cqqbeT3NJT"
+              }
+            ]
+          }
+        },
+        "id": "328634628",
+        "location": "Castleford, West Yorkshire",
+        "name": "Yvette Cooper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/598844620651495424/WrQ1Je4g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450541,
+          "following_count": 941,
+          "like_count": 81,
+          "listed_count": 2794,
+          "media_count": 1324,
+          "tweet_count": 12372
+        },
+        "url": "https://t.co/cqqbeT3NJT",
+        "username": "YvetteCooperMP",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1989523167770017992",
+    "created_at": "2025-11-15T02:37:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T03:37:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989523167770017992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "89421672",
+          "start": 3,
+          "username": "USA_China_Talk"
+        }
+      ],
+      "urls": [
+        {
+          "description": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION This week, our Nation observes Anti-Communism Week, a solemn remembrance of the",
+          "display_url": "whitehouse.gov/presidential-a…",
+          "end": 129,
+          "expanded_url": "https://www.whitehouse.gov/presidential-actions/2025/11/anti-communism-week-2025/",
+          "images": [
+            {
+              "height": 628,
+              "url": "https://pbs.twimg.com/news_img/1989466203367350272/f4Io5SSq?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1989466203367350272/f4Io5SSq?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 106,
+          "status": 200,
+          "title": "Anti-Communism Week, 2025",
+          "unwound_url": "https://www.whitehouse.gov/presidential-actions/2025/11/anti-communism-week-2025/",
+          "url": "https://t.co/z0P86MUcPK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989523167770017992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 581
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989234343894741155",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @USA_China_Talk: 感谢特朗普总统设立首个反共产主义周（Anti-Communism Week），以重申我们坚定不移地反对共产主义毒害的国家承诺。没有任何政府体制能取代自由人民的意志和良知。\nhttps://t.co/z0P86MUcPK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1989523167770017992",
+        "created_at": "2025-11-15T02:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T03:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989523167770017992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "89421672",
+              "start": 3,
+              "username": "USA_China_Talk"
+            }
+          ],
+          "urls": [
+            {
+              "description": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION This week, our Nation observes Anti-Communism Week, a solemn remembrance of the",
+              "display_url": "whitehouse.gov/presidential-a…",
+              "end": 129,
+              "expanded_url": "https://www.whitehouse.gov/presidential-actions/2025/11/anti-communism-week-2025/",
+              "images": [
+                {
+                  "height": 628,
+                  "url": "https://pbs.twimg.com/news_img/1989466203367350272/f4Io5SSq?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1989466203367350272/f4Io5SSq?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 106,
+              "status": 200,
+              "title": "Anti-Communism Week, 2025",
+              "unwound_url": "https://www.whitehouse.gov/presidential-actions/2025/11/anti-communism-week-2025/",
+              "url": "https://t.co/z0P86MUcPK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989523167770017992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 581
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989234343894741155",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @USA_China_Talk: 感谢特朗普总统设立首个反共产主义周（Anti-Communism Week），以重申我们坚定不移地反对共产主义毒害的国家承诺。没有任何政府体制能取代自由人民的意志和良知。\nhttps://t.co/z0P86MUcPK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "89421672",
+        "conversation_id": "1989234343894741155",
+        "created_at": "2025-11-14T07:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T08:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989234343894741155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION This week, our Nation observes Anti-Communism Week, a solemn remembrance of the",
+              "display_url": "whitehouse.gov/presidential-a…",
+              "end": 109,
+              "expanded_url": "https://www.whitehouse.gov/presidential-actions/2025/11/anti-communism-week-2025/",
+              "images": [
+                {
+                  "height": 628,
+                  "url": "https://pbs.twimg.com/news_img/1989466203367350272/f4Io5SSq?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1989466203367350272/f4Io5SSq?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 86,
+              "status": 200,
+              "title": "Anti-Communism Week, 2025",
+              "unwound_url": "https://www.whitehouse.gov/presidential-actions/2025/11/anti-communism-week-2025/",
+              "url": "https://t.co/z0P86MUcPK"
+            },
+            {
+              "display_url": "x.com/StateDept/stat…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/StateDept/status/1988987401226842596",
+              "start": 110,
+              "url": "https://t.co/CdKLfxSPfL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989234343894741155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 215,
+          "impression_count": 463261,
+          "like_count": 2864,
+          "quote_count": 70,
+          "reply_count": 437,
+          "retweet_count": 581
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988987401226842596",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感谢特朗普总统设立首个反共产主义周（Anti-Communism Week），以重申我们坚定不移地反对共产主义毒害的国家承诺。没有任何政府体制能取代自由人民的意志和良知。\nhttps://t.co/z0P86MUcPK https://t.co/CdKLfxSPfL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5826,
+          "following_count": 986,
+          "like_count": 45703,
+          "listed_count": 17,
+          "media_count": 925,
+          "tweet_count": 7840
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-12T10:55:22.000Z",
+        "description": "欢迎来到美国驻华使领馆的“推特”平台！本帐号使用条款可在以下链接找到：https://t.co/7fIbxnfm9K 有时候，我们的内容会将关注者定向到非美国政府网站，此处包含的链接仅供参考，不一定代表美国政府或美国国务院观点或背书。关注庞德伟(David Perdue)大使： @USAmbChina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 140,
+                "username": "USAmbChina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ow.ly/T3EO50OxjR8",
+                "end": 58,
+                "expanded_url": "http://ow.ly/T3EO50OxjR8",
+                "start": 35,
+                "url": "https://t.co/7fIbxnfm9K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "china.usembassy-china.org.cn",
+                "end": 23,
+                "expanded_url": "https://china.usembassy-china.org.cn/",
+                "start": 0,
+                "url": "https://t.co/EJ5I77rVGG"
+              }
+            ]
+          }
+        },
+        "id": "89421672",
+        "location": "China",
+        "name": "美国驻华使领馆 U.S. Mission to China",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713839270769618944/eLoK1MFM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1678147,
+          "following_count": 169,
+          "like_count": 12,
+          "listed_count": 4236,
+          "media_count": 3733,
+          "tweet_count": 20116
+        },
+        "url": "https://t.co/EJ5I77rVGG",
+        "username": "USA_China_Talk",
+        "verified": true
+      }
+    ]
+  }
+}

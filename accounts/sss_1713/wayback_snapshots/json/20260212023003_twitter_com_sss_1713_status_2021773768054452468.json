@@ -1,0 +1,449 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      }
+    ],
+    "conversation_id": "2021773768054452468",
+    "created_at": "2026-02-12T02:30:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T03:30:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021773768054452468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021773768054452468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 597
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021048979832672320",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: BBC纪录片《黎智英失去自由前的最后访问》\n在采访中，当记者问他是否设想过，生活在家中与身处监狱之间的差别。\n黎智英回答：\n「在家里，这只是安稳平静地活着。\n但如果我在监狱里，我就是有意义地活着。」\n\n在入狱前，黎智英曾被人问起：“你为什…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 685406,
+        "height": 360,
+        "media_key": "13_2021034520078950400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2021034520078950400/img/Fn95N8jXdBvkIvxu.jpg",
+        "public_metrics": {
+          "view_count": 113164
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021034520078950400/vid/avc1/480x270/IeoQz0iIYlt8xWJM.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021034520078950400/vid/avc1/640x360/rcOZm1arlWfL9LNb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2021034520078950400/pl/6lST-CLqEjGu9IOU.m3u8"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2021773768054452468",
+        "created_at": "2026-02-12T02:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T03:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021773768054452468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021773768054452468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 597
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021048979832672320",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: BBC纪录片《黎智英失去自由前的最后访问》\n在采访中，当记者问他是否设想过，生活在家中与身处监狱之间的差别。\n黎智英回答：\n「在家里，这只是安稳平静地活着。\n但如果我在监狱里，我就是有意义地活着。」\n\n在入狱前，黎智英曾被人问起：“你为什…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021034520078950400"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2021048979832672320",
+        "created_at": "2026-02-10T02:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T03:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021048979832672320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HatDI2AaHw",
+              "end": 168,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2021048979832672320/video/1",
+              "media_key": "13_2021034520078950400",
+              "start": 145,
+              "url": "https://t.co/HatDI2AaHw"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2020685936565326305",
+              "start": 169,
+              "url": "https://t.co/FAhdopHQiZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021048979832672320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "BBC纪录片《黎智英失去自由前的最后访问》\n在采访中，当记者问他是否设想过，生活在家中与身处监狱之间的差别。\n黎智英回答：\n「在家里，这只是安稳平静地活着。\n但如果我在监狱里，我就是有意义地活着。」\n\n在入狱前，黎智英曾被人问起：“你为什么不逃走？你是个有钱人，肯定拥有飞机和一切资源。”\n他回答说：“我做不到。”\n他完全可以选择抽身而退、一走了之，但他没有。\n\n2020年6月，黎智英在被捕前接受法新社采访时所言：\n「我两手空空来到香港，所得一切都归于香港之自由，如今感恩得以生命回报自由。 」\n宁鸣而生，不默而死。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 425,
+          "impression_count": 394090,
+          "like_count": 3077,
+          "quote_count": 29,
+          "reply_count": 150,
+          "retweet_count": 597
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020685936565326305",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "BBC纪录片《黎智英失去自由前的最后访问》\n在采访中，当记者问他是否设想过，生活在家中与身处监狱之间的差别。\n黎智英回答：\n「在家里，这只是安稳平静地活着。\n但如果我在监狱里，我就是有意义地活着。」\n\n在入狱前，黎智英曾被人问起：“你为什么不逃走？你是个有钱人，肯定拥有飞机和一切资源。” https://t.co/HatDI2AaHw https://t.co/FAhdopHQiZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5848,
+          "following_count": 1004,
+          "like_count": 46427,
+          "listed_count": 18,
+          "media_count": 935,
+          "tweet_count": 8066
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192135,
+          "following_count": 1015,
+          "like_count": 8926,
+          "listed_count": 8562,
+          "media_count": 41437,
+          "tweet_count": 48432
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

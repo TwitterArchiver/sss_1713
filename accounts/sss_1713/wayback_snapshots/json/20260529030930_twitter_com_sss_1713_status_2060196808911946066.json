@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2060196808911946066",
+    "created_at": "2026-05-29T03:09:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T04:09:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060196808911946066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2935630340",
+          "start": 3,
+          "username": "Q0S_Rimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060196808911946066",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12828
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059585561447580149",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Q0S_Rimu: ︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n　　　　　お使いの端末から\n          \"しあわせ\"が検出されました\n\n           これを見た全ての人に\n   たくさんしあわせが訪れますように\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2060196808911946066",
+        "created_at": "2026-05-29T03:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060196808911946066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2935630340",
+              "start": 3,
+              "username": "Q0S_Rimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060196808911946066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12828
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059585561447580149",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Q0S_Rimu: ︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n　　　　　お使いの端末から\n          \"しあわせ\"が検出されました\n\n           これを見た全ての人に\n   たくさんしあわせが訪れますように\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2935630340",
+        "conversation_id": "2059585561447580149",
+        "created_at": "2026-05-27T10:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059585561447580149"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059585561447580149",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3377,
+          "impression_count": 2764268,
+          "like_count": 134554,
+          "quote_count": 467,
+          "reply_count": 361,
+          "retweet_count": 12828
+        },
+        "reply_settings": "everyone",
+        "text": "︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n　　　　　お使いの端末から\n          \"しあわせ\"が検出されました\n\n           これを見た全ての人に\n   たくさんしあわせが訪れますように\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5855,
+          "following_count": 750,
+          "like_count": 48575,
+          "listed_count": 18,
+          "media_count": 982,
+          "tweet_count": 8568
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-19T03:35:45.000Z",
+        "description": "歌を歌っています。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCcZGB…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCcZGBzs2eed0sgmN-BcQQ3A",
+                "start": 0,
+                "url": "https://t.co/YbSHKgGNNf"
+              }
+            ]
+          }
+        },
+        "id": "2935630340",
+        "name": "神",
+        "pinned_tweet_id": "2008829283578589364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006314736926023680/cGeyEHpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66213,
+          "following_count": 43797,
+          "like_count": 23237,
+          "listed_count": 242,
+          "media_count": 3203,
+          "tweet_count": 27249
+        },
+        "url": "https://t.co/YbSHKgGNNf",
+        "username": "Q0S_Rimu",
+        "verified": false
+      }
+    ]
+  }
+}

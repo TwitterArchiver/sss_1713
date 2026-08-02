@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2056730597905842564",
+    "created_at": "2026-05-19T16:03:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T17:03:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056767793723236628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1497184178147774472",
+          "start": 0,
+          "username": "WeineawskiEX"
+        },
+        {
+          "end": 29,
+          "id": "1464319347736911877",
+          "start": 14,
+          "username": "sugihara_tatuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056767793723236628",
+    "in_reply_to_user_id": "1497184178147774472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056735221731770447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WeineawskiEX @sugihara_tatuo 太猎奇以至于以为是p的😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2056730597905842564",
+        "created_at": "2026-05-19T16:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056767793723236628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1497184178147774472",
+              "start": 0,
+              "username": "WeineawskiEX"
+            },
+            {
+              "end": 29,
+              "id": "1464319347736911877",
+              "start": 14,
+              "username": "sugihara_tatuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056767793723236628",
+        "in_reply_to_user_id": "1497184178147774472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056735221731770447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WeineawskiEX @sugihara_tatuo 太猎奇以至于以为是p的😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497184178147774472",
+        "conversation_id": "2056730597905842564",
+        "created_at": "2026-05-19T13:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056735221731770447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1464319347736911877",
+              "start": 0,
+              "username": "sugihara_tatuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056735221731770447",
+        "in_reply_to_user_id": "1464319347736911877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056730597905842564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sugihara_tatuo ……这个不是P的吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2056686933950996682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5804,
+          "following_count": 747,
+          "like_count": 47751,
+          "listed_count": 18,
+          "media_count": 962,
+          "tweet_count": 8364
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-25T12:20:17.000Z",
+        "description": "Defend our way of life/\n每日播报俄乌战争新闻/\n锁推的关注我一律block/\n孝子们别找了亚速钢铁厂的大鱼就是我/\n粉蛆、绿白、蓝脑、DS份子勿扰\n\n另外，我会平等辱骂所有看不惯的人",
+        "id": "1497184178147774472",
+        "location": "2077红军村遗迹",
+        "name": "埃里克奥尔森上将归来，笑看鹅孝子土崩瓦解，黄/皇鹅被送上绞刑架之日即将到来👊🇺🇸🔥",
+        "pinned_tweet_id": "2052753594139676709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772269169947594752/tvkHAqr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4962,
+          "following_count": 3880,
+          "like_count": 146111,
+          "listed_count": 39,
+          "media_count": 3938,
+          "tweet_count": 62242
+        },
+        "username": "WeineawskiEX",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-26T19:45:30.000Z",
+        "description": "斃れずば止まじ。邪惡目田狗 退步保守逼 有神論渣滓 無恥死川黑。President of @enchenia。\n語言：漢/英/日/阿/西/波/拉。\n歷史架空作品「子夜之后」https://t.co/uE3gW318D2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "enchenia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitter.com/sugihara_tatuo…",
+                "end": 109,
+                "expanded_url": "https://twitter.com/sugihara_tatuo/status/1604130969434279936?s=19",
+                "start": 86,
+                "url": "https://t.co/uE3gW318D2"
+              }
+            ]
+          }
+        },
+        "id": "1464319347736911877",
+        "name": "杉原 辰雄 ☭⃠🌸⛩️ （不定期退隱）",
+        "pinned_tweet_id": "1604130969434279936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045448471986180097/uMpwJ8KP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5591,
+          "following_count": 783,
+          "like_count": 157280,
+          "listed_count": 33,
+          "media_count": 1736,
+          "tweet_count": 16400
+        },
+        "username": "sugihara_tatuo",
+        "verified": false
+      }
+    ]
+  }
+}

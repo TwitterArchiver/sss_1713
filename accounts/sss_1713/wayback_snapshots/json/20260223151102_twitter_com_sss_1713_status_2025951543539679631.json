@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2025951543539679631",
+    "created_at": "2026-02-23T15:11:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T16:11:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025951543539679631"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zaobaosg/statu…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/zaobaosg/status/2025866262207754500",
+          "start": 42,
+          "url": "https://t.co/YmEoJLaVva"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025951543539679631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025866262207754500",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "按理说，不应该啊，她爸爸看得还算清楚，但也不是那么清楚，怎么到女儿这儿就糊涂了呢。 https://t.co/YmEoJLaVva"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2025951543539679631",
+        "created_at": "2026-02-23T15:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T16:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025951543539679631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zaobaosg/statu…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/zaobaosg/status/2025866262207754500",
+              "start": 42,
+              "url": "https://t.co/YmEoJLaVva"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025951543539679631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025866262207754500",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "按理说，不应该啊，她爸爸看得还算清楚，但也不是那么清楚，怎么到女儿这儿就糊涂了呢。 https://t.co/YmEoJLaVva"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "39941478",
+        "conversation_id": "2025866262207754500",
+        "created_at": "2026-02-23T09:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T10:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025866262207754500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "香港壹传媒集团创始人黎智英女儿黎采致函中国冬奥会冠军谷爱凌，希望她能通过自身的影响力，让中国大陆释放自己的父亲。",
+              "display_url": "zaobao.com.sg/news/china/sto…",
+              "end": 80,
+              "expanded_url": "https://www.zaobao.com.sg/news/china/story20260223-8624928?utm_medium=Social&utm_source=Twitter#Echobox=1771834030",
+              "start": 57,
+              "status": 200,
+              "title": "黎智英女儿吁谷爱凌发挥影响力助父亲获释",
+              "unwound_url": "https://www.zaobao.com.sg/news/china/story20260223-8624928?utm_medium=Social&utm_source=Twitter#Echobox=1771834030",
+              "url": "https://t.co/HSZl5nVyeV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025866262207754500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 151140,
+          "like_count": 238,
+          "quote_count": 28,
+          "reply_count": 365,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "香港壹传媒集团创始人黎智英女儿黎采致函中国冬奥会冠军谷爱凌，希望她能通过自身的影响力，让中国大陆释放自己的父亲。 https://t.co/HSZl5nVyeV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5850,
+          "following_count": 1013,
+          "like_count": 46502,
+          "listed_count": 18,
+          "media_count": 936,
+          "tweet_count": 8074
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-14T06:18:48.000Z",
+        "description": "《联合早报》网站和应用是新报业媒体有限公司属下的中文新闻与资讯平台。以第三只眼看大中华，客观新闻和深度评析是众多亚太区读者的最爱。📲：https://t.co/kHH36EdQU6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/zaobaosg",
+                "end": 90,
+                "expanded_url": "http://t.me/zaobaosg",
+                "start": 67,
+                "url": "https://t.co/kHH36EdQU6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zaobao.sg",
+                "end": 23,
+                "expanded_url": "http://www.zaobao.sg",
+                "start": 0,
+                "url": "https://t.co/SFQSIIL8zo"
+              }
+            ]
+          }
+        },
+        "id": "39941478",
+        "location": "Singapore",
+        "name": "联合早报 Lianhe Zaobao",
+        "pinned_tweet_id": "2023219938694254695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699090259018240000/QploqfS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1734503,
+          "following_count": 5,
+          "like_count": 22,
+          "listed_count": 6110,
+          "media_count": 5902,
+          "tweet_count": 170729
+        },
+        "url": "https://t.co/SFQSIIL8zo",
+        "username": "zaobaosg",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2056953996385071594",
+    "created_at": "2026-05-20T07:31:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T08:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057001357895188634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1532599611684429824",
+          "start": 0,
+          "username": "Codforeverloyal"
+        },
+        {
+          "end": 31,
+          "id": "1011298125225422848",
+          "start": 17,
+          "username": "Tang_Shuoyang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057001357895188634",
+    "in_reply_to_user_id": "1532599611684429824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056996753359118369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Codforeverloyal @Tang_Shuoyang 😁😁粉红：我上推就是为了看黄和骂反贼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2056953996385071594",
+        "created_at": "2026-05-20T07:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T08:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057001357895188634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1532599611684429824",
+              "start": 0,
+              "username": "Codforeverloyal"
+            },
+            {
+              "end": 31,
+              "id": "1011298125225422848",
+              "start": 17,
+              "username": "Tang_Shuoyang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057001357895188634",
+        "in_reply_to_user_id": "1532599611684429824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056996753359118369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Codforeverloyal @Tang_Shuoyang 😁😁粉红：我上推就是为了看黄和骂反贼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1532599611684429824",
+        "conversation_id": "2056953996385071594",
+        "created_at": "2026-05-20T07:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T08:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056996753359118369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1011298125225422848",
+              "start": 0,
+              "username": "Tang_Shuoyang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056996753359118369",
+        "in_reply_to_user_id": "1011298125225422848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056953996385071594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tang_Shuoyang 不過看黃自己偷摸看得了，特意振々有辭地宣佈自己來推特就是看黃的仍是思之令人發笑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2056686933950996682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5803,
+          "following_count": 745,
+          "like_count": 47826,
+          "listed_count": 18,
+          "media_count": 963,
+          "tweet_count": 8390
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T05:46:56.000Z",
+        "description": "永遠忠誠",
+        "id": "1532599611684429824",
+        "location": "暗黑鄕",
+        "name": "幼存",
+        "pinned_tweet_id": "1847481357972165054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006681955442765824/aPzEFsLV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 728,
+          "like_count": 203886,
+          "listed_count": 14,
+          "media_count": 1030,
+          "tweet_count": 8243
+        },
+        "username": "Codforeverloyal",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-25T17:20:36.000Z",
+        "description": "吉林大学→BOCHK→名古屋大学(M3)/Political Phenomenology、政治過程論、西マ。\n絶対王政/神道文献訓詁（君主主義者役）左翼研究(本人) 反精神病药物滥用&债务厌恶\n【不要以为到资本主义日本就没有儒了！😤👎】\n#ブルアカ #艦これ  (退役)随缘フォロバ\n要回关请私信🥺🌹",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 124,
+                "start": 119,
+                "tag": "ブルアカ"
+              },
+              {
+                "end": 129,
+                "start": 125,
+                "tag": "艦これ"
+              }
+            ]
+          }
+        },
+        "id": "1011298125225422848",
+        "location": "豊葦原中国",
+        "name": "Nicholas Don",
+        "pinned_tweet_id": "2012737293145231675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929953311429668867/2eZF6dcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 209,
+          "like_count": 39886,
+          "listed_count": 10,
+          "media_count": 1171,
+          "tweet_count": 4728
+        },
+        "username": "Tang_Shuoyang",
+        "verified": false
+      }
+    ]
+  }
+}

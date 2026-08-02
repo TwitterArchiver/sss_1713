@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2074527870907822188",
+    "created_at": "2026-07-07T16:16:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T17:16:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074527870907822188"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qaq5777/status…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/qaq5777/status/2074400810650480864",
+          "start": 28,
+          "url": "https://t.co/kPsAN82cT4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074527870907822188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074400810650480864",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "刚出蒸出来的香喷喷热腾腾的王哥庄大馒头还卖188呢😤😤 https://t.co/kPsAN82cT4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2074527870907822188",
+        "created_at": "2026-07-07T16:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074527870907822188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qaq5777/status…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/qaq5777/status/2074400810650480864",
+              "start": 28,
+              "url": "https://t.co/kPsAN82cT4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074527870907822188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074400810650480864",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刚出蒸出来的香喷喷热腾腾的王哥庄大馒头还卖188呢😤😤 https://t.co/kPsAN82cT4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863473278247141376",
+        "conversation_id": "2074400810650480864",
+        "created_at": "2026-07-07T07:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074400810650480864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074400810650480864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 17986,
+          "like_count": 448,
+          "quote_count": 2,
+          "reply_count": 38,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "别讲韩国人吃不起西瓜了好不！我在中国也吃不起面包呀 随便走进一家面包店全都卖我二三十。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5945,
+          "following_count": 796,
+          "like_count": 53942,
+          "listed_count": 18,
+          "media_count": 1067,
+          "tweet_count": 9358
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-02T06:40:37.000Z",
+        "description": "如果你骂我 我就关机 然后去睡觉",
+        "id": "1863473278247141376",
+        "name": "不加冰",
+        "pinned_tweet_id": "2067902295594144087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005925336308146176/Hk0tumbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42916,
+          "following_count": 261,
+          "like_count": 13204,
+          "listed_count": 79,
+          "media_count": 247,
+          "tweet_count": 5796
+        },
+        "url": "",
+        "username": "qaq5777",
+        "verified": true
+      }
+    ]
+  }
+}

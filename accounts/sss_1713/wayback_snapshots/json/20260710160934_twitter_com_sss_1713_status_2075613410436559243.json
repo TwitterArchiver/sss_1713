@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2075220214137159973",
+    "created_at": "2026-07-10T16:09:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T17:09:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075613410436559243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1482716597077037056",
+          "start": 0,
+          "username": "Lemonadize"
+        },
+        {
+          "end": 25,
+          "id": "1677732423667445760",
+          "start": 12,
+          "username": "wuerbangbang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075613410436559243",
+    "in_reply_to_user_id": "1482716597077037056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075572941237211308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lemonadize @wuerbangbang 我要笑死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2075220214137159973",
+        "created_at": "2026-07-10T16:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075613410436559243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1482716597077037056",
+              "start": 0,
+              "username": "Lemonadize"
+            },
+            {
+              "end": 25,
+              "id": "1677732423667445760",
+              "start": 12,
+              "username": "wuerbangbang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075613410436559243",
+        "in_reply_to_user_id": "1482716597077037056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075572941237211308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lemonadize @wuerbangbang 我要笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482716597077037056",
+        "conversation_id": "2075220214137159973",
+        "created_at": "2026-07-10T13:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075572941237211308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1677732423667445760",
+              "start": 0,
+              "username": "wuerbangbang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075572941237211308",
+        "in_reply_to_user_id": "1677732423667445760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "拍照时“蒋公”小心翼翼地问我，这是不是日本人的镜头，我说不是，是全自主研发的彩色胶卷，他才合影了。现在想起来那位老人的爱国还是让我很感动！\n\n付款时“蒋公”小心翼翼地问我，这是不是日本人的二维码，我说不是，掏出现金，他才收下了。现在想起来那位老人的爱国还是让我很感动！\n\n坐地铁回家时“蒋公”小心翼翼地问我，这是不是日本人发明的检票机，我说不是，一个飞身跃过护栏，他才跳过来了。现在想起来那位老人的爱国还是让我很感动！\n\n做饭时“蒋公”扒着窗户小心翼翼地问我，这是不是日本人发明的电饭煲，我说不是，是商周时期的青铜鬲，他才放心回家了。现在想起来那位老人的爱国还是让我很感动！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075220214137159973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuerbangbang 拍照时“蒋公”小心翼翼地问我，这是不是日本人的镜头，我说不是，是全自主研发的彩色胶卷，他才合影了。现在想起来那位老人的爱国还是让我很感动！\n\n付款时“蒋公”小心翼翼地问我，这是不是日本人的二维码，我说不是，掏出现金，他才收下了。现在想起来那位老人的爱国还是让我很感动！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5958,
+          "following_count": 793,
+          "like_count": 54429,
+          "listed_count": 18,
+          "media_count": 1080,
+          "tweet_count": 9438
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-16T14:19:28.000Z",
+        "description": "Avarice, Condescension, Egocentrism, Heresy, Narcissism.",
+        "id": "1482716597077037056",
+        "location": "Laria Sœles",
+        "name": "Lemonadize",
+        "pinned_tweet_id": "1890440916864770116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792221676144635904/9xlvNAwF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 36,
+          "like_count": 9388,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 984
+        },
+        "url": "",
+        "username": "Lemonadize",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-08T17:32:43.000Z",
+        "description": "北大中文本硕，苗族，民俗学博士，国博前馆员。文史艺术、书画篆刻、三俗烂梗、旅游爱好者。对世界有旺盛的探索欲，想多认识有趣的人🤒PhDing of folklore, graduated from @PKU1898, Miao,  lover of history, heritage, art & tour🪭🐾🏺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 98,
+                "username": "PKU1898"
+              }
+            ]
+          }
+        },
+        "id": "1677732423667445760",
+        "location": "跳回三界内，待在五行中。",
+        "name": "吴二棒",
+        "pinned_tweet_id": "2073419739032883260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010919161988595713/rE9mkr0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11857,
+          "following_count": 969,
+          "like_count": 21563,
+          "listed_count": 50,
+          "media_count": 3120,
+          "tweet_count": 10189
+        },
+        "url": "",
+        "username": "wuerbangbang",
+        "verified": true
+      }
+    ]
+  }
+}

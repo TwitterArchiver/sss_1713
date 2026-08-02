@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070047773408538624"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2070047784716439732",
+    "created_at": "2026-06-25T07:33:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T08:33:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070047784716439732"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7OV0bo3r7d",
+          "end": 128,
+          "expanded_url": "https://x.com/sss_1713/status/2070047784716439732/photo/1",
+          "media_key": "3_2070047773408538624",
+          "start": 105,
+          "url": "https://t.co/7OV0bo3r7d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070047784716439732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "峰哥怎么这么讨厌作家/某卫视首席主持人/某高校导师/民谣歌手/老背包客/不敬业的酒吧掌柜/科班油画画师/手鼓艺人/业余皮匠/业余银匠/业余诗人/资深西藏拉漂/资深丽江混混/黄金左脸/禅宗临济弟子大冰和他的书。 https://t.co/7OV0bo3r7d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1631,
+        "media_key": "3_2070047773408538624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpJe3oasAALQY_.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070047773408538624"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2070047784716439732",
+        "created_at": "2026-06-25T07:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T08:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070047784716439732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7OV0bo3r7d",
+              "end": 128,
+              "expanded_url": "https://x.com/sss_1713/status/2070047784716439732/photo/1",
+              "media_key": "3_2070047773408538624",
+              "start": 105,
+              "url": "https://t.co/7OV0bo3r7d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070047784716439732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "峰哥怎么这么讨厌作家/某卫视首席主持人/某高校导师/民谣歌手/老背包客/不敬业的酒吧掌柜/科班油画画师/手鼓艺人/业余皮匠/业余银匠/业余诗人/资深西藏拉漂/资深丽江混混/黄金左脸/禅宗临济弟子大冰和他的书。 https://t.co/7OV0bo3r7d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5912,
+          "following_count": 776,
+          "like_count": 52384,
+          "listed_count": 18,
+          "media_count": 1044,
+          "tweet_count": 9183
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

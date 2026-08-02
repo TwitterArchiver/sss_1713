@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2028879396010914114",
+    "created_at": "2026-03-03T17:05:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T18:05:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028879396010914114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1497481140915290115",
+          "start": 3,
+          "username": "karasu_ga_warau"
+        }
+      ],
+      "urls": [
+        {
+          "description": "An interactive index that ranks countries based on their stance toward the Iran Freedom Movement, serving as a historical and diplomatic reference for future governments and guiding international relations.",
+          "display_url": "iranfreedomtracker.com/Introduction",
+          "end": 124,
+          "expanded_url": "https://iranfreedomtracker.com/Introduction",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2028608956256436224/hp7g3Xb2?format=png&name=orig",
+              "width": 630
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2028608956256436224/hp7g3Xb2?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 101,
+          "status": 200,
+          "title": "Iran Freedom Index",
+          "unwound_url": "https://iranfreedomtracker.com/Introduction",
+          "url": "https://t.co/Xf4OS45GIV"
+        },
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028879396010914114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028608940267737170",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @karasu_ga_warau: 伊朗一群抗爭者製作了一個網站“Who Actually Stands With Us”，實時更新每個國家的相關聲明是站在伊朗人民這邊還是政權那邊，或者中立。\n\nhttps://t.co/Xf4OS45GIV… https://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1427,
+        "media_key": "3_2028608886803251200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCcRCNYbwAAUMxl.jpg",
+        "width": 814
+      },
+      {
+        "height": 1731,
+        "media_key": "3_2028608886656077824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCcRCM1WEAAOOlR.jpg",
+        "width": 747
+      },
+      {
+        "height": 1966,
+        "media_key": "3_2028608886815797248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCcRCNbbMAAM5X9.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1724,
+        "media_key": "3_2028608886656122881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCcRCM1WwAEmfQz.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2028879396010914114",
+        "created_at": "2026-03-03T17:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T18:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028879396010914114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1497481140915290115",
+              "start": 3,
+              "username": "karasu_ga_warau"
+            }
+          ],
+          "urls": [
+            {
+              "description": "An interactive index that ranks countries based on their stance toward the Iran Freedom Movement, serving as a historical and diplomatic reference for future governments and guiding international relations.",
+              "display_url": "iranfreedomtracker.com/Introduction",
+              "end": 124,
+              "expanded_url": "https://iranfreedomtracker.com/Introduction",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2028608956256436224/hp7g3Xb2?format=png&name=orig",
+                  "width": 630
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2028608956256436224/hp7g3Xb2?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 101,
+              "status": 200,
+              "title": "Iran Freedom Index",
+              "unwound_url": "https://iranfreedomtracker.com/Introduction",
+              "url": "https://t.co/Xf4OS45GIV"
+            },
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028879396010914114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028608940267737170",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @karasu_ga_warau: 伊朗一群抗爭者製作了一個網站“Who Actually Stands With Us”，實時更新每個國家的相關聲明是站在伊朗人民這邊還是政權那邊，或者中立。\n\nhttps://t.co/Xf4OS45GIV… https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028608886803251200",
+            "3_2028608886656077824",
+            "3_2028608886815797248",
+            "3_2028608886656122881"
+          ]
+        },
+        "author_id": "1497481140915290115",
+        "conversation_id": "2028608940267737170",
+        "created_at": "2026-03-02T23:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T00:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028608940267737170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "An interactive index that ranks countries based on their stance toward the Iran Freedom Movement, serving as a historical and diplomatic reference for future governments and guiding international relations.",
+              "display_url": "iranfreedomtracker.com/Introduction",
+              "end": 103,
+              "expanded_url": "https://iranfreedomtracker.com/Introduction",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2028608956256436224/hp7g3Xb2?format=png&name=orig",
+                  "width": 630
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2028608956256436224/hp7g3Xb2?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 80,
+              "status": 200,
+              "title": "Iran Freedom Index",
+              "unwound_url": "https://iranfreedomtracker.com/Introduction",
+              "url": "https://t.co/Xf4OS45GIV"
+            },
+            {
+              "display_url": "pic.x.com/TqHH3qGhhk",
+              "end": 127,
+              "expanded_url": "https://x.com/karasu_ga_warau/status/2028608940267737170/photo/1",
+              "media_key": "3_2028608886803251200",
+              "start": 104,
+              "url": "https://t.co/TqHH3qGhhk"
+            },
+            {
+              "display_url": "pic.x.com/TqHH3qGhhk",
+              "end": 127,
+              "expanded_url": "https://x.com/karasu_ga_warau/status/2028608940267737170/photo/1",
+              "media_key": "3_2028608886656077824",
+              "start": 104,
+              "url": "https://t.co/TqHH3qGhhk"
+            },
+            {
+              "display_url": "pic.x.com/TqHH3qGhhk",
+              "end": 127,
+              "expanded_url": "https://x.com/karasu_ga_warau/status/2028608940267737170/photo/1",
+              "media_key": "3_2028608886815797248",
+              "start": 104,
+              "url": "https://t.co/TqHH3qGhhk"
+            },
+            {
+              "display_url": "pic.x.com/TqHH3qGhhk",
+              "end": 127,
+              "expanded_url": "https://x.com/karasu_ga_warau/status/2028608940267737170/photo/1",
+              "media_key": "3_2028608886656122881",
+              "start": 104,
+              "url": "https://t.co/TqHH3qGhhk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028608940267737170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "iranfreedomtracker.com/Introduction",
+                "end": 103,
+                "expanded_url": "https://iranfreedomtracker.com/Introduction",
+                "start": 80,
+                "url": "https://t.co/TaVeYwkfgL"
+              }
+            ]
+          },
+          "text": "伊朗一群抗爭者製作了一個網站“Who Actually Stands With Us”，實時更新每個國家的相關聲明是站在伊朗人民這邊還是政權那邊，或者中立。\n\nhttps://t.co/TaVeYwkfgL\n\n「那些採取觀望、拖延或積極維護政權統治的人，其選擇將留下有據可查的遺產。這並非僅僅是像徵性的：未來政府的貿易優先事項、外交夥伴關係和資源開發協議都將直接受到這份紀錄的影響。」\n\n中國、俄羅斯、西班牙、土耳其等國被標注為「政權支持者」，但似乎沒有標注北韓。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 17921,
+          "like_count": 344,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "伊朗一群抗爭者製作了一個網站“Who Actually Stands With Us”，實時更新每個國家的相關聲明是站在伊朗人民這邊還是政權那邊，或者中立。\n\nhttps://t.co/Xf4OS45GIV https://t.co/TqHH3qGhhk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5844,
+          "following_count": 1015,
+          "like_count": 46548,
+          "listed_count": 18,
+          "media_count": 938,
+          "tweet_count": 8086
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-26T07:59:00.000Z",
+        "description": "Proud Chinese communism survivor | Proud Feminist | Proud Queer (she/they) | May all the justice live in peace, love in peace and rest in peace.",
+        "id": "1497481140915290115",
+        "name": "夏巢川 Rei Xia",
+        "pinned_tweet_id": "2027863763731296577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798095968576958464/DJkGIkQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28793,
+          "following_count": 1313,
+          "like_count": 9491,
+          "listed_count": 117,
+          "media_count": 539,
+          "tweet_count": 5234
+        },
+        "username": "karasu_ga_warau",
+        "verified": false
+      }
+    ]
+  }
+}

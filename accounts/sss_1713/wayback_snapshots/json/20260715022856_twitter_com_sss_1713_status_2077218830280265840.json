@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077218811187769344"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2077218830280265840",
+    "created_at": "2026-07-15T02:28:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T03:28:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077218830280265840"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ox7fmJmB2h",
+          "end": 41,
+          "expanded_url": "https://x.com/sss_1713/status/2077218830280265840/photo/1",
+          "media_key": "3_2077218811187769344",
+          "start": 18,
+          "url": "https://t.co/Ox7fmJmB2h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077218830280265840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "缅甸人为什么老是套皮云南ip装比。 https://t.co/Ox7fmJmB2h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 596,
+        "media_key": "3_2077218811187769344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNPDgNGbMAA6-ce.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077218811187769344"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2077218830280265840",
+        "created_at": "2026-07-15T02:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T03:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077218830280265840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ox7fmJmB2h",
+              "end": 41,
+              "expanded_url": "https://x.com/sss_1713/status/2077218830280265840/photo/1",
+              "media_key": "3_2077218811187769344",
+              "start": 18,
+              "url": "https://t.co/Ox7fmJmB2h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077218830280265840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "缅甸人为什么老是套皮云南ip装比。 https://t.co/Ox7fmJmB2h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5984,
+          "following_count": 794,
+          "like_count": 54729,
+          "listed_count": 18,
+          "media_count": 1090,
+          "tweet_count": 9510
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      }
+    ]
+  }
+}

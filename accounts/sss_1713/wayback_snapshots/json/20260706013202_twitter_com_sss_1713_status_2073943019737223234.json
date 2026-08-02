@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303483003801202688",
+          "name": "Sake"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "id": "1303483003801202688",
+          "name": "Sake"
+        }
+      }
+    ],
+    "conversation_id": "2073943019737223234",
+    "created_at": "2026-07-06T01:32:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T02:32:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073943019737223234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2053824487330852865",
+          "start": 3,
+          "username": "RusskiyCvyatoy"
+        },
+        {
+          "end": 29,
+          "id": "1254605353838231553",
+          "start": 20,
+          "username": "sss_1713"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073943019737223234",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073942558804213777",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RusskiyCvyatoy: @sss_1713 How blissful those who have been persecuted for the sake of what is right, for theirs is the Kingdom of the h…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303483003801202688",
+              "name": "Sake"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1303483003801202688",
+              "name": "Sake"
+            }
+          }
+        ],
+        "conversation_id": "2073943019737223234",
+        "created_at": "2026-07-06T01:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T02:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073943019737223234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2053824487330852865",
+              "start": 3,
+              "username": "RusskiyCvyatoy"
+            },
+            {
+              "end": 29,
+              "id": "1254605353838231553",
+              "start": 20,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073943019737223234",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073942558804213777",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RusskiyCvyatoy: @sss_1713 How blissful those who have been persecuted for the sake of what is right, for theirs is the Kingdom of the h…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053824487330852865",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303483003801202688",
+              "name": "Sake"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1303483003801202688",
+              "name": "Sake"
+            }
+          }
+        ],
+        "conversation_id": "2073922008065142990",
+        "created_at": "2026-07-06T01:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T02:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073942558804213777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073942558804213777",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073922008065142990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 How blissful those who have been persecuted for the sake of what is right, for theirs is the Kingdom of the heavens!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5936,
+          "following_count": 788,
+          "like_count": 53692,
+          "listed_count": 18,
+          "media_count": 1055,
+          "tweet_count": 9292
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T13:09:44.000Z",
+        "description": "无限热爱伊玛目霍梅尼、无限崇拜伊玛目哈梅内伊，俩一俩海，银兰拉呼！\n黄俄罗斯伊斯兰革命总指挥部（Sedes Revolutionis Islamicae Zheltrossae）",
+        "id": "2053824487330852865",
+        "location": "Sankt-Paulsburg, RSFSR",
+        "name": "黄俄罗斯伊斯兰革命总指挥部",
+        "pinned_tweet_id": "2060020055111287178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069630190095880192/DjdCd_pl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 114,
+          "like_count": 1511,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1628
+        },
+        "url": "",
+        "username": "RusskiyCvyatoy",
+        "verified": false
+      }
+    ]
+  }
+}

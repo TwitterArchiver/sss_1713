@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1983463944670134662",
+    "created_at": "2025-10-30T00:48:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T01:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983697530107068907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600462056464867329",
+          "start": 0,
+          "username": "FarParadise"
+        },
+        {
+          "end": 25,
+          "id": "1928710897989730304",
+          "start": 13,
+          "username": "wang101jack"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983697530107068907",
+    "in_reply_to_user_id": "1600462056464867329",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983470428258799917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FarParadise @wang101jack 😦😦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1983463944670134662",
+        "created_at": "2025-10-30T00:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T01:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983697530107068907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600462056464867329",
+              "start": 0,
+              "username": "FarParadise"
+            },
+            {
+              "end": 25,
+              "id": "1928710897989730304",
+              "start": 13,
+              "username": "wang101jack"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983697530107068907",
+        "in_reply_to_user_id": "1600462056464867329",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983470428258799917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FarParadise @wang101jack 😦😦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600462056464867329",
+        "conversation_id": "1983463944670134662",
+        "created_at": "2025-10-29T09:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T10:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983470428258799917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1928710897989730304",
+              "start": 0,
+              "username": "wang101jack"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983470428258799917",
+        "in_reply_to_user_id": "1928710897989730304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983469853433590103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wang101jack 圣召分辨，远离世俗生活，要住小半年，分辨过了，明年就去神哲学院就读了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5815,
+          "following_count": 979,
+          "like_count": 45635,
+          "listed_count": 17,
+          "media_count": 925,
+          "tweet_count": 7821
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-07T12:07:52.000Z",
+        "description": "天主教信仰，不断修行中，保守天主秩序。",
+        "id": "1600462056464867329",
+        "location": "索多玛",
+        "name": "小王（圣召版）✝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956203071861870592/r5V8lWti_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2705,
+          "following_count": 1488,
+          "like_count": 33760,
+          "listed_count": 7,
+          "media_count": 3205,
+          "tweet_count": 13942
+        },
+        "username": "FarParadise",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T07:11:38.000Z",
+        "description": "平等、自由、科学\n不想做男生或女生，只想做自己。",
+        "id": "1928710897989730304",
+        "location": "哥布林洞窟最深处",
+        "name": "墨逸🪿🪿🪿",
+        "pinned_tweet_id": "1973409229160792262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959900398686535680/-Mr-Ebw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 580,
+          "like_count": 7983,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1574
+        },
+        "username": "wang101jack",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2000765111560990883",
+    "created_at": "2025-12-16T03:09:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T04:09:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000765111560990883"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 16,
+          "tag": "FreeJimmyLai"
+        },
+        {
+          "end": 36,
+          "start": 30,
+          "tag": "释放黎智英"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "229195516",
+          "start": 3,
+          "username": "JamieMetzl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000765111560990883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000421854163472428",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JamieMetzl: #FreeJimmyLai #释放黎智英\nNothing scares the CCP more than courageous Chinese citizens speaking freely.\n没有什么比勇敢的中国公民自由发声更让中共恐惧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2000765111560990883",
+        "created_at": "2025-12-16T03:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T04:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000765111560990883"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 16,
+              "tag": "FreeJimmyLai"
+            },
+            {
+              "end": 36,
+              "start": 30,
+              "tag": "释放黎智英"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "229195516",
+              "start": 3,
+              "username": "JamieMetzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000765111560990883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000421854163472428",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JamieMetzl: #FreeJimmyLai #释放黎智英\nNothing scares the CCP more than courageous Chinese citizens speaking freely.\n没有什么比勇敢的中国公民自由发声更让中共恐惧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "229195516",
+        "conversation_id": "2000421854163472428",
+        "created_at": "2025-12-15T04:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T05:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000421854163472428"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "FreeJimmyLai"
+            },
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "释放黎智英"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000421854163472428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 12016,
+          "like_count": 209,
+          "quote_count": 3,
+          "reply_count": 105,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "#FreeJimmyLai #释放黎智英\nNothing scares the CCP more than courageous Chinese citizens speaking freely.\n没有什么比勇敢的中国公民自由发声更让中共恐惧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5777,
+          "following_count": 997,
+          "like_count": 45982,
+          "listed_count": 17,
+          "media_count": 931,
+          "tweet_count": 8003
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-21T19:42:35.000Z",
+        "description": "https://t.co/M3eSpDEAUu Founder • Futurist  • #Superconvergence #HackingDarwin #EternalSonata author • @AtlanticCouncil • Fmr NSC, State, UN, @WHO adv committee",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 46,
+                "tag": "Superconvergence"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "tag": "HackingDarwin"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "tag": "EternalSonata"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 119,
+                "start": 103,
+                "username": "AtlanticCouncil"
+              },
+              {
+                "end": 146,
+                "start": 142,
+                "username": "WHO"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "OneShared.World",
+                "end": 23,
+                "expanded_url": "http://OneShared.World",
+                "start": 0,
+                "url": "https://t.co/M3eSpDEAUu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jamiemetzl.com",
+                "end": 23,
+                "expanded_url": "http://www.jamiemetzl.com",
+                "start": 0,
+                "url": "https://t.co/qmSslLvZF5"
+              }
+            ]
+          }
+        },
+        "id": "229195516",
+        "location": "New York, NY USA",
+        "name": "Jamie Metzl",
+        "pinned_tweet_id": "1390827543301922816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861611669434114048/-ejB24bl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73493,
+          "following_count": 13962,
+          "like_count": 27596,
+          "listed_count": 638,
+          "media_count": 1067,
+          "tweet_count": 14011
+        },
+        "url": "https://t.co/qmSslLvZF5",
+        "username": "JamieMetzl",
+        "verified": true
+      }
+    ]
+  }
+}

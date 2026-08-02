@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064540694509953024"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2064540705440358676",
+    "created_at": "2026-06-10T02:50:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T03:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064540705440358676"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LYV0KTOndb",
+          "end": 171,
+          "expanded_url": "https://x.com/sss_1713/status/2064540705440358676/photo/1",
+          "media_key": "3_2064540694509953024",
+          "start": 148,
+          "url": "https://t.co/LYV0KTOndb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064540705440358676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "全国人大代表 朱列玉表示，他将在今年全国两会期提交议案 建议修改刑法，将性同意年龄线从14岁提高至16岁。朱列玉代表在拟提交的议案中提出：对有监护、师生、管理等关系的，性同意年龄应改为18周岁；对男女年龄差不超过5岁的恋爱对象 性同意年龄仍保持14周岁；对其他一般情况，性同意年龄提高到16周岁 https://t.co/LYV0KTOndb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 593,
+        "media_key": "3_2064540694509953024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKa40sCaoAA89aS.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064540694509953024"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2064540705440358676",
+        "created_at": "2026-06-10T02:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T03:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064540705440358676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LYV0KTOndb",
+              "end": 171,
+              "expanded_url": "https://x.com/sss_1713/status/2064540705440358676/photo/1",
+              "media_key": "3_2064540694509953024",
+              "start": 148,
+              "url": "https://t.co/LYV0KTOndb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064540705440358676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "全国人大代表 朱列玉表示，他将在今年全国两会期提交议案 建议修改刑法，将性同意年龄线从14岁提高至16岁。朱列玉代表在拟提交的议案中提出：对有监护、师生、管理等关系的，性同意年龄应改为18周岁；对男女年龄差不超过5岁的恋爱对象 性同意年龄仍保持14周岁；对其他一般情况，性同意年龄提高到16周岁 https://t.co/LYV0KTOndb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5882,
+          "following_count": 753,
+          "like_count": 49971,
+          "listed_count": 18,
+          "media_count": 1007,
+          "tweet_count": 8831
+        },
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

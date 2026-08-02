@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2075031838993661972",
+    "created_at": "2026-07-09T16:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T17:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075257909244825858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1832716253904998401",
+          "start": 0,
+          "username": "core3000K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075257909244825858",
+    "in_reply_to_user_id": "1832716253904998401",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075256284316877165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@core3000K 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2075031838993661972",
+        "created_at": "2026-07-09T16:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075257909244825858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1832716253904998401",
+              "start": 0,
+              "username": "core3000K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075257909244825858",
+        "in_reply_to_user_id": "1832716253904998401",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075256284316877165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@core3000K 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832716253904998401",
+        "conversation_id": "2075031838993661972",
+        "created_at": "2026-07-09T16:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075256284316877165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075256284316877165",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075031838993661972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 「事实上我们每个人在小时候都和金将军刚交过，因为眼保健操的最后一节总是按揉太阳穴」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5946,
+          "following_count": 790,
+          "like_count": 54278,
+          "listed_count": 18,
+          "media_count": 1074,
+          "tweet_count": 9408
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-08T09:44:16.000Z",
+        "description": "坏了我手机版推特用不了了，byd头图怎么锁在红色电音极地大冲击了",
+        "id": "1832716253904998401",
+        "location": "我TM到万达广场了，你们人呢？",
+        "name": "米莉拉瓦莱丽_unofficial",
+        "pinned_tweet_id": "1898299651385704498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967966966636785664/oa1zw6qv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 181,
+          "like_count": 10717,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1026
+        },
+        "url": "",
+        "username": "core3000K",
+        "verified": false
+      }
+    ]
+  }
+}

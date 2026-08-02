@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2067162107041456169",
+    "created_at": "2026-06-17T08:27:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T09:27:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067162107041456169"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tangangqinmao2…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/tangangqinmao2/status/2066927119284978066",
+          "start": 16,
+          "url": "https://t.co/sRas3bLesQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067162107041456169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066927119284978066",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我草，弹钢琴真的会弹钢琴啊🫪🫪 https://t.co/sRas3bLesQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2067162107041456169",
+        "created_at": "2026-06-17T08:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067162107041456169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tangangqinmao2…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/tangangqinmao2/status/2066927119284978066",
+              "start": 16,
+              "url": "https://t.co/sRas3bLesQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067162107041456169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066927119284978066",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草，弹钢琴真的会弹钢琴啊🫪🫪 https://t.co/sRas3bLesQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065496308291428352",
+        "conversation_id": "2066927119284978066",
+        "created_at": "2026-06-16T16:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066927119284978066"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066927119284978066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1327,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们说我要不要去学吉他 还是去自学 现在只会个钢琴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5901,
+          "following_count": 764,
+          "like_count": 51463,
+          "listed_count": 18,
+          "media_count": 1035,
+          "tweet_count": 9053
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T18:08:25.000Z",
+        "description": "伟大的无产阶级文化大革命万岁\n大号@tangangqinmao\n小号目前有四个改好弹钢琴名的 剩下还有十多个在刷信誉分\n反毛贼等着刷好信誉分一轮举报给你们送上西天吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "tangangqinmao"
+              }
+            ]
+          }
+        },
+        "id": "2065496308291428352",
+        "name": "弹钢琴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066112468599136256/0XtPIQif_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 5,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 208
+        },
+        "url": "",
+        "username": "tangangqinmao2",
+        "verified": false
+      }
+    ]
+  }
+}

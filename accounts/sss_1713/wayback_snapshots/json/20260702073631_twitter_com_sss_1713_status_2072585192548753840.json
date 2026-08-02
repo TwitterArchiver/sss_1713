@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2072585192548753840",
+    "created_at": "2026-07-02T07:36:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T08:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072585192548753840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1689672109612818432",
+          "start": 3,
+          "username": "KinaMagica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072585192548753840",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1214
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072329670062911827",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KinaMagica: Men’s biggest fear is to be treated like women 💀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2072585192548753840",
+        "created_at": "2026-07-02T07:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T08:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072585192548753840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1689672109612818432",
+              "start": 3,
+              "username": "KinaMagica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072585192548753840",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1214
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072329670062911827",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KinaMagica: Men’s biggest fear is to be treated like women 💀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689672109612818432",
+        "conversation_id": "2072329670062911827",
+        "created_at": "2026-07-01T14:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T15:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072329670062911827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/patdafenet/sta…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/patdafenet/status/2051341862535885119",
+              "start": 49,
+              "url": "https://t.co/oYqvZlXfr7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072329670062911827",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 130,
+          "impression_count": 133185,
+          "like_count": 14757,
+          "quote_count": 6,
+          "reply_count": 55,
+          "retweet_count": 1214
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051341862535885119",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Men’s biggest fear is to be treated like women 💀 https://t.co/oYqvZlXfr7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5921,
+          "following_count": 783,
+          "like_count": 53225,
+          "listed_count": 18,
+          "media_count": 1045,
+          "tweet_count": 9233
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-10T16:16:45.000Z",
+        "description": "•°✨°• Magical Cat Girl Vtuber 🐈‍⬛🪄 •°🌙°• ♡ Teenage Catgirl with opinions ♡ ⋆ Variety Streamer ⋆ ‧₊˚ EN/中文 ‧₊˚ 🍬 Sep 26, 2025 🐾 ♡ •°✨°• Happily Engaged •°♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kina.cat",
+                "end": 23,
+                "expanded_url": "https://www.kina.cat",
+                "start": 0,
+                "url": "https://t.co/KIhJvDzRbe"
+              }
+            ]
+          }
+        },
+        "id": "1689672109612818432",
+        "location": "She/Any | 18yro",
+        "name": "Kina🐈‍⬛🪄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046954128975486976/MTqDEuT-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14997,
+          "following_count": 2567,
+          "like_count": 38216,
+          "listed_count": 68,
+          "media_count": 2223,
+          "tweet_count": 20397
+        },
+        "url": "https://t.co/KIhJvDzRbe",
+        "username": "KinaMagica",
+        "verified": true
+      }
+    ]
+  }
+}

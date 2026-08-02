@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2072129439992041680",
+    "created_at": "2026-07-01T01:25:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T02:25:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072129439992041680"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/haigesenmokko/…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/haigesenmokko/status/2072007910138212616",
+          "start": 37,
+          "url": "https://t.co/n6eRnMiL5e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072129439992041680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072007910138212616",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "至少一五年之前学校基本不会强调穿校服什么的🥲🥲我那个时候喜欢在校服上画画 https://t.co/n6eRnMiL5e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1902,
+        "media_key": "3_2072007904584949760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMFANhSWYAAhIK1.jpg",
+        "width": 822
+      },
+      {
+        "height": 1852,
+        "media_key": "3_2072007906363322368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMFANn6WMAAq5B-.jpg",
+        "width": 849
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2072129439992041680",
+        "created_at": "2026-07-01T01:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T02:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072129439992041680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/haigesenmokko/…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/haigesenmokko/status/2072007910138212616",
+              "start": 37,
+              "url": "https://t.co/n6eRnMiL5e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072129439992041680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072007910138212616",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "至少一五年之前学校基本不会强调穿校服什么的🥲🥲我那个时候喜欢在校服上画画 https://t.co/n6eRnMiL5e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072007904584949760",
+            "3_2072007906363322368"
+          ]
+        },
+        "author_id": "1242079997981937664",
+        "conversation_id": "2072007910138212616",
+        "created_at": "2026-06-30T17:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072007910138212616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/do7C1RzJrX",
+              "end": 49,
+              "expanded_url": "https://x.com/HaigeSenmokko/status/2072007910138212616/photo/1",
+              "media_key": "3_2072007904584949760",
+              "start": 26,
+              "url": "https://t.co/do7C1RzJrX"
+            },
+            {
+              "display_url": "pic.x.com/do7C1RzJrX",
+              "end": 49,
+              "expanded_url": "https://x.com/HaigeSenmokko/status/2072007910138212616/photo/1",
+              "media_key": "3_2072007906363322368",
+              "start": 26,
+              "url": "https://t.co/do7C1RzJrX"
+            },
+            {
+              "display_url": "x.com/HaigeSenmokko/…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/HaigeSenmokko/status/2071809646021460323",
+              "start": 50,
+              "url": "https://t.co/mth9VDoufN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072007910138212616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2336,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071809646021460323",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "左图：胡时代小学生的穿着\n右图：习时代小学生的穿着 https://t.co/do7C1RzJrX https://t.co/mth9VDoufN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5920,
+          "following_count": 782,
+          "like_count": 52966,
+          "listed_count": 18,
+          "media_count": 1057,
+          "tweet_count": 9270
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-23T13:25:33.000Z",
+        "description": "黑龙、奇穆尼、伯利、沿海、库页五州归国委员会主席\n​Президент Комитета по возвращению Приамурья, ЕАО, Хабаровска, Приморья и Сахалина в состав Китая",
+        "id": "1242079997981937664",
+        "location": "沙勒/夏萊",
+        "name": "灰毛川木香",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071291006251642880/9k1-FmHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 1693,
+          "like_count": 1880,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 2148
+        },
+        "url": "",
+        "username": "HaigeSenmokko",
+        "verified": true
+      }
+    ]
+  }
+}

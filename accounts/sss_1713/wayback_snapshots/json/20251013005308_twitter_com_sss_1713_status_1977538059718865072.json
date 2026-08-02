@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1977538059718865072",
+    "created_at": "2025-10-13T00:53:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T01:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977538059718865072"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/furinadf/statu…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/furinadf/status/1977521851414048890",
+          "start": 18,
+          "url": "https://t.co/sHZKruwjRI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977538059718865072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977521851414048890",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呃呃挂蒋介石算什么，《走向独裁》吗 https://t.co/sHZKruwjRI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10033,
+        "height": 1046,
+        "media_key": "13_1977521662561329152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1977521662561329152/img/E8yLem0gRYnpZEWw.jpg",
+        "public_metrics": {
+          "view_count": 931
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1977521662561329152/vid/avc1/320x582/lqZE--ghLVC38p1n.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1977521662561329152/vid/avc1/480x874/4r0PSWS2pGuL9zSO.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1977521662561329152/vid/avc1/574x1046/zuW86QzfRIJHm3GT.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1977521662561329152/pl/6BoK8LYlD-xSL2lM.m3u8?tag=14&v=b75"
+          }
+        ],
+        "width": 574
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1977538059718865072",
+        "created_at": "2025-10-13T00:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T01:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977538059718865072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/furinadf/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/furinadf/status/1977521851414048890",
+              "start": 18,
+              "url": "https://t.co/sHZKruwjRI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977538059718865072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977521851414048890",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呃呃挂蒋介石算什么，《走向独裁》吗 https://t.co/sHZKruwjRI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1977521662561329152"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1977521851414048890",
+        "created_at": "2025-10-12T23:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T00:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977521851414048890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HGfyS2HJ2o",
+              "end": 43,
+              "expanded_url": "https://x.com/FurinaDF/status/1977521851414048890/video/1",
+              "media_key": "13_1977521662561329152",
+              "start": 20,
+              "url": "https://t.co/HGfyS2HJ2o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977521851414048890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1787,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "如果，当年，是共产党败了，结局会怎样？ https://t.co/HGfyS2HJ2o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5803,
+          "following_count": 975,
+          "like_count": 45879,
+          "listed_count": 17,
+          "media_count": 944,
+          "tweet_count": 7801
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "偷井盖专家，河南驻马店实验小学四年级在读@yongchuTaffyOwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "yongchuTaffyOwO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "http://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/69nE3RLR6O"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "Oregon",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55627,
+          "following_count": 2343,
+          "like_count": 29167,
+          "listed_count": 160,
+          "media_count": 7136,
+          "tweet_count": 11634
+        },
+        "url": "https://t.co/69nE3RLR6O",
+        "username": "FurinaDF",
+        "verified": false
+      }
+    ]
+  }
+}

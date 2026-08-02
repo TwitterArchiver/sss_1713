@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1990259397935894693",
+    "created_at": "2025-11-17T03:23:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T04:23:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990259397935894693"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sss_1713/statu…",
+          "end": 138,
+          "expanded_url": "https://twitter.com/sss_1713/status/1990245296694235646",
+          "start": 115,
+          "url": "https://t.co/2xaBwxsl9i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990259397935894693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990245296694235646",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一谈到天主教她就只会说“你是不是就想让我入教”，上次跟机构里面的信新教的女老师多说了几句话（关于天主教）也被她斥责了，说学生不应该跟老师这么亲近，我解释说我有传教的义务，她根本就是不听，完全就是把宗教层面下拉到男女关系层面去。 https://t.co/2xaBwxsl9i"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1990259397935894693",
+        "created_at": "2025-11-17T03:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T04:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990259397935894693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 138,
+              "expanded_url": "https://twitter.com/sss_1713/status/1990245296694235646",
+              "start": 115,
+              "url": "https://t.co/2xaBwxsl9i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990259397935894693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990245296694235646",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一谈到天主教她就只会说“你是不是就想让我入教”，上次跟机构里面的信新教的女老师多说了几句话（关于天主教）也被她斥责了，说学生不应该跟老师这么亲近，我解释说我有传教的义务，她根本就是不听，完全就是把宗教层面下拉到男女关系层面去。 https://t.co/2xaBwxsl9i"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1990245296694235646",
+        "created_at": "2025-11-17T02:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T03:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990245296694235646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/sss_1713/status/1990244292372419004",
+              "start": 15,
+              "url": "https://t.co/6w2JRNBVZQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990245296694235646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990244292372419004",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的喜好她一点都不愿意了解。 https://t.co/6w2JRNBVZQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5828,
+          "following_count": 991,
+          "like_count": 45750,
+          "listed_count": 17,
+          "media_count": 926,
+          "tweet_count": 7892
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

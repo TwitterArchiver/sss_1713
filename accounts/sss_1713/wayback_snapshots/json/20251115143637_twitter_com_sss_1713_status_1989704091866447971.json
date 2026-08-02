@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1989346431937937544",
+    "created_at": "2025-11-15T14:36:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T15:36:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989704091866447971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1332252107638927360",
+          "start": 0,
+          "username": "jun17630250"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989704091866447971",
+    "in_reply_to_user_id": "1332252107638927360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989346431937937544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jun17630250 🥹把我接走再封"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 634,
+        "media_key": "3_1989345909432610816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5uTkIsbcAAe1YK.png",
+        "width": 1062
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1989346431937937544",
+        "created_at": "2025-11-15T14:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T15:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989704091866447971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1332252107638927360",
+              "start": 0,
+              "username": "jun17630250"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989704091866447971",
+        "in_reply_to_user_id": "1332252107638927360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989346431937937544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jun17630250 🥹把我接走再封"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989345909432610816"
+          ]
+        },
+        "author_id": "1332252107638927360",
+        "conversation_id": "1989346431937937544",
+        "created_at": "2025-11-14T14:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T15:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989346431937937544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q23s97fTnH",
+              "end": 55,
+              "expanded_url": "https://x.com/jun17630250/status/1989346431937937544/photo/1",
+              "media_key": "3_1989345909432610816",
+              "start": 32,
+              "url": "https://t.co/q23s97fTnH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989346431937937544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 18437,
+          "like_count": 206,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "这应该是中国政府发过的最顺眼的一条通告了。最好能把提醒改成强制 https://t.co/q23s97fTnH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5829,
+          "following_count": 987,
+          "like_count": 45720,
+          "listed_count": 17,
+          "media_count": 925,
+          "tweet_count": 7851
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-27T09:17:17.000Z",
+        "description": "天が生む、万物人に与え\n人は報い、天へ何も無し",
+        "id": "1332252107638927360",
+        "location": "池袋",
+        "name": "横浜打野",
+        "pinned_tweet_id": "1988576148092277203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862083611811569664/aDIElDkD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6829,
+          "following_count": 1564,
+          "like_count": 3927,
+          "listed_count": 45,
+          "media_count": 2873,
+          "tweet_count": 21223
+        },
+        "username": "jun17630250",
+        "verified": true
+      }
+    ]
+  }
+}

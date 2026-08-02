@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066763910628212736",
+        "3_2066763910615633920"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2066763938461528425",
+    "created_at": "2026-06-16T06:04:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T07:04:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066763938461528425"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gbJD5LGQE9",
+          "end": 29,
+          "expanded_url": "https://x.com/sss_1713/status/2066763938461528425/photo/1",
+          "media_key": "3_2066763910628212736",
+          "start": 6,
+          "url": "https://t.co/gbJD5LGQE9"
+        },
+        {
+          "display_url": "pic.x.com/gbJD5LGQE9",
+          "end": 29,
+          "expanded_url": "https://x.com/sss_1713/status/2066763938461528425/photo/1",
+          "media_key": "3_2066763910615633920",
+          "start": 6,
+          "url": "https://t.co/gbJD5LGQE9"
+        },
+        {
+          "display_url": "x.com/sss_1713/statu…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/sss_1713/status/2065829478417457237",
+          "start": 30,
+          "url": "https://t.co/13IdOr2eRT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066763938461528425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065829478417457237",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "收到书啦🥳 https://t.co/gbJD5LGQE9 https://t.co/13IdOr2eRT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2579,
+        "media_key": "3_2066763910628212736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6e05eXgAAHk76.jpg",
+        "width": 2591
+      },
+      {
+        "height": 3668,
+        "media_key": "3_2066763910615633920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6e05bXkAA3Iee.jpg",
+        "width": 2226
+      },
+      {
+        "height": 495,
+        "media_key": "3_2065829458637193216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKtM8oibgAA01kW.jpg",
+        "width": 669
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066763910628212736",
+            "3_2066763910615633920"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2066763938461528425",
+        "created_at": "2026-06-16T06:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066763938461528425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gbJD5LGQE9",
+              "end": 29,
+              "expanded_url": "https://x.com/sss_1713/status/2066763938461528425/photo/1",
+              "media_key": "3_2066763910628212736",
+              "start": 6,
+              "url": "https://t.co/gbJD5LGQE9"
+            },
+            {
+              "display_url": "pic.x.com/gbJD5LGQE9",
+              "end": 29,
+              "expanded_url": "https://x.com/sss_1713/status/2066763938461528425/photo/1",
+              "media_key": "3_2066763910615633920",
+              "start": 6,
+              "url": "https://t.co/gbJD5LGQE9"
+            },
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/sss_1713/status/2065829478417457237",
+              "start": 30,
+              "url": "https://t.co/13IdOr2eRT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066763938461528425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065829478417457237",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "收到书啦🥳 https://t.co/gbJD5LGQE9 https://t.co/13IdOr2eRT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065829458637193216"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2065829478417457237",
+        "created_at": "2026-06-13T16:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T17:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065829478417457237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zfMf30cSeh",
+              "end": 132,
+              "expanded_url": "https://x.com/sss_1713/status/2065829478417457237/photo/1",
+              "media_key": "3_2065829458637193216",
+              "start": 109,
+              "url": "https://t.co/zfMf30cSeh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065829478417457237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2712,
+          "like_count": 54,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "买了李银河老师的《性学入门》，但我率先在评论区里看到了这段她对性同意年龄的评价。\n我仅针对这段反驳李银河老师：法律赋予一个14岁孩子说“可以”的权利，但我们的社会从未系统地教过他们什么是“不可以”，以及如何说“不”。 https://t.co/zfMf30cSeh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5893,
+          "following_count": 763,
+          "like_count": 51191,
+          "listed_count": 18,
+          "media_count": 1031,
+          "tweet_count": 9006
+        },
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

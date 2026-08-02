@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2075470690203934822",
+    "created_at": "2026-07-10T08:01:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T09:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075490698862707144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1397924779219292167",
+          "start": 0,
+          "username": "KawawaBasupisu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075490698862707144",
+    "in_reply_to_user_id": "1397924779219292167",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075479898358268004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawawaBasupisu 哈哈哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2075470690203934822",
+        "created_at": "2026-07-10T08:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075490698862707144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1397924779219292167",
+              "start": 0,
+              "username": "KawawaBasupisu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075490698862707144",
+        "in_reply_to_user_id": "1397924779219292167",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075479898358268004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawawaBasupisu 哈哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1397924779219292167",
+        "conversation_id": "2075470690203934822",
+        "created_at": "2026-07-10T07:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T08:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075479898358268004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075479898358268004",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075470690203934822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 我参加的高中抢考补习班更搞，甚至专设了个“逃生通道”，把白板打开是个暗门，进去的房间把衣柜打开就连接下楼的消防通道🥶然后直通这栋楼的垃圾场门"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5955,
+          "following_count": 791,
+          "like_count": 54371,
+          "listed_count": 18,
+          "media_count": 1078,
+          "tweet_count": 9423
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-27T14:37:03.000Z",
+        "description": "Minecraft船大工& Flight enthusiast👨‍✈️& 僵毁老司机& 资深洛批& AC7 & 洛圣都佐巴扬&超级气球冻肉\n日本語⭕、English⭕、蜀语⭕\n⭐本人拒绝“搬屎”和为流量传播、捏造未经证实的虚假信息及盗窃他人创作成果、此类蓝标“创作者”会Block.\n不负责粉区碰瓷后的PTSD治疗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "caac.gov.cn",
+                "end": 23,
+                "expanded_url": "https://www.caac.gov.cn",
+                "start": 0,
+                "url": "https://t.co/hLiv6Lbagv"
+              }
+            ]
+          }
+        },
+        "id": "1397924779219292167",
+        "location": " 卡洛西亚大陸",
+        "name": "翔太くん✈️",
+        "pinned_tweet_id": "1903109740160335943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979181079417290752/wVluLINB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12610,
+          "following_count": 1948,
+          "like_count": 52930,
+          "listed_count": 57,
+          "media_count": 1104,
+          "tweet_count": 6778
+        },
+        "url": "https://t.co/hLiv6Lbagv",
+        "username": "KawawaBasupisu",
+        "verified": false
+      }
+    ]
+  }
+}

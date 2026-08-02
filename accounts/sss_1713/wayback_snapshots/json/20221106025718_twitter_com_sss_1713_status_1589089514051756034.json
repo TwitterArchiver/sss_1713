@@ -1,0 +1,110 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Nov 06 02:57:18 +0000 2022",
+  "display_text_range": [
+    46,
+    50
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1431833976537169926,
+        "id_str": "1431833976537169926",
+        "indices": [
+          0,
+          15
+        ],
+        "name": "killer🇹🇼🇹🇼",
+        "screen_name": "killer76142195"
+      },
+      {
+        "id": 1381523094087507974,
+        "id_str": "1381523094087507974",
+        "indices": [
+          16,
+          29
+        ],
+        "name": "🍐老师🔮",
+        "screen_name": "pear14525902"
+      },
+      {
+        "id": 1528925023720771584,
+        "id_str": "1528925023720771584",
+        "indices": [
+          30,
+          45
+        ],
+        "name": "☭赛博骑士☭ 🗡肃正银河✨",
+        "screen_name": "cyberknight233"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1589089514051756034,
+  "id_str": "1589089514051756034",
+  "in_reply_to_screen_name": "killer76142195",
+  "in_reply_to_status_id": 1589071573209972736,
+  "in_reply_to_status_id_str": "1589071573209972736",
+  "in_reply_to_user_id": 1431833976537169926,
+  "in_reply_to_user_id_str": "1431833976537169926",
+  "is_quote_status": false,
+  "lang": "ja",
+  "place": null,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "text": "@killer76142195 @pear14525902 @cyberknight233 笑死我了",
+  "timestamp_ms": "1667703438662",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Mon Apr 27 02:56:50 +0000 2020",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+    "favourites_count": 29696,
+    "follow_request_sent": null,
+    "followers_count": 2487,
+    "following": null,
+    "friends_count": 866,
+    "geo_enabled": true,
+    "id": 1254605353838231553,
+    "id_str": "1254605353838231553",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 18,
+    "location": null,
+    "name": "ZHGR-1713（开学请假）",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1661069890",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1557709483509329921/JiR-Wq8j_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1557709483509329921/JiR-Wq8j_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "sss_1713",
+    "statuses_count": 6599,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "http://petp.art.blog",
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1969926122680017073",
+    "created_at": "2025-09-22T00:46:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T01:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969926122680017073"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jmrjnct/status…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/jmrjnct/status/1969763170798416239",
+          "start": 13,
+          "url": "https://t.co/hWYlhuEJPS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969926122680017073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969763170798416239",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种地方，没人能独善其身 https://t.co/hWYlhuEJPS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1969926122680017073",
+        "created_at": "2025-09-22T00:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T01:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969926122680017073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jmrjnct/status…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/jmrjnct/status/1969763170798416239",
+              "start": 13,
+              "url": "https://t.co/hWYlhuEJPS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969926122680017073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969763170798416239",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种地方，没人能独善其身 https://t.co/hWYlhuEJPS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625171231371845632",
+        "conversation_id": "1969763170798416239",
+        "created_at": "2025-09-21T13:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T14:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969763170798416239"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969763170798416239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 76362,
+          "like_count": 988,
+          "quote_count": 3,
+          "reply_count": 116,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "谁信那个通告啊 我真的好难过 于朦胧这辈子过的太苦了 哎 这个国家没救了 只会捂嘴洗脑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5801,
+          "following_count": 973,
+          "like_count": 45850,
+          "listed_count": 18,
+          "media_count": 947,
+          "tweet_count": 7748
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-13T16:33:17.000Z",
+        "description": "",
+        "id": "1625171231371845632",
+        "name": "아앙",
+        "pinned_tweet_id": "1626229954735390721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888045236699721728/BXaRSC-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 349,
+          "like_count": 642,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 377
+        },
+        "username": "jmrjnct",
+        "verified": false
+      }
+    ]
+  }
+}

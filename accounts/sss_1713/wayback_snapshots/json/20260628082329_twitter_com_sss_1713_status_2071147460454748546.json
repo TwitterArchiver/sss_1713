@@ -1,0 +1,774 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1115703486639788032",
+          "name": "Studio Ghibli"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+          "id": "10045599546",
+          "name": "Pokémon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+          "id": "10045599546",
+          "name": "Pokémon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1115703486639788032",
+          "name": "Studio Ghibli"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1192082698568814592",
+          "name": "Animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1339352163508600832",
+          "name": "Animation studios"
+        }
+      }
+    ],
+    "conversation_id": "2071147460454748546",
+    "created_at": "2026-06-28T08:23:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T09:23:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071147460454748546"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oricon_anime_/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/oricon_anime_/status/2071049146715513202",
+          "start": 9,
+          "url": "https://t.co/LDfAZ4etwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071147460454748546",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071049146715513202",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "R.I.P.🕯️ https://t.co/LDfAZ4etwe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2218,
+        "media_key": "3_2071049067975823360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3YJ4kaUAALGeQ.jpg",
+        "width": 1610
+      },
+      {
+        "height": 1038,
+        "media_key": "3_2071049088326643713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3YLEYbMAEIGEa.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1115703486639788032",
+              "name": "Studio Ghibli"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1115703486639788032",
+              "name": "Studio Ghibli"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352163508600832",
+              "name": "Animation studios"
+            }
+          }
+        ],
+        "conversation_id": "2071147460454748546",
+        "created_at": "2026-06-28T08:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071147460454748546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oricon_anime_/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/oricon_anime_/status/2071049146715513202",
+              "start": 9,
+              "url": "https://t.co/LDfAZ4etwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071147460454748546",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071049146715513202",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "R.I.P.🕯️ https://t.co/LDfAZ4etwe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071049067975823360",
+            "3_2071049088326643713"
+          ]
+        },
+        "author_id": "1007491708769013760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1115703486639788032",
+              "name": "Studio Ghibli"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1115703486639788032",
+              "name": "Studio Ghibli"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352163508600832",
+              "name": "Animation studios"
+            }
+          }
+        ],
+        "conversation_id": "2071049146715513202",
+        "created_at": "2026-06-28T01:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T02:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071049146715513202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "ニュース｜　歌手で俳優の美輪明宏さんが6月20日に死去した。91歳だった。美輪さんはアニメ映画『もののけ姫』モロの君役、『劇場版ポケットモンスター ダイヤモンド&パール アルセウス 超克の時空へ』アルセウス役など、声優としても活躍しており、ネット上ではアニメファンから追悼の声があふれている。　『もののけ姫』で演じたモロの君は、ヒロインのサンを育てた山犬で、劇中で印象的なシーンを数々残したキャラクター。アシタカに言い放った「黙れ小僧！」は名セリフで、日本テレビ系『金曜ロードショー』で放送されるたびに、ネット上でトレンドにあがるほど強烈なセリフを残している。　『劇場版ポケットモンスター ダイヤモンド&パール アルセウス 超克の時空へ』で演じたアルセウスは、宇宙を作ったと言われている幻のポケモン。何千年もの昔、人間に裏切られたアルセウスは、人間に復讐するため、激しい怒りとともに現代へと現れ、サトシたちがたどりついた町・ミチーナを攻撃するという物語が劇中で描かれ、まさに“最強のポケモン”を演じた。　そのほか、『ハウルの動く城』荒地の魔女役、『幻魔大戦』フロイ役など、アニメ作品に声優出演しており、アニメファンからも愛された美輪さんの訃報にネット上では、「もののけ姫のモロのイメージが強いですね。謹んでお悔やみ申し上げます」「何気なくハウルともののけ姫見たくなってDVD引っ張り出してみてたんだよな。マジかぁ、嘘だと言って欲しい。美輪さんの言葉に応援されて立ち直ったことも何度かある。ご冥福をお祈りします」。",
+              "display_url": "oricon.co.jp/news/2464161/f…",
+              "end": 75,
+              "expanded_url": "https://www.oricon.co.jp/news/2464161/full/?utm_source=Twitter&utm_medium=social&ref_cd=jstw001",
+              "images": [
+                {
+                  "height": 420,
+                  "url": "https://pbs.twimg.com/news_img/2071049147898286082/6K1uyyid?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2071049147898286082/6K1uyyid?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 52,
+              "status": 200,
+              "title": "美輪明宏さん死去、声優でも功績　『もののけ姫』モロの君役・『ポケモン』アルセウス役など…アニメファン追悼",
+              "unwound_url": "https://www.oricon.co.jp/news/2464161/full/?utm_source=Twitter&utm_medium=social&ref_cd=jstw001",
+              "url": "https://t.co/0BAuVdxb7n"
+            },
+            {
+              "display_url": "pic.x.com/lx96jKYnqZ",
+              "end": 146,
+              "expanded_url": "https://x.com/oricon_anime_/status/2071049146715513202/photo/1",
+              "media_key": "3_2071049067975823360",
+              "start": 123,
+              "url": "https://t.co/lx96jKYnqZ"
+            },
+            {
+              "display_url": "pic.x.com/lx96jKYnqZ",
+              "end": 146,
+              "expanded_url": "https://x.com/oricon_anime_/status/2071049146715513202/photo/1",
+              "media_key": "3_2071049088326643713",
+              "start": 123,
+              "url": "https://t.co/lx96jKYnqZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071049146715513202",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3147,
+          "impression_count": 3779207,
+          "like_count": 71680,
+          "quote_count": 2157,
+          "reply_count": 440,
+          "retweet_count": 17241
+        },
+        "reply_settings": "everyone",
+        "text": "美輪明宏さん死去、声優でも功績\n \n『もののけ姫』モロの君役\n『ポケモン』アルセウス役など…ファン追悼\nhttps://t.co/0BAuVdxb7n\n \n老衰のため91歳。「最後は『ありがとう』と一言感謝の言葉を伝え、静かに目を閉じました」。 https://t.co/lx96jKYnqZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5912,
+          "following_count": 778,
+          "like_count": 52671,
+          "listed_count": 18,
+          "media_count": 1052,
+          "tweet_count": 9228
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-15T05:15:16.000Z",
+        "description": "オリコンアニメです🙇『オリコンニュース』の中からアニメ、声優、漫画、イベント等のニュースを厳選して毎日お届け🤲🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "oricon.co.jp/category/anime/",
+                "end": 23,
+                "expanded_url": "https://www.oricon.co.jp/category/anime/",
+                "start": 0,
+                "url": "https://t.co/F3utrT499W"
+              }
+            ]
+          }
+        },
+        "id": "1007491708769013760",
+        "location": "東京都港区",
+        "name": "オリコンニュース【アニメ】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1537373227517112320/w_WZdZvN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469906,
+          "following_count": 1095,
+          "like_count": 2014,
+          "listed_count": 1526,
+          "media_count": 16386,
+          "tweet_count": 55043
+        },
+        "url": "https://t.co/F3utrT499W",
+        "username": "oricon_anime_",
+        "verified": true
+      }
+    ]
+  }
+}

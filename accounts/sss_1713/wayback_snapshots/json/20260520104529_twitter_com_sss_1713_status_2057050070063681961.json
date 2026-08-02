@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057050062392279040"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2056797838039003447",
+    "created_at": "2026-05-20T10:45:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T11:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057050070063681961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2048303363670802432",
+          "start": 0,
+          "username": "Homelandertc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D8hXwzjFZO",
+          "end": 39,
+          "expanded_url": "https://x.com/sss_1713/status/2057050070063681961/photo/1",
+          "media_key": "3_2057050062392279040",
+          "start": 16,
+          "url": "https://t.co/D8hXwzjFZO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057050070063681961",
+    "in_reply_to_user_id": "2048303363670802432",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056797838039003447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Homelandertc 😂 https://t.co/D8hXwzjFZO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2440,
+        "media_key": "3_2057050062392279040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwcIg4WQAA4EBy.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057050062392279040"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2056797838039003447",
+        "created_at": "2026-05-20T10:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057050070063681961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2048303363670802432",
+              "start": 0,
+              "username": "Homelandertc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D8hXwzjFZO",
+              "end": 39,
+              "expanded_url": "https://x.com/sss_1713/status/2057050070063681961/photo/1",
+              "media_key": "3_2057050062392279040",
+              "start": 16,
+              "url": "https://t.co/D8hXwzjFZO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057050070063681961",
+        "in_reply_to_user_id": "2048303363670802432",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056797838039003447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Homelandertc 😂 https://t.co/D8hXwzjFZO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048303363670802432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10056559383",
+              "name": "The Boys"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281303495421784065",
+              "name": "Dark drama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1306573414300172293",
+              "name": "The Boys"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1306573414300172293",
+              "name": "The Boys"
+            }
+          }
+        ],
+        "conversation_id": "2056797838039003447",
+        "created_at": "2026-05-19T18:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T19:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056797838039003447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056797838039003447",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 18937,
+          "like_count": 333,
+          "quote_count": 2,
+          "reply_count": 76,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "Homelander fans post the best picture you have of me. I will be in the comments."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2056686933950996682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5804,
+          "following_count": 744,
+          "like_count": 47844,
+          "listed_count": 18,
+          "media_count": 965,
+          "tweet_count": 8388
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T07:29:54.000Z",
+        "description": "Vought said to “humanize myself online.” This is my attempt. It’s going well.",
+        "id": "2048303363670802432",
+        "name": "Homelander",
+        "pinned_tweet_id": "2048323575023546585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048303841893117952/dGSKTn78_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 76,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 368
+        },
+        "username": "Homelandertc",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2067429386098491634",
+    "created_at": "2026-06-18T02:09:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T03:09:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067429386098491634"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2067352717757149664",
+          "start": 65,
+          "url": "https://t.co/doZTe7956b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067429386098491634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067352717757149664",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "上了这么多年推，看到过上访被打断腿的、提头上访的，几十年如一的在门口排队，但是很少见到有人说通过上访实现了什么，上访真的有用吗🥲 https://t.co/doZTe7956b"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15394,
+        "height": 1280,
+        "media_key": "13_2067324108405420032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067324108405420032/img/PlxORuakG4vFOlnn.jpg",
+        "public_metrics": {
+          "view_count": 12009
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067324108405420032/vid/avc1/320x568/gLUhAuTMhUof0HQn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067324108405420032/vid/avc1/480x852/08kUConifkCqQELD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067324108405420032/vid/avc1/720x1280/vQoipjej4jT0Lw05.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067324108405420032/pl/ISxusY3pVsbJzESn.m3u8?v=64e"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 13931,
+        "height": 1280,
+        "media_key": "13_2067324108401156096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067324108401156096/img/hHvfSYOU3v9a-dmJ.jpg",
+        "public_metrics": {
+          "view_count": 1950
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067324108401156096/vid/avc1/320x568/Yc63lr7t3FrMdz-l.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067324108401156096/vid/avc1/480x852/BwuDSEhKHvNTKCsl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067324108401156096/vid/avc1/720x1280/xZFjP1aFP4b46cSk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067324108401156096/pl/GMWuEQpVq3IrqJBa.m3u8?v=b60"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1069,
+        "media_key": "3_2067324108384448512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLCcUsvbMAAVwzA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2067429386098491634",
+        "created_at": "2026-06-18T02:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T03:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067429386098491634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2067352717757149664",
+              "start": 65,
+              "url": "https://t.co/doZTe7956b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067429386098491634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067352717757149664",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上了这么多年推，看到过上访被打断腿的、提头上访的，几十年如一的在门口排队，但是很少见到有人说通过上访实现了什么，上访真的有用吗🥲 https://t.co/doZTe7956b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067324108405420032",
+            "13_2067324108401156096",
+            "3_2067324108384448512"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2067352717757149664",
+        "created_at": "2026-06-17T21:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T21:40:00.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067346543917908425",
+          "2067352717757149664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O9IfSnUvU8",
+              "end": 51,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2067352717757149664/video/1",
+              "media_key": "13_2067324108405420032",
+              "start": 28,
+              "url": "https://t.co/O9IfSnUvU8"
+            },
+            {
+              "display_url": "pic.x.com/O9IfSnUvU8",
+              "end": 51,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2067352717757149664/video/1",
+              "media_key": "13_2067324108401156096",
+              "start": 28,
+              "url": "https://t.co/O9IfSnUvU8"
+            },
+            {
+              "display_url": "pic.x.com/O9IfSnUvU8",
+              "end": 51,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2067352717757149664/video/1",
+              "media_key": "3_2067324108384448512",
+              "start": 28,
+              "url": "https://t.co/O9IfSnUvU8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067352717757149664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 23340,
+          "like_count": 106,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "6月16日，北京永定门西街，上访者们在大雨中打着伞排队 https://t.co/O9IfSnUvU8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5905,
+          "following_count": 771,
+          "like_count": 51540,
+          "listed_count": 18,
+          "media_count": 1035,
+          "tweet_count": 9068
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2236902,
+          "following_count": 1070,
+          "like_count": 9709,
+          "listed_count": 8796,
+          "media_count": 48795,
+          "tweet_count": 55962
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

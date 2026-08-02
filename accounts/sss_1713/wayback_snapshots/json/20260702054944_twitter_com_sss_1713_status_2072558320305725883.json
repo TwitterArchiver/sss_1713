@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Marriage",
+          "id": "847896538105782272",
+          "name": "Marriage"
+        }
+      }
+    ],
+    "conversation_id": "2072558320305725883",
+    "created_at": "2026-07-02T05:49:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T06:49:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072558320305725883"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/omotec2018/sta…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/omotec2018/status/2072258606335201421",
+          "start": 16,
+          "url": "https://t.co/ESV3XenhWr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072558320305725883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072258606335201421",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第一次知道日本人也看抗日剧🫪🫪 https://t.co/ESV3XenhWr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1370,
+        "media_key": "3_2072258597954998272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIkNy3bUAAAh7T.jpg",
+        "width": 986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2072558320305725883",
+        "created_at": "2026-07-02T05:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T06:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072558320305725883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/omotec2018/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/omotec2018/status/2072258606335201421",
+              "start": 16,
+              "url": "https://t.co/ESV3XenhWr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072558320305725883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072258606335201421",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一次知道日本人也看抗日剧🫪🫪 https://t.co/ESV3XenhWr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072258597954998272"
+          ]
+        },
+        "author_id": "2036744077220413440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2072258606335201421",
+        "created_at": "2026-07-01T09:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T10:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072258606335201421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IgRqlqpW5i",
+              "end": 100,
+              "expanded_url": "https://x.com/omotec2018/status/2072258606335201421/photo/1",
+              "media_key": "3_2072258597954998272",
+              "start": 77,
+              "url": "https://t.co/IgRqlqpW5i"
+            },
+            {
+              "display_url": "x.com/shishang_des/s…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/shishang_des/status/2071920462528143521",
+              "start": 101,
+              "url": "https://t.co/YQUPnZGFeJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072258606335201421",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "確かにそうだ。私は子どもの頃から抗日ドラマを見て育ったので、子どもの頃からの夢は、日本人の女性エージェント、スパイ、あるいは殺し屋と結婚することだった。\n\n大人になってから気づいた。日本人の女性殺し屋は、射撃、格闘、暗殺、そして情報収集や情報通信技術を学び、訓練するために、何十年もの時間を費やしている。そんな優秀な日本人殺し屋に、私は釣り合わない。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3735,
+          "impression_count": 5192141,
+          "like_count": 17645,
+          "quote_count": 317,
+          "reply_count": 176,
+          "retweet_count": 3281
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071920462528143521",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "確かにそうだ。私は子どもの頃から抗日ドラマを見て育ったので、子どもの頃からの夢は、日本人の女性エージェント、スパイ、あるいは殺し屋と結婚することだった。 https://t.co/IgRqlqpW5i https://t.co/YQUPnZGFeJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5922,
+          "following_count": 783,
+          "like_count": 53189,
+          "listed_count": 18,
+          "media_count": 1062,
+          "tweet_count": 9305
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-25T09:57:20.000Z",
+        "description": "中国人です。\n風俗嬢が客を罵ってる投稿を見るのが好きです。",
+        "id": "2036744077220413440",
+        "name": "小鹿のランラン",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069683324616839168/8S93yDQH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 64,
+          "like_count": 862,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 391
+        },
+        "url": "",
+        "username": "omotec2018",
+        "verified": true
+      }
+    ]
+  }
+}

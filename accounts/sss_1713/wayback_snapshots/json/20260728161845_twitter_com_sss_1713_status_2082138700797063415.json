@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082138686892945409"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2082138700797063415",
+    "created_at": "2026-07-28T16:18:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T17:18:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082138700797063415"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fz0wslABak",
+          "end": 164,
+          "expanded_url": "https://x.com/sss_1713/status/2082138700797063415/photo/1",
+          "media_key": "3_2082138686892945409",
+          "start": 141,
+          "url": "https://t.co/fz0wslABak"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082138700797063415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发现咱们中国人在国外是爱管闲事哈，我在路边问问法轮功一些事情，就是有傻逼在旁边问我跟他们搭话还想不想回国了。一个法轮功的老太太七老八十的我说难听的身体已经朝着衰竭去了，你们在哪跟她大声对着唱反调可显着你们了😅😅法轮功在香港也是注册的合法组织，那香港还算不算国内？傻逼二极管滚你妈的 https://t.co/fz0wslABak"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1712,
+        "media_key": "3_2082138686892945409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOU-GqVaMAEWQZD.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082138686892945409"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082138700797063415",
+        "created_at": "2026-07-28T16:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082138700797063415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fz0wslABak",
+              "end": 164,
+              "expanded_url": "https://x.com/sss_1713/status/2082138700797063415/photo/1",
+              "media_key": "3_2082138686892945409",
+              "start": 141,
+              "url": "https://t.co/fz0wslABak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082138700797063415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发现咱们中国人在国外是爱管闲事哈，我在路边问问法轮功一些事情，就是有傻逼在旁边问我跟他们搭话还想不想回国了。一个法轮功的老太太七老八十的我说难听的身体已经朝着衰竭去了，你们在哪跟她大声对着唱反调可显着你们了😅😅法轮功在香港也是注册的合法组织，那香港还算不算国内？傻逼二极管滚你妈的 https://t.co/fz0wslABak"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5995,
+          "following_count": 797,
+          "like_count": 55466,
+          "listed_count": 18,
+          "media_count": 1094,
+          "tweet_count": 9610
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

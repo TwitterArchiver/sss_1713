@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2070093653511663724",
+    "created_at": "2026-06-25T10:36:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T11:36:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070093653511663724"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/max358japan/st…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/max358japan/status/2069556104032649660",
+          "start": 16,
+          "url": "https://t.co/XTaneRaKmz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070093653511663724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069556104032649660",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一个自信且没有文化常识的人⬇️ https://t.co/XTaneRaKmz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30487,
+        "height": 1808,
+        "media_key": "13_2069297210773413888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069297210773413888/img/DNKgo3ksqVgoji-r.jpg",
+        "public_metrics": {
+          "view_count": 1390971
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069297210773413888/pl/vVIzY8sukbspBMa-.m3u8?v=9f4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069297210773413888/vid/avc1/1080x1808/cWdjEYFFDbdKSjCE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069297210773413888/vid/avc1/720x1204/h62m8K3cT4Qk2KP9.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069297210773413888/vid/avc1/320x534/br-qHJxNuSVgcOKm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069297210773413888/vid/avc1/480x802/NzAkOTYC0u7spHC8.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2070093653511663724",
+        "created_at": "2026-06-25T10:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T11:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070093653511663724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/max358japan/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/max358japan/status/2069556104032649660",
+              "start": 16,
+              "url": "https://t.co/XTaneRaKmz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070093653511663724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069556104032649660",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个自信且没有文化常识的人⬇️ https://t.co/XTaneRaKmz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069297210773413888"
+          ]
+        },
+        "author_id": "1052781729423876096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069556104032649660",
+        "created_at": "2026-06-23T23:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T00:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069556104032649660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q3k7ujJgiN",
+              "end": 106,
+              "expanded_url": "https://x.com/max358japan/status/2069556104032649660/video/1",
+              "media_key": "13_2069297210773413888",
+              "start": 83,
+              "url": "https://t.co/Q3k7ujJgiN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069556104032649660",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1559,
+          "impression_count": 3093799,
+          "like_count": 7615,
+          "quote_count": 188,
+          "reply_count": 233,
+          "retweet_count": 778
+        },
+        "reply_settings": "everyone",
+        "text": "「お前ら･･･臭ぇからマジで😫💦」\nこういうの見ると、お風呂の文化がある国に生まれてよかったと本当に思う。\n\n【重さ80kgの香炉が時速70kmで群衆の上を揺れる】 https://t.co/Q3k7ujJgiN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5913,
+          "following_count": 776,
+          "like_count": 52403,
+          "listed_count": 18,
+          "media_count": 1044,
+          "tweet_count": 9186
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-18T04:41:38.000Z",
+        "description": "プレミアム➕️会員！フォローしてね｜頑張ってる方を応援してます！｜世界中の面白動画像などをご紹介🎯 政治・経済・芸能ﾆｭｰｽなどを“最速×わかりやすく”解説中！｜お願い🙏 : ﾎﾟｽﾄ画像、動画内容に何か問題がある場合はまずURL付きでDMかﾘﾌﾟﾗｲ下さい📢｜政党や敵味方関係なく是々非々で活動中｜  φβκ",
+        "id": "1052781729423876096",
+        "location": "Chiba Prefecture, Japan",
+        "name": "358ちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1348172562715398146/zXqrV3h8_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246569,
+          "following_count": 5335,
+          "like_count": 668092,
+          "listed_count": 448,
+          "media_count": 40233,
+          "tweet_count": 244851
+        },
+        "url": "",
+        "username": "max358japan",
+        "verified": true
+      }
+    ]
+  }
+}

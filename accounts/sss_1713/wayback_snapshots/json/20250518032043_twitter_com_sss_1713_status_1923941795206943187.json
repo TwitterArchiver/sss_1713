@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1923941795206943187",
+    "created_at": "2025-05-18T03:20:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T04:20:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923941795206943187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923941795206943187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 197
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923744893291381166",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 近日，山东。女子称，4月28日早上奶奶送两个妹妹上学，一名15岁少年载着一群精神小伙在大马路上逆行飙车，将奶奶和年仅8岁的妹妹撞死，11岁的妹妹重伤还在ICU治疗。女子表示：“国家和社会拿这些人一点办法都没有吗？我的妹妹和奶奶怎么办？”…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 114985,
+        "height": 1920,
+        "media_key": "13_1923744261918322688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1923744261918322688/img/ng230Idbew4xaaVN.jpg",
+        "public_metrics": {
+          "view_count": 59204
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1923744261918322688/pl/4ZuvkfFXnndoJ9-L.m3u8?v=acc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923744261918322688/vid/avc1/480x852/8iyydFmuOJTagDfh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923744261918322688/vid/avc1/720x1280/wYOjnoD1Xi_DDiun.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923744261918322688/vid/avc1/320x568/5fc7JrP9AX-HGfAH.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923744261918322688/vid/avc1/1080x1920/mWx7d6yhztEVW2G2.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 2008,
+        "media_key": "3_1923744270214725632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrKDOKjXgAACuuc.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1923941795206943187",
+        "created_at": "2025-05-18T03:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T04:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923941795206943187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923941795206943187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 197
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923744893291381166",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 近日，山东。女子称，4月28日早上奶奶送两个妹妹上学，一名15岁少年载着一群精神小伙在大马路上逆行飙车，将奶奶和年仅8岁的妹妹撞死，11岁的妹妹重伤还在ICU治疗。女子表示：“国家和社会拿这些人一点办法都没有吗？我的妹妹和奶奶怎么办？”…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1923744261918322688",
+            "3_1923744270214725632"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1923744893291381166",
+        "created_at": "2025-05-17T14:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T15:16:55.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923744543448629693",
+          "1923744893291381166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zXOOJRjSb4",
+              "end": 158,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1923744893291381166/video/1",
+              "media_key": "13_1923744261918322688",
+              "start": 135,
+              "url": "https://t.co/zXOOJRjSb4"
+            },
+            {
+              "display_url": "pic.x.com/zXOOJRjSb4",
+              "end": 158,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1923744893291381166/video/1",
+              "media_key": "3_1923744270214725632",
+              "start": 135,
+              "url": "https://t.co/zXOOJRjSb4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923744893291381166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 137,
+          "impression_count": 116264,
+          "like_count": 1180,
+          "quote_count": 11,
+          "reply_count": 115,
+          "retweet_count": 197
+        },
+        "reply_settings": "everyone",
+        "text": "近日，山东。女子称，4月28日早上奶奶送两个妹妹上学，一名15岁少年载着一群精神小伙在大马路上逆行飙车，将奶奶和年仅8岁的妹妹撞死，11岁的妹妹重伤还在ICU治疗。女子表示：“国家和社会拿这些人一点办法都没有吗？我的妹妹和奶奶怎么办？”\n目前，女子发布的视频已被删除。 https://t.co/zXOOJRjSb4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJo6NX"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5745,
+          "following_count": 1038,
+          "like_count": 46000,
+          "listed_count": 18,
+          "media_count": 956,
+          "tweet_count": 7693
+        },
+        "url": "https://t.co/Z7RPjJo6NX",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1918067909705838897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1987867,
+          "following_count": 953,
+          "like_count": 6355,
+          "listed_count": 8148,
+          "media_count": 28148,
+          "tweet_count": 34616
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

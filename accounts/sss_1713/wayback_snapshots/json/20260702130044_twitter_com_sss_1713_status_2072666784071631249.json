@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2072535892410204534",
+    "created_at": "2026-07-02T13:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T14:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072666784071631249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1442006998640300038",
+          "start": 0,
+          "username": "Fzdxw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072666784071631249",
+    "in_reply_to_user_id": "1442006998640300038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072661897716146565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fzdxw 我去。为什么没人给我发，我挺想看这个的。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2072661888559947777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOTAZcbIAEnSHT.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2072535892410204534",
+        "created_at": "2026-07-02T13:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072666784071631249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1442006998640300038",
+              "start": 0,
+              "username": "Fzdxw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072666784071631249",
+        "in_reply_to_user_id": "1442006998640300038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072661897716146565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fzdxw 我去。为什么没人给我发，我挺想看这个的。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072661888559947777"
+          ]
+        },
+        "author_id": "1442006998640300038",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072535892410204534",
+        "created_at": "2026-07-02T12:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072661897716146565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AaFBMrrI8b",
+              "end": 40,
+              "expanded_url": "https://x.com/Fzdxw/status/2072661897716146565/photo/1",
+              "media_key": "3_2072661888559947777",
+              "start": 17,
+              "url": "https://t.co/AaFBMrrI8b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072661897716146565",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072535892410204534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 被发到过这个 https://t.co/AaFBMrrI8b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5922,
+          "following_count": 784,
+          "like_count": 53310,
+          "listed_count": 18,
+          "media_count": 1045,
+          "tweet_count": 9236
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-26T06:04:01.000Z",
+        "description": "你进来想查我成分吗",
+        "id": "1442006998640300038",
+        "name": "风中的小王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1575788102399848449/mx2J83Nu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2144,
+          "following_count": 194,
+          "like_count": 26525,
+          "listed_count": 10,
+          "media_count": 1884,
+          "tweet_count": 13310
+        },
+        "url": "",
+        "username": "Fzdxw",
+        "verified": false
+      }
+    ]
+  }
+}

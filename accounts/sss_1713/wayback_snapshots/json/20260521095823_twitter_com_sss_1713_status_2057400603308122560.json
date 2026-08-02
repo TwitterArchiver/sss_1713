@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057400594307162112"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2057400603308122560",
+    "created_at": "2026-05-21T09:58:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T10:58:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057400603308122560"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mFiQztWHRt",
+          "end": 73,
+          "expanded_url": "https://x.com/sss_1713/status/2057400603308122560/photo/1",
+          "media_key": "3_2057400594307162112",
+          "start": 50,
+          "url": "https://t.co/mFiQztWHRt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057400603308122560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🥲我肯定不适合当M，前任隔着衣服掐的我身上青一块紫一块，第二天早上看着遍体鳞伤的自己偷偷掉小珍珠。 https://t.co/mFiQztWHRt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1384,
+        "media_key": "3_2057400594307162112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1a8KBbIAAMZKY.jpg",
+        "width": 871
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057400594307162112"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2057400603308122560",
+        "created_at": "2026-05-21T09:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T10:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057400603308122560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mFiQztWHRt",
+              "end": 73,
+              "expanded_url": "https://x.com/sss_1713/status/2057400603308122560/photo/1",
+              "media_key": "3_2057400594307162112",
+              "start": 50,
+              "url": "https://t.co/mFiQztWHRt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057400603308122560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥲我肯定不适合当M，前任隔着衣服掐的我身上青一块紫一块，第二天早上看着遍体鳞伤的自己偷偷掉小珍珠。 https://t.co/mFiQztWHRt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2056686933950996682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5805,
+          "following_count": 745,
+          "like_count": 47929,
+          "listed_count": 18,
+          "media_count": 969,
+          "tweet_count": 8404
+        },
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

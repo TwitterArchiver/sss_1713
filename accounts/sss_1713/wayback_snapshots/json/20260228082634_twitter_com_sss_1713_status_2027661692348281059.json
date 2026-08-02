@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2027661692348281059",
+    "created_at": "2026-02-28T08:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T09:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027661692348281059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "38154763",
+          "start": 3,
+          "username": "PahlaviReza"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027661692348281059",
+    "lang": "fa",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17143
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027648281577132145",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PahlaviReza: هم‌میهنان عزیزم،\n\nلحظاتی سرنوشت‌ساز پیشِ روی ماست.\n\nکمکی که رئیس‌جمهور ایالات متحده به مردم شجاع ایران وعده داده بود، اکنو…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 221200,
+        "height": 1080,
+        "media_key": "13_2027648000781119488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027648000781119488/img/BMWLfCG6qzXGQNsz.jpg",
+        "public_metrics": {
+          "view_count": 349789
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027648000781119488/vid/avc1/1280x720/p6cCcbOQ3XqmoQC7.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027648000781119488/vid/avc1/480x270/DJ8jwSJjx3RQtQ5c.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027648000781119488/pl/mcxaUBTWy15lFoXC.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027648000781119488/vid/avc1/640x360/-2AmxBFS2YgPin3A.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027648000781119488/vid/avc1/1920x1080/OludEQvC3zK-5toK.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2027661692348281059",
+        "created_at": "2026-02-28T08:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T09:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027661692348281059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "38154763",
+              "start": 3,
+              "username": "PahlaviReza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027661692348281059",
+        "lang": "fa",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17143
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027648281577132145",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PahlaviReza: هم‌میهنان عزیزم،\n\nلحظاتی سرنوشت‌ساز پیشِ روی ماست.\n\nکمکی که رئیس‌جمهور ایالات متحده به مردم شجاع ایران وعده داده بود، اکنو…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027648000781119488"
+          ]
+        },
+        "author_id": "38154763",
+        "conversation_id": "2027648281577132145",
+        "created_at": "2026-02-28T07:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T08:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027648281577132145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kRiamgeCpS",
+              "end": 303,
+              "expanded_url": "https://x.com/PahlaviReza/status/2027648281577132145/video/1",
+              "media_key": "13_2027648000781119488",
+              "start": 280,
+              "url": "https://t.co/kRiamgeCpS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027648281577132145",
+        "lang": "fa",
+        "note_tweet": {
+          "entities": {},
+          "text": "هم‌میهنان عزیزم،\n\nلحظاتی سرنوشت‌ساز پیشِ روی ماست.\n\nکمکی که رئیس‌جمهور ایالات متحده به مردم شجاع ایران وعده داده بود، اکنون رسیده است. این یک مداخله بشردوستانه است؛ و هدف آن، جمهوری اسلامی، دستگاه سرکوب و ماشین کشتار آن است؛ نه کشور و ملت بزرگ ایران.\n\nاما، با وجود رسیدن این کمک، پیروزی نهایی هم‌چنان به دست ما رقم خواهد خورد. این ما ملت ایران هستیم که در این آخرین نبرد کار را تمام خواهیم کرد. زمان بازگشت به خیابان‌ها نزدیک است.\n\nاکنون که جمهوری اسلامی در حال فروپاشی است، پیام من به نیروهای نظامی، انتظامی و امنیتی کشور روشن است:\n\nشما سوگند خورده‌اید حافظ ایران و ملت ایران باشید، نه حافظ جمهوری اسلامی و سرکردگانش. وظیفه شما دفاع از مردم است، نه دفاع از رژیمی که با سرکوب و جنایت، میهن ما را به گروگان گرفته است. به ملت بپیوندید و به یک گذار باثبات و امن کمک کنید. در غیر این صورت، با کشتی درهم‌شکسته خامنه‌ای و رژیمش غرق خواهید شد.\n\nو پیام من به رئیس‌جمهور ایالات متحده، پرزیدنت ترامپ، این است:\n\nملت شریف ایران، با وجود سرکوب و کشتار وحشیانه این رژیم، نزدیک به دو ماه با دلاوری ایستادگی کرد. اینک از شما می‌خواهم بیشترین احتیاط ممکن را برای حفظ جان غیرنظامیان و هم‌میهنانم به کار ببرید. مردم ایران، متحدان طبیعی شما و جهان آزادند، و یاری شما در سخت‌ترین دوره تاریخ معاصر ایران را فراموش نخواهند کرد.\n\nو به شما هم‌میهنان عزیزم در ایران:\n\nدر این ساعت‌ها و روزهای حساس، بیش از هر زمان دیگر باید بر هدف نهایی خود متمرکز بمانیم: بازپس‌گرفتن ایران.\n\nمن از شما می‌خواهم که در حال حاضر در خانه‌های خود بمانید و آرامش و امنیت خود را حفظ کنید. هوشیار و آماده باشید تا در زمان مناسب، که به‌طور دقیق به اطلاع شما خواهم رساند، برای اقدام نهایی به خیابان‌ها باز گردید.\n\nپیام‌های من را از طریق شبکه‌های اجتماعی و رسانه‌های ماهواره‌ای دنبال کنید. اگر در اینترنت و ماهواره اختلال ایجاد شد، از طریق امواج رادیویی با شما در تماس خواهم بود.\n\nما به پیروزی نهایی بسیار نزدیکیم. می‌خواهم هر چه زودتر در کنار شما باشم تا با هم ایران را پس بگیریم و دوباره بسازیم.\n\nپاینده ایران،\nرضا پهلوی"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2116,
+          "impression_count": 1196941,
+          "like_count": 42692,
+          "quote_count": 1609,
+          "reply_count": 4407,
+          "retweet_count": 17143
+        },
+        "reply_settings": "everyone",
+        "text": "هم‌میهنان عزیزم،\n\nلحظاتی سرنوشت‌ساز پیشِ روی ماست.\n\nکمکی که رئیس‌جمهور ایالات متحده به مردم شجاع ایران وعده داده بود، اکنون رسیده است. این یک مداخله بشردوستانه است؛ و هدف آن، جمهوری اسلامی، دستگاه سرکوب و ماشین کشتار آن است؛ نه کشور و ملت بزرگ ایران.\n\nاما، با وجود رسیدن این کمک، https://t.co/kRiamgeCpS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5847,
+          "following_count": 1014,
+          "like_count": 46540,
+          "listed_count": 18,
+          "media_count": 938,
+          "tweet_count": 8083
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-06T10:52:38.000Z",
+        "description": "Rise Iran! ایران را پس می‌گیریم @PahlaviComms",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "PahlaviComms"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/RezaPahlavi",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/RezaPahlavi",
+                "start": 0,
+                "url": "https://t.co/Nx9w9bp9xa"
+              }
+            ]
+          }
+        },
+        "id": "38154763",
+        "name": "Reza Pahlavi",
+        "pinned_tweet_id": "2027648281577132145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1213223562598850560/ZThdbU1H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2086500,
+          "following_count": 67,
+          "like_count": 420,
+          "listed_count": 3055,
+          "media_count": 1348,
+          "tweet_count": 4730
+        },
+        "url": "https://t.co/Nx9w9bp9xa",
+        "username": "PahlaviReza",
+        "verified": true
+      }
+    ]
+  }
+}

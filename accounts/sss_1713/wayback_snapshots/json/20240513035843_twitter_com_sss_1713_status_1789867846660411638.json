@@ -1,0 +1,195 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1789636507239948710",
+    "created_at": "2024-05-13T03:58:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-13T04:58:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1789867846660411638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1464319347736911877",
+          "start": 0,
+          "username": "sugihara_tatuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789867846660411638",
+    "in_reply_to_user_id": "1464319347736911877",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789636507239948710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sugihara_tatuo 是宇宙主佛🤣🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1789636507239948710",
+        "created_at": "2024-05-13T03:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-13T04:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789867846660411638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1464319347736911877",
+              "start": 0,
+              "username": "sugihara_tatuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789867846660411638",
+        "in_reply_to_user_id": "1464319347736911877",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789636507239948710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sugihara_tatuo 是宇宙主佛🤣🤣"
+      },
+      {
+        "attachments": {
+          "poll_ids": [
+            "1789636505562173440"
+          ]
+        },
+        "author_id": "1464319347736911877",
+        "conversation_id": "1789636507239948710",
+        "created_at": "2024-05-12T12:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-12T13:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789636507239948710"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1789636507239948710",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2300,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "明天5月13日是李洪志的生日。李洪志是："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "锈叶🍂",
+        "pinned_tweet_id": "1665009561508495368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5487,
+          "following_count": 1004,
+          "like_count": 46754,
+          "listed_count": 19,
+          "tweet_count": 7520
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-26T19:45:30.000Z",
+        "description": "斃れずば止まじもの。目田狗/傳統派。長篇歷史架空作品「子夜之后」連載中 https://t.co/uE3gW318D2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitter.com/sugihara_tatuo…",
+                "end": 59,
+                "expanded_url": "https://twitter.com/sugihara_tatuo/status/1604130969434279936?s=19",
+                "start": 36,
+                "url": "https://t.co/uE3gW318D2"
+              }
+            ]
+          }
+        },
+        "id": "1464319347736911877",
+        "name": "杉原 辰雄 💤",
+        "pinned_tweet_id": "1708725254925996471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782374791863025664/82J-Mke5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2421,
+          "following_count": 736,
+          "like_count": 83175,
+          "listed_count": 13,
+          "tweet_count": 7423
+        },
+        "username": "sugihara_tatuo",
+        "verified": false
+      }
+    ]
+  }
+}

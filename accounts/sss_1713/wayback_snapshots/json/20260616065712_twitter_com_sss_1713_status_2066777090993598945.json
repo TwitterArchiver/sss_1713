@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2066772763524690111",
+    "created_at": "2026-06-16T06:57:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T07:57:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066777090993598945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066777090993598945",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066772763524690111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 答题纸上轻飘飘的“廉价劳动力”背后是沉重的枷锁。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 57097,
+        "height": 1920,
+        "media_key": "13_2066647936675565568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066647936675565568/img/s9qrJzhzl1TjEh7k.jpg",
+        "public_metrics": {
+          "view_count": 1432
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066647936675565568/vid/avc1/480x852/yjMwAyX1AUCCOS9i.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066647936675565568/vid/avc1/1080x1920/N-p7rZ-rnKfu3n9V.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066647936675565568/vid/avc1/320x568/e4JmBDHgQeYhZui1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066647936675565568/vid/avc1/720x1280/19SrNBxuuWVM3m8U.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066647936675565568/pl/u4E0YFmtWwM2JW1d.m3u8"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 621,
+        "media_key": "3_2066647936654606336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK41WUwXgAA4TKJ.jpg",
+        "width": 779
+      },
+      {
+        "height": 709,
+        "media_key": "3_2066647936692301824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK41WU5WsAAh4pK.jpg",
+        "width": 735
+      },
+      {
+        "height": 134,
+        "media_key": "3_2066647936683925504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK41WU3W4AAQOTJ.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2066772763524690111",
+        "created_at": "2026-06-16T06:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066777090993598945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066777090993598945",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066772763524690111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 答题纸上轻飘飘的“廉价劳动力”背后是沉重的枷锁。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066647936675565568",
+            "3_2066647936654606336",
+            "3_2066647936692301824",
+            "3_2066647936683925504"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066772763524690111",
+        "created_at": "2026-06-16T06:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066772763524690111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lk7kw2WtLs",
+              "end": 147,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2066772763524690111/video/1",
+              "media_key": "13_2066647936675565568",
+              "start": 124,
+              "url": "https://t.co/Lk7kw2WtLs"
+            },
+            {
+              "display_url": "pic.x.com/Lk7kw2WtLs",
+              "end": 147,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2066772763524690111/video/1",
+              "media_key": "3_2066647936654606336",
+              "start": 124,
+              "url": "https://t.co/Lk7kw2WtLs"
+            },
+            {
+              "display_url": "pic.x.com/Lk7kw2WtLs",
+              "end": 147,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2066772763524690111/video/1",
+              "media_key": "3_2066647936692301824",
+              "start": 124,
+              "url": "https://t.co/Lk7kw2WtLs"
+            },
+            {
+              "display_url": "pic.x.com/Lk7kw2WtLs",
+              "end": 147,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2066772763524690111/video/1",
+              "media_key": "3_2066647936683925504",
+              "start": 124,
+              "url": "https://t.co/Lk7kw2WtLs"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2011215164264386713",
+              "start": 148,
+              "url": "https://t.co/pQd44pchX2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066772763524690111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“卖给粉丝的玩偶售价三位数，缝制一道工序的玩偶的工人却只能拿到七分钱”\n\n近日，缝制玩偶暴利引起网友热议。\n\n一位在玩偶工厂上班的阿姨发的玩偶加工视频，她在评论区透露，自己负责的一道工序做完一个玩偶仅能赚7分钱。\n\n工厂普遍都是 8+4 现 12 小时工作制。工人们被针扎到也是家常便饭，做工好的娃娃或许能多个几分钱，但一天下来，阿姨们赚到的钱可能还不足以买下一只自己缝制的娃娃。\n\n而更令人唏嘘的是，连七分钱都算是给得多的了。还有网友的妈妈之前给娃娃缝耳朵，做一只工厂才给两分钱。\n\n无法得知的是，中间商和厂家到底从中抽了多少。\n工厂对工人们的压榨，以及消费者付出大量的金钱买下一只溢价严重的娃娃，可这些钱大部分都进了那些没有付出任何劳动的人的口袋，真正的劳动者获得的报酬连九牛一毛都算不上。\n\n评论区也有多人补充类似经历。有网友称“缝一个尾巴7分，一个充棉挂件1毛”，还有网友说广东等地存在家庭作坊拿回家做零散加工，“一件几毛钱”。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5717,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011215164264386713",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“卖给粉丝的玩偶售价三位数，缝制一道工序的玩偶的工人却只能拿到七分钱”\n\n近日，缝制玩偶暴利引起网友热议。\n\n一位在玩偶工厂上班的阿姨发的玩偶加工视频，她在评论区透露，自己负责的一道工序做完一个玩偶仅能赚7分钱。\n\n工厂普遍都是 8+4 现 12 https://t.co/Lk7kw2WtLs https://t.co/pQd44pchX2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5893,
+          "following_count": 763,
+          "like_count": 51206,
+          "listed_count": 18,
+          "media_count": 1031,
+          "tweet_count": 9008
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2236530,
+          "following_count": 1070,
+          "like_count": 9703,
+          "listed_count": 8792,
+          "media_count": 48677,
+          "tweet_count": 55839
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

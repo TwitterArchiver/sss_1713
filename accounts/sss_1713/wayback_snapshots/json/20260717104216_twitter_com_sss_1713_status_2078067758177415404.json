@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2078067758177415404",
+    "created_at": "2026-07-17T10:42:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T11:42:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078067758177415404"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078067758177415404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "坐火车碰见个精神病，一言不合就“操你妈”“我他妈整死你”，人家让他让让路说要整死人家，骂上头了还连着骂共产党。一堆搞民运的都当精神病抓进去了，但是真遇到真精神病他们就一点招都没。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2078067758177415404",
+        "created_at": "2026-07-17T10:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078067758177415404"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078067758177415404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坐火车碰见个精神病，一言不合就“操你妈”“我他妈整死你”，人家让他让让路说要整死人家，骂上头了还连着骂共产党。一堆搞民运的都当精神病抓进去了，但是真遇到真精神病他们就一点招都没。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5988,
+          "following_count": 796,
+          "like_count": 54878,
+          "listed_count": 18,
+          "media_count": 1095,
+          "tweet_count": 9555
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      }
+    ]
+  }
+}

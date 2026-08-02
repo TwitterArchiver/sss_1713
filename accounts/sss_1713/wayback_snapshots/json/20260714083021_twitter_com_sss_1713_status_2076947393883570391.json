@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2076701488433528990",
+    "created_at": "2026-07-14T08:30:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T09:30:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076947393883570391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1757862563977809920",
+          "start": 0,
+          "username": "xiariyushi1985"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076947393883570391",
+    "in_reply_to_user_id": "1757862563977809920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076875054491586987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiariyushi1985 靴靴🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2076701488433528990",
+        "created_at": "2026-07-14T08:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T09:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076947393883570391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1757862563977809920",
+              "start": 0,
+              "username": "xiariyushi1985"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076947393883570391",
+        "in_reply_to_user_id": "1757862563977809920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076875054491586987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiariyushi1985 靴靴🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757862563977809920",
+        "conversation_id": "2076701488433528990",
+        "created_at": "2026-07-14T03:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T04:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076875054491586987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076875054491586987",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076701488433528990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 心疼你喵🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5981,
+          "following_count": 794,
+          "like_count": 54717,
+          "listed_count": 18,
+          "media_count": 1089,
+          "tweet_count": 9503
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-14T20:22:09.000Z",
+        "description": "我不属于这个世界。\n狡猾淳朴。",
+        "id": "1757862563977809920",
+        "name": "夏日雨诗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065099403711463424/11R5u7pj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 68,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "xiariyushi1985",
+        "verified": false
+      }
+    ]
+  }
+}

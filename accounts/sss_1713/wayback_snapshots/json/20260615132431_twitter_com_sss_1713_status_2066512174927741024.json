@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2066472066891809014",
+    "created_at": "2026-06-15T13:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T14:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066512174927741024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2040054095378083840",
+          "start": 0,
+          "username": "shsh531980"
+        },
+        {
+          "end": 24,
+          "id": "1741063508102627328",
+          "start": 12,
+          "username": "kitty068_ly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066512174927741024",
+    "in_reply_to_user_id": "2040054095378083840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066507875074134430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shsh531980 @kitty068_ly 嘿嘿，其实这样做偶也有私心，万一被举报就不好啦😌😌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2066472066891809014",
+        "created_at": "2026-06-15T13:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066512174927741024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040054095378083840",
+              "start": 0,
+              "username": "shsh531980"
+            },
+            {
+              "end": 24,
+              "id": "1741063508102627328",
+              "start": 12,
+              "username": "kitty068_ly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066512174927741024",
+        "in_reply_to_user_id": "2040054095378083840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066507875074134430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shsh531980 @kitty068_ly 嘿嘿，其实这样做偶也有私心，万一被举报就不好啦😌😌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040054095378083840",
+        "conversation_id": "2066472066891809014",
+        "created_at": "2026-06-15T13:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066507875074134430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            },
+            {
+              "end": 22,
+              "id": "1741063508102627328",
+              "start": 10,
+              "username": "kitty068_ly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066507875074134430",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066488592776446168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 @kitty068_ly 你不需要为了尊重别人而不尊重自己捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5889,
+          "following_count": 764,
+          "like_count": 51089,
+          "listed_count": 18,
+          "media_count": 1028,
+          "tweet_count": 8994
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T13:09:47.000Z",
+        "description": "三年级白幼瘦小正太 求对喷板",
+        "id": "2040054095378083840",
+        "name": "fukd✝️❤️‍🔥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062205597576232960/UOP4Uvbl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 5,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 220
+        },
+        "username": "shsh531980",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T11:47:58.000Z",
+        "description": "本账号不适合看不懂人话的人交流 和我想法不一样的人可以不说话\n会用@Eric52802090721 回复\n一个queer\n老婆妈妈主人爸爸老公哥哥姐姐@dngyng169770781",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "Eric52802090721"
+              },
+              {
+                "end": 91,
+                "start": 75,
+                "username": "dngyng169770781"
+              }
+            ]
+          }
+        },
+        "id": "1741063508102627328",
+        "location": "South Park",
+        "name": "易子而食",
+        "pinned_tweet_id": "2036628825292091673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019851159041949696/qYHRz2xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1691,
+          "following_count": 560,
+          "like_count": 9659,
+          "listed_count": 3,
+          "media_count": 293,
+          "tweet_count": 5604
+        },
+        "username": "kitty068_ly",
+        "verified": false
+      }
+    ]
+  }
+}

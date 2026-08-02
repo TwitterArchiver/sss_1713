@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947668254329307136",
+        "3_1947668254534606848"
+      ],
+      "media_source_tweet_id": [
+        "1947668260599828809",
+        "1947668260599828809"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "1947745410354975055",
+    "created_at": "2025-07-22T19:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T20:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947745410354975055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1900874391673802752",
+          "start": 3,
+          "username": "nya__bi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DinWlsYzy0",
+          "end": 41,
+          "expanded_url": "https://x.com/nya__bi/status/1947668260599828809/photo/1",
+          "media_key": "3_1947668254329307136",
+          "start": 18,
+          "url": "https://t.co/DinWlsYzy0"
+        },
+        {
+          "display_url": "pic.x.com/DinWlsYzy0",
+          "end": 41,
+          "expanded_url": "https://x.com/nya__bi/status/1947668260599828809/photo/1",
+          "media_key": "3_1947668254534606848",
+          "start": 18,
+          "url": "https://t.co/DinWlsYzy0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947745410354975055",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947668260599828809",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nya__bi: 옷 자랑 https://t.co/DinWlsYzy0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1510,
+        "media_key": "3_1947668254329307136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GweB9UeagAAvgJy.jpg",
+        "width": 974
+      },
+      {
+        "height": 1421,
+        "media_key": "3_1947668254534606848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GweB9VPXIAATgdq.jpg",
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947668254329307136",
+            "3_1947668254534606848"
+          ],
+          "media_source_tweet_id": [
+            "1947668260599828809",
+            "1947668260599828809"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "1947745410354975055",
+        "created_at": "2025-07-22T19:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T20:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947745410354975055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1900874391673802752",
+              "start": 3,
+              "username": "nya__bi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DinWlsYzy0",
+              "end": 41,
+              "expanded_url": "https://x.com/nya__bi/status/1947668260599828809/photo/1",
+              "media_key": "3_1947668254329307136",
+              "start": 18,
+              "url": "https://t.co/DinWlsYzy0"
+            },
+            {
+              "display_url": "pic.x.com/DinWlsYzy0",
+              "end": 41,
+              "expanded_url": "https://x.com/nya__bi/status/1947668260599828809/photo/1",
+              "media_key": "3_1947668254534606848",
+              "start": 18,
+              "url": "https://t.co/DinWlsYzy0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947745410354975055",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947668260599828809",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nya__bi: 옷 자랑 https://t.co/DinWlsYzy0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947668254329307136",
+            "3_1947668254534606848"
+          ]
+        },
+        "author_id": "1900874391673802752",
+        "conversation_id": "1947668260599828809",
+        "created_at": "2025-07-22T14:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T15:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947668260599828809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DinWlsYzy0",
+              "end": 28,
+              "expanded_url": "https://x.com/nya__bi/status/1947668260599828809/photo/1",
+              "media_key": "3_1947668254329307136",
+              "start": 5,
+              "url": "https://t.co/DinWlsYzy0"
+            },
+            {
+              "display_url": "pic.x.com/DinWlsYzy0",
+              "end": 28,
+              "expanded_url": "https://x.com/nya__bi/status/1947668260599828809/photo/1",
+              "media_key": "3_1947668254534606848",
+              "start": 5,
+              "url": "https://t.co/DinWlsYzy0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947668260599828809",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 7799,
+          "like_count": 177,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "옷 자랑 https://t.co/DinWlsYzy0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJo6NX"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5785,
+          "following_count": 1049,
+          "like_count": 45949,
+          "listed_count": 18,
+          "media_count": 940,
+          "tweet_count": 7691
+        },
+        "url": "https://t.co/Z7RPjJo6NX",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T11:39:16.000Z",
+        "description": "",
+        "id": "1900874391673802752",
+        "name": "히",
+        "pinned_tweet_id": "1947685236667715669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946947414834749440/aTtA6fce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2611,
+          "following_count": 263,
+          "like_count": 3350,
+          "listed_count": 5,
+          "media_count": 77,
+          "tweet_count": 269
+        },
+        "username": "nya__bi",
+        "verified": false
+      }
+    ]
+  }
+}

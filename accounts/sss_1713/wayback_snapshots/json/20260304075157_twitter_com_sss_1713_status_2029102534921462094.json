@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2029102534921462094",
+    "created_at": "2026-03-04T07:51:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T08:51:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029102534921462094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "854250925480845312",
+          "start": 3,
+          "username": "liulingyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029102534921462094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 219
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028723447665414472",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liulingyue: 嗯，我掉进一个误区里了，其实大陆的土改不应该叫土改，与其他国家的任何对比都是徒劳的，它的准确命名应当是：一次以土地为诱饵、针对农民的原子化制度性围猎，将所有农民转变为农奴。\n\n大陆的土改是制度性的欺骗，给了农民土地，又迅速夺走，且通过之前的暴力铺…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2029102534921462094",
+        "created_at": "2026-03-04T07:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T08:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029102534921462094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "854250925480845312",
+              "start": 3,
+              "username": "liulingyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029102534921462094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 219
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028723447665414472",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liulingyue: 嗯，我掉进一个误区里了，其实大陆的土改不应该叫土改，与其他国家的任何对比都是徒劳的，它的准确命名应当是：一次以土地为诱饵、针对农民的原子化制度性围猎，将所有农民转变为农奴。\n\n大陆的土改是制度性的欺骗，给了农民土地，又迅速夺走，且通过之前的暴力铺…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "854250925480845312",
+        "conversation_id": "2028723447665414472",
+        "created_at": "2026-03-03T06:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T07:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028723447665414472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028723447665414472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "嗯，我掉进一个误区里了，其实大陆的土改不应该叫土改，与其他国家的任何对比都是徒劳的，它的准确命名应当是：一次以土地为诱饵、针对农民的原子化制度性围猎，将所有农民转变为农奴。\n\n大陆的土改是制度性的欺骗，给了农民土地，又迅速夺走，且通过之前的暴力铺垫让农民无法反抗这种夺走。\n\n它的成功只在\"国家权力建设\"上的成功，而在农民福祉和经济效率上是灾难性的失败。\n\n农民过了三年好日子，但这三年是用血债和未来的枷锁换来的。\n\n统购统销+工农剪刀差（1953），使资本积累尽数被掠夺，农民实际收入在1953年后停滞甚至下降，尽管产量在增长。\n\n合作化（1955-1956），土地集体化。\n\n人民公社（1958），彻底的农奴化，搭配户籍制度，农民被物理锁定在土地上，无法进城。\n\n暴力土改不仅给了农民土地，更重要的是摧毁了原有的中介阶层（地主、宗族），使农民作为原子化个体直接依附国家，结果就是面临国家更血腥更赤裸的经济掠夺和控制时毫无协商余地。\n\n土地在他们手里只掌握了6年（1950-1956），然后就被无偿剥夺了，而且因为土改时的暴力已经将\"个人产权\"污名化为\"封建剥削\"，农民甚至失去了捍卫产权的道德底气。\n\n总结：\n1. 它用土地做诱饵，换取了农民对暴力革命的支持\n2. 它摧毁了中间层，让农民在后续剥夺中毫无抵抗能力\n3. 它建立了道德恐怖（\"地主是恶魔\"），使得任何对私有财产的捍卫都被视为\"反动\"\n4. 最终结果是农奴制：1958-1984年允许农民进程务工之前的中国农民，其人身依附程度（不能迁徙、不能择业、不能拥有私产）甚至超过了清朝佃农（清朝至少可以逃荒、可以改业、可以积累财富）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 359,
+          "impression_count": 78701,
+          "like_count": 1065,
+          "quote_count": 30,
+          "reply_count": 92,
+          "retweet_count": 219
+        },
+        "reply_settings": "everyone",
+        "text": "嗯，我掉进一个误区里了，其实大陆的土改不应该叫土改，与其他国家的任何对比都是徒劳的，它的准确命名应当是：一次以土地为诱饵、针对农民的原子化制度性围猎，将所有农民转变为农奴。\n\n大陆的土改是制度性的欺骗，给了农民土地，又迅速夺走，且通过之前的暴力铺垫让农民无法反抗这种夺走。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5845,
+          "following_count": 1016,
+          "like_count": 46562,
+          "listed_count": 18,
+          "media_count": 938,
+          "tweet_count": 8088
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-18T08:31:06.000Z",
+        "description": "速来接我回火星",
+        "id": "854250925480845312",
+        "name": "panchiao🚩🏴🏴‍☠️🏳️‍⚧️🏳‍🌈",
+        "pinned_tweet_id": "2022906791865258241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907841751840337924/31LJRKV1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3768,
+          "following_count": 1444,
+          "like_count": 18817,
+          "listed_count": 14,
+          "media_count": 991,
+          "tweet_count": 8913
+        },
+        "username": "liulingyue",
+        "verified": false
+      }
+    ]
+  }
+}

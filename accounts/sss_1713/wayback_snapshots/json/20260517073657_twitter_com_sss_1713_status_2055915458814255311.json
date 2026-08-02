@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055915447443402752"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1129067985451118593",
+          "name": "Physical Education"
+        }
+      }
+    ],
+    "conversation_id": "2055915458814255311",
+    "created_at": "2026-05-17T07:36:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T08:36:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055915458814255311"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YJYUDNnwiB",
+          "end": 94,
+          "expanded_url": "https://x.com/sss_1713/status/2055915458814255311/photo/1",
+          "media_key": "3_2055915447443402752",
+          "start": 71,
+          "url": "https://t.co/YJYUDNnwiB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055915458814255311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在抖音上学自闭症孩子说话的口气的人跟高一霸凌我的男的口气一模一样，上体育课的时候那群傻逼知道我信天主教，看到我一次就用戏谑的口气喊我天主…… https://t.co/YJYUDNnwiB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2055915447443402752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgUNO0aMAAjPRD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055915447443402752"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "2055915458814255311",
+        "created_at": "2026-05-17T07:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055915458814255311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YJYUDNnwiB",
+              "end": 94,
+              "expanded_url": "https://x.com/sss_1713/status/2055915458814255311/photo/1",
+              "media_key": "3_2055915447443402752",
+              "start": 71,
+              "url": "https://t.co/YJYUDNnwiB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055915458814255311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在抖音上学自闭症孩子说话的口气的人跟高一霸凌我的男的口气一模一样，上体育课的时候那群傻逼知道我信天主教，看到我一次就用戏谑的口气喊我天主…… https://t.co/YJYUDNnwiB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5801,
+          "following_count": 750,
+          "like_count": 47511,
+          "listed_count": 18,
+          "media_count": 949,
+          "tweet_count": 8310
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

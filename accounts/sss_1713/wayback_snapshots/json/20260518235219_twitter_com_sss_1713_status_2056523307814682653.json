@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2056319742814679099",
+    "created_at": "2026-05-18T23:52:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T00:52:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056523307814682653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2294384018",
+          "start": 0,
+          "username": "night77522"
+        },
+        {
+          "end": 25,
+          "id": "1950548412140494848",
+          "start": 12,
+          "username": "realQinYuele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056523307814682653",
+    "in_reply_to_user_id": "2294384018",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056463682381705456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@night77522 @realQinYuele 看看你的照片呢😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2056319742814679099",
+        "created_at": "2026-05-18T23:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T00:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056523307814682653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2294384018",
+              "start": 0,
+              "username": "night77522"
+            },
+            {
+              "end": 25,
+              "id": "1950548412140494848",
+              "start": 12,
+              "username": "realQinYuele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056523307814682653",
+        "in_reply_to_user_id": "2294384018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056463682381705456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@night77522 @realQinYuele 看看你的照片呢😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2294384018",
+        "conversation_id": "2056319742814679099",
+        "created_at": "2026-05-18T19:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T20:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056463682381705456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            },
+            {
+              "end": 23,
+              "id": "1950548412140494848",
+              "start": 10,
+              "username": "realQinYuele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056463682381705456",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056347698224132102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 @realQinYuele 相由心生，人醜心醜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2056258187355984313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5803,
+          "following_count": 751,
+          "like_count": 47615,
+          "listed_count": 18,
+          "media_count": 957,
+          "tweet_count": 8327
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-16T12:37:50.000Z",
+        "description": "Taiwan / Paiwan原住民族 / LGBTQ🏳️‍🌈",
+        "id": "2294384018",
+        "location": "Taiwan",
+        "name": "Tjakivalit Feijiun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808420934564659200/odORcWBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 34,
+          "like_count": 22277,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 3709
+        },
+        "username": "night77522",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T13:26:23.000Z",
+        "description": "Senior correspondent at Langxin News focusing on East Asian socio-political dynamics, digital civil rights, and emerging internet subcultures.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwen1",
+                "end": 23,
+                "expanded_url": "https://t.me/langrenxinwen1",
+                "start": 0,
+                "url": "https://t.co/CFxkcvTlO6"
+              }
+            ]
+          }
+        },
+        "id": "1950548412140494848",
+        "location": "Prague, Czech Republic",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000796873461043200/CC2Fl9ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26698,
+          "following_count": 351,
+          "like_count": 2071,
+          "listed_count": 72,
+          "media_count": 1714,
+          "tweet_count": 2170
+        },
+        "url": "https://t.co/CFxkcvTlO6",
+        "username": "realQinYuele",
+        "verified": false
+      }
+    ]
+  }
+}

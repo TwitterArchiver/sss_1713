@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2064834853766570095",
+    "created_at": "2026-06-11T12:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065044029629431996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "983332233120370689",
+          "start": 0,
+          "username": "0707_Master"
+        },
+        {
+          "end": 28,
+          "id": "912623216899715072",
+          "start": 13,
+          "username": "Xianzhong_1953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065044029629431996",
+    "in_reply_to_user_id": "983332233120370689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065042827575464299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0707_Master @Xianzhong_1953 大概只有一两年是很积极的在搞这个，后面听都没听过了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2064834853766570095",
+        "created_at": "2026-06-11T12:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065044029629431996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "983332233120370689",
+              "start": 0,
+              "username": "0707_Master"
+            },
+            {
+              "end": 28,
+              "id": "912623216899715072",
+              "start": 13,
+              "username": "Xianzhong_1953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065044029629431996",
+        "in_reply_to_user_id": "983332233120370689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065042827575464299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0707_Master @Xianzhong_1953 大概只有一两年是很积极的在搞这个，后面听都没听过了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "983332233120370689",
+        "conversation_id": "2064834853766570095",
+        "created_at": "2026-06-11T12:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065042827575464299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            },
+            {
+              "end": 25,
+              "id": "912623216899715072",
+              "start": 10,
+              "username": "Xianzhong_1953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065042827575464299",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064946069612757491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 @Xianzhong_1953 我那时候本科，辅导员发的学习率显示我们学校在后排，后面好像就不做学习率排名图了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5885,
+          "following_count": 759,
+          "like_count": 50461,
+          "listed_count": 18,
+          "media_count": 1007,
+          "tweet_count": 8889
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-09T13:14:08.000Z",
+        "description": "我家小鱼喵@fishcat114 | 一般顺♂ | CS Master毕业 | OI教练 | 明日方舟/碧蓝航线 | FF14/WOW | bang/pjsk | hololive/Nijisanji | 老二次元",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "fishcat114"
+              }
+            ]
+          }
+        },
+        "id": "983332233120370689",
+        "location": "Living Memory",
+        "name": "大0老师",
+        "pinned_tweet_id": "2019095184060084727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015418270057197569/F-HeftFw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 284,
+          "like_count": 1770,
+          "listed_count": 3,
+          "media_count": 48,
+          "tweet_count": 1488
+        },
+        "username": "0707_Master",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-26T10:21:45.000Z",
+        "description": "极度厌蠢！揭露一切反智行为！年过七旬的小孩子。不是著名支黑哦，但是不妨碍俺盼献忠。\n\n曾经的浙江苗族人，不是汉奸。",
+        "id": "912623216899715072",
+        "location": "Los Angeles, CA",
+        "name": "红袍猫后Penny",
+        "pinned_tweet_id": "1500427883395051523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974500216377163776/cCRJ74YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108145,
+          "following_count": 831,
+          "like_count": 269425,
+          "listed_count": 353,
+          "media_count": 24615,
+          "tweet_count": 48495
+        },
+        "username": "Xianzhong_1953",
+        "verified": false
+      }
+    ]
+  }
+}

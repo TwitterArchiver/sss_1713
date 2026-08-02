@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2062742860425056666",
+    "created_at": "2026-06-05T03:46:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T04:46:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062742860425056666"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2062731143389368355",
+          "start": 17,
+          "url": "https://t.co/dBXKZEg3kv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062742860425056666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062731143389368355",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人得坏成什么样才能做出来这种事。 https://t.co/dBXKZEg3kv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20200,
+        "height": 1280,
+        "media_key": "13_2062722379852533760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062722379852533760/img/p80-vjrWYe5Hvquw.jpg",
+        "public_metrics": {
+          "view_count": 9558
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062722379852533760/vid/avc1/320x556/5-vjD42ET9hqn0kq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062722379852533760/vid/avc1/480x834/r3CGTNHK23Mrj7_s.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062722379852533760/vid/avc1/736x1280/xbQZMRc7x-pkw9oA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062722379852533760/pl/LKvoTXbAWyllBYbM.m3u8?v=4ef"
+          }
+        ],
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2062742860425056666",
+        "created_at": "2026-06-05T03:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T04:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062742860425056666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2062731143389368355",
+              "start": 17,
+              "url": "https://t.co/dBXKZEg3kv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062742860425056666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062731143389368355",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人得坏成什么样才能做出来这种事。 https://t.co/dBXKZEg3kv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062722379852533760"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062731143389368355",
+        "created_at": "2026-06-05T03:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T04:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062731143389368355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zxhBjNKzc8",
+              "end": 167,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2062731143389368355/video/1",
+              "media_key": "13_2062722379852533760",
+              "start": 144,
+              "url": "https://t.co/zxhBjNKzc8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062731143389368355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 19118,
+          "like_count": 109,
+          "quote_count": 4,
+          "reply_count": 35,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "“一次得罪三个国家”\n6月4日，国内博主“梁满”发布的一则街头无底线恶搞视频。视频中，该博主将中国民间祭祀用品“天地银行”冥币冒充日元交给印度尼西亚当地民众，并诱导对方前往便利店购物。\n\n画面显示，当地民众进入店内后，自己则躲在门外偷拍对方反应，随后大笑离开现场并将视频上传到国内平台。 https://t.co/zxhBjNKzc8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5874,
+          "following_count": 750,
+          "like_count": 49198,
+          "listed_count": 18,
+          "media_count": 994,
+          "tweet_count": 8677
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2235279,
+          "following_count": 1068,
+          "like_count": 9630,
+          "listed_count": 8788,
+          "media_count": 47950,
+          "tweet_count": 55098
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

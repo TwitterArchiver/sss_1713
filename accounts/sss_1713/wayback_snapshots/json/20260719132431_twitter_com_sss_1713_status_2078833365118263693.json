@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2078833365118263693",
+    "created_at": "2026-07-19T13:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T14:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078833365118263693"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078833365118263693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎我真的觉得我好失败啊，我原来相信爱和沟通能够建立对立关系的桥梁，但是我发现我经常举例子的那个人其实是在对我表面一套背后一套。🥲🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2078833365118263693",
+        "created_at": "2026-07-19T13:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078833365118263693"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078833365118263693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎我真的觉得我好失败啊，我原来相信爱和沟通能够建立对立关系的桥梁，但是我发现我经常举例子的那个人其实是在对我表面一套背后一套。🥲🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5999,
+          "following_count": 801,
+          "like_count": 54995,
+          "listed_count": 18,
+          "media_count": 1088,
+          "tweet_count": 9540
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      }
+    ]
+  }
+}

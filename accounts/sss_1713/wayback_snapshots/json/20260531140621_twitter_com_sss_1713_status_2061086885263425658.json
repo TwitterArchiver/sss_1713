@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2060923772908257589",
+    "created_at": "2026-05-31T14:06:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T15:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061086885263425658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1125810740965675008",
+          "start": 0,
+          "username": "Harubom_ffxiv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061086885263425658",
+    "in_reply_to_user_id": "1125810740965675008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060923772908257589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Harubom_ffxiv 我也想买一个，但是很怕会莫名碎掉🥲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060923726842257408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnfNdebYAA_oH5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060923726884171776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnfNdoa8AAvpBZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060923726938640384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnfNd1aEAALFWf.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060923726905196544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnfNdtbwAAI1HP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2060923772908257589",
+        "created_at": "2026-05-31T14:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061086885263425658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1125810740965675008",
+              "start": 0,
+              "username": "Harubom_ffxiv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061086885263425658",
+        "in_reply_to_user_id": "1125810740965675008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060923772908257589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Harubom_ffxiv 我也想买一个，但是很怕会莫名碎掉🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060923726842257408",
+            "3_2060923726884171776",
+            "3_2060923726938640384",
+            "3_2060923726905196544"
+          ]
+        },
+        "author_id": "1125810740965675008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Jewelry",
+              "id": "845293633259552768",
+              "name": "Jewelry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Accessories",
+              "id": "846447164880433152",
+              "name": "Fashion accessories"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jewelry",
+              "id": "845293633259552768",
+              "name": "Jewelry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Jewelry",
+              "id": "845293633259552768",
+              "name": "Jewelry"
+            }
+          }
+        ],
+        "conversation_id": "2060923772908257589",
+        "created_at": "2026-05-31T03:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T04:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060923772908257589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LZbYQMMjIZ",
+              "end": 62,
+              "expanded_url": "https://x.com/Harubom_ffxiv/status/2060923772908257589/photo/1",
+              "media_key": "3_2060923726842257408",
+              "start": 39,
+              "url": "https://t.co/LZbYQMMjIZ"
+            },
+            {
+              "display_url": "pic.x.com/LZbYQMMjIZ",
+              "end": 62,
+              "expanded_url": "https://x.com/Harubom_ffxiv/status/2060923772908257589/photo/1",
+              "media_key": "3_2060923726884171776",
+              "start": 39,
+              "url": "https://t.co/LZbYQMMjIZ"
+            },
+            {
+              "display_url": "pic.x.com/LZbYQMMjIZ",
+              "end": 62,
+              "expanded_url": "https://x.com/Harubom_ffxiv/status/2060923772908257589/photo/1",
+              "media_key": "3_2060923726938640384",
+              "start": 39,
+              "url": "https://t.co/LZbYQMMjIZ"
+            },
+            {
+              "display_url": "pic.x.com/LZbYQMMjIZ",
+              "end": 62,
+              "expanded_url": "https://x.com/Harubom_ffxiv/status/2060923772908257589/photo/1",
+              "media_key": "3_2060923726905196544",
+              "start": 39,
+              "url": "https://t.co/LZbYQMMjIZ"
+            },
+            {
+              "display_url": "x.com/so_wo_n/status…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/so_wo_n/status/2060687891626610861",
+              "start": 63,
+              "url": "https://t.co/ydlMQLnbyW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060923772908257589",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 350,
+          "impression_count": 133536,
+          "like_count": 1213,
+          "quote_count": 55,
+          "reply_count": 7,
+          "retweet_count": 238
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060687891626610861",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "진짜옥(비취)도하세요여러분~~\n손가락에 촉촉한 물방울을 끼고다녀보세요 https://t.co/LZbYQMMjIZ https://t.co/ydlMQLnbyW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5860,
+          "following_count": 749,
+          "like_count": 48683,
+          "listed_count": 18,
+          "media_count": 983,
+          "tweet_count": 8587
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-07T17:12:51.000Z",
+        "description": "게임계이자 식계이자 원석계이자....etc",
+        "id": "1125810740965675008",
+        "location": "아모로트",
+        "name": "🌸Haru🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1578176029897928704/03eEmCvt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 274,
+          "like_count": 16212,
+          "listed_count": 3,
+          "media_count": 5838,
+          "tweet_count": 180484
+        },
+        "username": "Harubom_ffxiv",
+        "verified": false
+      }
+    ]
+  }
+}

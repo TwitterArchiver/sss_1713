@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2068095377119621593",
+    "created_at": "2026-06-20T13:38:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T14:38:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068327576322675032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1111963348252397574",
+          "start": 0,
+          "username": "machan_47291"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068327576322675032",
+    "in_reply_to_user_id": "1111963348252397574",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068095377119621593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@machan_47291 很好的证明了不是鼻子的原因。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068095372648423424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLNZyMBWoAAukgy.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068095372925300736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLNZyNDXcAAJ3Dm.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068095373382410240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLNZyOwWYAAbM5W.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068095374359703552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLNZySZWsAAUNJv.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2068095377119621593",
+        "created_at": "2026-06-20T13:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068327576322675032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1111963348252397574",
+              "start": 0,
+              "username": "machan_47291"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068327576322675032",
+        "in_reply_to_user_id": "1111963348252397574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068095377119621593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@machan_47291 很好的证明了不是鼻子的原因。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068095372648423424",
+            "3_2068095372925300736",
+            "3_2068095373382410240",
+            "3_2068095374359703552"
+          ]
+        },
+        "author_id": "1111963348252397574",
+        "conversation_id": "2068095377119621593",
+        "created_at": "2026-06-19T22:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T23:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068095377119621593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q8JmwqUA6S",
+              "end": 32,
+              "expanded_url": "https://x.com/machan_47291/status/2068095377119621593/photo/1",
+              "media_key": "3_2068095372648423424",
+              "start": 9,
+              "url": "https://t.co/q8JmwqUA6S"
+            },
+            {
+              "display_url": "pic.x.com/q8JmwqUA6S",
+              "end": 32,
+              "expanded_url": "https://x.com/machan_47291/status/2068095377119621593/photo/1",
+              "media_key": "3_2068095372925300736",
+              "start": 9,
+              "url": "https://t.co/q8JmwqUA6S"
+            },
+            {
+              "display_url": "pic.x.com/q8JmwqUA6S",
+              "end": 32,
+              "expanded_url": "https://x.com/machan_47291/status/2068095377119621593/photo/1",
+              "media_key": "3_2068095373382410240",
+              "start": 9,
+              "url": "https://t.co/q8JmwqUA6S"
+            },
+            {
+              "display_url": "pic.x.com/q8JmwqUA6S",
+              "end": 32,
+              "expanded_url": "https://x.com/machan_47291/status/2068095377119621593/photo/1",
+              "media_key": "3_2068095374359703552",
+              "start": 9,
+              "url": "https://t.co/q8JmwqUA6S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068095377119621593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 87891,
+          "like_count": 244,
+          "quote_count": 9,
+          "reply_count": 56,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我真求你了，，， https://t.co/q8JmwqUA6S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5907,
+          "following_count": 773,
+          "like_count": 51833,
+          "listed_count": 18,
+          "media_count": 1039,
+          "tweet_count": 9105
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-30T12:08:16.000Z",
+        "description": "cybersecurity major/ ethical philosophy and more/ Likes means I've read\n\nhttps://t.co/ypk8kLJ0Q2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "m.cmx.im/@machan",
+                "end": 96,
+                "expanded_url": "https://m.cmx.im/@machan",
+                "start": 73,
+                "url": "https://t.co/ypk8kLJ0Q2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/InfanterieDivi…",
+                "end": 23,
+                "expanded_url": "https://t.me/InfanterieDivision35",
+                "start": 0,
+                "url": "https://t.co/pOhtCyc926"
+              }
+            ]
+          }
+        },
+        "id": "1111963348252397574",
+        "name": "甜味麻酱🦈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1503218322665619464/kP3337Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2921,
+          "following_count": 645,
+          "like_count": 71003,
+          "listed_count": 21,
+          "media_count": 468,
+          "tweet_count": 9556
+        },
+        "url": "https://t.co/pOhtCyc926",
+        "username": "machan_47291",
+        "verified": false
+      }
+    ]
+  }
+}

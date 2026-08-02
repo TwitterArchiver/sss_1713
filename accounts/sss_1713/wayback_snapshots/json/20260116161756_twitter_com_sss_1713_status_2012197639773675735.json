@@ -1,0 +1,704 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296381531510849536",
+          "name": "New Years Eve\t"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2012197639773675735",
+    "created_at": "2026-01-16T16:17:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T17:17:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012197639773675735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "20784367",
+          "start": 3,
+          "username": "hrichina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012197639773675735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 142
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011876497636598266",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hrichina: 天安门母亲群体委托中国人权发布以下最新消息：\n\n我们天安门母亲群体一年一度的新春聚会遭到了政府的无理阻拦，第一次被禁止举行。\n\n原定于2025年12月28日在北京崇文门一家餐厅举行迎新年以及中国最为重要的节日春节前的迎新春聚会。难属们在身体健康状况允…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 848,
+        "media_key": "3_2011875750014550016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-ueVdPXAAAISZa.jpg",
+        "width": 1272
+      },
+      {
+        "height": 600,
+        "media_key": "3_2011875749674774529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-ueVb-WcAEHDZd.jpg",
+        "width": 800
+      },
+      {
+        "height": 716,
+        "media_key": "3_2011875751331844096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-ueViJbUAA4oT6.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2012197639773675735",
+        "created_at": "2026-01-16T16:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T17:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012197639773675735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "20784367",
+              "start": 3,
+              "username": "hrichina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012197639773675735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 142
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011876497636598266",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hrichina: 天安门母亲群体委托中国人权发布以下最新消息：\n\n我们天安门母亲群体一年一度的新春聚会遭到了政府的无理阻拦，第一次被禁止举行。\n\n原定于2025年12月28日在北京崇文门一家餐厅举行迎新年以及中国最为重要的节日春节前的迎新春聚会。难属们在身体健康状况允…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011875750014550016",
+            "3_2011875749674774529",
+            "3_2011875751331844096"
+          ]
+        },
+        "author_id": "20784367",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2011876497636598266",
+        "created_at": "2026-01-15T19:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T19:58:53.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011875754896998773",
+          "2011876497636598266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RH3Nw4W1Co",
+              "end": 169,
+              "expanded_url": "https://x.com/hrichina/status/2011876497636598266/photo/1",
+              "media_key": "3_2011875750014550016",
+              "start": 146,
+              "url": "https://t.co/RH3Nw4W1Co"
+            },
+            {
+              "display_url": "pic.x.com/RH3Nw4W1Co",
+              "end": 169,
+              "expanded_url": "https://x.com/hrichina/status/2011876497636598266/photo/1",
+              "media_key": "3_2011875749674774529",
+              "start": 146,
+              "url": "https://t.co/RH3Nw4W1Co"
+            },
+            {
+              "display_url": "pic.x.com/RH3Nw4W1Co",
+              "end": 169,
+              "expanded_url": "https://x.com/hrichina/status/2011876497636598266/photo/1",
+              "media_key": "3_2011875751331844096",
+              "start": 146,
+              "url": "https://t.co/RH3Nw4W1Co"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011876497636598266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "天安门母亲群体委托中国人权发布以下最新消息：\n\n我们天安门母亲群体一年一度的新春聚会遭到了政府的无理阻拦，第一次被禁止举行。\n\n原定于2025年12月28日在北京崇文门一家餐厅举行迎新年以及中国最为重要的节日春节前的迎新春聚会。难属们在身体健康状况允许的情况下，只要通知到大家都会积极参加。\n\n“六四”惨案是每个家庭心中永远无法抹去的伤痛。每年的聚会，大家的见面都会给每个与会难属带去暖意，让他们受伤的心灵得到来自难属之间相同命运的情感慰藉，然而就是这一充满人性的关怀，被政府公安没有任何法律依据约谈似的行政手段给取消了。\n\n36年过去了，我们这个苦难的群体很多失去孩子的父母亲们带着他们的遗憾离开了人世，还有一些妻子、丈夫、参加签名的伤残者也因病离开了人世，从道义、人性的角度上来看，他们的离世对于他们来说是很残忍的。\n\n当年独自带着幼小的孩子咬牙用自己的肩膀扛起抚养孩子重担的年轻妻子们也都成为60岁以上的老年人。就是这样的一个弱势群体，在决定举行2026年新春聚会时，我们不仅没有看到对1989年学运政府乱杀无辜的屠城行为有诚意地启动解决六四惨案的方案与我们对话，看到的却是政府公安滥用手中的公权，阻扰公民正当社交权利的冰冷现实！\n\n迎新春聚会是天安门母亲群体的传统，最初是小范围的聚会，由于参加人数逐年增加，从2009年开始选择一家餐厅聚会。2009年1月11日时近中午时分，在京的天安门母亲从京城的四面八方相聚在一起。这是一个特殊的大家庭啊！大家见了面，不是握手，就是拥抱，彼此互道短长，气氛热烈异常，那份亲热劲儿远远胜似家人。今年的来人中，有几位是来自远郊的，为了赶上时间，大清早就出发了。今年的新春聚会，参加的人数是历年来最多的一次，共有42位，而且有6位是第一次参加。与这么多位难友首次会面，激动之情，溢于言表。\n\n这是天安门母亲群体对2009年聚会情景的描述。除了2020年三年疫情没有聚会以外从未间断过，直至2025年年末的2026年新春聚会被无理由取消。\n\n我们的聚会就如同2009年所描述的那样，只是大家见面表达情感，有一种历经那么多年的磨难还活着的的欣喜；有相互之间回忆起当年的“六四”惨案对家庭造成的伤害如同刻在每个人的心中那般历历在目、刻骨铭心；分别时彼此道一声珍重愿来年还能再见。这样的一种有伤感、有尊重充满人性关怀的聚会又触动了政府哪一条法规条例？对于天安门母亲群体来说我们无法接受。\n\n公道与正义是站在我们这边的，我们不会放弃我们的尊严和公民的权利！\n\n天安门母亲群体\n\n2026年1月14日\n\n（图一至图三分别为2014、2017及2025年难属新春聚会照片）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 79449,
+          "like_count": 600,
+          "quote_count": 11,
+          "reply_count": 35,
+          "retweet_count": 142
+        },
+        "reply_settings": "everyone",
+        "text": "天安门母亲群体委托中国人权发布以下最新消息：\n\n我们天安门母亲群体一年一度的新春聚会遭到了政府的无理阻拦，第一次被禁止举行。\n\n原定于2025年12月28日在北京崇文门一家餐厅举行迎新年以及中国最为重要的节日春节前的迎新春聚会。难属们在身体健康状况允许的情况下，只要通知到大家都会积极参加。 https://t.co/RH3Nw4W1Co"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5786,
+          "following_count": 1002,
+          "like_count": 46075,
+          "listed_count": 16,
+          "media_count": 933,
+          "tweet_count": 8035
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-13T16:45:40.000Z",
+        "description": "Founded in March 1989, HRIC is dedicated to promoting international human rights and advancing the institutional protection of these rights in #China.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 149,
+                "start": 143,
+                "tag": "China"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "new.hrichina.org",
+                "end": 23,
+                "expanded_url": "http://new.hrichina.org",
+                "start": 0,
+                "url": "https://t.co/MyUsDtkaqv"
+              }
+            ]
+          }
+        },
+        "id": "20784367",
+        "location": "New York & Hong Kong",
+        "name": "中国人权-Human Rights in China",
+        "pinned_tweet_id": "2011876497636598266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678842988393291779/U4Nl3HSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87333,
+          "following_count": 1098,
+          "like_count": 3327,
+          "listed_count": 788,
+          "media_count": 3269,
+          "tweet_count": 17378
+        },
+        "url": "https://t.co/MyUsDtkaqv",
+        "username": "hrichina",
+        "verified": true
+      }
+    ]
+  }
+}

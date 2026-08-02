@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1977571970826080548",
+    "created_at": "2025-10-13T03:07:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T04:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977571970826080548"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chinaeliminato…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/chinaeliminato/status/1977430868185821225",
+          "start": 13,
+          "url": "https://t.co/zoLhzOnebv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977571970826080548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977430868185821225",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "牛魔的，你究竟在说什么。 https://t.co/zoLhzOnebv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1977571970826080548",
+        "created_at": "2025-10-13T03:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T04:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977571970826080548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chinaeliminato…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/chinaeliminato/status/1977430868185821225",
+              "start": 13,
+              "url": "https://t.co/zoLhzOnebv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977571970826080548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977430868185821225",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牛魔的，你究竟在说什么。 https://t.co/zoLhzOnebv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948179223837097984",
+        "conversation_id": "1977343997744951662",
+        "created_at": "2025-10-12T17:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T18:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977430868185821225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977430868185821225",
+        "in_reply_to_user_id": "1948179223837097984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977343997744951662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支那的所有天主教主教都是共匪钦定的人选，每一个都是共匪的代理人和喇叭手，以至于所有支那的天主教徒都是先敬畏共匪，后糊弄天主的。说俩句共匪的坏话他们哭得比耶稣在客西马尼园还惨，护起共匪主子来比彼得护耶稣还勇敢。而对于共匪做得恶不仅装瞎，还在一旁歌功颂德。这些伪天主教徒就是典型支那猪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5804,
+          "following_count": 975,
+          "like_count": 45891,
+          "listed_count": 17,
+          "media_count": 944,
+          "tweet_count": 7803
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T00:32:09.000Z",
+        "description": "Christian| Augustinianism | Nietzschean | Libertarianism | 吳越愛國者 | 屠支灭共人类共识 | 分裂支那势在必行| e/acc → u/acc",
+        "id": "1948179223837097984",
+        "location": "分布式支猪屠宰场",
+        "name": "Eliminator",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966585443690180609/A3kWcS-X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 280,
+          "like_count": 2486,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 233
+        },
+        "username": "ChinaEliminato",
+        "verified": false
+      }
+    ]
+  }
+}

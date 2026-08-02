@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055230291124588544"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2055230303191613943",
+    "created_at": "2026-05-15T10:14:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T11:14:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055230303191613943"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xjsZgk0nuW",
+          "end": 50,
+          "expanded_url": "https://x.com/sss_1713/status/2055230303191613943/photo/1",
+          "media_key": "3_2055230291124588544",
+          "start": 27,
+          "url": "https://t.co/xjsZgk0nuW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055230303191613943",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个好好喝，既有橘子的香甜又有茶叶的清透，沁人心脾。 https://t.co/xjsZgk0nuW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055230291124588544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWlD4oakAA7M1x.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055230291124588544"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2055230303191613943",
+        "created_at": "2026-05-15T10:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T11:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055230303191613943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xjsZgk0nuW",
+              "end": 50,
+              "expanded_url": "https://x.com/sss_1713/status/2055230303191613943/photo/1",
+              "media_key": "3_2055230291124588544",
+              "start": 27,
+              "url": "https://t.co/xjsZgk0nuW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055230303191613943",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个好好喝，既有橘子的香甜又有茶叶的清透，沁人心脾。 https://t.co/xjsZgk0nuW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5800,
+          "following_count": 746,
+          "like_count": 47430,
+          "listed_count": 18,
+          "media_count": 947,
+          "tweet_count": 8285
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

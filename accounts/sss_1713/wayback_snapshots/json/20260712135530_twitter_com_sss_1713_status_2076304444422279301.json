@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2075863478859084001",
+    "created_at": "2026-07-12T13:55:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T14:55:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076304444422279301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1800905994186432512",
+          "start": 0,
+          "username": "Hoshino_Iroha10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076304444422279301",
+    "in_reply_to_user_id": "1800905994186432512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076268009451348418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hoshino_Iroha10 笑的我。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 920,
+        "media_key": "3_2076268006867656704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBiwG_a4AA-q4Y.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2075863478859084001",
+        "created_at": "2026-07-12T13:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T14:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076304444422279301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1800905994186432512",
+              "start": 0,
+              "username": "Hoshino_Iroha10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076304444422279301",
+        "in_reply_to_user_id": "1800905994186432512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076268009451348418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hoshino_Iroha10 笑的我。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076268006867656704"
+          ]
+        },
+        "author_id": "1800905994186432512",
+        "conversation_id": "2075863478859084001",
+        "created_at": "2026-07-12T11:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076268009451348418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/swW6JRxmWi",
+              "end": 49,
+              "expanded_url": "https://x.com/Hoshino_Iroha10/status/2076268009451348418/photo/1",
+              "media_key": "3_2076268006867656704",
+              "start": 26,
+              "url": "https://t.co/swW6JRxmWi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076268009451348418",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075863478859084001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 肯定没这个好看\n还是科幻作品😋 https://t.co/swW6JRxmWi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5971,
+          "following_count": 794,
+          "like_count": 54567,
+          "listed_count": 18,
+          "media_count": 1085,
+          "tweet_count": 9464
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-12T15:00:31.000Z",
+        "description": "学生です 淡推中 | 跨性别友好🏳️‍⚧️ | ADHD | SBTI FUCK | 数码收集癖 | 业余摄影 | 896489648964 | 正體中文🇹🇼 简体中文🇨🇳 |  不会打音游 | 求互Fo\n 邮箱📮tsugumirin@proton.me\n\n人生、二十七で死ねるならロックンロールは僕を救った",
+        "id": "1800905994186432512",
+        "location": "秦城监狱",
+        "name": "星野いろは",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061063208686030848/Ab8l7idB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 1193,
+          "like_count": 63004,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 2798
+        },
+        "url": "",
+        "username": "Hoshino_Iroha10",
+        "verified": false
+      }
+    ]
+  }
+}

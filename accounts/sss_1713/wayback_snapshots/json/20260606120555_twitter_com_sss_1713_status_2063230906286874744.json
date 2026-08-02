@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063230892449959936"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2063230906286874744",
+    "created_at": "2026-06-06T12:05:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T13:05:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063230906286874744"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6CQxHGCfDF",
+          "end": 34,
+          "expanded_url": "https://x.com/sss_1713/status/2063230906286874744/photo/1",
+          "media_key": "3_2063230892449959936",
+          "start": 11,
+          "url": "https://t.co/6CQxHGCfDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063230906286874744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "黄推机器人离我远点。 https://t.co/6CQxHGCfDF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1460,
+        "media_key": "3_2063230892449959936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIRkLIXkAA4gbi.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063230892449959936"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2063230906286874744",
+        "created_at": "2026-06-06T12:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063230906286874744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6CQxHGCfDF",
+              "end": 34,
+              "expanded_url": "https://x.com/sss_1713/status/2063230906286874744/photo/1",
+              "media_key": "3_2063230892449959936",
+              "start": 11,
+              "url": "https://t.co/6CQxHGCfDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063230906286874744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "黄推机器人离我远点。 https://t.co/6CQxHGCfDF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "   天安门坦克下",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5877,
+          "following_count": 751,
+          "like_count": 49360,
+          "listed_count": 18,
+          "media_count": 998,
+          "tweet_count": 8706
+        },
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1949123333280149873",
+    "created_at": "2025-07-26T15:03:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T16:03:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949123333280149873"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/furinadf/statu…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/furinadf/status/1948734219502715355",
+          "start": 21,
+          "url": "https://t.co/7mKP2nmSir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949123333280149873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948734219502715355",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "魔改之后给我的感觉有开心麻花参与制作。。 https://t.co/7mKP2nmSir"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1948734216772169728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwtLcgBasAAsR6d.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1949123333280149873",
+        "created_at": "2025-07-26T15:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T16:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949123333280149873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/furinadf/statu…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/furinadf/status/1948734219502715355",
+              "start": 21,
+              "url": "https://t.co/7mKP2nmSir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949123333280149873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948734219502715355",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "魔改之后给我的感觉有开心麻花参与制作。。 https://t.co/7mKP2nmSir"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948734216772169728"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1948734219502715355",
+        "created_at": "2025-07-25T13:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T14:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948734219502715355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2mZxgPWW2p",
+              "end": 23,
+              "expanded_url": "https://x.com/FurinaDF/status/1948734219502715355/photo/1",
+              "media_key": "3_1948734216772169728",
+              "start": 0,
+              "url": "https://t.co/2mZxgPWW2p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948734219502715355",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 30755,
+          "like_count": 417,
+          "quote_count": 3,
+          "reply_count": 48,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2mZxgPWW2p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJo6NX"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5782,
+          "following_count": 1052,
+          "like_count": 46016,
+          "listed_count": 18,
+          "media_count": 945,
+          "tweet_count": 7714
+        },
+        "url": "https://t.co/Z7RPjJo6NX",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "Inspired by 浪人新闻 Ronin News",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "http://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/69nE3RLR6O"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "河南驻马店",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37705,
+          "following_count": 2259,
+          "like_count": 27550,
+          "listed_count": 91,
+          "media_count": 5876,
+          "tweet_count": 10183
+        },
+        "url": "https://t.co/69nE3RLR6O",
+        "username": "FurinaDF",
+        "verified": true
+      }
+    ]
+  }
+}

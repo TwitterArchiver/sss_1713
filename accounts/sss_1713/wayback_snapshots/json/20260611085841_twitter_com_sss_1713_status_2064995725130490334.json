@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064995715714269184"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2064995725130490334",
+    "created_at": "2026-06-11T08:58:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T09:58:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064995725130490334"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/07CtJRB8XJ",
+          "end": 23,
+          "expanded_url": "https://x.com/sss_1713/status/2064995725130490334/photo/1",
+          "media_key": "3_2064995715714269184",
+          "start": 0,
+          "url": "https://t.co/07CtJRB8XJ"
+        },
+        {
+          "display_url": "x.com/isaacrrr7/stat…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/isaacrrr7/status/2064844984944136369",
+          "start": 24,
+          "url": "https://t.co/jrnHQc4wBd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064995725130490334",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064844984944136369",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/07CtJRB8XJ https://t.co/jrnHQc4wBd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2339,
+        "media_key": "3_2064995715714269184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhWqaHaQAAliR8.jpg",
+        "width": 1205
+      },
+      {
+        "duration_ms": 46208,
+        "height": 720,
+        "media_key": "13_2064844848532799488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064844848532799488/img/bxMhETI9bPSiY-Dj.jpg",
+        "public_metrics": {
+          "view_count": 9950
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064844848532799488/vid/avc1/382x270/3IwQwa1ZDFIdbpf3.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064844848532799488/vid/avc1/510x360/ub00oMY9pXALh1i8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064844848532799488/vid/avc1/1020x720/ijl3uPwEDQuLMnTD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064844848532799488/pl/u1_kYALzOWvyObmd.m3u8?v=7dc"
+          }
+        ],
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064995715714269184"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2064995725130490334",
+        "created_at": "2026-06-11T08:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064995725130490334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/07CtJRB8XJ",
+              "end": 23,
+              "expanded_url": "https://x.com/sss_1713/status/2064995725130490334/photo/1",
+              "media_key": "3_2064995715714269184",
+              "start": 0,
+              "url": "https://t.co/07CtJRB8XJ"
+            },
+            {
+              "display_url": "x.com/isaacrrr7/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/isaacrrr7/status/2064844984944136369",
+              "start": 24,
+              "url": "https://t.co/jrnHQc4wBd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064995725130490334",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064844984944136369",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/07CtJRB8XJ https://t.co/jrnHQc4wBd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064844848532799488"
+          ]
+        },
+        "author_id": "1283672799777886208",
+        "conversation_id": "2064844984944136369",
+        "created_at": "2026-06-10T22:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T23:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064844984944136369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NsZNTndtv6",
+              "end": 293,
+              "expanded_url": "https://x.com/isaacrrr7/status/2064844984944136369/video/1",
+              "media_key": "13_2064844848532799488",
+              "start": 270,
+              "url": "https://t.co/NsZNTndtv6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064844984944136369",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 18023,
+          "like_count": 501,
+          "quote_count": 32,
+          "reply_count": 205,
+          "retweet_count": 180
+        },
+        "reply_settings": "everyone",
+        "text": "Conozca a Athika Ahmed, de 23 años.\nHa sido nombrada nueva Embajadora de Salud y dietista en Gales, Reino Unido.\nRecibirá una remuneración mensual de 9000 libras.\nA cambio, compartirá valiosos consejos de salud.\nSus consejos contribuirán a un Reino Unido más saludable. https://t.co/NsZNTndtv6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5884,
+          "following_count": 759,
+          "like_count": 50404,
+          "listed_count": 18,
+          "media_count": 1007,
+          "tweet_count": 8875
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-16T08:00:38.000Z",
+        "description": "Judío Argentino en Israel, 30 años.\nSígueme también en @isaacrrrr7.\nSiempre defendiendo a Israel y a Occidente.\nNo a Hamás. No a la invasión islámica.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "isaacrrrr7"
+              }
+            ]
+          }
+        },
+        "id": "1283672799777886208",
+        "location": "Israel",
+        "name": "Isaac",
+        "pinned_tweet_id": "2030605506356629834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776698744366305281/hicpNVAq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226286,
+          "following_count": 4117,
+          "like_count": 233750,
+          "listed_count": 564,
+          "media_count": 72481,
+          "tweet_count": 134159
+        },
+        "username": "isaacrrr7",
+        "verified": true
+      }
+    ]
+  }
+}

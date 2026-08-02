@@ -1,0 +1,95 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1655577822377672709",
+    "created_at": "2023-05-08T14:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2023-05-08T14:48:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1655577822377672709"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1655577822377672709",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在线等挺急的，报名了学校辩论赛，但是只是小白一个，有没有什么需要了解的基础知识😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1655577822377672709",
+        "created_at": "2023-05-08T14:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2023-05-08T14:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1655577822377672709"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1655577822377672709",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在线等挺急的，报名了学校辩论赛，但是只是小白一个，有没有什么需要了解的基础知识😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Y5QyUoyob7"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "name": "1713",
+        "pinned_tweet_id": "1647245461957365763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1557709483509329921/JiR-Wq8j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3781,
+          "following_count": 999,
+          "listed_count": 18,
+          "tweet_count": 6109
+        },
+        "url": "https://t.co/Y5QyUoyob7",
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1989688588754161832",
+    "created_at": "2025-11-16T02:09:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T03:09:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989878468083863665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1532599611684429824",
+          "start": 0,
+          "username": "Codforeverloyal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989878468083863665",
+    "in_reply_to_user_id": "1532599611684429824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989737604875690221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Codforeverloyal 😇我要跟着阿草离开了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1989688588754161832",
+        "created_at": "2025-11-16T02:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T03:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989878468083863665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1532599611684429824",
+              "start": 0,
+              "username": "Codforeverloyal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989878468083863665",
+        "in_reply_to_user_id": "1532599611684429824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989737604875690221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Codforeverloyal 😇我要跟着阿草离开了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1532599611684429824",
+        "conversation_id": "1989688588754161832",
+        "created_at": "2025-11-15T16:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T17:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989737604875690221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989737604875690221",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989688588754161832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 恭喜你到達了中推圈推友的最終目標—變成路邊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5831,
+          "following_count": 987,
+          "like_count": 45724,
+          "listed_count": 17,
+          "media_count": 925,
+          "tweet_count": 7853
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T05:46:56.000Z",
+        "description": "永遠忠誠",
+        "id": "1532599611684429824",
+        "location": "暗黑鄕",
+        "name": "幼存",
+        "pinned_tweet_id": "1847481357972165054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889918633708756998/FOxL6cAi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 688,
+          "like_count": 184625,
+          "listed_count": 14,
+          "media_count": 961,
+          "tweet_count": 7189
+        },
+        "username": "Codforeverloyal",
+        "verified": false
+      }
+    ]
+  }
+}

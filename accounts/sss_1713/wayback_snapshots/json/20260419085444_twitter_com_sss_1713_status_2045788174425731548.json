@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2045445793222685011",
+    "created_at": "2026-04-19T08:54:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T09:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045788174425731548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1397924779219292167",
+          "start": 0,
+          "username": "KawawaBasupisu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045788174425731548",
+    "in_reply_to_user_id": "1397924779219292167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045445793222685011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawawaBasupisu 豪到没有☝️🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1632,
+        "media_key": "3_2045445661722832896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLh_fpacAAboTK.jpg",
+        "width": 1368
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2045445793222685011",
+        "created_at": "2026-04-19T08:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045788174425731548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1397924779219292167",
+              "start": 0,
+              "username": "KawawaBasupisu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045788174425731548",
+        "in_reply_to_user_id": "1397924779219292167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045445793222685011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawawaBasupisu 豪到没有☝️🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045445661722832896"
+          ]
+        },
+        "author_id": "1397924779219292167",
+        "conversation_id": "2045445793222685011",
+        "created_at": "2026-04-18T10:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T11:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045445793222685011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ijLklnxXD0",
+              "end": 46,
+              "expanded_url": "https://x.com/KawawaBasupisu/status/2045445793222685011/photo/1",
+              "media_key": "3_2045445661722832896",
+              "start": 23,
+              "url": "https://t.co/ijLklnxXD0"
+            },
+            {
+              "display_url": "x.com/K7qWcfzcdAPW5Y…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/K7qWcfzcdAPW5Y9/status/2044711129247526990",
+              "start": 47,
+              "url": "https://t.co/GBACC4fqCS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045445793222685011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 22251,
+          "like_count": 258,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044711129247526990",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吸粪车闹麻了😅当年晶哥请它喝茶咋没关一周啊？ https://t.co/ijLklnxXD0 https://t.co/GBACC4fqCS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5773,
+          "following_count": 1030,
+          "like_count": 47093,
+          "listed_count": 18,
+          "media_count": 938,
+          "tweet_count": 8154
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-27T14:37:03.000Z",
+        "description": "Minecraft船大工& Flight enthusiast👨‍✈️& 僵毁老司机& 资深洛批& AC7 & 洛圣都佐巴扬&超级气球冻肉\n日本語⭕、English⭕、蜀语⭕\n拒绝搬屎\nJapanglish NG\n不负责弱智和粉区碰瓷后的创伤后应激障碍治疗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "caac.gov.cn",
+                "end": 23,
+                "expanded_url": "https://www.caac.gov.cn",
+                "start": 0,
+                "url": "https://t.co/hLiv6Lbagv"
+              }
+            ]
+          }
+        },
+        "id": "1397924779219292167",
+        "location": " 卡洛西亚大陸",
+        "name": "翔太くん✈️",
+        "pinned_tweet_id": "1903109740160335943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979181079417290752/wVluLINB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12573,
+          "following_count": 1956,
+          "like_count": 52394,
+          "listed_count": 55,
+          "media_count": 1068,
+          "tweet_count": 6610
+        },
+        "url": "https://t.co/hLiv6Lbagv",
+        "username": "KawawaBasupisu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1976806584388141088",
+    "created_at": "2025-10-11T00:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T01:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976806584388141088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1426789547954737153",
+          "start": 3,
+          "username": "DelayNoMore64"
+        },
+        {
+          "end": 31,
+          "id": "1510210437597450240",
+          "start": 19,
+          "username": "wubachiwei1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976806584388141088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976690720674340909",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DelayNoMore64: @wubachiwei1 基建狂魔？通过剥削工人来获取的快速建设你还骄傲上了😹你想逗死谁？基建什么是你一个国家的执政党的功劳了？没有千千万工人卖命、被你国剥削，你哪来的基建狂魔？AI不靠抄袭，你哪来的人工智能？\n现在大基建时代都过去了，还以…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1976806584388141088",
+        "created_at": "2025-10-11T00:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T01:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976806584388141088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1426789547954737153",
+              "start": 3,
+              "username": "DelayNoMore64"
+            },
+            {
+              "end": 31,
+              "id": "1510210437597450240",
+              "start": 19,
+              "username": "wubachiwei1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976806584388141088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976690720674340909",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DelayNoMore64: @wubachiwei1 基建狂魔？通过剥削工人来获取的快速建设你还骄傲上了😹你想逗死谁？基建什么是你一个国家的执政党的功劳了？没有千千万工人卖命、被你国剥削，你哪来的基建狂魔？AI不靠抄袭，你哪来的人工智能？\n现在大基建时代都过去了，还以…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426789547954737153",
+        "conversation_id": "1976688728044408970",
+        "created_at": "2025-10-10T16:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T17:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976690720674340909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1510210437597450240",
+              "start": 0,
+              "username": "wubachiwei1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976690720674340909",
+        "in_reply_to_user_id": "1510210437597450240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2518,
+          "like_count": 93,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976688728044408970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wubachiwei1 基建狂魔？通过剥削工人来获取的快速建设你还骄傲上了😹你想逗死谁？基建什么是你一个国家的执政党的功劳了？没有千千万工人卖命、被你国剥削，你哪来的基建狂魔？AI不靠抄袭，你哪来的人工智能？\n现在大基建时代都过去了，还以基建狂魔为傲，\n看来中国确实内卷，大外宣甚至急到半夜扣字加班回复我😹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5811,
+          "following_count": 975,
+          "like_count": 45852,
+          "listed_count": 17,
+          "media_count": 943,
+          "tweet_count": 7784
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-15T06:19:30.000Z",
+        "description": "一蕉羞貍貔Bot | Centrist | 谢绝 粉红/川粉/民粹 关注 ！| 欢迎加入TG讨论组/频道 https://t.co/zCJwDqXiJw  | 不看私信 | 翻墙推荐 迷雾通: https://t.co/RGAYSqXuAW | 关注≠认可",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HachimiNeko",
+                "end": 76,
+                "expanded_url": "https://t.me/HachimiNeko",
+                "start": 53,
+                "url": "https://t.co/zCJwDqXiJw"
+              },
+              {
+                "display_url": "geph.io",
+                "end": 120,
+                "expanded_url": "https://geph.io",
+                "start": 97,
+                "url": "https://t.co/RGAYSqXuAW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HachimiCat",
+                "end": 23,
+                "expanded_url": "https://t.me/HachimiCat",
+                "start": 0,
+                "url": "https://t.co/cYGMU1qx8q"
+              }
+            ]
+          }
+        },
+        "id": "1426789547954737153",
+        "location": "대한민국",
+        "name": "Bocchi 🇳🇴",
+        "pinned_tweet_id": "1961078129939943636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936628061933547520/d7e7yYP2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43072,
+          "following_count": 946,
+          "like_count": 32921,
+          "listed_count": 157,
+          "media_count": 2437,
+          "tweet_count": 17846
+        },
+        "url": "https://t.co/cYGMU1qx8q",
+        "username": "DelayNoMore64",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-02T11:00:33.000Z",
+        "description": "做一个最单纯的人，走一段最幸福的路。其他的，交给命运。。。。。。",
+        "id": "1510210437597450240",
+        "name": "舞吧🇨🇳池威",
+        "pinned_tweet_id": "1964727092756767036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660519043668013056/UX9tUV1y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13140,
+          "following_count": 3569,
+          "like_count": 118122,
+          "listed_count": 120,
+          "media_count": 6645,
+          "tweet_count": 34395
+        },
+        "username": "wubachiwei1",
+        "verified": false
+      }
+    ]
+  }
+}

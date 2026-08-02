@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1989956606344532235",
+    "created_at": "2025-11-16T11:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T12:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990020535929983163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1443383116484186112",
+          "start": 0,
+          "username": "YuZhao_uesugi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990020535929983163",
+    "in_reply_to_user_id": "1443383116484186112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989956606344532235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuZhao_uesugi 互动圈已经是n年前的产物了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1989956594936025088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G52--tebkAABbPb.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1989956606344532235",
+        "created_at": "2025-11-16T11:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T12:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990020535929983163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1443383116484186112",
+              "start": 0,
+              "username": "YuZhao_uesugi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990020535929983163",
+        "in_reply_to_user_id": "1443383116484186112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989956606344532235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuZhao_uesugi 互动圈已经是n年前的产物了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989956594936025088"
+          ]
+        },
+        "author_id": "1443383116484186112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1989956606344532235",
+        "created_at": "2025-11-16T07:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T08:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989956606344532235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1988770265581645825/pPuGN1PY?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1988770265581645825/pPuGN1PY?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/ozTTCrX28Q"
+            },
+            {
+              "display_url": "pic.x.com/CAXJT93mMy",
+              "end": 64,
+              "expanded_url": "https://x.com/YuZhao_uesugi/status/1989956606344532235/photo/1",
+              "media_key": "3_1989956594936025088",
+              "start": 41,
+              "url": "https://t.co/CAXJT93mMy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989956606344532235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/ozTTCrX28Q https://t.co/CAXJT93mMy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5828,
+          "following_count": 987,
+          "like_count": 45743,
+          "listed_count": 17,
+          "media_count": 925,
+          "tweet_count": 7863
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-30T01:12:21.000Z",
+        "description": "古典自由主义信徒 | 社会契约论实践者\n“无经济自由→无人身自由→无思想自由→无言论自由”\n在现代社会，资本是权力的核心来源之一；\n否定私有制＝切断人权根基——产权是自由的防火墙。\n私有制保障自由，三权分立保障民主。",
+        "id": "1443383116484186112",
+        "location": "People republic of NMSL",
+        "name": "古以礼害民，今以黑化支☭⃠ 支黑赵",
+        "pinned_tweet_id": "1831856737256976788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901909841821769728/wYlUb_r7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5883,
+          "following_count": 983,
+          "like_count": 42574,
+          "listed_count": 17,
+          "media_count": 1254,
+          "tweet_count": 18502
+        },
+        "username": "YuZhao_uesugi",
+        "verified": false
+      }
+    ]
+  }
+}

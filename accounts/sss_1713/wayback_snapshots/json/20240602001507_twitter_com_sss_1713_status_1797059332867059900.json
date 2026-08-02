@@ -1,0 +1,202 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1797056249059754494",
+    "created_at": "2024-06-02T00:15:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-02T01:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797059332867059900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1249525383797456898",
+          "start": 0,
+          "username": "jakobsonradical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797059332867059900",
+    "in_reply_to_user_id": "1249525383797456898",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797056249059754494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jakobsonradical 朝鲜要是投巧克力前提是他得有啊🤭🤭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1797056249059754494",
+        "created_at": "2024-06-02T00:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T01:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797059332867059900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1249525383797456898",
+              "start": 0,
+              "username": "jakobsonradical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797059332867059900",
+        "in_reply_to_user_id": "1249525383797456898",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797056249059754494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jakobsonradical 朝鲜要是投巧克力前提是他得有啊🤭🤭"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1797056243863019520",
+            "3_1797056246929121280"
+          ]
+        },
+        "author_id": "1249525383797456898",
+        "conversation_id": "1797056249059754494",
+        "created_at": "2024-06-02T00:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T01:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797056249059754494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/IzTFur4FZa",
+              "end": 54,
+              "expanded_url": "https://twitter.com/jakobsonradical/status/1797056249059754494/photo/1",
+              "media_key": "3_1797056243863019520",
+              "start": 31,
+              "url": "https://t.co/IzTFur4FZa"
+            },
+            {
+              "display_url": "pic.twitter.com/IzTFur4FZa",
+              "end": 54,
+              "expanded_url": "https://twitter.com/jakobsonradical/status/1797056249059754494/photo/1",
+              "media_key": "3_1797056246929121280",
+              "start": 31,
+              "url": "https://t.co/IzTFur4FZa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797056249059754494",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1221,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "韩国向朝鲜投巧克力，朝鲜向韩国投粪便。文明和野蛮，高下立判。 https://t.co/IzTFur4FZa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "锈叶🍂",
+        "pinned_tweet_id": "1665009561508495368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5492,
+          "following_count": 1008,
+          "like_count": 46616,
+          "listed_count": 19,
+          "tweet_count": 7539
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T02:30:47.000Z",
+        "description": "中文/English/日本語/Español。 追求理性，追求自由。社会科学/文史哲/编程/代数学/经济/etc。五毛/粉红请绕道。",
+        "id": "1249525383797456898",
+        "name": "Jacobson🌎🌸贴贴BOT",
+        "pinned_tweet_id": "1436195522604199960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290953925764558848/J6rhBr0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192206,
+          "following_count": 1529,
+          "like_count": 44057,
+          "listed_count": 823,
+          "tweet_count": 21222
+        },
+        "username": "jakobsonradical",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077036956035448832",
+        "3_2077036957411221504"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple App Store",
+          "id": "10053298770",
+          "name": "Apple App Store"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046487168",
+          "name": "App Store"
+        }
+      }
+    ],
+    "conversation_id": "2077036974960189819",
+    "created_at": "2026-07-14T14:26:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T15:26:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077036974960189819"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RZB8vb4nFA",
+          "end": 44,
+          "expanded_url": "https://x.com/sss_1713/status/2077036974960189819/photo/1",
+          "media_key": "3_2077036956035448832",
+          "start": 21,
+          "url": "https://t.co/RZB8vb4nFA"
+        },
+        {
+          "display_url": "pic.x.com/RZB8vb4nFA",
+          "end": 44,
+          "expanded_url": "https://x.com/sss_1713/status/2077036974960189819/photo/1",
+          "media_key": "3_2077036957411221504",
+          "start": 21,
+          "url": "https://t.co/RZB8vb4nFA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077036974960189819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在app store发现了个核弹模拟器。 https://t.co/RZB8vb4nFA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2460,
+        "media_key": "3_2077036956035448832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMeG13aAAAJGAH.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1258,
+        "media_key": "3_2077036957411221504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMeG6_aoAAjMdF.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077036956035448832",
+            "3_2077036957411221504"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          }
+        ],
+        "conversation_id": "2077036974960189819",
+        "created_at": "2026-07-14T14:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077036974960189819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RZB8vb4nFA",
+              "end": 44,
+              "expanded_url": "https://x.com/sss_1713/status/2077036974960189819/photo/1",
+              "media_key": "3_2077036956035448832",
+              "start": 21,
+              "url": "https://t.co/RZB8vb4nFA"
+            },
+            {
+              "display_url": "pic.x.com/RZB8vb4nFA",
+              "end": 44,
+              "expanded_url": "https://x.com/sss_1713/status/2077036974960189819/photo/1",
+              "media_key": "3_2077036957411221504",
+              "start": 21,
+              "url": "https://t.co/RZB8vb4nFA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077036974960189819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在app store发现了个核弹模拟器。 https://t.co/RZB8vb4nFA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5981,
+          "following_count": 794,
+          "like_count": 54705,
+          "listed_count": 18,
+          "media_count": 1090,
+          "tweet_count": 9509
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      }
+    ]
+  }
+}

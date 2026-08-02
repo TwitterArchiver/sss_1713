@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2056270522254582056",
+    "created_at": "2026-05-19T11:04:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T12:04:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056692574245593137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1548037417378009090",
+          "start": 0,
+          "username": "jolnobewild8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056692574245593137",
+    "in_reply_to_user_id": "1548037417378009090",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056627772077015152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jolnobewild8964 从小玩到大～"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2056627772077015152].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2056627772077015152",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2056627772077015152"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2056270522254582056",
+        "created_at": "2026-05-19T11:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056692574245593137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1548037417378009090",
+              "start": 0,
+              "username": "jolnobewild8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056692574245593137",
+        "in_reply_to_user_id": "1548037417378009090",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056627772077015152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jolnobewild8964 从小玩到大～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2056686933950996682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5803,
+          "following_count": 753,
+          "like_count": 47714,
+          "listed_count": 18,
+          "media_count": 962,
+          "tweet_count": 8351
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-15T20:11:19.000Z",
+        "description": "متشدد، تلميذ الإمام الخميني، جهادي، القناة الرابعة",
+        "id": "1548037417378009090",
+        "location": "Xen星球",
+        "name": "南條愛乃2🇮🇷🇮🇶🇾🇪",
+        "pinned_tweet_id": "2044311328605471127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018730065107038210/Pyh4qm-5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 2441,
+          "like_count": 95229,
+          "listed_count": 6,
+          "media_count": 930,
+          "tweet_count": 28755
+        },
+        "username": "jolnobewild8964",
+        "verified": false
+      }
+    ]
+  }
+}

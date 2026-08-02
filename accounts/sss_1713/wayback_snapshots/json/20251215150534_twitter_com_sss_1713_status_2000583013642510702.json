@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2000583013642510702",
+    "created_at": "2025-12-15T15:05:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T16:05:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000583013642510702"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "观点"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "620632841",
+          "start": 3,
+          "username": "nytchinese"
+        }
+      ],
+      "urls": [
+        {
+          "description": "特朗普曾表示令黎智英获释“轻而易举”。如今黎智英被判有罪，特朗普是时候兑现他的豪言壮语，为一个勇敢捍卫民主和言论自由的人争取自由。",
+          "display_url": "cn.nytimes.com/opinion/202512…",
+          "end": 109,
+          "expanded_url": "https://cn.nytimes.com/opinion/20251215/china-hong-kong-jimmy-lai/?utm_source=tw-nytimeschinese&utm_medium=social&utm_campaign=cur",
+          "start": 86,
+          "status": 200,
+          "title": "我们会眼睁睁目睹黎智英死在狱中吗？",
+          "unwound_url": "https://cn.nytimes.com/opinion/20251215/china-hong-kong-jimmy-lai/?utm_source=tw-nytimeschinese&utm_medium=social&utm_campaign=cur",
+          "url": "https://t.co/y5I7OLLJJh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000583013642510702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 83
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000475975835172870",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nytchinese: #观点 特朗普曾表示令黎智英获释“轻而易举”。如今黎智英被判有罪，特朗普是时候兑现他的豪言壮语，为一个勇敢捍卫民主和言论自由的人争取自由。\nhttps://t.co/y5I7OLLJJh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2000583013642510702",
+        "created_at": "2025-12-15T15:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T16:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000583013642510702"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "观点"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "620632841",
+              "start": 3,
+              "username": "nytchinese"
+            }
+          ],
+          "urls": [
+            {
+              "description": "特朗普曾表示令黎智英获释“轻而易举”。如今黎智英被判有罪，特朗普是时候兑现他的豪言壮语，为一个勇敢捍卫民主和言论自由的人争取自由。",
+              "display_url": "cn.nytimes.com/opinion/202512…",
+              "end": 109,
+              "expanded_url": "https://cn.nytimes.com/opinion/20251215/china-hong-kong-jimmy-lai/?utm_source=tw-nytimeschinese&utm_medium=social&utm_campaign=cur",
+              "start": 86,
+              "status": 200,
+              "title": "我们会眼睁睁目睹黎智英死在狱中吗？",
+              "unwound_url": "https://cn.nytimes.com/opinion/20251215/china-hong-kong-jimmy-lai/?utm_source=tw-nytimeschinese&utm_medium=social&utm_campaign=cur",
+              "url": "https://t.co/y5I7OLLJJh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000583013642510702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 83
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000475975835172870",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nytchinese: #观点 特朗普曾表示令黎智英获释“轻而易举”。如今黎智英被判有罪，特朗普是时候兑现他的豪言壮语，为一个勇敢捍卫民主和言论自由的人争取自由。\nhttps://t.co/y5I7OLLJJh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "620632841",
+        "conversation_id": "2000475975835172870",
+        "created_at": "2025-12-15T08:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T09:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000475975835172870"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "观点"
+            }
+          ],
+          "urls": [
+            {
+              "description": "特朗普曾表示令黎智英获释“轻而易举”。如今黎智英被判有罪，特朗普是时候兑现他的豪言壮语，为一个勇敢捍卫民主和言论自由的人争取自由。",
+              "display_url": "cn.nytimes.com/opinion/202512…",
+              "end": 93,
+              "expanded_url": "https://cn.nytimes.com/opinion/20251215/china-hong-kong-jimmy-lai/?utm_source=tw-nytimeschinese&utm_medium=social&utm_campaign=cur",
+              "start": 70,
+              "status": 200,
+              "title": "我们会眼睁睁目睹黎智英死在狱中吗？",
+              "unwound_url": "https://cn.nytimes.com/opinion/20251215/china-hong-kong-jimmy-lai/?utm_source=tw-nytimeschinese&utm_medium=social&utm_campaign=cur",
+              "url": "https://t.co/y5I7OLLJJh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000475975835172870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 58780,
+          "like_count": 510,
+          "quote_count": 17,
+          "reply_count": 181,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "#观点 特朗普曾表示令黎智英获释“轻而易举”。如今黎智英被判有罪，特朗普是时候兑现他的豪言壮语，为一个勇敢捍卫民主和言论自由的人争取自由。\nhttps://t.co/y5I7OLLJJh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5782,
+          "following_count": 997,
+          "like_count": 45966,
+          "listed_count": 17,
+          "media_count": 931,
+          "tweet_count": 7995
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-28T04:25:01.000Z",
+        "description": "纽约时报中文网官方推特。Official Twitter Account of The New York Times Chinese Website.\niPhone & iPad app: https://t.co/hzbwaOOxA6\nAndroid app: https://t.co/NIusFpRU2S",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "apple.co/2aLBQZl",
+                "end": 118,
+                "expanded_url": "http://apple.co/2aLBQZl",
+                "start": 95,
+                "url": "https://t.co/hzbwaOOxA6"
+              },
+              {
+                "display_url": "bit.ly/2qbAFH4",
+                "end": 155,
+                "expanded_url": "http://bit.ly/2qbAFH4",
+                "start": 132,
+                "url": "https://t.co/NIusFpRU2S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cn.nytimes.com",
+                "end": 23,
+                "expanded_url": "http://cn.nytimes.com",
+                "start": 0,
+                "url": "https://t.co/iOfk7hg4wi"
+              }
+            ]
+          }
+        },
+        "id": "620632841",
+        "name": "纽约时报中文网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/963709224466374656/W7eiSwd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3748772,
+          "following_count": 370,
+          "like_count": 1107,
+          "listed_count": 8976,
+          "media_count": 12927,
+          "tweet_count": 73433
+        },
+        "url": "https://t.co/iOfk7hg4wi",
+        "username": "nytchinese",
+        "verified": true
+      }
+    ]
+  }
+}

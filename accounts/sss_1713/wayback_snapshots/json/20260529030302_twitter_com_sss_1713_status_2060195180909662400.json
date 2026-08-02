@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2060049739295420454",
+    "created_at": "2026-05-29T03:03:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T04:03:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060195180909662400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1445104645622407168",
+          "start": 0,
+          "username": "yasmim_bdz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060195180909662400",
+    "in_reply_to_user_id": "1445104645622407168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060049739295420454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yasmim_bdz 这个看起来就很迷人😍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2060049734249664514",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbEUZWW0AIFlZT.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2060049739295420454",
+        "created_at": "2026-05-29T03:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060195180909662400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1445104645622407168",
+              "start": 0,
+              "username": "yasmim_bdz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060195180909662400",
+        "in_reply_to_user_id": "1445104645622407168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060049739295420454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yasmim_bdz 这个看起来就很迷人😍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060049734249664514"
+          ]
+        },
+        "author_id": "1445104645622407168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2060049739295420454",
+        "created_at": "2026-05-28T17:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060049739295420454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oJ7AWCYeVO",
+              "end": 90,
+              "expanded_url": "https://x.com/yasmim_bdz/status/2060049739295420454/photo/1",
+              "media_key": "3_2060049734249664514",
+              "start": 67,
+              "url": "https://t.co/oJ7AWCYeVO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060049739295420454",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3303,
+          "impression_count": 2313407,
+          "like_count": 29286,
+          "quote_count": 2636,
+          "reply_count": 3433,
+          "retweet_count": 530
+        },
+        "reply_settings": "everyone",
+        "text": "A pessoa te chamou para jantar e te serve esse prato. O que faria? https://t.co/oJ7AWCYeVO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5855,
+          "following_count": 749,
+          "like_count": 48566,
+          "listed_count": 18,
+          "media_count": 982,
+          "tweet_count": 8566
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-04T19:13:49.000Z",
+        "description": "🇧🇷",
+        "id": "1445104645622407168",
+        "name": "Yasmimヤスミン",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027525839735160833/jYle7TkI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3187,
+          "following_count": 1595,
+          "like_count": 43706,
+          "listed_count": 10,
+          "media_count": 2007,
+          "tweet_count": 27401
+        },
+        "username": "yasmim_bdz",
+        "verified": true
+      }
+    ]
+  }
+}

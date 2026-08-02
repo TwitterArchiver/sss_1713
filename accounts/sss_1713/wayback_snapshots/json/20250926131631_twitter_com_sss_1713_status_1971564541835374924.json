@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1971476926662680811",
+    "created_at": "2025-09-26T13:16:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T14:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971564541835374924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600462056464867329",
+          "start": 0,
+          "username": "FarParadise"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971564541835374924",
+    "in_reply_to_user_id": "1600462056464867329",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971563887645630939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FarParadise 有福的🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1971476926662680811",
+        "created_at": "2025-09-26T13:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T14:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971564541835374924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600462056464867329",
+              "start": 0,
+              "username": "FarParadise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971564541835374924",
+        "in_reply_to_user_id": "1600462056464867329",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971563887645630939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FarParadise 有福的🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600462056464867329",
+        "conversation_id": "1971476926662680811",
+        "created_at": "2025-09-26T13:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T14:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971563887645630939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971563887645630939",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971561617990254737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 备修中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5808,
+          "following_count": 976,
+          "like_count": 45852,
+          "listed_count": 0,
+          "media_count": 943,
+          "tweet_count": 7753
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-07T12:07:52.000Z",
+        "description": "跟随主，我的天主，我无忧无惧，什么也不缺。\n\n退步保守，神定秩序。",
+        "id": "1600462056464867329",
+        "location": "索多玛",
+        "name": "小王✝",
+        "pinned_tweet_id": "1971476926662680811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956203071861870592/r5V8lWti_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2609,
+          "following_count": 1528,
+          "like_count": 33566,
+          "listed_count": 7,
+          "media_count": 3173,
+          "tweet_count": 13849
+        },
+        "username": "FarParadise",
+        "verified": false
+      }
+    ]
+  }
+}

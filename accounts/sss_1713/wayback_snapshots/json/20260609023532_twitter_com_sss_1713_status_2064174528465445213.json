@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2064174528465445213",
+    "created_at": "2026-06-09T02:35:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T03:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064174528465445213"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fuugetsu_808/s…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/fuugetsu_808/status/2064050008387960970",
+          "start": 37,
+          "url": "https://t.co/hQIf1klZwY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064174528465445213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064050008387960970",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我专门搜过这个小说，好像有好几个版本，我看的那个版本里面女主故事好悲哀🥲 https://t.co/hQIf1klZwY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1300,
+        "media_key": "3_2064050001706463233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKT6im5bsAE1JPA.jpg",
+        "width": 972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2064174528465445213",
+        "created_at": "2026-06-09T02:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064174528465445213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fuugetsu_808/s…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/fuugetsu_808/status/2064050008387960970",
+              "start": 37,
+              "url": "https://t.co/hQIf1klZwY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064174528465445213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064050008387960970",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我专门搜过这个小说，好像有好几个版本，我看的那个版本里面女主故事好悲哀🥲 https://t.co/hQIf1klZwY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064050001706463233"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "conversation_id": "2064050008387960970",
+        "created_at": "2026-06-08T18:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T19:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064050008387960970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NIoZAhaITp",
+              "end": 78,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2064050008387960970/photo/1",
+              "media_key": "3_2064050001706463233",
+              "start": 55,
+              "url": "https://t.co/NIoZAhaITp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064050008387960970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1333,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "所以小王看过黄色小说？🤔\n那个年代的文艺不能有谈情说爱 不能有个人主义情感 那时候国人难道全看样板戏当娱乐吗 https://t.co/NIoZAhaITp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5879,
+          "following_count": 752,
+          "like_count": 49676,
+          "listed_count": 18,
+          "media_count": 1003,
+          "tweet_count": 8789
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "做这个推号的初衷是给大家带来启示与欢乐\n文学 | 评论 |",
+        "id": "1593799138893873152",
+        "name": "ふうげつを友とする",
+        "pinned_tweet_id": "2044090017514168709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044101857984032769/fHN5NJn1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5537,
+          "following_count": 1891,
+          "like_count": 62557,
+          "listed_count": 11,
+          "media_count": 1493,
+          "tweet_count": 11718
+        },
+        "username": "Fuugetsu_808",
+        "verified": true
+      }
+    ]
+  }
+}

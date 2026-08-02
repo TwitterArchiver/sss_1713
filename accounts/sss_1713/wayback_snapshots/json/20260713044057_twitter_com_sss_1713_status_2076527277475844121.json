@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2076527277475844121",
+    "created_at": "2026-07-13T04:40:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T05:40:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076527277475844121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1262155981963833346",
+          "start": 3,
+          "username": "MalaMalamente"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076527277475844121",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3393
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076247156810293707",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MalaMalamente: A mi me vas a tener que explicar muy despacio por qué en tu ideal de familia tradicional hay niñas embarazadas."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2076527277475844121",
+        "created_at": "2026-07-13T04:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076527277475844121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1262155981963833346",
+              "start": 3,
+              "username": "MalaMalamente"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076527277475844121",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3393
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076247156810293707",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MalaMalamente: A mi me vas a tener que explicar muy despacio por qué en tu ideal de familia tradicional hay niñas embarazadas."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1262155981963833346",
+        "conversation_id": "2076247156810293707",
+        "created_at": "2026-07-12T10:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076247156810293707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eldiariodedros…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/eldiariodedross/status/2075935287352390114",
+              "start": 112,
+              "url": "https://t.co/QVQSccd52u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076247156810293707",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 754,
+          "impression_count": 927747,
+          "like_count": 50709,
+          "quote_count": 25,
+          "reply_count": 352,
+          "retweet_count": 3393
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075935287352390114",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "A mi me vas a tener que explicar muy despacio por qué en tu ideal de familia tradicional hay niñas embarazadas. https://t.co/QVQSccd52u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5975,
+          "following_count": 795,
+          "like_count": 54602,
+          "listed_count": 18,
+          "media_count": 1085,
+          "tweet_count": 9469
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-17T23:00:19.000Z",
+        "description": "https://t.co/a25Q3xYWLX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gofund.me/45e8f577b",
+                "end": 23,
+                "expanded_url": "https://gofund.me/45e8f577b",
+                "start": 0,
+                "url": "https://t.co/a25Q3xYWLX"
+              }
+            ]
+          }
+        },
+        "id": "1262155981963833346",
+        "location": "Galicia, España",
+        "name": "Malamente®",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044033707212730368/8Binnocz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80615,
+          "following_count": 3903,
+          "like_count": 152869,
+          "listed_count": 62,
+          "media_count": 11261,
+          "tweet_count": 66766
+        },
+        "url": "",
+        "username": "MalaMalamente",
+        "verified": true
+      }
+    ]
+  }
+}

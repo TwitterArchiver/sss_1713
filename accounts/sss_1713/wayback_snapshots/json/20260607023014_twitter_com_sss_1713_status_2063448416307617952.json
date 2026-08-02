@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2063448416307617952",
+    "created_at": "2026-06-07T02:30:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T03:30:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063448416307617952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1277252311757144067",
+          "start": 3,
+          "username": "CLEVOCO"
+        },
+        {
+          "end": 29,
+          "id": "1700935161301655552",
+          "start": 13,
+          "username": "qingshixiang258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063448416307617952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063337899920327044",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CLEVOCO: @qingshixiang258 什么男拳女拳\n从来就只有正常人和傻逼的区别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2063448416307617952",
+        "created_at": "2026-06-07T02:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063448416307617952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1277252311757144067",
+              "start": 3,
+              "username": "CLEVOCO"
+            },
+            {
+              "end": 29,
+              "id": "1700935161301655552",
+              "start": 13,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063448416307617952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063337899920327044",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CLEVOCO: @qingshixiang258 什么男拳女拳\n从来就只有正常人和傻逼的区别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1277252311757144067",
+        "conversation_id": "2063286185255166166",
+        "created_at": "2026-06-06T19:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T20:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063337899920327044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063337899920327044",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063286185255166166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 什么男拳女拳\n从来就只有正常人和傻逼的区别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5876,
+          "following_count": 752,
+          "like_count": 49420,
+          "listed_count": 18,
+          "media_count": 999,
+          "tweet_count": 8733
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-28T14:47:43.000Z",
+        "description": "",
+        "id": "1277252311757144067",
+        "location": "Kansai, Hyogo",
+        "name": "反射消失",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965015387537539072/w7g3kj92_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 254,
+          "like_count": 1186,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 4004
+        },
+        "username": "CLEVOCO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1998,
+          "following_count": 1686,
+          "like_count": 42622,
+          "listed_count": 10,
+          "media_count": 1288,
+          "tweet_count": 20792
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1993275448823066932",
+    "created_at": "2025-11-26T03:21:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T04:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993520521183740318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1708889023513870337",
+          "start": 0,
+          "username": "mINaMn_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993520521183740318",
+    "in_reply_to_user_id": "1708889023513870337",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993514970655674682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mINaMn_o 依旧老英雄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1993275448823066932",
+        "created_at": "2025-11-26T03:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T04:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993520521183740318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1708889023513870337",
+              "start": 0,
+              "username": "mINaMn_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993520521183740318",
+        "in_reply_to_user_id": "1708889023513870337",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993514970655674682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mINaMn_o 依旧老英雄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708889023513870337",
+        "conversation_id": "1993275448823066932",
+        "created_at": "2025-11-26T02:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T03:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993514970655674682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993514970655674682",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993275448823066932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 联合国军老英雄太善良导致的👆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5822,
+          "following_count": 999,
+          "like_count": 45820,
+          "listed_count": 17,
+          "media_count": 927,
+          "tweet_count": 7938
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-02T16:57:57.000Z",
+        "description": "工人农民说我万岁，我说我确实万岁",
+        "id": "1708889023513870337",
+        "location": "It's a long way to Tipperary",
+        "name": "統minami",
+        "pinned_tweet_id": "1992496832233251039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992490812391989248/PZ4n4sMx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 5970,
+          "like_count": 53394,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1353
+        },
+        "username": "mINaMn_o",
+        "verified": false
+      }
+    ]
+  }
+}

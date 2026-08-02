@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2058740026708832336",
+    "created_at": "2026-05-25T09:52:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T10:52:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058848743344964078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1778092090460663808",
+          "start": 0,
+          "username": "jiang_gao19747"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058848743344964078",
+    "in_reply_to_user_id": "1778092090460663808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058782676937785482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiang_gao19747 我不喜欢极端思想"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2058740026708832336",
+        "created_at": "2026-05-25T09:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058848743344964078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1778092090460663808",
+              "start": 0,
+              "username": "jiang_gao19747"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058848743344964078",
+        "in_reply_to_user_id": "1778092090460663808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058782676937785482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiang_gao19747 我不喜欢极端思想"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778092090460663808",
+        "conversation_id": "2058740026708832336",
+        "created_at": "2026-05-25T05:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T06:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058782676937785482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058782676937785482",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1552,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058740026708832336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 我觉得还好, 图纸大佐、浪蛆和抽象骡子才是最恶心的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5823,
+          "following_count": 747,
+          "like_count": 48214,
+          "listed_count": 18,
+          "media_count": 977,
+          "tweet_count": 8471
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-10T16:06:11.000Z",
+        "description": "forever",
+        "id": "1778092090460663808",
+        "location": "hainan",
+        "name": "高酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778093988110606336/ZhxoZhd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 29,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 86
+        },
+        "username": "jiang_gao19747",
+        "verified": false
+      }
+    ]
+  }
+}

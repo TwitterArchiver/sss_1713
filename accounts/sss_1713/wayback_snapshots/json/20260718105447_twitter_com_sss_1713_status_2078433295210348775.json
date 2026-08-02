@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2078408342893216166",
+    "created_at": "2026-07-18T10:54:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T11:54:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078433295210348775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1902194167486541824",
+          "start": 0,
+          "username": "CatWall"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078433295210348775",
+    "in_reply_to_user_id": "1902194167486541824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078413462158381154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CatWall 去买吧，嘻嘻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2078408342893216166",
+        "created_at": "2026-07-18T10:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078433295210348775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1902194167486541824",
+              "start": 0,
+              "username": "CatWall"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078433295210348775",
+        "in_reply_to_user_id": "1902194167486541824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078413462158381154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatWall 去买吧，嘻嘻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902194167486541824",
+        "conversation_id": "2078408342893216166",
+        "created_at": "2026-07-18T09:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T10:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078413462158381154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078413462158381154",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078408342893216166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 羡慕嫉妒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5992,
+          "following_count": 798,
+          "like_count": 54955,
+          "listed_count": 18,
+          "media_count": 1087,
+          "tweet_count": 9525
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-19T03:04:10.000Z",
+        "description": "再见，我们，来生再见。",
+        "id": "1902194167486541824",
+        "name": "华尔猫猫",
+        "pinned_tweet_id": "2066110307001331789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074714053331554305/5niuWOcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 185,
+          "like_count": 650,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1154
+        },
+        "url": "",
+        "username": "CatWall",
+        "verified": false
+      }
+    ]
+  }
+}

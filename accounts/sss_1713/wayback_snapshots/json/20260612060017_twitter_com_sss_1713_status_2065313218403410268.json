@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065313200674136064"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2065313218403410268",
+    "created_at": "2026-06-12T06:00:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T07:00:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065313218403410268"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jKWiHCIszv",
+          "end": 59,
+          "expanded_url": "https://x.com/sss_1713/status/2065313218403410268/photo/1",
+          "media_key": "3_2065313200674136064",
+          "start": 36,
+          "url": "https://t.co/jKWiHCIszv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065313218403410268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "算早期“最后一代”的设想吗，李银河老师本人也未生育，而是选择领养孩子🤔 https://t.co/jKWiHCIszv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1222,
+        "media_key": "3_2065313200674136064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKl3adwbYAAXcN4.jpg",
+        "width": 1581
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065313200674136064"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2065313218403410268",
+        "created_at": "2026-06-12T06:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065313218403410268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jKWiHCIszv",
+              "end": 59,
+              "expanded_url": "https://x.com/sss_1713/status/2065313218403410268/photo/1",
+              "media_key": "3_2065313200674136064",
+              "start": 36,
+              "url": "https://t.co/jKWiHCIszv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065313218403410268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "算早期“最后一代”的设想吗，李银河老师本人也未生育，而是选择领养孩子🤔 https://t.co/jKWiHCIszv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5885,
+          "following_count": 759,
+          "like_count": 50531,
+          "listed_count": 18,
+          "media_count": 1012,
+          "tweet_count": 8901
+        },
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1835497865051091033",
+    "created_at": "2024-09-17T01:33:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-17T02:33:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835854572687851783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1401887084076429324",
+          "start": 0,
+          "username": "CryptosLaowai"
+        },
+        {
+          "end": 31,
+          "id": "1249525383797456898",
+          "start": 15,
+          "username": "jakobsonradical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835854572687851783",
+    "in_reply_to_user_id": "1401887084076429324",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835558574182789543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CryptosLaowai @jakobsonradical 都是有钱人当玩具买的吧，普通人买就是纯傻逼了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1835497865051091033",
+        "created_at": "2024-09-17T01:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T02:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835854572687851783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1401887084076429324",
+              "start": 0,
+              "username": "CryptosLaowai"
+            },
+            {
+              "end": 31,
+              "id": "1249525383797456898",
+              "start": 15,
+              "username": "jakobsonradical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835854572687851783",
+        "in_reply_to_user_id": "1401887084076429324",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835558574182789543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CryptosLaowai @jakobsonradical 都是有钱人当玩具买的吧，普通人买就是纯傻逼了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401887084076429324",
+        "conversation_id": "1835497865051091033",
+        "created_at": "2024-09-16T05:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T06:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835558574182789543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1249525383797456898",
+              "start": 0,
+              "username": "jakobsonradical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835558574182789543",
+        "in_reply_to_user_id": "1249525383797456898",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23122,
+          "like_count": 531,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835497865051091033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jakobsonradical 买这个手机的，基本上都是大傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "锈叶🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5661,
+          "following_count": 1010,
+          "like_count": 46280,
+          "listed_count": 20,
+          "tweet_count": 7556
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-07T13:01:55.000Z",
+        "description": "Patience is victory.  #Binance",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 22,
+                "tag": "Binance"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ricetoshi",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ricetoshi",
+                "start": 0,
+                "url": "https://t.co/SxdKQ5fXLp"
+              }
+            ]
+          }
+        },
+        "id": "1401887084076429324",
+        "location": "London, England",
+        "name": "Jimmy 米哥 🚀🚀🚀",
+        "pinned_tweet_id": "1835483832059146392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772618005954052096/3X_5BUId_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126852,
+          "following_count": 25,
+          "like_count": 27052,
+          "listed_count": 879,
+          "tweet_count": 17956
+        },
+        "url": "https://t.co/SxdKQ5fXLp",
+        "username": "CryptosLaowai",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-13T02:30:47.000Z",
+        "description": "中文/English/日本語/Español。 追求理性，追求自由。社会科学/文史哲/编程/代数学/经济/etc。五毛/粉红请绕道。",
+        "id": "1249525383797456898",
+        "name": "Jacobson🌎🌸贴贴BOT",
+        "pinned_tweet_id": "1436195522604199960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290953925764558848/J6rhBr0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211054,
+          "following_count": 1518,
+          "like_count": 43839,
+          "listed_count": 880,
+          "tweet_count": 22994
+        },
+        "username": "jakobsonradical",
+        "verified": false
+      }
+    ]
+  }
+}

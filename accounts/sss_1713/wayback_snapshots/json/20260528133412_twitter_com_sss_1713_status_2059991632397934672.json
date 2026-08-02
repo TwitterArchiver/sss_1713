@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2059598604709331396",
+    "created_at": "2026-05-28T13:34:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T14:34:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059991632397934672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1616512241947521030",
+          "start": 0,
+          "username": "Topia_Urbica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059991632397934672",
+    "in_reply_to_user_id": "1616512241947521030",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059969715993551281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Topia_Urbica 😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2059598604709331396",
+        "created_at": "2026-05-28T13:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059991632397934672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1616512241947521030",
+              "start": 0,
+              "username": "Topia_Urbica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059991632397934672",
+        "in_reply_to_user_id": "1616512241947521030",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059969715993551281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Topia_Urbica 😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616512241947521030",
+        "conversation_id": "2059598604709331396",
+        "created_at": "2026-05-28T12:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059969715993551281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059969715993551281",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059598604709331396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 xm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5850,
+          "following_count": 750,
+          "like_count": 48530,
+          "listed_count": 18,
+          "media_count": 982,
+          "tweet_count": 8557
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-20T19:05:38.000Z",
+        "description": "人間に、なりたいですわ！|帝國憲法第七條ニ依リ衆議院ノ解散ヲ命ス|天皇ハ帝国議会ノ協賛ヲ以テ立法権ヲ行フ||日语学习中|姐姐大人：@lateranoambriel|小号：@Nagatayume2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 65,
+                "username": "lateranoambriel"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Nagatayume2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NagataHikari",
+                "end": 23,
+                "expanded_url": "http://t.me/NagataHikari",
+                "start": 0,
+                "url": "https://t.co/l94Ib1d0ED"
+              }
+            ]
+          }
+        },
+        "id": "1616512241947521030",
+        "location": "極東共和国",
+        "name": "Topia Urbica",
+        "pinned_tweet_id": "1944430214462755052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052063066817449984/hdP0HhTZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 698,
+          "like_count": 75403,
+          "listed_count": 3,
+          "media_count": 1238,
+          "tweet_count": 6817
+        },
+        "url": "https://t.co/l94Ib1d0ED",
+        "username": "Topia_Urbica",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1797839873136808044",
+    "created_at": "2024-06-04T03:56:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-04T04:56:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1797839873136808044"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1797839873136808044",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "《我与六四》\n第一次知道六四也是在一个春夏之交的晚上，那时候我也才是初中生，从寄宿学校转学到公立学校，对手机上一切事物都抱有极大的好奇心，后来因为仅仅是评价了一下文革，我墙内的帐号被永久封禁，自此，我开始向往墙外没有言论审查的自由。我想起了疫情时注册的推特，只是觉得好玩才注册……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1797839873136808044",
+        "created_at": "2024-06-04T03:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-04T04:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797839873136808044"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1797839873136808044",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《我与六四》\n第一次知道六四也是在一个春夏之交的晚上，那时候我也才是初中生，从寄宿学校转学到公立学校，对手机上一切事物都抱有极大的好奇心，后来因为仅仅是评价了一下文革，我墙内的帐号被永久封禁，自此，我开始向往墙外没有言论审查的自由。我想起了疫情时注册的推特，只是觉得好玩才注册……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "锈叶🍂",
+        "pinned_tweet_id": "1665009561508495368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5489,
+          "following_count": 1010,
+          "like_count": 46520,
+          "listed_count": 19,
+          "tweet_count": 7542
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

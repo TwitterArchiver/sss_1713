@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1980452632801210711",
+    "created_at": "2025-10-21T06:31:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T07:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980522393287184470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1873105262971887616",
+          "start": 0,
+          "username": "yly1229"
+        },
+        {
+          "end": 22,
+          "id": "1794387376384376832",
+          "start": 9,
+          "username": "Starry_Sand_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980522393287184470",
+    "in_reply_to_user_id": "1873105262971887616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980459767413006355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@yly1229 @Starry_Sand_ 我也没见过，哪有这样的，我们这边都会有离家比较远的教友去的晚几分钟，也没见大家说什么。这还是几秒就关门，对所有人都不友善。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1980452632801210711",
+        "created_at": "2025-10-21T06:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T07:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980522393287184470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1873105262971887616",
+              "start": 0,
+              "username": "yly1229"
+            },
+            {
+              "end": 22,
+              "id": "1794387376384376832",
+              "start": 9,
+              "username": "Starry_Sand_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980522393287184470",
+        "in_reply_to_user_id": "1873105262971887616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980459767413006355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@yly1229 @Starry_Sand_ 我也没见过，哪有这样的，我们这边都会有离家比较远的教友去的晚几分钟，也没见大家说什么。这还是几秒就关门，对所有人都不友善。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873105262971887616",
+        "conversation_id": "1980452632801210711",
+        "created_at": "2025-10-21T02:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T03:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980459767413006355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794387376384376832",
+              "start": 0,
+              "username": "Starry_Sand_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980459767413006355",
+        "in_reply_to_user_id": "1794387376384376832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980452632801210711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Starry_Sand_ 迟到几十秒就不让进还是第一次听说。∑(O_O；)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5817,
+          "following_count": 980,
+          "like_count": 45997,
+          "listed_count": 17,
+          "media_count": 925,
+          "tweet_count": 7813
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-28T20:34:44.000Z",
+        "description": "愿世界和平 再无泪水\n\n只是记录生活 派系或意见不同的不要和我对打 烦 谁也说服不了谁₍₍ (̨̡ ‾᷄ᗣ‾᷅ )̧̢ ₎₎\n\n把反人类 虐杀等等当玩笑的……就请不要和我说话 闹麻了…… \n\nfo的推文我有可能漏刷了 ……૮ o̴̶̷᷄ ·̫ o̴̶̷̥᷅ ა",
+        "id": "1873105262971887616",
+        "name": "六月六",
+        "pinned_tweet_id": "1974056787906343133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971732545818841088/b1QfNGry_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 109,
+          "like_count": 1299,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 550
+        },
+        "username": "yly1229",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T15:18:17.000Z",
+        "description": "只是个透明人，并不想把太多时间浪费在推特上。性情乖僻，热爱宗教历史文化；渴望能去各地朝圣，以体验当地圣教会的特色文化，也希望能体验到不同宗教的魅力。愿生活充满希望变得美好，无关政治吵架且无特别政治立场、无明显意识形态，比较讨厌无用的吵架对线。通常各个时间会不定时地离线不刷推特、开放或关闭推特空间，为避免打扰，敬请谅解。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/105927773",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/105927773",
+                "start": 0,
+                "url": "https://t.co/bxMMHQok3f"
+              }
+            ]
+          }
+        },
+        "id": "1794387376384376832",
+        "location": "中国大陆 UTC+8",
+        "name": "☨̶ 保禄伊纳爵 ♰✝︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977675810061312000/4yP3haKG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 1144,
+          "like_count": 127112,
+          "listed_count": 2,
+          "media_count": 3025,
+          "tweet_count": 15856
+        },
+        "url": "https://t.co/bxMMHQok3f",
+        "username": "Starry_Sand_",
+        "verified": false
+      }
+    ]
+  }
+}

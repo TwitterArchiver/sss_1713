@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2003288675434791138",
+    "created_at": "2025-12-23T02:16:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T03:16:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003288675434791138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2000501337143033856",
+          "start": 3,
+          "username": "wangwihd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003288675434791138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 121
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002898329634754834",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @wangwihd: 以后打仗能不能都改成领导人之间的近身肉搏，最好是全球直播。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2003288675434791138",
+        "created_at": "2025-12-23T02:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T03:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003288675434791138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2000501337143033856",
+              "start": 3,
+              "username": "wangwihd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003288675434791138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 121
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002898329634754834",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @wangwihd: 以后打仗能不能都改成领导人之间的近身肉搏，最好是全球直播。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000501337143033856",
+        "conversation_id": "2002898329634754834",
+        "created_at": "2025-12-22T00:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T01:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002898329634754834"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002898329634754834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 211386,
+          "like_count": 2689,
+          "quote_count": 34,
+          "reply_count": 48,
+          "retweet_count": 121
+        },
+        "reply_settings": "following",
+        "text": "以后打仗能不能都改成领导人之间的近身肉搏，最好是全球直播。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5777,
+          "following_count": 1004,
+          "like_count": 46070,
+          "listed_count": 16,
+          "media_count": 931,
+          "tweet_count": 8021
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T09:42:33.000Z",
+        "description": "我还是我，我在等你发现我。https://t.co/0O6j9Dt498 如果有之前的互关刷到我，我没有双取，我只是号没了。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luna58220",
+                "end": 36,
+                "expanded_url": "https://ngl.link/luna58220",
+                "start": 13,
+                "url": "https://t.co/0O6j9Dt498"
+              }
+            ]
+          }
+        },
+        "id": "2000501337143033856",
+        "name": "After 17（大号已经投河自尽）",
+        "pinned_tweet_id": "2000919471280808410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001259421410934785/nxnqCkF2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 72,
+          "like_count": 622,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 319
+        },
+        "username": "wangwihd",
+        "verified": false
+      }
+    ]
+  }
+}

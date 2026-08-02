@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065045447522299904"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2065045456510738878",
+    "created_at": "2026-06-11T12:16:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:16:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065045456510738878"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/beDnhjAjSe",
+          "end": 53,
+          "expanded_url": "https://x.com/sss_1713/status/2065045456510738878/photo/1",
+          "media_key": "3_2065045447522299904",
+          "start": 30,
+          "url": "https://t.co/beDnhjAjSe"
+        },
+        {
+          "display_url": "x.com/kaynaknews/sta…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/kaynaknews/status/2064845730854912069",
+          "start": 54,
+          "url": "https://t.co/1EKGzgazIo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065045456510738878",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064845730854912069",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "什么狗翻译，人家是身高延长手术，给人家翻译成阴茎延长术了。 https://t.co/beDnhjAjSe https://t.co/1EKGzgazIo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 930,
+        "media_key": "3_2065045447522299904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiD5LiasAAYhoh.jpg",
+        "width": 1206
+      },
+      {
+        "duration_ms": 23221,
+        "height": 1024,
+        "media_key": "7_2064845699892580352",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2064845699892580352/pu/img/hGqBCnPzMvKCCS1p.jpg",
+        "public_metrics": {
+          "view_count": 1093397
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064845699892580352/pu/vid/avc1/320x568/l5lrMii28OJ1iDVb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064845699892580352/pu/vid/avc1/480x852/PEaecwWAEIXGlXKT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064845699892580352/pu/vid/avc1/576x1024/PxECMoJtXmdolMnU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2064845699892580352/pu/pl/9smWZSMAF6vAcSwU.m3u8?v=493"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065045447522299904"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2065045456510738878",
+        "created_at": "2026-06-11T12:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065045456510738878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/beDnhjAjSe",
+              "end": 53,
+              "expanded_url": "https://x.com/sss_1713/status/2065045456510738878/photo/1",
+              "media_key": "3_2065045447522299904",
+              "start": 30,
+              "url": "https://t.co/beDnhjAjSe"
+            },
+            {
+              "display_url": "x.com/kaynaknews/sta…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/kaynaknews/status/2064845730854912069",
+              "start": 54,
+              "url": "https://t.co/1EKGzgazIo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065045456510738878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064845730854912069",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么狗翻译，人家是身高延长手术，给人家翻译成阴茎延长术了。 https://t.co/beDnhjAjSe https://t.co/1EKGzgazIo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2064845699892580352"
+          ]
+        },
+        "author_id": "1531440976014753792",
+        "conversation_id": "2064845730854912069",
+        "created_at": "2026-06-10T23:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T00:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064845730854912069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nhER9uQzfF",
+              "end": 99,
+              "expanded_url": "https://x.com/KaynakNews/status/2064845730854912069/video/1",
+              "media_key": "7_2064845699892580352",
+              "start": 76,
+              "url": "https://t.co/nhER9uQzfF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064845730854912069",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1131,
+          "impression_count": 2444098,
+          "like_count": 1343,
+          "quote_count": 102,
+          "reply_count": 251,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "Boy uzatma ameliyatı geçiren genç, 3 ayda 11 santimlik değişimini paylaştı. https://t.co/nhER9uQzfF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5885,
+          "following_count": 759,
+          "like_count": 50463,
+          "listed_count": 18,
+          "media_count": 1008,
+          "tweet_count": 8890
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-31T01:03:18.000Z",
+        "description": "Gündemi doğru Kaynaktan öğrenmek için takip etmeyi ve bildirimleri açmayı unutmayın 🔔",
+        "id": "1531440976014753792",
+        "location": "Turkey",
+        "name": "Kaynak Haber",
+        "pinned_tweet_id": "1698422856596525471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706031192061927425/7OmnxJt4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108482,
+          "following_count": 4826,
+          "like_count": 2867,
+          "listed_count": 98,
+          "media_count": 4629,
+          "tweet_count": 4733
+        },
+        "username": "KaynakNews",
+        "verified": true
+      }
+    ]
+  }
+}

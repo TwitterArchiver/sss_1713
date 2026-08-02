@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008334090140086277"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2008334097962131811",
+    "created_at": "2026-01-06T00:25:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T01:25:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008334097962131811"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rccEgfYhmr",
+          "end": 38,
+          "expanded_url": "https://x.com/sss_1713/status/2008334097962131811/photo/1",
+          "media_key": "3_2008334090140086277",
+          "start": 15,
+          "url": "https://t.co/rccEgfYhmr"
+        },
+        {
+          "display_url": "x.com/jaemyung_lee/s…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/jaemyung_lee/status/2008187260437680381",
+          "start": 39,
+          "url": "https://t.co/6BSxwpDI7t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008334097962131811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008187260437680381",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我没看错的话，这位是不是。？ https://t.co/rccEgfYhmr https://t.co/6BSxwpDI7t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2008334090140086277",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G98JNuEbcAU-SjS.jpg",
+        "width": 942
+      },
+      {
+        "height": 2668,
+        "media_key": "3_2008187200706686977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G96DnoSbsAE5sGj.jpg",
+        "width": 4000
+      },
+      {
+        "height": 2668,
+        "media_key": "3_2008187233585844225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G96Dpixb0AEhP88.jpg",
+        "width": 4000
+      },
+      {
+        "height": 960,
+        "media_key": "3_2008187243413024768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G96DqHYasAAdLy9.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008334090140086277"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2008334097962131811",
+        "created_at": "2026-01-06T00:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T01:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008334097962131811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rccEgfYhmr",
+              "end": 38,
+              "expanded_url": "https://x.com/sss_1713/status/2008334097962131811/photo/1",
+              "media_key": "3_2008334090140086277",
+              "start": 15,
+              "url": "https://t.co/rccEgfYhmr"
+            },
+            {
+              "display_url": "x.com/jaemyung_lee/s…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/jaemyung_lee/status/2008187260437680381",
+              "start": 39,
+              "url": "https://t.co/6BSxwpDI7t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008334097962131811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008187260437680381",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我没看错的话，这位是不是。？ https://t.co/rccEgfYhmr https://t.co/6BSxwpDI7t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008187200706686977",
+            "3_2008187233585844225",
+            "3_2008187243413024768"
+          ]
+        },
+        "author_id": "106379129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          }
+        ],
+        "conversation_id": "2008187260437680381",
+        "created_at": "2026-01-05T14:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T15:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008187260437680381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F9YnwFufb7",
+              "end": 148,
+              "expanded_url": "https://x.com/Jaemyung_Lee/status/2008187260437680381/photo/1",
+              "media_key": "3_2008187200706686977",
+              "start": 125,
+              "url": "https://t.co/F9YnwFufb7"
+            },
+            {
+              "display_url": "pic.x.com/F9YnwFufb7",
+              "end": 148,
+              "expanded_url": "https://x.com/Jaemyung_Lee/status/2008187260437680381/photo/1",
+              "media_key": "3_2008187233585844225",
+              "start": 125,
+              "url": "https://t.co/F9YnwFufb7"
+            },
+            {
+              "display_url": "pic.x.com/F9YnwFufb7",
+              "end": 148,
+              "expanded_url": "https://x.com/Jaemyung_Lee/status/2008187260437680381/photo/1",
+              "media_key": "3_2008187243413024768",
+              "start": 125,
+              "url": "https://t.co/F9YnwFufb7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008187260437680381",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1801,
+          "impression_count": 1780327,
+          "like_count": 19031,
+          "quote_count": 961,
+          "reply_count": 1520,
+          "retweet_count": 2722
+        },
+        "reply_settings": "everyone",
+        "text": "&lt;화질은 확실하쥬? 😁&gt;\n경주에서 선물 받은 샤오미로 시진핑 주석님 내외분과 셀카 한 장..\n덕분에 인생샷 건졌습니다 ㅎㅎ\n\n가까이서 만날수록 풀리는 한중관계,\n앞으로 더 자주 소통하고 더 많이 협력하겠습니다^^ https://t.co/F9YnwFufb7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5770,
+          "following_count": 1003,
+          "like_count": 46092,
+          "listed_count": 16,
+          "media_count": 931,
+          "tweet_count": 8027
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-19T10:59:13.000Z",
+        "description": "대한민국 제21대 대통령",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "president.go.kr",
+                "end": 23,
+                "expanded_url": "https://www.president.go.kr/",
+                "start": 0,
+                "url": "https://t.co/NJ7qyiAoIk"
+              }
+            ]
+          }
+        },
+        "id": "106379129",
+        "location": "대한민국 ",
+        "name": "이재명",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916425597586448384/O2OTY-Yj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931306,
+          "following_count": 456226,
+          "like_count": 9302,
+          "listed_count": 2705,
+          "media_count": 7100,
+          "tweet_count": 62877
+        },
+        "url": "https://t.co/NJ7qyiAoIk",
+        "username": "Jaemyung_Lee",
+        "verified": true
+      }
+    ]
+  }
+}

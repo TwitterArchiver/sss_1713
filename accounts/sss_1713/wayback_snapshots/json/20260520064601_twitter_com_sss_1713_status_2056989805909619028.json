@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2056792964312244419",
+    "created_at": "2026-05-20T06:46:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T07:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056989805909619028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810916896625315840",
+          "start": 0,
+          "username": "FrozSalmon0214"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056989805909619028",
+    "in_reply_to_user_id": "1810916896625315840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056792964312244419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FrozSalmon0214 想象力匮乏还想装逼的弱智是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2056792964312244419",
+        "created_at": "2026-05-20T06:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T07:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056989805909619028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810916896625315840",
+              "start": 0,
+              "username": "FrozSalmon0214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056989805909619028",
+        "in_reply_to_user_id": "1810916896625315840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056792964312244419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrozSalmon0214 想象力匮乏还想装逼的弱智是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810916896625315840",
+        "conversation_id": "2056792964312244419",
+        "created_at": "2026-05-19T17:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056792964312244419"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056792964312244419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直没明白能够信牢A的人到底脑子的逻辑思维是有多低……谁家好人愿意随便去酒吧跟一个饭都吃不起的白人连名字都不知道的跟他睡一觉然后睡醒再给他买俩汉堡啊，那美国人早就没那么多穷人了🤣🤣🤣完全就是极其无聊的小头话题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2056686933950996682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5804,
+          "following_count": 747,
+          "like_count": 47817,
+          "listed_count": 18,
+          "media_count": 963,
+          "tweet_count": 8385
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T06:00:17.000Z",
+        "description": "05水瓶做饭博主｜男的｜音乐师范生｜有打apex和csgo的可以和我一起玩｜互关可以找我要微信，每天不定期投喂大家我做的饭｜喜欢我的可以更喜欢我了，不喜欢我的可以在喜欢我的路上了｜这我小弟👉@jellysalm ｜匿名信箱👉https://t.co/BD92iAJmjn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 95,
+                "username": "jellysalm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/olivera0502141",
+                "end": 135,
+                "expanded_url": "https://ngl.link/olivera0502141",
+                "start": 112,
+                "url": "https://t.co/BD92iAJmjn"
+              }
+            ]
+          }
+        },
+        "id": "1810916896625315840",
+        "name": "冷冻三文鱼🐟",
+        "pinned_tweet_id": "1981690191623622906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007051304699662336/uv1ySx7V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 349,
+          "like_count": 22961,
+          "listed_count": 2,
+          "media_count": 697,
+          "tweet_count": 22518
+        },
+        "username": "FrozSalmon0214",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2061077270953922839",
+    "created_at": "2026-05-31T13:28:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T14:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061077270953922839"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ykkmiguel2/sta…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/ykkmiguel2/status/2060890080575696990",
+          "start": 36,
+          "url": "https://t.co/WwnEujvhjn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061077270953922839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060890080575696990",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实18岁以后的决定也会有这样的感觉，总在幻想没有选择的路会是更好的。 https://t.co/WwnEujvhjn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2061077270953922839",
+        "created_at": "2026-05-31T13:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061077270953922839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ykkmiguel2/sta…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/ykkmiguel2/status/2060890080575696990",
+              "start": 36,
+              "url": "https://t.co/WwnEujvhjn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061077270953922839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060890080575696990",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实18岁以后的决定也会有这样的感觉，总在幻想没有选择的路会是更好的。 https://t.co/WwnEujvhjn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806835463757406208",
+        "conversation_id": "2060890080575696990",
+        "created_at": "2026-05-31T01:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T02:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060890080575696990"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060890080575696990",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 125,
+          "impression_count": 51110,
+          "like_count": 5323,
+          "quote_count": 80,
+          "reply_count": 41,
+          "retweet_count": 1392
+        },
+        "reply_settings": "everyone",
+        "text": "sinto q eu nao acertei em NENHUMA decisão dos meus 13 aos 18 anos"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5861,
+          "following_count": 749,
+          "like_count": 48675,
+          "listed_count": 18,
+          "media_count": 983,
+          "tweet_count": 8586
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-28T23:42:07.000Z",
+        "description": "sou maconheiro jogo minecraft fumo cigarro bato punheta beijo na boca",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ykkmiguel",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ykkmiguel",
+                "start": 0,
+                "url": "https://t.co/utcLcQFITz"
+              }
+            ]
+          }
+        },
+        "id": "1806835463757406208",
+        "location": "Rio de Janeiro, Brasil",
+        "name": "Miguel",
+        "pinned_tweet_id": "1992675281883242802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005367155986923520/1eHhhpHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33293,
+          "following_count": 888,
+          "like_count": 40271,
+          "listed_count": 11,
+          "media_count": 2378,
+          "tweet_count": 15912
+        },
+        "url": "https://t.co/utcLcQFITz",
+        "username": "ykkmiguel2",
+        "verified": false
+      }
+    ]
+  }
+}

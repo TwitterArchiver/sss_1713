@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2061205520388600309",
+    "created_at": "2026-06-01T03:06:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T04:06:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061283306315059444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3431623161",
+          "start": 0,
+          "username": "fabyollaverass"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061283306315059444",
+    "in_reply_to_user_id": "3431623161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061205520388600309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fabyollaverass 即使是长大了也可以感受到小时候幸福的味道"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15066,
+        "height": 1920,
+        "media_key": "13_2061205456635248645",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2061205456635248645/img/4n9MtVB8TcdYSjpW.jpg",
+        "public_metrics": {
+          "view_count": 411284
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061205456635248645/vid/avc1/320x568/UEyiBYRPU9wLkUa5.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061205456635248645/vid/avc1/1080x1920/6Hv53cQQUBB0af5R.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061205456635248645/vid/avc1/480x852/vYPEdhRnRnbN99dM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061205456635248645/vid/avc1/720x1280/sLBLirszkuGJ1cCU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2061205456635248645/pl/LcvZ_ntuRrUsRtLo.m3u8?v=be7"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2061205520388600309",
+        "created_at": "2026-06-01T03:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061283306315059444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3431623161",
+              "start": 0,
+              "username": "fabyollaverass"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061283306315059444",
+        "in_reply_to_user_id": "3431623161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061205520388600309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fabyollaverass 即使是长大了也可以感受到小时候幸福的味道"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061205456635248645"
+          ]
+        },
+        "author_id": "3431623161",
+        "conversation_id": "2061205520388600309",
+        "created_at": "2026-05-31T21:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T22:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061205520388600309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xaXx2V1wN4",
+              "end": 94,
+              "expanded_url": "https://x.com/fabyollaverass/status/2061205520388600309/video/1",
+              "media_key": "13_2061205456635248645",
+              "start": 71,
+              "url": "https://t.co/xaXx2V1wN4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061205520388600309",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5365,
+          "impression_count": 968919,
+          "like_count": 31029,
+          "quote_count": 228,
+          "reply_count": 158,
+          "retweet_count": 1828
+        },
+        "reply_settings": "everyone",
+        "text": "ela transformou as roupinhas do filho em uma MANTA cheia de memórias 🥹 https://t.co/xaXx2V1wN4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5858,
+          "following_count": 751,
+          "like_count": 48723,
+          "listed_count": 18,
+          "media_count": 986,
+          "tweet_count": 8599
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-19T16:08:13.000Z",
+        "description": "but i am latin, so i get to feel whatever i want",
+        "id": "3431623161",
+        "name": "faby jurídico modern family",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612930114366341125/teNzgKbi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103608,
+          "following_count": 12433,
+          "like_count": 221750,
+          "listed_count": 64,
+          "media_count": 6588,
+          "tweet_count": 73551
+        },
+        "username": "fabyollaverass",
+        "verified": true
+      }
+    ]
+  }
+}

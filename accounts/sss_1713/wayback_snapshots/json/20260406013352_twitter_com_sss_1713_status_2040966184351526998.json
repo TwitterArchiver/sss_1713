@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2040966184351526998",
+    "created_at": "2026-04-06T01:33:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T02:33:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040966184351526998"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hzhzhzorz/stat…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/hzhzhzorz/status/2040718242361307514",
+          "start": 18,
+          "url": "https://t.co/yLmDMLDZFN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040966184351526998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040718242361307514",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "姓瘾是做着做着突然站起来背百家姓吗 https://t.co/yLmDMLDZFN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040718234526355456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFIWbA-bEAA2jb-.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2040966184351526998",
+        "created_at": "2026-04-06T01:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T02:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040966184351526998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hzhzhzorz/stat…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/hzhzhzorz/status/2040718242361307514",
+              "start": 18,
+              "url": "https://t.co/yLmDMLDZFN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040966184351526998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040718242361307514",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "姓瘾是做着做着突然站起来背百家姓吗 https://t.co/yLmDMLDZFN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040718234526355456"
+          ]
+        },
+        "author_id": "1643482518555963392",
+        "conversation_id": "2040718242361307514",
+        "created_at": "2026-04-05T09:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T10:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040718242361307514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u0tjPHf0Ki",
+              "end": 39,
+              "expanded_url": "https://x.com/hzhzhzorz/status/2040718242361307514/photo/1",
+              "media_key": "3_2040718234526355456",
+              "start": 16,
+              "url": "https://t.co/u0tjPHf0Ki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040718242361307514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 45884,
+          "like_count": 97,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "潮流音符到底有没有人类小说了？ https://t.co/u0tjPHf0Ki"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5804,
+          "following_count": 1025,
+          "like_count": 46919,
+          "listed_count": 18,
+          "media_count": 938,
+          "tweet_count": 8131
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T05:15:48.000Z",
+        "description": "🚪88除互关 不闲聊 爱看帅哥\n‖坐标长春 高三不定时复活\n认出来请无视我\n‖看脸回复",
+        "id": "1643482518555963392",
+        "location": "怡紅院",
+        "name": "今沢江朝",
+        "pinned_tweet_id": "2014270030041829391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920307211936378880/U8fjF4sr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 617,
+          "like_count": 3950,
+          "listed_count": 0,
+          "media_count": 250,
+          "tweet_count": 1957
+        },
+        "username": "hzhzhzorz",
+        "verified": false
+      }
+    ]
+  }
+}

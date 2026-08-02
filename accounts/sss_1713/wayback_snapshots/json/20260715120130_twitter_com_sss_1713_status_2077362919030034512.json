@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2077218830280265840",
+    "created_at": "2026-07-15T12:01:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T13:01:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077362919030034512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035655278931439616",
+          "start": 0,
+          "username": "NorthWest_Corps"
+        },
+        {
+          "end": 31,
+          "id": "2038317601391026176",
+          "start": 17,
+          "username": "TasHKent_Raya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077362919030034512",
+    "in_reply_to_user_id": "2035655278931439616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077324133776634226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NorthWest_Corps @TasHKent_Raya 我再也不用缩写了🥹🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2077218830280265840",
+        "created_at": "2026-07-15T12:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T13:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077362919030034512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035655278931439616",
+              "start": 0,
+              "username": "NorthWest_Corps"
+            },
+            {
+              "end": 31,
+              "id": "2038317601391026176",
+              "start": 17,
+              "username": "TasHKent_Raya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077362919030034512",
+        "in_reply_to_user_id": "2035655278931439616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077324133776634226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NorthWest_Corps @TasHKent_Raya 我再也不用缩写了🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035655278931439616",
+        "conversation_id": "2077218830280265840",
+        "created_at": "2026-07-15T09:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077324133776634226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2038317601391026176",
+              "start": 0,
+              "username": "TasHKent_Raya"
+            },
+            {
+              "end": 24,
+              "id": "1254605353838231553",
+              "start": 15,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077324133776634226",
+        "in_reply_to_user_id": "2038317601391026176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077312523624390898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TasHKent_Raya @sss_1713 哦我脑雾理解错了我理解成Idon't care了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5983,
+          "following_count": 794,
+          "like_count": 54738,
+          "listed_count": 18,
+          "media_count": 1090,
+          "tweet_count": 9521
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-22T09:50:23.000Z",
+        "description": "你在期待什么",
+        "id": "2035655278931439616",
+        "location": "西部战区地下防核掩体",
+        "name": "西北集群",
+        "pinned_tweet_id": "2061655669472924110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035657905769525248/UYfz12L1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 59,
+          "like_count": 3764,
+          "listed_count": 5,
+          "media_count": 818,
+          "tweet_count": 3394
+        },
+        "url": "",
+        "username": "NorthWest_Corps",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T18:09:40.000Z",
+        "description": "学生\n鉄道、軍事、自動車、模型、War Thunder、Bang Dream！",
+        "id": "2038317601391026176",
+        "name": "广铁广段同志酱_Rāya",
+        "pinned_tweet_id": "2068339201637294428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038317683242946560/mPvlM0sf_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 218,
+          "like_count": 1149,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 937
+        },
+        "url": "",
+        "username": "TasHKent_Raya",
+        "verified": false
+      }
+    ]
+  }
+}

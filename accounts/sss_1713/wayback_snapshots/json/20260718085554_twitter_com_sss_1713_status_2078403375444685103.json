@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077711986851450880"
+      ],
+      "media_source_tweet_id": [
+        "2077712037501878390"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2078403375444685103",
+    "created_at": "2026-07-18T08:55:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T09:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078403375444685103"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 25,
+          "tag": "動物虐待魔"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1065940653660549120",
+          "start": 3,
+          "username": "Sea_381"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W3Hnz9xcVn",
+          "end": 55,
+          "expanded_url": "https://x.com/Sea_381/status/2077712037501878390/photo/1",
+          "media_key": "3_2077711986851450880",
+          "start": 32,
+          "url": "https://t.co/W3Hnz9xcVn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078403375444685103",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 560
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077712037501878390",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sea_381: どんどん貼られるといい\n#動物虐待魔 https://t.co/W3Hnz9xcVn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1417,
+        "media_key": "3_2077711986851450880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWECznaEAAj93D.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077711986851450880"
+          ]
+        },
+        "author_id": "1065940653660549120",
+        "conversation_id": "2077712037501878390",
+        "created_at": "2026-07-16T11:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077712037501878390"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 12,
+              "tag": "動物虐待魔"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W3Hnz9xcVn",
+              "end": 42,
+              "expanded_url": "https://x.com/Sea_381/status/2077712037501878390/photo/1",
+              "media_key": "3_2077711986851450880",
+              "start": 19,
+              "url": "https://t.co/W3Hnz9xcVn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077712037501878390",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 18491,
+          "like_count": 2446,
+          "quote_count": 8,
+          "reply_count": 18,
+          "retweet_count": 560
+        },
+        "reply_settings": "everyone",
+        "text": "どんどん貼られるといい\n#動物虐待魔 https://t.co/W3Hnz9xcVn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077711986851450880"
+          ],
+          "media_source_tweet_id": [
+            "2077712037501878390"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2078403375444685103",
+        "created_at": "2026-07-18T08:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078403375444685103"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 25,
+              "tag": "動物虐待魔"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1065940653660549120",
+              "start": 3,
+              "username": "Sea_381"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W3Hnz9xcVn",
+              "end": 55,
+              "expanded_url": "https://x.com/Sea_381/status/2077712037501878390/photo/1",
+              "media_key": "3_2077711986851450880",
+              "start": 32,
+              "url": "https://t.co/W3Hnz9xcVn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078403375444685103",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 560
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077712037501878390",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sea_381: どんどん貼られるといい\n#動物虐待魔 https://t.co/W3Hnz9xcVn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5992,
+          "following_count": 798,
+          "like_count": 54950,
+          "listed_count": 18,
+          "media_count": 1087,
+          "tweet_count": 9522
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2018-11-23T12:10:30.000Z",
+        "description": "ドン・キホーテ様に、海洋生物の生体水槽展示をやめて頂きたく、署名活動を行っています！署名URLはhttps://t.co/VJPeTYlEObです。水槽の中で、魚、ウツボ達は常同行動や異常行動を行いながら苦しみ続けています。詳細は署名文を読んで頂きたいです。どうか、皆様のお力をお貸しください。よろしくお願い致します！！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "chng.it/TgzqHJbs",
+                "end": 71,
+                "expanded_url": "https://chng.it/TgzqHJbs",
+                "start": 48,
+                "url": "https://t.co/VJPeTYlEOb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/channel/UCmLP3…",
+                "end": 23,
+                "expanded_url": "https://m.youtube.com/channel/UCmLP3Y7eZsHV1hqeCdpZXVg",
+                "start": 0,
+                "url": "https://t.co/H8GjAWvk57"
+              }
+            ]
+          }
+        },
+        "id": "1065940653660549120",
+        "name": "生体水槽展示反対署名",
+        "pinned_tweet_id": "2078014242809160090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606266114941472768/sGAI0mCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2090,
+          "following_count": 3046,
+          "like_count": 65533,
+          "listed_count": 60,
+          "media_count": 985,
+          "tweet_count": 32860
+        },
+        "url": "https://t.co/H8GjAWvk57",
+        "username": "Sea_381",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049143180977979393"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2049143190780088639",
+    "created_at": "2026-04-28T15:06:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T16:06:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049143190780088639"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 68,
+          "start": 59,
+          "tag": "我的X周年纪念日"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KIPvlXEWtr",
+          "end": 92,
+          "expanded_url": "https://x.com/sss_1713/status/2049143190780088639/photo/1",
+          "media_key": "3_2049143180977979393",
+          "start": 69,
+          "url": "https://t.co/KIPvlXEWtr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049143190780088639",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎，居然已经六年了，我如果明天就死去的话，推特的各位将陪伴了我三分之一的人生了。\n\n还记得你何时加入 X 吗？我知道！#我的X周年纪念日 https://t.co/KIPvlXEWtr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2049143180977979393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAE3cQbQAEOle_.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049143180977979393"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2049143190780088639",
+        "created_at": "2026-04-28T15:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049143190780088639"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 59,
+              "tag": "我的X周年纪念日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KIPvlXEWtr",
+              "end": 92,
+              "expanded_url": "https://x.com/sss_1713/status/2049143190780088639/photo/1",
+              "media_key": "3_2049143180977979393",
+              "start": 69,
+              "url": "https://t.co/KIPvlXEWtr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049143190780088639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎，居然已经六年了，我如果明天就死去的话，推特的各位将陪伴了我三分之一的人生了。\n\n还记得你何时加入 X 吗？我知道！#我的X周年纪念日 https://t.co/KIPvlXEWtr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5801,
+          "following_count": 1033,
+          "like_count": 47257,
+          "listed_count": 18,
+          "media_count": 939,
+          "tweet_count": 8172
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

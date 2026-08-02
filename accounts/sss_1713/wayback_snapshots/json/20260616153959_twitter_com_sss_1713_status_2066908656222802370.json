@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2066885143693078644",
+    "created_at": "2026-06-16T15:39:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T16:39:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066908656222802370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2037381870204198912",
+          "start": 0,
+          "username": "980thVGRegiment"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066908656222802370",
+    "in_reply_to_user_id": "2037381870204198912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066885143693078644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@980thVGRegiment 看起来好痛，好好休息🫂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066885131122757633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8NE3Ab0AE0ZUR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066885126190182400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8NEkoasAARqDY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066885130774605824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8NE1tbcAAHhGX.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066885130778730496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8NE1uaYAAF8p8.jpg",
+        "width": 999
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2066885143693078644",
+        "created_at": "2026-06-16T15:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066908656222802370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2037381870204198912",
+              "start": 0,
+              "username": "980thVGRegiment"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066908656222802370",
+        "in_reply_to_user_id": "2037381870204198912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066885143693078644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@980thVGRegiment 看起来好痛，好好休息🫂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066885131122757633",
+            "3_2066885126190182400",
+            "3_2066885130774605824",
+            "3_2066885130778730496"
+          ]
+        },
+        "author_id": "2037381870204198912",
+        "conversation_id": "2066885143693078644",
+        "created_at": "2026-06-16T14:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T15:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066885143693078644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CdMyjhnLuG",
+              "end": 33,
+              "expanded_url": "https://x.com/980thVGRegiment/status/2066885143693078644/photo/1",
+              "media_key": "3_2066885131122757633",
+              "start": 10,
+              "url": "https://t.co/CdMyjhnLuG"
+            },
+            {
+              "display_url": "pic.x.com/CdMyjhnLuG",
+              "end": 33,
+              "expanded_url": "https://x.com/980thVGRegiment/status/2066885143693078644/photo/1",
+              "media_key": "3_2066885126190182400",
+              "start": 10,
+              "url": "https://t.co/CdMyjhnLuG"
+            },
+            {
+              "display_url": "pic.x.com/CdMyjhnLuG",
+              "end": 33,
+              "expanded_url": "https://x.com/980thVGRegiment/status/2066885143693078644/photo/1",
+              "media_key": "3_2066885130774605824",
+              "start": 10,
+              "url": "https://t.co/CdMyjhnLuG"
+            },
+            {
+              "display_url": "pic.x.com/CdMyjhnLuG",
+              "end": 33,
+              "expanded_url": "https://x.com/980thVGRegiment/status/2066885143693078644/photo/1",
+              "media_key": "3_2066885130778730496",
+              "start": 10,
+              "url": "https://t.co/CdMyjhnLuG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066885143693078644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 353,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天比较消停的原因 https://t.co/CdMyjhnLuG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5895,
+          "following_count": 763,
+          "like_count": 51356,
+          "listed_count": 18,
+          "media_count": 1032,
+          "tweet_count": 9035
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T04:11:13.000Z",
+        "description": "Nichts ist schwierig auf der Welt\n东方白@432Ifantrygroup小号，https://t.co/JmbqtJGYqD匿名提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 37,
+                "username": "432Ifantrygroup"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 79,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 56,
+                "url": "https://t.co/JmbqtJGYqD"
+              }
+            ]
+          }
+        },
+        "id": "2037381870204198912",
+        "name": "980th VG Regiment",
+        "pinned_tweet_id": "2066885143693078644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037382208261079040/7f2pwRnw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 315,
+          "like_count": 2872,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 697
+        },
+        "username": "980thVGRegiment",
+        "verified": false
+      }
+    ]
+  }
+}

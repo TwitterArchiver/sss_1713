@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Pope Francis",
+          "id": "806597775282421760",
+          "name": "Pope Francis"
+        }
+      }
+    ],
+    "conversation_id": "2007710474834719068",
+    "created_at": "2026-01-04T07:07:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T08:07:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007710474834719068"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 138,
+          "normalized_text": "Pope Pi",
+          "probability": 0.9353,
+          "start": 132,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1511110094163001353",
+          "start": 3,
+          "username": "trad_west_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007710474834719068",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 466
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007490193624863110",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @trad_west_: \"Catholics who profess communism are excommunicated from the Christian faith and declared to be as apostates.\"  \n\n— Pope Pi…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2007490173534187520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9wJrTuXsAAeAjF.png",
+        "width": 473
+      },
+      {
+        "height": 360,
+        "media_key": "3_2007490188709167104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9wJsMQXgAAzf_g.png",
+        "width": 294
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Pope Francis",
+              "id": "806597775282421760",
+              "name": "Pope Francis"
+            }
+          }
+        ],
+        "conversation_id": "2007710474834719068",
+        "created_at": "2026-01-04T07:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T08:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007710474834719068"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 138,
+              "normalized_text": "Pope Pi",
+              "probability": 0.9353,
+              "start": 132,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1511110094163001353",
+              "start": 3,
+              "username": "trad_west_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007710474834719068",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 466
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007490193624863110",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @trad_west_: \"Catholics who profess communism are excommunicated from the Christian faith and declared to be as apostates.\"  \n\n— Pope Pi…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007490173534187520",
+            "3_2007490188709167104"
+          ]
+        },
+        "author_id": "1511110094163001353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Pope Francis",
+              "id": "806597775282421760",
+              "name": "Pope Francis"
+            }
+          }
+        ],
+        "conversation_id": "2007490193624863110",
+        "created_at": "2026-01-03T16:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T17:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007490193624863110"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 128,
+              "normalized_text": "Pope Pius XII",
+              "probability": 0.9164,
+              "start": 116,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vk00I46q2Q",
+              "end": 181,
+              "expanded_url": "https://x.com/trad_west_/status/2007490193624863110/photo/1",
+              "media_key": "3_2007490173534187520",
+              "start": 158,
+              "url": "https://t.co/Vk00I46q2Q"
+            },
+            {
+              "display_url": "pic.x.com/Vk00I46q2Q",
+              "end": 181,
+              "expanded_url": "https://x.com/trad_west_/status/2007490193624863110/photo/1",
+              "media_key": "3_2007490188709167104",
+              "start": 158,
+              "url": "https://t.co/Vk00I46q2Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007490193624863110",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 30707,
+          "like_count": 2348,
+          "quote_count": 13,
+          "reply_count": 32,
+          "retweet_count": 466
+        },
+        "reply_settings": "everyone",
+        "text": "\"Catholics who profess communism are excommunicated from the Christian faith and declared to be as apostates.\"  \n\n— Pope Pius XII 🇻🇦 Decree Against Communism https://t.co/Vk00I46q2Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5775,
+          "following_count": 1003,
+          "like_count": 46093,
+          "listed_count": 16,
+          "media_count": 930,
+          "tweet_count": 8025
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-04T22:35:16.000Z",
+        "description": "🌍 Western Civilization 🌍\n👑✝️ Ave Christus Rex ☦️👑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/trad_west_",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/trad_west_",
+                "start": 0,
+                "url": "https://t.co/rlLCvRazWt"
+              }
+            ]
+          }
+        },
+        "id": "1511110094163001353",
+        "location": "Check out my links ➜",
+        "name": "Trad West",
+        "pinned_tweet_id": "2007534235175850049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1674747275162054660/pnyODD8d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422734,
+          "following_count": 179,
+          "like_count": 31610,
+          "listed_count": 875,
+          "media_count": 24143,
+          "tweet_count": 37033
+        },
+        "url": "https://t.co/rlLCvRazWt",
+        "username": "trad_west_",
+        "verified": true
+      }
+    ]
+  }
+}

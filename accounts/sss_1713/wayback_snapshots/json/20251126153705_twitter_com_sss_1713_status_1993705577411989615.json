@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Exercise and fitness",
+          "id": "847872878041219072",
+          "name": "Fitness"
+        }
+      },
+      {
+        "domain": {
+          "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+          "id": "162",
+          "name": "Exercise & fitness"
+        },
+        "entity": {
+          "description": "Exercises",
+          "id": "872554146750017536",
+          "name": "Exercises"
+        }
+      }
+    ],
+    "conversation_id": "1993705577411989615",
+    "created_at": "2025-11-26T15:37:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T16:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993705577411989615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1497481140915290115",
+          "start": 3,
+          "username": "karasu_ga_warau"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993705577411989615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993505811696439582",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @karasu_ga_warau: 白紙運動教給我最多的，是關於邊緣者的勇氣\n\n這三年來，很多個夜裡我都夢到過那兩天在上海街頭的光景。以前真的很難想像1989年的事情為什麼對那一代人來說是一輩子，但真的經歷了，那些記憶就像長在血管和骨頭紋理中，融化成看不見的固體型態。……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1062,
+        "media_key": "3_1993505807049084929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6pa-C7W0AE0f2v.jpg",
+        "width": 1591
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "1993705577411989615",
+        "created_at": "2025-11-26T15:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T16:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993705577411989615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1497481140915290115",
+              "start": 3,
+              "username": "karasu_ga_warau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993705577411989615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993505811696439582",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @karasu_ga_warau: 白紙運動教給我最多的，是關於邊緣者的勇氣\n\n這三年來，很多個夜裡我都夢到過那兩天在上海街頭的光景。以前真的很難想像1989年的事情為什麼對那一代人來說是一輩子，但真的經歷了，那些記憶就像長在血管和骨頭紋理中，融化成看不見的固體型態。……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993505807049084929"
+          ]
+        },
+        "author_id": "1497481140915290115",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "1993505811696439582",
+        "created_at": "2025-11-26T02:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T03:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993505811696439582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IL1EdKIrFT",
+              "end": 140,
+              "expanded_url": "https://x.com/karasu_ga_warau/status/1993505811696439582/photo/1",
+              "media_key": "3_1993505807049084929",
+              "start": 117,
+              "url": "https://t.co/IL1EdKIrFT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993505811696439582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "白紙運動教給我最多的，是關於邊緣者的勇氣\n\n這三年來，很多個夜裡我都夢到過那兩天在上海街頭的光景。以前真的很難想像1989年的事情為什麼對那一代人來說是一輩子，但真的經歷了，那些記憶就像長在血管和骨頭紋理中，融化成看不見的固體型態。\n\n人們都說，那天晚上是勇氣。現在回憶起來，那時的身體反應更接近不安和恐懼。不是對警察的恐懼，而是對真實本身。那個在我旁邊的維吾爾大哥（他現在在哪裡？他還好嗎？）聲音嘶啞著對警察喊，我什麼都不怕了，你知道嗎，我的哥哥就死在我的面前，他是被你們的軍隊打死的，他就死在我面前，你們有種拿坦克來碾我，有種對我開槍啊，我什麼都不怕。\n\n他被帶走了嗎？他長什麼樣子？我現在回想起來，除了身體顫抖，鼻子發酸以外，其實沒有更詳細的記憶。我的一個記憶告訴我，他當時就被警察制伏了，然後被拖進了警察的人牆中。我的另一個記憶則是，他好好的站在那裡，直到第二天我被捕後，在警察局裡見到了另一個維吾爾人（我確定和前一天的不是同一人）。他的審訊時間被拖的很長，被放出來的晚上，我和朋友擔心地看他有沒有一起出來，但直到出租車到的那一刻都沒有。\n\n關於上海白紙運動的報導中，鮮見提及參與者中維吾爾人的存在。但我和幾個人的記憶都能佐證，那天的街上維吾爾人不成比例地多。後來在一個上海維吾爾餐館中試著詢問，老闆雖然警惕，但透露了他有的朋友那天的確在街上。這是我能提供的全部證據，以證明這場運動和維吾爾這個族群有著更緊密的聯繫。現在的我感到的更多是後悔，沒能在上海期間更主動地記錄這場運動中維吾爾人的參與。\n\n為了弄清楚那天的模糊記憶和現實之間的關係，我在網絡上試著搜索上海的維吾爾人數量。2000年，第五次人口普查尚有明確的民族區分，官方數據標明上海的“維吾爾族”共1701人。2010年，第六次人口普查——分類僅剩“漢族”和“各少數民族”，彷彿後者是單獨一個族群的名字。僅僅在另一篇上海統計局的文章《上海人口發展特徵及趨勢》中，出現了具體的族群區分，“維吾爾族”一欄顯示5254人。2020年，第七次人口普查——維吾爾人同樣被歸類進“各少數民族”中，人數未知。\n\n餐廳老闆曾對我講起他們的現狀。很多維吾爾人生活在上海，因為在那裡至少不會遭受像新疆那樣嚴格的管控和危險。在上海，他們往往在經營維吾爾餐廳，但礙於限制必須找到一個漢人來做為實際經營者。能在上海落戶是一種奢侈，大多人只能作為流動人口。\n\n我不是很明白這部分記憶之於白紙或自己到底有多重要，但直覺的說，這一塊一直像是耳朵後面的皮膚上的劃痕，用傷口的眼睛看我，直到我去和海外藏人、維吾爾人相識，聽到他們的故事。\n\n與之相反而被顯著提及的，是女性和性少數在運動中的參與。很多人說，這是一場女性和酷兒站在最前面的運動；很多人不理解，對這樣的敘事感到憤怒。\n\n而在這三年之間，我從媒體的碎片、朋友的閒談之間，從另一個角度再一次看到了女性在其中的位置。2023年初的北京，女性媒體人開始在地下工作，聯絡律師、媒體、海內外工作者，為被捕者的聲援建立橋樑。同樣的事情，發生在其他城市、其他被捕者身邊的人際網絡中。這些工作並無回報，有時目的並非為了一個積極的外在結果，而是為了保護某個在押人員的安全，或僅僅是為關注事件的民運活動者們科普性別議題。這其中的細節無法被展開，只能作為一塊靜靜的黑色石頭。\n\n在權力前挺身而出是一種勇氣，在地表下潛行連結是另一種。這裡形成了一種巧合般的結構：這是一種關於眼睛的注視和默不作聲的工作，而只有當一個人願意默不作聲地凝視之時，這種工作的意義才會對其顯現。（”暗的本質不是一種顏色，而是亮度的缺失“，這是某幅塔羅牌中關於女祭司的描述，這種“非太陽性”的啟迪一直在直覺上引導著自己對社會運動的理解。）\n\n提起白紙運動，很難將它視作一種高高在上的存在，既沒有崇高性也沒有肖像感，更像是腦海中浮現的一種“群像”——image of the mass——在書寫我們。如同一個沒有人占主導位置的公共空間，既非白色也非黑色，而是灰度之間的調諧。沒有誰能代表誰，所以誰都可以代表誰；沒有誰能統治誰，所以誰都不要被統治，活得自由又自在。\n\n兩個月前，和夥伴聊天，我們一起感慨，在社會的主流中長大好無聊啊，想像自己始終都是那個小世界的中心。我們有多討厭自己的邊緣身分，就有多慶幸它帶來的豐饒——我們得以學會用另一種語言思考，用第三隻眼睛和他人對望，用舌頭寫作、用手指說話。夥伴說，Queerness in its essence is a monster in the closet. 而我從中汲取的，是一種作為路邊小草而生長的生命樂趣，閉上嘴聽別人的故事，認真感受世界和其中的人。\n\n在夢到下一次抗爭之前，我們不再害怕被叫做境外勢力了，因為我們本來就是這樣的怪物。\n\n——寫於白紙運動三週年"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 20509,
+          "like_count": 324,
+          "quote_count": 5,
+          "reply_count": 22,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "白紙運動教給我最多的，是關於邊緣者的勇氣\n\n這三年來，很多個夜裡我都夢到過那兩天在上海街頭的光景。以前真的很難想像1989年的事情為什麼對那一代人來說是一輩子，但真的經歷了，那些記憶就像長在血管和骨頭紋理中，融化成看不見的固體型態。 https://t.co/IL1EdKIrFT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5824,
+          "following_count": 999,
+          "like_count": 45826,
+          "listed_count": 17,
+          "media_count": 927,
+          "tweet_count": 7942
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-26T07:59:00.000Z",
+        "description": "Proud Chinese communism survivor | Proud Feminist | Proud Queer (she/they) | May all the justice live in peace, love in peace and rest in peace.",
+        "id": "1497481140915290115",
+        "name": "夏巢川 Rei Xia",
+        "pinned_tweet_id": "1814038292738035893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798095968576958464/DJkGIkQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26426,
+          "following_count": 1277,
+          "like_count": 8745,
+          "listed_count": 108,
+          "media_count": 435,
+          "tweet_count": 4563
+        },
+        "username": "karasu_ga_warau",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2077712962979352788",
+    "created_at": "2026-07-16T22:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T23:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077890061270696346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1341386588664676352",
+          "start": 0,
+          "username": "9bi6ix44XjEO57d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077890061270696346",
+    "in_reply_to_user_id": "1341386588664676352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077867089407435073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9bi6ix44XjEO57d 豪猫"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2077867087494778880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNYRG2iaEAAIOye.jpg",
+        "width": 822
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2077712962979352788",
+        "created_at": "2026-07-16T22:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T23:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077890061270696346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1341386588664676352",
+              "start": 0,
+              "username": "9bi6ix44XjEO57d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077890061270696346",
+        "in_reply_to_user_id": "1341386588664676352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077867089407435073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9bi6ix44XjEO57d 豪猫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077867087494778880"
+          ]
+        },
+        "author_id": "1341386588664676352",
+        "conversation_id": "2077712962979352788",
+        "created_at": "2026-07-16T21:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T22:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077867089407435073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fs1f4ZGMH2",
+              "end": 33,
+              "expanded_url": "https://x.com/9bi6ix44XjEO57d/status/2077867089407435073/photo/1",
+              "media_key": "3_2077867087494778880",
+              "start": 10,
+              "url": "https://t.co/Fs1f4ZGMH2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077867089407435073",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077712962979352788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 https://t.co/Fs1f4ZGMH2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5988,
+          "following_count": 794,
+          "like_count": 54828,
+          "listed_count": 18,
+          "media_count": 1094,
+          "tweet_count": 9549
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-22T14:14:29.000Z",
+        "description": "病骨犹能在，人间底事无。何须问牛马，抛掷任枭卢。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/communities/1723286568683913463",
+                "start": 0,
+                "url": "https://t.co/xyLKPytGwm"
+              }
+            ]
+          }
+        },
+        "id": "1341386588664676352",
+        "location": "doro",
+        "name": "嗨der哥儿",
+        "pinned_tweet_id": "2007884058915987807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073234692518944768/GTP2UAS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 788,
+          "like_count": 177869,
+          "listed_count": 12,
+          "media_count": 22826,
+          "tweet_count": 41805
+        },
+        "url": "https://t.co/xyLKPytGwm",
+        "username": "9bi6ix44XjEO57d",
+        "verified": false
+      }
+    ]
+  }
+}

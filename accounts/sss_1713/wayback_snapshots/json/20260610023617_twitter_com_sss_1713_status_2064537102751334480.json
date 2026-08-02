@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2064386672339325407",
+    "created_at": "2026-06-10T02:36:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T03:36:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064537102751334480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1987725679484694528",
+          "start": 0,
+          "username": "ALihongzhi56282"
+        },
+        {
+          "end": 24,
+          "id": "2027387008340119552",
+          "start": 17,
+          "username": "Qustsm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064537102751334480",
+    "in_reply_to_user_id": "1987725679484694528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064392278245097921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ALihongzhi56282 @Qustsm 历史是在进步的，你怎么不拿原始人举例。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2064386672339325407",
+        "created_at": "2026-06-10T02:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T03:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064537102751334480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987725679484694528",
+              "start": 0,
+              "username": "ALihongzhi56282"
+            },
+            {
+              "end": 24,
+              "id": "2027387008340119552",
+              "start": 17,
+              "username": "Qustsm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064537102751334480",
+        "in_reply_to_user_id": "1987725679484694528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064392278245097921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ALihongzhi56282 @Qustsm 历史是在进步的，你怎么不拿原始人举例。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987725679484694528",
+        "conversation_id": "2064386672339325407",
+        "created_at": "2026-06-09T17:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064392278245097921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2027387008340119552",
+              "start": 0,
+              "username": "Qustsm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064392278245097921",
+        "in_reply_to_user_id": "2027387008340119552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 669,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064386672339325407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qustsm 的确不犯罪呀，孙文睡了很多十三岁的，依然被国民党尊为国父。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5882,
+          "following_count": 753,
+          "like_count": 49957,
+          "listed_count": 18,
+          "media_count": 1006,
+          "tweet_count": 8830
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T03:35:17.000Z",
+        "description": "",
+        "id": "1987725679484694528",
+        "name": "作家得康",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987726214774321153/xIf1zDTY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 43,
+          "like_count": 1,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 3282
+        },
+        "username": "ALihongzhi56282",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T14:16:07.000Z",
+        "description": "170/125 不接线下不恋爱",
+        "id": "2027387008340119552",
+        "location": "江苏",
+        "name": "Qu",
+        "pinned_tweet_id": "2048257696873451576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027424371942510592/stNE5xsT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2867,
+          "following_count": 0,
+          "like_count": 68,
+          "listed_count": 8,
+          "media_count": 44,
+          "tweet_count": 609
+        },
+        "username": "Qustsm",
+        "verified": false
+      }
+    ]
+  }
+}

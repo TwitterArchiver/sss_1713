@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2068862192628502707",
+    "created_at": "2026-06-22T01:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T02:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068862192628502707"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/paopao152025/s…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/paopao152025/status/2068734117559283931",
+          "start": 72,
+          "url": "https://t.co/IMIU3CctJQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068862192628502707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068734117559283931",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看评论有人说这个邪教是“李常志教派”，但是我没搜到关于这个人，抖音上搜只能搜到李洪志，但是法轮功和基督教没关系，应该是李常受的“呼喊派”吧😥😥 https://t.co/IMIU3CctJQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068734108407332864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWetgJagAA5895.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2068862192628502707",
+        "created_at": "2026-06-22T01:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T02:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068862192628502707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/paopao152025/s…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/paopao152025/status/2068734117559283931",
+              "start": 72,
+              "url": "https://t.co/IMIU3CctJQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068862192628502707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068734117559283931",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看评论有人说这个邪教是“李常志教派”，但是我没搜到关于这个人，抖音上搜只能搜到李洪志，但是法轮功和基督教没关系，应该是李常受的“呼喊派”吧😥😥 https://t.co/IMIU3CctJQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068734108407332864"
+          ]
+        },
+        "author_id": "1910008101371273225",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068734117559283931",
+        "created_at": "2026-06-21T16:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068734117559283931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bA6A6fkh5F",
+              "end": 119,
+              "expanded_url": "https://x.com/paopao152025/status/2068734117559283931/photo/1",
+              "media_key": "3_2068734108407332864",
+              "start": 96,
+              "url": "https://t.co/bA6A6fkh5F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068734117559283931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 72292,
+          "like_count": 307,
+          "quote_count": 2,
+          "reply_count": 33,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "这个男的特别的坚强卧槽一个特别坚强的精神病每天在积极的治疗自己 看他的视频我看到了精神分裂有多么的恐怖 感觉根本就算不上是一个人了 很虚无 自己的意识都控制不了太尼玛恐怖了 他就是被邪教害的 https://t.co/bA6A6fkh5F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5909,
+          "following_count": 774,
+          "like_count": 51986,
+          "listed_count": 18,
+          "media_count": 1040,
+          "tweet_count": 9122
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T16:33:28.000Z",
+        "description": "第一世@keeganlike 第二世@paonew26\n小号@haoxiangsiaaaa 大号随时都会被封 会自言自语抛出一些疑问和思考 我说的都是胡话瞎发的很多都是上句不接下句纯自己唠叨瞎逼逼🙏 推广自辨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "keeganlike"
+              },
+              {
+                "end": 27,
+                "start": 18,
+                "username": "paonew26"
+              },
+              {
+                "end": 45,
+                "start": 30,
+                "username": "haoxiangsiaaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%A1%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B3%A1%E6%B3%A133527",
+                "start": 0,
+                "url": "https://t.co/J2oUGc5Ac0"
+              }
+            ]
+          }
+        },
+        "id": "1910008101371273225",
+        "location": "互关可加v",
+        "name": "泡泡",
+        "pinned_tweet_id": "2068571402698199494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025885586859667456/5jfteWE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5942,
+          "following_count": 163,
+          "like_count": 5714,
+          "listed_count": 2,
+          "media_count": 311,
+          "tweet_count": 2848
+        },
+        "url": "https://t.co/J2oUGc5Ac0",
+        "username": "paopao152025",
+        "verified": false
+      }
+    ]
+  }
+}

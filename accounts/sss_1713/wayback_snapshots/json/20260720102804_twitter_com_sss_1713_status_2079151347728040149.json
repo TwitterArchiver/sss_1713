@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2079041699305943435",
+    "created_at": "2026-07-20T10:28:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T11:28:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079151347728040149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1432351612182229001",
+          "start": 0,
+          "username": "Merlyn_Void"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079151347728040149",
+    "in_reply_to_user_id": "1432351612182229001",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079050087859388674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Merlyn_Void 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2079041699305943435",
+        "created_at": "2026-07-20T10:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079151347728040149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1432351612182229001",
+              "start": 0,
+              "username": "Merlyn_Void"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079151347728040149",
+        "in_reply_to_user_id": "1432351612182229001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079050087859388674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Merlyn_Void 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1432351612182229001",
+        "conversation_id": "2079041699305943435",
+        "created_at": "2026-07-20T03:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T04:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079050087859388674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079050087859388674",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这才是历史真正明朝：朱棣迁都的是欧洲，西京，罗马，现在的北京是南京 ，东厂在亚洲，西厂在欧洲，永乐大典，东西各一份，东是圆明园，西是梵蒂冈。欧洲人骨头教堂是被杀的明朝人，古人常说，不灭楼兰终不还，楼兰是欧洲六个兰。耶稣的原型是崇祯，欧洲说，愿主=愿朱。国内秦兵马俑是楚国兵马俑，秦始皇陵在保加利亚，庞贝古城是阿芳宫，赤壁之战是霍尔木兹海峡。欧洲各大城堡，上面没有盖，俗称灭顶之灾，郑和七下西洋其实就是巡查各国的事情。祖辈一代一代传下来的山西大槐树迁移来的，最大的槐树林在欧洲，匈牙利人，总说自己是欧洲中国人，保加利亚几万座古汉墓，夏商西周秦都在那边，也有很多古汉墓。所以朱棣五征漠北打的就是欧洲蛮夷，蛮夷不足为惧，但是里面很多华夏的罪犯，流放跑到了那里。华夏叛徒联合北欧蛮夷打下了北京，然后就瓜分了欧洲，这就是大家看到的欧洲各国列强。所以一说到反华，为啥这些人全部都统一意见了吧，因为当年他们全部是造反的奴隶，然后他们资助一只布里亚特人吞并了女真，继续攻打南明。目前所在地中国属于华，欧洲属于夏，就是现在的中国，八旗就是八面旗帜，就是欧洲八股势力。我们都是香菱啊，该醒醒了！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 672,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079041699305943435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 这才是历史真正明朝：朱棣迁都的是欧洲，西京，罗马，现在的北京是南京"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5997,
+          "following_count": 802,
+          "like_count": 55054,
+          "listed_count": 18,
+          "media_count": 1089,
+          "tweet_count": 9552
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-30T14:37:00.000Z",
+        "description": "Queer，顺直勿扰。\n喜欢的动物是信天翁\n@Merlyn27781069",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "Merlyn27781069"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/merlyn95513",
+                "end": 23,
+                "expanded_url": "https://ngl.link/merlyn95513",
+                "start": 0,
+                "url": "https://t.co/awjtFHq6Cw"
+              }
+            ]
+          }
+        },
+        "id": "1432351612182229001",
+        "location": "🚪288",
+        "name": "黄徵灏",
+        "pinned_tweet_id": "2049105797842665732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002420892949983232/XXFwiCyy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25261,
+          "following_count": 283,
+          "like_count": 15187,
+          "listed_count": 52,
+          "media_count": 147,
+          "tweet_count": 4760
+        },
+        "url": "https://t.co/awjtFHq6Cw",
+        "username": "Merlyn_Void",
+        "verified": true
+      }
+    ]
+  }
+}

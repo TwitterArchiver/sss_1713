@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2059674387477901358",
+    "created_at": "2026-05-28T03:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T04:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059837162510786759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "15384291",
+          "start": 0,
+          "username": "iarsuaga"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059837162510786759",
+    "in_reply_to_user_id": "15384291",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059674387477901358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iarsuaga Thank God.🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2016,
+        "media_key": "3_2059674381043863553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVu79sXkAEEuOk.jpg",
+        "width": 1512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2059674387477901358",
+        "created_at": "2026-05-28T03:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059837162510786759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "15384291",
+              "start": 0,
+              "username": "iarsuaga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059837162510786759",
+        "in_reply_to_user_id": "15384291",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059674387477901358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iarsuaga Thank God.🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059674381043863553"
+          ]
+        },
+        "author_id": "15384291",
+        "conversation_id": "2059674387477901358",
+        "created_at": "2026-05-27T16:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059674387477901358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HoxNkGaGcY",
+              "end": 102,
+              "expanded_url": "https://x.com/iarsuaga/status/2059674387477901358/photo/1",
+              "media_key": "3_2059674381043863553",
+              "start": 79,
+              "url": "https://t.co/HoxNkGaGcY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059674387477901358",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 443972,
+          "like_count": 54877,
+          "quote_count": 157,
+          "reply_count": 1977,
+          "retweet_count": 3213
+        },
+        "reply_settings": "everyone",
+        "text": "26 semanas. Más de 400 días en la UCI. Hoy está en casa. La vida siempre gana. https://t.co/HoxNkGaGcY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5847,
+          "following_count": 750,
+          "like_count": 48446,
+          "listed_count": 18,
+          "media_count": 981,
+          "tweet_count": 8541
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2008-07-10T22:44:35.000Z",
+        "description": "Hijo de Dios. Marido y padre. Fundador. Presidente de Hazte Oír y de https://t.co/PwJCnxGw6l. Abogado. Emprendedor social. Español 🇪🇸",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "CitizenGO.org",
+                "end": 92,
+                "expanded_url": "http://www.CitizenGO.org",
+                "start": 69,
+                "url": "https://t.co/PwJCnxGw6l"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arsuaga.net",
+                "end": 23,
+                "expanded_url": "https://arsuaga.net",
+                "start": 0,
+                "url": "https://t.co/jeQJm0trjz"
+              }
+            ]
+          }
+        },
+        "id": "15384291",
+        "location": "Madrid, España",
+        "name": "Ignacio Arsuaga",
+        "pinned_tweet_id": "2056133795074727953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002881561679593472/S2agSwa-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53037,
+          "following_count": 3245,
+          "like_count": 93353,
+          "listed_count": 394,
+          "media_count": 3518,
+          "tweet_count": 42379
+        },
+        "url": "https://t.co/jeQJm0trjz",
+        "username": "iarsuaga",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972218672770170880"
+      ],
+      "media_source_tweet_id": [
+        "1972218694601408650"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "1972546963381092692",
+    "created_at": "2025-09-29T06:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T07:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972546963381092692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1593547850637791233",
+          "start": 3,
+          "username": "didengshengwu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JOGUFdHCnU",
+          "end": 42,
+          "expanded_url": "https://x.com/didengshengwu/status/1972218694601408650/photo/1",
+          "media_key": "3_1972218672770170880",
+          "start": 19,
+          "url": "https://t.co/JOGUFdHCnU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972546963381092692",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 365
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972218694601408650",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @didengshengwu: https://t.co/JOGUFdHCnU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1972218672770170880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G166bwHbwAACBei.jpg",
+        "width": 782
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972218672770170880"
+          ],
+          "media_source_tweet_id": [
+            "1972218694601408650"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "1972546963381092692",
+        "created_at": "2025-09-29T06:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T07:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972546963381092692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1593547850637791233",
+              "start": 3,
+              "username": "didengshengwu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JOGUFdHCnU",
+              "end": 42,
+              "expanded_url": "https://x.com/didengshengwu/status/1972218694601408650/photo/1",
+              "media_key": "3_1972218672770170880",
+              "start": 19,
+              "url": "https://t.co/JOGUFdHCnU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972546963381092692",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 365
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972218694601408650",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @didengshengwu: https://t.co/JOGUFdHCnU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972218672770170880"
+          ]
+        },
+        "author_id": "1593547850637791233",
+        "conversation_id": "1972218694601408650",
+        "created_at": "2025-09-28T08:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T09:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972218694601408650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JOGUFdHCnU",
+              "end": 23,
+              "expanded_url": "https://x.com/didengshengwu/status/1972218694601408650/photo/1",
+              "media_key": "3_1972218672770170880",
+              "start": 0,
+              "url": "https://t.co/JOGUFdHCnU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972218694601408650",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 549,
+          "impression_count": 312356,
+          "like_count": 2960,
+          "quote_count": 13,
+          "reply_count": 63,
+          "retweet_count": 365
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JOGUFdHCnU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5806,
+          "following_count": 975,
+          "like_count": 45877,
+          "listed_count": 17,
+          "media_count": 943,
+          "tweet_count": 7766
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-18T10:13:17.000Z",
+        "description": "我人虽然不怎么高级，但是底线还可以的！喜欢分享一些心理学和投资内容，欢迎交流！",
+        "id": "1593547850637791233",
+        "name": "低等生物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735957716340965376/P8LprWrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176978,
+          "following_count": 843,
+          "like_count": 2833,
+          "listed_count": 681,
+          "media_count": 2837,
+          "tweet_count": 5335
+        },
+        "username": "didengshengwu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2073939001116168654",
+    "created_at": "2026-07-06T01:37:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T02:37:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073944491996659747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1276332165253304320",
+          "start": 0,
+          "username": "koiiok17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073944491996659747",
+    "in_reply_to_user_id": "1276332165253304320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073939001116168654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@koiiok17 怎么去看轮子演出了🌚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1531,
+        "media_key": "3_2073938995927752704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMgch1IaoAA0zDc.jpg",
+        "width": 1147
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2073939001116168654",
+        "created_at": "2026-07-06T01:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T02:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073944491996659747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1276332165253304320",
+              "start": 0,
+              "username": "koiiok17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073944491996659747",
+        "in_reply_to_user_id": "1276332165253304320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073939001116168654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@koiiok17 怎么去看轮子演出了🌚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073938995927752704"
+          ]
+        },
+        "author_id": "1276332165253304320",
+        "conversation_id": "2073939001116168654",
+        "created_at": "2026-07-06T01:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T02:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073939001116168654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OGCiYpegUt",
+              "end": 39,
+              "expanded_url": "https://x.com/koiiok17/status/2073939001116168654/photo/1",
+              "media_key": "3_2073938995927752704",
+              "start": 16,
+              "url": "https://t.co/OGCiYpegUt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073939001116168654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么多伦多方脸看起来这么搞笑 https://t.co/OGCiYpegUt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5936,
+          "following_count": 788,
+          "like_count": 53697,
+          "listed_count": 18,
+          "media_count": 1056,
+          "tweet_count": 9295
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-26T01:51:23.000Z",
+        "description": "萌豚一只，军事的业余爱好者，Phd在读，目标是早日毕业然后得到Tenured。歇斯底里式反独裁人／@Tonekawa_Dosaki 親友 GF? @EnEn07739518 ❄️ @ncysea 大爱❤️习近平总书记，🇨🇳の光",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "Tonekawa_Dosaki"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "EnEn07739518"
+              },
+              {
+                "end": 97,
+                "start": 90,
+                "username": "ncysea"
+              }
+            ]
+          }
+        },
+        "id": "1276332165253304320",
+        "location": "Beijing Tiananmen",
+        "name": "川和 koi iok ！👊🇺🇸🔥 🇺🇦境外爱❤️习❤️🇨🇳势力",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1607679590952243200/1-nleXzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23813,
+          "following_count": 3412,
+          "like_count": 322099,
+          "listed_count": 140,
+          "media_count": 4246,
+          "tweet_count": 65960
+        },
+        "url": "",
+        "username": "koiiok17",
+        "verified": true
+      }
+    ]
+  }
+}

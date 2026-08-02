@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2073969566527705486",
+    "created_at": "2026-07-06T07:01:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T08:01:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074025888694567289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1677732423667445760",
+          "start": 0,
+          "username": "wuerbangbang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074025888694567289",
+    "in_reply_to_user_id": "1677732423667445760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073969566527705486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuerbangbang “我上哪给你整假的去”"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073969328421322752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMg4HaebwAAi6_M.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1542,
+        "media_key": "3_2073969337392893952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMg4H75bEAAzFs0.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073969345554976768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMg4IaTakAApj6b.jpg",
+        "width": 1542
+      },
+      {
+        "height": 1542,
+        "media_key": "3_2073969353406795776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMg4I3jb0AAsgj3.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2073969566527705486",
+        "created_at": "2026-07-06T07:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074025888694567289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1677732423667445760",
+              "start": 0,
+              "username": "wuerbangbang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074025888694567289",
+        "in_reply_to_user_id": "1677732423667445760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073969566527705486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuerbangbang “我上哪给你整假的去”"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073969328421322752",
+            "3_2073969337392893952",
+            "3_2073969345554976768",
+            "3_2073969353406795776"
+          ]
+        },
+        "author_id": "1677732423667445760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073969566527705486",
+        "created_at": "2026-07-06T03:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T04:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073969566527705486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PlXzSMTyxI",
+              "end": 46,
+              "expanded_url": "https://x.com/wuerbangbang/status/2073969566527705486/photo/1",
+              "media_key": "3_2073969328421322752",
+              "start": 23,
+              "url": "https://t.co/PlXzSMTyxI"
+            },
+            {
+              "display_url": "pic.x.com/PlXzSMTyxI",
+              "end": 46,
+              "expanded_url": "https://x.com/wuerbangbang/status/2073969566527705486/photo/1",
+              "media_key": "3_2073969337392893952",
+              "start": 23,
+              "url": "https://t.co/PlXzSMTyxI"
+            },
+            {
+              "display_url": "pic.x.com/PlXzSMTyxI",
+              "end": 46,
+              "expanded_url": "https://x.com/wuerbangbang/status/2073969566527705486/photo/1",
+              "media_key": "3_2073969345554976768",
+              "start": 23,
+              "url": "https://t.co/PlXzSMTyxI"
+            },
+            {
+              "display_url": "pic.x.com/PlXzSMTyxI",
+              "end": 46,
+              "expanded_url": "https://x.com/wuerbangbang/status/2073969566527705486/photo/1",
+              "media_key": "3_2073969353406795776",
+              "start": 23,
+              "url": "https://t.co/PlXzSMTyxI"
+            },
+            {
+              "display_url": "x.com/wuerbangbang/s…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/wuerbangbang/status/2017945963026104725",
+              "start": 47,
+              "url": "https://t.co/YCqlhL0tDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073969566527705486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 10789,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017945963026104725",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当时发这贴好多人说是假的，拍几张特写看一看。 https://t.co/PlXzSMTyxI https://t.co/YCqlhL0tDF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5936,
+          "following_count": 788,
+          "like_count": 53719,
+          "listed_count": 18,
+          "media_count": 1056,
+          "tweet_count": 9298
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T17:32:43.000Z",
+        "description": "北大中文本硕，苗族，民俗学博士，国博前馆员。文史艺术、书画篆刻、三俗烂梗、旅游爱好者。对世界有旺盛的探索欲，想多认识有趣的人🤒PhDing of folklore, graduated from @PKU1898, Miao,  lover of history, heritage, art & tour🪭🐾🏺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 98,
+                "username": "PKU1898"
+              }
+            ]
+          }
+        },
+        "id": "1677732423667445760",
+        "location": "跳回三界内，待在五行中。",
+        "name": "吴二棒",
+        "pinned_tweet_id": "2065254868072247314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010919161988595713/rE9mkr0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11796,
+          "following_count": 973,
+          "like_count": 21108,
+          "listed_count": 51,
+          "media_count": 3079,
+          "tweet_count": 10018
+        },
+        "url": "",
+        "username": "wuerbangbang",
+        "verified": true
+      }
+    ]
+  }
+}

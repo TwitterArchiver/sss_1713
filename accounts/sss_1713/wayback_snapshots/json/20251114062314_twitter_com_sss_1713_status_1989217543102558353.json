@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1989217543102558353",
+    "created_at": "2025-11-14T06:23:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T07:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989217543102558353"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/spr1ngw1nd/sta…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/spr1ngw1nd/status/1612059448746602496",
+          "start": 35,
+          "url": "https://t.co/VTOEu2kOYd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989217543102558353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1612059448746602496",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "刚刚看公众号看到有玩他的梗的人，一眼认出互关，人都去世了还在被娱乐。 https://t.co/VTOEu2kOYd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1989217543102558353",
+        "created_at": "2025-11-14T06:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T07:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989217543102558353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/spr1ngw1nd/sta…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/spr1ngw1nd/status/1612059448746602496",
+              "start": 35,
+              "url": "https://t.co/VTOEu2kOYd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989217543102558353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1612059448746602496",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刚刚看公众号看到有玩他的梗的人，一眼认出互关，人都去世了还在被娱乐。 https://t.co/VTOEu2kOYd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533024617811812352",
+        "conversation_id": "1612053907999715328",
+        "created_at": "2023-01-08T12:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-08T12:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1612059448746602496"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1612059448746602496",
+        "in_reply_to_user_id": "1533024617811812352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 249175,
+          "like_count": 342,
+          "quote_count": 56,
+          "reply_count": 132,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "1612059228742782977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "20:11 剧烈变形"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5831,
+          "following_count": 986,
+          "like_count": 45700,
+          "listed_count": 17,
+          "media_count": 925,
+          "tweet_count": 7837
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-04T09:55:35.000Z",
+        "description": "药物滥用的内容相关会转发到@Overdose_Wind /#StandWithUkraine/",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 29,
+                "tag": "StandWithUkraine"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "Overdose_Wind"
+              }
+            ]
+          }
+        },
+        "id": "1533024617811812352",
+        "location": "Japan",
+        "name": "Spring风#参宿四",
+        "pinned_tweet_id": "1555067952335970305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606726635713335296/TrmJq-XY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5367,
+          "following_count": 371,
+          "like_count": 4450,
+          "listed_count": 16,
+          "media_count": 450,
+          "tweet_count": 4960
+        },
+        "username": "Spr1ngW1nd",
+        "verified": false
+      }
+    ]
+  }
+}

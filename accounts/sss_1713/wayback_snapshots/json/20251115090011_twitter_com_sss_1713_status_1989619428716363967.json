@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1989598335549018491",
+    "created_at": "2025-11-15T09:00:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T10:00:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989619428716363967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1332252107638927360",
+          "start": 0,
+          "username": "jun17630250"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989619428716363967",
+    "in_reply_to_user_id": "1332252107638927360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989598335549018491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jun17630250 我还是觉得陈鹤皋更有用哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1989598335549018491",
+        "created_at": "2025-11-15T09:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T10:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989619428716363967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1332252107638927360",
+              "start": 0,
+              "username": "jun17630250"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989619428716363967",
+        "in_reply_to_user_id": "1332252107638927360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989598335549018491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jun17630250 我还是觉得陈鹤皋更有用哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1332252107638927360",
+        "conversation_id": "1989598335549018491",
+        "created_at": "2025-11-15T07:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T08:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989598335549018491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HUAIQSB/status…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/HUAIQSB/status/1989347122504982556",
+              "start": 104,
+              "url": "https://t.co/qkgOoZ4xC6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989598335549018491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "说中国武术用不上实战的纯属扯淡。\n只不过实战也分各种情况，擂台战，生死遭遇战，街头流氓战。\n举个例子，你去买东西排队，遇到个老登插你队，你总不能上来一记左勾拳一记右鞭腿给对方打趴下，那样进了局子你也说不清。\n但是如果你练过八极拳，练的就是肌肉和肌肉较劲摩擦产生的内劲和发力，能一把给对方拽回来。对方练的咏春，被你一巴掌拉回来不会失了重心同时对着你下三路就是一个连环掏。这时候你要是会个混元太极的推手抓着他掏你下三路的俩手一顿绕圈对方出招就被你控了。这时候对方里合腿踹你裤裆你松开俩手来个形意的鹞子翻身。\n站定后双方抱拳你也是大师他也是大师条子就算想抓人俩人花拳绣腿打一套谁也没受伤轻微伤都没有。\n\n不开玩笑，任何东西能传承下来一定有能承载它的环境。没练过就吃哑巴亏，练过了碰瓷你能让你倾家荡产，这种环境下中国那些传统武术就派上用场了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 230,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989347122504982556",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说中国武术用不上实战的纯属扯淡。\n只不过实战也分各种情况，擂台战，生死遭遇战，街头流氓战。\n举个例子，你去买东西排队，遇到个老登插你队，你总不能上来一记左勾拳一记右鞭腿给对方打趴下，那样进了局子你也说不清。 https://t.co/qkgOoZ4xC6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5827,
+          "following_count": 986,
+          "like_count": 45715,
+          "listed_count": 17,
+          "media_count": 925,
+          "tweet_count": 7846
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-27T09:17:17.000Z",
+        "description": "天が生む、万物人に与え\n人は報い、天へ何も無し",
+        "id": "1332252107638927360",
+        "location": "池袋",
+        "name": "横浜打野",
+        "pinned_tweet_id": "1988576148092277203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862083611811569664/aDIElDkD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6835,
+          "following_count": 1564,
+          "like_count": 3926,
+          "listed_count": 45,
+          "media_count": 2873,
+          "tweet_count": 21213
+        },
+        "username": "jun17630250",
+        "verified": true
+      }
+    ]
+  }
+}

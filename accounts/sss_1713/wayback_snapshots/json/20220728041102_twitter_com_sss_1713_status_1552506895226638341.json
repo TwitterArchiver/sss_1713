@@ -1,0 +1,109 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Jul 28 04:11:02 +0000 2022",
+  "display_text_range": [
+    40,
+    129
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1355320539368198146,
+        "id_str": "1355320539368198146",
+        "indices": [
+          0,
+          11
+        ],
+        "name": "Xiaowen",
+        "screen_name": "HangCute33"
+      },
+      {
+        "id": 1487089441948971010,
+        "id_str": "1487089441948971010",
+        "indices": [
+          12,
+          28
+        ],
+        "name": "惡魔人甦醒🇹🇼看舊世界正在土崩瓦解🌋復仇者獵殺之日已經到來💥❤️💛💙🤍🖤",
+        "screen_name": "One8t_inJinping"
+      },
+      {
+        "id": 1426789547954737153,
+        "id_str": "1426789547954737153",
+        "indices": [
+          29,
+          39
+        ],
+        "name": "⚒罕见☮ 🇪🇪",
+        "screen_name": "NMSLParty"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1552506895226638341,
+  "id_str": "1552506895226638341",
+  "in_reply_to_screen_name": "HangCute33",
+  "in_reply_to_status_id": 1552506208489070593,
+  "in_reply_to_status_id_str": "1552506208489070593",
+  "in_reply_to_user_id": 1355320539368198146,
+  "in_reply_to_user_id_str": "1355320539368198146",
+  "is_quote_status": false,
+  "lang": "zh",
+  "place": null,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "text": "@HangCute33 @One8t_inJinping @NMSLParty 他们为什么不选择，你为什么觉得他们没有选择，在工地上干粗活就是他们最好的选择了，不然就是回老家种地了，我见过很多同学父母都在工地，他们为了他们的孩子也一直很努力的干活，这能叫懒吗",
+  "timestamp_ms": "1658981462662",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Mon Apr 27 02:56:50 +0000 2020",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "too young",
+    "favourites_count": 19590,
+    "follow_request_sent": null,
+    "followers_count": 1155,
+    "following": null,
+    "friends_count": 668,
+    "geo_enabled": true,
+    "id": 1254605353838231553,
+    "id_str": "1254605353838231553",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 9,
+    "location": "中南海",
+    "name": "ZHGR-1713",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1533084178006577152/HHPp0NQ4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1533084178006577152/HHPp0NQ4_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "sss_1713",
+    "statuses_count": 4684,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

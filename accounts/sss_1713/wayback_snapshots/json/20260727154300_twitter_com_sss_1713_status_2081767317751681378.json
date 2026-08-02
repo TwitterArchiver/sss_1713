@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2081767317751681378",
+    "created_at": "2026-07-27T15:43:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T16:43:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081767317751681378"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kerotto/status…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/kerotto/status/2081648262008995962",
+          "start": 36,
+          "url": "https://t.co/F6WlgxZ4PV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081767317751681378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081648262008995962",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在旅行途中看到这则消息我很悲痛，我之前很喜欢看他的书，R.I.P.🕯️ https://t.co/F6WlgxZ4PV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1509,
+        "media_key": "3_2081648257508536320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOAD6gbcAAOlyV.jpg",
+        "width": 1124
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2081767317751681378",
+        "created_at": "2026-07-27T15:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T16:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081767317751681378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kerotto/status…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/kerotto/status/2081648262008995962",
+              "start": 36,
+              "url": "https://t.co/F6WlgxZ4PV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081767317751681378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081648262008995962",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在旅行途中看到这则消息我很悲痛，我之前很喜欢看他的书，R.I.P.🕯️ https://t.co/F6WlgxZ4PV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081648257508536320"
+          ]
+        },
+        "author_id": "86076630",
+        "conversation_id": "2081648262008995962",
+        "created_at": "2026-07-27T07:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081648262008995962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/abKT2qOuJ3",
+              "end": 65,
+              "expanded_url": "https://x.com/kerotto/status/2081648262008995962/photo/1",
+              "media_key": "3_2081648257508536320",
+              "start": 42,
+              "url": "https://t.co/abKT2qOuJ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081648262008995962",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 61351,
+          "like_count": 484,
+          "quote_count": 8,
+          "reply_count": 105,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "中国にもファンがたくさんいる方なので微博(weibo)でも大きな話題となってます😢 https://t.co/abKT2qOuJ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5998,
+          "following_count": 798,
+          "like_count": 55437,
+          "listed_count": 18,
+          "media_count": 1093,
+          "tweet_count": 9607
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-29T14:14:34.000Z",
+        "description": "カエル(日本産)なんですが、主に微博(weibo)から拾った中国オモシロニュースを中心につぶやいてます。翻訳・解説はテキトーです🐸",
+        "id": "86076630",
+        "location": "スカイツリーの近く or 中国",
+        "name": "けろっと",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1342490625728368640/eNsgZKh0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19912,
+          "following_count": 685,
+          "like_count": 60292,
+          "listed_count": 346,
+          "media_count": 9385,
+          "tweet_count": 48311
+        },
+        "url": "",
+        "username": "kerotto",
+        "verified": false
+      }
+    ]
+  }
+}

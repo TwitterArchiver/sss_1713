@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2074708448353415413",
+    "created_at": "2026-07-08T04:17:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T05:17:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074709452763365519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1682625054092193795",
+          "start": 0,
+          "username": "zzzzzz65826"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074709452763365519",
+    "in_reply_to_user_id": "1682625054092193795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074708448353415413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzzzzz65826 生日快乐呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2074708448353415413",
+        "created_at": "2026-07-08T04:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074709452763365519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1682625054092193795",
+              "start": 0,
+              "username": "zzzzzz65826"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074709452763365519",
+        "in_reply_to_user_id": "1682625054092193795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074708448353415413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzzzzz65826 生日快乐呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682625054092193795",
+        "conversation_id": "2074708448353415413",
+        "created_at": "2026-07-08T04:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074708448353415413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074708448353415413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我的生日。祝自己生日快乐。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5944,
+          "following_count": 798,
+          "like_count": 53980,
+          "listed_count": 18,
+          "media_count": 1070,
+          "tweet_count": 9364
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-22T05:34:17.000Z",
+        "description": "这是一个文字推。\n10 高一坐牢\n私信先发照片看看脸/也可以和我畅聊人生\n不聊色情不聊擦边不聊政治\n投缘可以加微信（仅限男初男高 女生也可以）",
+        "id": "1682625054092193795",
+        "name": "zzzz",
+        "pinned_tweet_id": "2061084487375839628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953482918891835394/Z4KkdrJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 20,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 393
+        },
+        "url": "",
+        "username": "zzzzzz65826",
+        "verified": false
+      }
+    ]
+  }
+}

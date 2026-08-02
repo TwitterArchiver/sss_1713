@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1981238331125223428",
+    "created_at": "2025-10-23T05:56:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T06:56:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981238331125223428"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1980786179839783045",
+          "start": 12,
+          "url": "https://t.co/K9qXbfNehD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981238331125223428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980786179839783045",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "和轮子的三退网站有一拼 https://t.co/K9qXbfNehD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37933,
+        "height": 1280,
+        "media_key": "13_1980749382908510208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1980749382908510208/img/ZhcSHXLZ8v8UpA-v.jpg",
+        "public_metrics": {
+          "view_count": 342274
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980749382908510208/vid/avc1/320x568/KWhgDmxeVTX81Y-p.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980749382908510208/vid/avc1/480x852/mw81W6fkanKvpsJL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980749382908510208/vid/avc1/720x1280/vID_JA0_iqmee5AG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1980749382908510208/pl/OnV9W5S1jH2471sf.m3u8?v=3be"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 346953,
+        "height": 2022,
+        "media_key": "13_1980749387429969920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1980749387429969920/img/hm-wMWxkGayk3p4t.jpg",
+        "public_metrics": {
+          "view_count": 59382
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1980749387429969920/pl/Dz0UhGpsewFV919Y.m3u8?v=a45"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980749387429969920/vid/avc1/720x1348/nvjYgX_i1vV_XCq7.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980749387429969920/vid/avc1/320x598/isKbkEeCjV1Nq7bh.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980749387429969920/vid/avc1/1080x2022/jA_KVxSFwe59vOSm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980749387429969920/vid/avc1/480x898/VqWTD36XLn4sKKJr.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1981238331125223428",
+        "created_at": "2025-10-23T05:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T06:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981238331125223428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1980786179839783045",
+              "start": 12,
+              "url": "https://t.co/K9qXbfNehD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981238331125223428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980786179839783045",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和轮子的三退网站有一拼 https://t.co/K9qXbfNehD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1980749382908510208",
+            "13_1980749387429969920"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1980786179839783045",
+        "created_at": "2025-10-22T00:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T01:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980786179839783045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lCDiPcCTHj",
+              "end": 160,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1980786179839783045/video/1",
+              "media_key": "13_1980749382908510208",
+              "start": 137,
+              "url": "https://t.co/lCDiPcCTHj"
+            },
+            {
+              "display_url": "pic.x.com/lCDiPcCTHj",
+              "end": 160,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1980786179839783045/video/1",
+              "media_key": "13_1980749387429969920",
+              "start": 137,
+              "url": "https://t.co/lCDiPcCTHj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980786179839783045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "10月21日，一位江苏网友在观看纪录片《沉默的农药》后称“心情久久不能平静”。身为程序员的他自制了一款名为“归家”的App，面向台湾民众和台军，号称可用于“投诚登记”。\n视频显示，用户可在App中实名登记“回归祖国”的意愿，其中台北市登记人数达28,456人，为最多地区。\n该App设置了多种功能模块，包括身份登记、福利中心、“附近的人”（显示附近登记者距离）、匿名举报中心、积分商城、故事墙及匿名社区等。用户通过“拉新”可获得积分，积分可兑换Steam礼品卡、腾讯点券、东北大米、土鸡蛋、苹果手机、电脑、现金红包等奖品，还可领取价值500元的体检套餐及299元的在线课程。\n此外，App内甚至提供“申请大陆身份证”与“一键呼叫解放军”的功能，用户可在备注栏填写200字求助信息。有网友调侃留言：“我家孩子在缅东妙瓦底园区或柬埔寨园区，也能用这个功能呼叫解放军吗？”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 352,
+          "impression_count": 736090,
+          "like_count": 1781,
+          "quote_count": 30,
+          "reply_count": 294,
+          "retweet_count": 147
+        },
+        "reply_settings": "everyone",
+        "text": "10月21日，一位江苏网友在观看纪录片《沉默的农药》后称“心情久久不能平静”。身为程序员的他自制了一款名为“归家”的App，面向台湾民众和台军，号称可用于“投诚登记”。\n视频显示，用户可在App中实名登记“回归祖国”的意愿，其中台北市登记人数达28,456人，为最多地区。 https://t.co/lCDiPcCTHj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5816,
+          "following_count": 981,
+          "like_count": 46023,
+          "listed_count": 17,
+          "media_count": 925,
+          "tweet_count": 7816
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1966463459425497352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2126348,
+          "following_count": 983,
+          "like_count": 8276,
+          "listed_count": 8375,
+          "media_count": 36437,
+          "tweet_count": 43272
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

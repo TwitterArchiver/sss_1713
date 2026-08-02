@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2055578561273360529",
+    "created_at": "2026-05-16T09:26:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T10:26:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055580623230898493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2050530904645451776",
+          "start": 0,
+          "username": "FreeXfocus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055580623230898493",
+    "in_reply_to_user_id": "2050530904645451776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055578561273360529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FreeXfocus 良子恶心死了🤮，干过一点人事吗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2055578561273360529",
+        "created_at": "2026-05-16T09:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055580623230898493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2050530904645451776",
+              "start": 0,
+              "username": "FreeXfocus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055580623230898493",
+        "in_reply_to_user_id": "2050530904645451776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055578561273360529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreeXfocus 良子恶心死了🤮，干过一点人事吗。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050530904645451776",
+        "conversation_id": "2055578561273360529",
+        "created_at": "2026-05-16T09:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055578561273360529"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055578561273360529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实特别特别特别特别特别超级无敌讨厌那个大胖子良子😇\n首先网上有身材胖了点的不管男生还是女生 但凡火了评论区肯定会有人说像良子 还有我真的感觉良子特别超级无敌恶心 尤其是那个自动搜寻板面 吐舌头那段超级恶心🤮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5802,
+          "following_count": 746,
+          "like_count": 47456,
+          "listed_count": 18,
+          "media_count": 947,
+          "tweet_count": 8296
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T11:01:48.000Z",
+        "description": "这个世界仍需学习善良与爱\n09女高brat\n偶尔色色经常萌萌我很可爱^ω^",
+        "id": "2050530904645451776",
+        "location": "Tianjin",
+        "name": "FreeX",
+        "pinned_tweet_id": "2055235850192245056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050531313233620992/aR5f_-4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8021,
+          "following_count": 74,
+          "like_count": 1142,
+          "listed_count": 5,
+          "media_count": 60,
+          "tweet_count": 283
+        },
+        "username": "FreeXfocus",
+        "verified": false
+      }
+    ]
+  }
+}

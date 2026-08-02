@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2062721704456290642",
+    "created_at": "2026-06-05T07:03:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T08:03:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062792392126943310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1526517532055572481",
+          "start": 0,
+          "username": "wswm7212151"
+        },
+        {
+          "end": 26,
+          "id": "1228979129988603904",
+          "start": 13,
+          "username": "Biantaiboooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062792392126943310",
+    "in_reply_to_user_id": "1526517532055572481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062757560856547711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wswm7212151 @Biantaiboooo 我也。但是电池寿命太低了怎么办……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2062721704456290642",
+        "created_at": "2026-06-05T07:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T08:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062792392126943310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1526517532055572481",
+              "start": 0,
+              "username": "wswm7212151"
+            },
+            {
+              "end": 26,
+              "id": "1228979129988603904",
+              "start": 13,
+              "username": "Biantaiboooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062792392126943310",
+        "in_reply_to_user_id": "1526517532055572481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062757560856547711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wswm7212151 @Biantaiboooo 我也。但是电池寿命太低了怎么办……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1526517532055572481",
+        "conversation_id": "2062721704456290642",
+        "created_at": "2026-06-05T04:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062757560856547711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1228979129988603904",
+              "start": 0,
+              "username": "Biantaiboooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062757560856547711",
+        "in_reply_to_user_id": "1228979129988603904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062721704456290642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Biantaiboooo 我仅仅是因为穷而已。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5873,
+          "following_count": 749,
+          "like_count": 49226,
+          "listed_count": 18,
+          "media_count": 995,
+          "tweet_count": 8684
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-17T10:59:13.000Z",
+        "description": "",
+        "id": "1526517532055572481",
+        "location": "大陆江苏省淮安市淮安区",
+        "name": "王默 wswm721215",
+        "pinned_tweet_id": "1825504418143535429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718877516948180992/tDpeFMtV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11259,
+          "following_count": 913,
+          "like_count": 56979,
+          "listed_count": 49,
+          "media_count": 893,
+          "tweet_count": 21933
+        },
+        "username": "wswm7212151",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-16T09:47:26.000Z",
+        "description": "随手📸// 🐱友人// 把黑洞当零食的外星生物👽",
+        "id": "1228979129988603904",
+        "name": "Boooo波妞!",
+        "pinned_tweet_id": "1716273140790386832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560011588664705024/3UbpNBv0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58266,
+          "following_count": 186,
+          "like_count": 179332,
+          "listed_count": 170,
+          "media_count": 7544,
+          "tweet_count": 73513
+        },
+        "username": "Biantaiboooo",
+        "verified": true
+      }
+    ]
+  }
+}

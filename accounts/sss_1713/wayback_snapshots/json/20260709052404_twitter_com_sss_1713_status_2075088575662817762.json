@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2075054780792406105",
+    "created_at": "2026-07-09T05:24:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T06:24:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075088575662817762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1681902931564703744",
+          "start": 0,
+          "username": "aim20371231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075088575662817762",
+    "in_reply_to_user_id": "1681902931564703744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075054780792406105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aim20371231 比起投票，烧烤显然更具诱惑。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2075054780792406105",
+        "created_at": "2026-07-09T05:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T06:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075088575662817762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1681902931564703744",
+              "start": 0,
+              "username": "aim20371231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075088575662817762",
+        "in_reply_to_user_id": "1681902931564703744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075054780792406105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aim20371231 比起投票，烧烤显然更具诱惑。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681902931564703744",
+        "conversation_id": "2075054780792406105",
+        "created_at": "2026-07-09T03:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T04:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075054780792406105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/heanquan/statu…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/heanquan/status/2074614902245703768",
+              "start": 15,
+              "url": "https://t.co/roED7JZs43"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075054780792406105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 262,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074614902245703768",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "到时候用选票当燃料办烧烤大会 https://t.co/roED7JZs43"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5946,
+          "following_count": 791,
+          "like_count": 54166,
+          "listed_count": 18,
+          "media_count": 1071,
+          "tweet_count": 9388
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-20T05:44:55.000Z",
+        "description": "天之道其犹张弓与？高者抑之，下者举之，有余者损之，不足者补之。天之道损有余而补不足，人之道则不然，损不足以奉有余。",
+        "id": "1681902931564703744",
+        "name": "川和工团安卡🚩🇦🇶🔥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068274115031756800/njv_e1RT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2962,
+          "following_count": 2525,
+          "like_count": 176706,
+          "listed_count": 18,
+          "media_count": 2694,
+          "tweet_count": 56742
+        },
+        "url": "",
+        "username": "aim20371231",
+        "verified": false
+      }
+    ]
+  }
+}

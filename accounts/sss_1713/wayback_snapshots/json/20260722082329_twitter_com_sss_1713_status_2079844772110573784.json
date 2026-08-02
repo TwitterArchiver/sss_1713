@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2079788352543563903",
+    "created_at": "2026-07-22T08:23:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T09:23:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079844772110573784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1467343910284701700",
+          "start": 0,
+          "username": "beagooddoctor01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079844772110573784",
+    "in_reply_to_user_id": "1467343910284701700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079829812710101324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beagooddoctor01 那我的主页全是💩了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2079788352543563903",
+        "created_at": "2026-07-22T08:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079844772110573784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1467343910284701700",
+              "start": 0,
+              "username": "beagooddoctor01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079844772110573784",
+        "in_reply_to_user_id": "1467343910284701700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079829812710101324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beagooddoctor01 那我的主页全是💩了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467343910284701700",
+        "conversation_id": "2079788352543563903",
+        "created_at": "2026-07-22T07:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079829812710101324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079829812710101324",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079788352543563903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 我不清楚你们是从哪搬来这些💩的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6000,
+          "following_count": 802,
+          "like_count": 55168,
+          "listed_count": 18,
+          "media_count": 1090,
+          "tweet_count": 9567
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-05T04:04:00.000Z",
+        "description": "臭底边住院医师\n立场在建制粉区和逆天支黑之中反复横跳\n包蜜/粉区/反贼/支黑/小骂大帮忙",
+        "id": "1467343910284701700",
+        "location": "China,Zhejiang province",
+        "name": "逻各斯official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013232374423724032/lt5_UrZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 314,
+          "like_count": 1082,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 1860
+        },
+        "url": "",
+        "username": "beagooddoctor01",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075944980686991360"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2075945016510570553",
+    "created_at": "2026-07-11T14:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T15:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075945016510570553"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zymHOE2QSL",
+          "end": 74,
+          "expanded_url": "https://x.com/sss_1713/status/2075945016510570553/photo/1",
+          "media_key": "3_2075944980686991360",
+          "start": 51,
+          "url": "https://t.co/zymHOE2QSL"
+        },
+        {
+          "display_url": "x.com/sss_1713/statu…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/sss_1713/status/2075863478859084001",
+          "start": 75,
+          "url": "https://t.co/I1sGm9Z1Ir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075945016510570553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075863478859084001",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这本书不知道是哪个盗版书商印的，不仅有大量漏印导致页码不连贯，还有这个大头像你自己看看印的阴不阴😅😅 https://t.co/zymHOE2QSL https://t.co/I1sGm9Z1Ir"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2075944980686991360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM889gsacAAEWm3.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2075863446353235968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7yzloaUAAAZLs.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075944980686991360"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2075945016510570553",
+        "created_at": "2026-07-11T14:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075945016510570553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zymHOE2QSL",
+              "end": 74,
+              "expanded_url": "https://x.com/sss_1713/status/2075945016510570553/photo/1",
+              "media_key": "3_2075944980686991360",
+              "start": 51,
+              "url": "https://t.co/zymHOE2QSL"
+            },
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/sss_1713/status/2075863478859084001",
+              "start": 75,
+              "url": "https://t.co/I1sGm9Z1Ir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075945016510570553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075863478859084001",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这本书不知道是哪个盗版书商印的，不仅有大量漏印导致页码不连贯，还有这个大头像你自己看看印的阴不阴😅😅 https://t.co/zymHOE2QSL https://t.co/I1sGm9Z1Ir"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075863446353235968"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2075863478859084001",
+        "created_at": "2026-07-11T08:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075863478859084001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ShqL3ctzPx",
+              "end": 62,
+              "expanded_url": "https://x.com/sss_1713/status/2075863478859084001/photo/1",
+              "media_key": "3_2075863446353235968",
+              "start": 39,
+              "url": "https://t.co/ShqL3ctzPx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075863478859084001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 969,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还淘了这本书，当睡前读物看也是可以的😼😼不过右上角是🍑吗，怎么是刀削般的发型 https://t.co/ShqL3ctzPx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5958,
+          "following_count": 793,
+          "like_count": 54493,
+          "listed_count": 18,
+          "media_count": 1082,
+          "tweet_count": 9454
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2057274871865098522",
+    "created_at": "2026-05-21T01:38:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T02:38:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057274871865098522"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sss_1713/statu…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/sss_1713/status/2056712346693771483",
+          "start": 55,
+          "url": "https://t.co/zS81eTzaUa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057274871865098522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056712346693771483",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天上语文课，老师是说维护别人的权益时其实也是在维护自己的权益，她这样说“不要问丧钟为谁而鸣，为你也为我”。 https://t.co/zS81eTzaUa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2057274871865098522",
+        "created_at": "2026-05-21T01:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T02:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057274871865098522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/sss_1713/status/2056712346693771483",
+              "start": 55,
+              "url": "https://t.co/zS81eTzaUa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057274871865098522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056712346693771483",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天上语文课，老师是说维护别人的权益时其实也是在维护自己的权益，她这样说“不要问丧钟为谁而鸣，为你也为我”。 https://t.co/zS81eTzaUa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2056712346693771483",
+        "created_at": "2026-05-19T12:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056712346693771483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/sss_1713/status/2056700049619402766",
+              "start": 79,
+              "url": "https://t.co/WooBRSi6Wm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056712346693771483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 344,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056700049619402766",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不用说本身偷拍就严重侵犯人权，\n在评论区“求资源”是对受害者的公开羞辱，是在漠视一个活生生的人基本的尊严！\n二次传播者应该和偷拍者同罪，偷拍离我们并不遥远。 https://t.co/WooBRSi6Wm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2056686933950996682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5805,
+          "following_count": 744,
+          "like_count": 47908,
+          "listed_count": 18,
+          "media_count": 968,
+          "tweet_count": 8401
+        },
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

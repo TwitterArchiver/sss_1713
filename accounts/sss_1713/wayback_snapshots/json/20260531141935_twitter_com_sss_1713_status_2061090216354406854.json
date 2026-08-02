@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2061090216354406854",
+    "created_at": "2026-05-31T14:19:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T15:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061090216354406854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1844132137114447872",
+          "start": 3,
+          "username": "fcktrialsk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061090216354406854",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2918
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060393949353644094",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fcktrialsk: sangue de menstruação eh o único sangue que não eh derramado por violência e ainda sim eh o sangue que a sociedade mais tem…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2061090216354406854",
+        "created_at": "2026-05-31T14:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061090216354406854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1844132137114447872",
+              "start": 3,
+              "username": "fcktrialsk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061090216354406854",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2918
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060393949353644094",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fcktrialsk: sangue de menstruação eh o único sangue que não eh derramado por violência e ainda sim eh o sangue que a sociedade mais tem…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844132137114447872",
+        "conversation_id": "2060393949353644094",
+        "created_at": "2026-05-29T16:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060393949353644094"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060393949353644094",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 298,
+          "impression_count": 173852,
+          "like_count": 19382,
+          "quote_count": 41,
+          "reply_count": 85,
+          "retweet_count": 2918
+        },
+        "reply_settings": "everyone",
+        "text": "sangue de menstruação eh o único sangue que não eh derramado por violência e ainda sim eh o sangue que a sociedade mais tem nojo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5860,
+          "following_count": 749,
+          "like_count": 48687,
+          "listed_count": 18,
+          "media_count": 983,
+          "tweet_count": 8588
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T21:46:05.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/shiveredsoul",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/shiveredsoul",
+                "start": 0,
+                "url": "https://t.co/1Y7rL1OQTS"
+              }
+            ]
+          }
+        },
+        "id": "1844132137114447872",
+        "location": "𑣲mcr and billiestan.",
+        "name": "##🗝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055467908109606912/JDgho3B7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1951,
+          "following_count": 945,
+          "like_count": 37097,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 14150
+        },
+        "url": "https://t.co/1Y7rL1OQTS",
+        "username": "fcktrialsk",
+        "verified": false
+      }
+    ]
+  }
+}

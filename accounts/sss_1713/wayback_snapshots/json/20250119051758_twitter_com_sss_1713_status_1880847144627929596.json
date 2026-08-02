@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1880847144627929596",
+    "created_at": "2025-01-19T05:17:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T06:17:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1880847144627929596"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1880580685087621359",
+          "start": 27,
+          "url": "https://t.co/AJf5lXBILM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880847144627929596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880580685087621359",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不光鲜靓丽的他们是不会发出来的，美其名曰“分享生活” https://t.co/AJf5lXBILM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1880847144627929596",
+        "created_at": "2025-01-19T05:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T06:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880847144627929596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1880580685087621359",
+              "start": 27,
+              "url": "https://t.co/AJf5lXBILM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880847144627929596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880580685087621359",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不光鲜靓丽的他们是不会发出来的，美其名曰“分享生活” https://t.co/AJf5lXBILM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880580538962219008",
+            "3_1880580547237588992",
+            "3_1880580555487780864"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1880580685087621359",
+        "created_at": "2025-01-18T11:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T12:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880580685087621359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SvGoX84A8M",
+              "end": 112,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1880580685087621359/photo/1",
+              "media_key": "3_1880580538962219008",
+              "start": 89,
+              "url": "https://t.co/SvGoX84A8M"
+            },
+            {
+              "display_url": "pic.x.com/SvGoX84A8M",
+              "end": 112,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1880580685087621359/photo/1",
+              "media_key": "3_1880580547237588992",
+              "start": 89,
+              "url": "https://t.co/SvGoX84A8M"
+            },
+            {
+              "display_url": "pic.x.com/SvGoX84A8M",
+              "end": 112,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1880580685087621359/photo/1",
+              "media_key": "3_1880580555487780864",
+              "start": 89,
+              "url": "https://t.co/SvGoX84A8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880580685087621359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 181,
+          "impression_count": 711833,
+          "like_count": 1333,
+          "quote_count": 14,
+          "reply_count": 305,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "近日大批 “TikTok难民” 涌入小红书，一名网友发帖称：“在这样交流下去，我怀疑很多美国人都想移民了，看了三天，感觉在美国做一个普通人好难” \n 评论区的网友们也表示赞同。 https://t.co/SvGoX84A8M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJo6NX"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5720,
+          "following_count": 1016,
+          "like_count": 46050,
+          "listed_count": 21,
+          "media_count": 945,
+          "tweet_count": 7652
+        },
+        "url": "https://t.co/Z7RPjJo6NX",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 107,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 84,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1878245513012892001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1906451,
+          "following_count": 923,
+          "like_count": 5614,
+          "listed_count": 8002,
+          "media_count": 22249,
+          "tweet_count": 28539
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1948682945969226081",
+    "created_at": "2025-07-26T15:06:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T16:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949124279481602149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1792575947469975552",
+          "start": 0,
+          "username": "Chigine1"
+        },
+        {
+          "end": 25,
+          "id": "1543138110027939841",
+          "start": 10,
+          "username": "zhangbojun2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949124279481602149",
+    "in_reply_to_user_id": "1792575947469975552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948761319945179211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chigine1 @zhangbojun2022 历史的眼泪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1948682945969226081",
+        "created_at": "2025-07-26T15:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T16:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949124279481602149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1792575947469975552",
+              "start": 0,
+              "username": "Chigine1"
+            },
+            {
+              "end": 25,
+              "id": "1543138110027939841",
+              "start": 10,
+              "username": "zhangbojun2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949124279481602149",
+        "in_reply_to_user_id": "1792575947469975552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948761319945179211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chigine1 @zhangbojun2022 历史的眼泪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792575947469975552",
+        "conversation_id": "1948682945969226081",
+        "created_at": "2025-07-25T15:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T16:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948761319945179211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1543138110027939841",
+              "start": 0,
+              "username": "zhangbojun2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948761319945179211",
+        "in_reply_to_user_id": "1543138110027939841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 766,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948732525813399718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangbojun2022 想🍐老师了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJo6NX"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5782,
+          "following_count": 1052,
+          "like_count": 46016,
+          "listed_count": 18,
+          "media_count": 945,
+          "tweet_count": 7715
+        },
+        "url": "https://t.co/Z7RPjJo6NX",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-20T15:19:52.000Z",
+        "description": "发疯文字和键政内容（正在减少键政） 想到什么说什么 缺乏立场性 以前是做题蛆现在也是 在补充阅读量 长年唯心主义实践者 中原官话/普通话 CPMandarin/Mandarin",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chigine1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chigine1",
+                "start": 0,
+                "url": "https://t.co/Ii6gF9bQKi"
+              }
+            ]
+          }
+        },
+        "id": "1792575947469975552",
+        "location": "中国上海市宝山区上大路99号",
+        "name": "𝕮𝖍𝖎𝖌𝖎𝖓𝖊금기산",
+        "pinned_tweet_id": "1917389505264509260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915831868836220931/z8i5_a8M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 1054,
+          "like_count": 60101,
+          "listed_count": 5,
+          "media_count": 1167,
+          "tweet_count": 12373
+        },
+        "url": "https://t.co/Ii6gF9bQKi",
+        "username": "Chigine1",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-02T07:43:31.000Z",
+        "description": "",
+        "id": "1543138110027939841",
+        "name": "伯钧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759886882169896960/1zoKZ0Rr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5503,
+          "following_count": 491,
+          "like_count": 2554,
+          "listed_count": 43,
+          "media_count": 21,
+          "tweet_count": 133
+        },
+        "username": "zhangbojun2022",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2067938499240882628",
+    "created_at": "2026-06-19T11:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T12:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067938499240882628"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dearemon/statu…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/dearemon/status/2067484858339955067",
+          "start": 19,
+          "url": "https://t.co/PzWlY4l1qg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067938499240882628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067484858339955067",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我第一次见这只猫是在一个订餐的群里， https://t.co/PzWlY4l1qg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2067938499240882628",
+        "created_at": "2026-06-19T11:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067938499240882628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dearemon/statu…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/dearemon/status/2067484858339955067",
+              "start": 19,
+              "url": "https://t.co/PzWlY4l1qg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067938499240882628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067484858339955067",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我第一次见这只猫是在一个订餐的群里， https://t.co/PzWlY4l1qg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "126581934",
+        "conversation_id": "2067484858339955067",
+        "created_at": "2026-06-18T05:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067484858339955067"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067484858339955067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 182171,
+          "like_count": 1336,
+          "quote_count": 11,
+          "reply_count": 119,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很讨厌那个一只手捂鼻子一只手在前面挥动的动作，好丑啊真的好丑啊！！。。在我看来真的一点美感都没有，还会连带整支舞都变丑。￼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5903,
+          "following_count": 773,
+          "like_count": 51707,
+          "listed_count": 18,
+          "media_count": 1038,
+          "tweet_count": 9095
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-26T09:45:48.000Z",
+        "description": "世上哪有Happy Ending这回事儿，Ending本身就够悲伤的了。 第一届皮皮虾花样去壳冠军 。SW 5792-2309-7599 动森梦境岛 DA-9972-7707-7708",
+        "id": "126581934",
+        "name": "禿道道🐟",
+        "pinned_tweet_id": "1917513212721090703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004910874897907712/QA8ibrUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62853,
+          "following_count": 692,
+          "like_count": 5868,
+          "listed_count": 232,
+          "media_count": 33053,
+          "tweet_count": 401075
+        },
+        "url": "",
+        "username": "dearemon",
+        "verified": true
+      }
+    ]
+  }
+}

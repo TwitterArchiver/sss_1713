@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2053669319469597038",
+    "created_at": "2026-05-11T02:51:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T03:51:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053669319469597038"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sss_1713/statu…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/sss_1713/status/2053630516310819309",
+          "start": 19,
+          "url": "https://t.co/RChen8havz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053669319469597038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053630516310819309",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🥲而且直播间主页还挂着给老伴筹医药费 https://t.co/RChen8havz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2053669319469597038",
+        "created_at": "2026-05-11T02:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T03:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053669319469597038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/sss_1713/status/2053630516310819309",
+              "start": 19,
+              "url": "https://t.co/RChen8havz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053669319469597038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053630516310819309",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥲而且直播间主页还挂着给老伴筹医药费 https://t.co/RChen8havz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2053630516310819309",
+        "created_at": "2026-05-11T00:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T01:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053630516310819309"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053630516310819309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天晚上刷抖音直播，看到有个老奶奶在直播，当时已经很晚了，老人已经都睁不开眼了，下面弹幕的贱人一直在刷“送出爱心❤️✖️100”，老人还在一直感谢这些虚假的礼物，你们有没有心？贱不贱啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5798,
+          "following_count": 1038,
+          "like_count": 47474,
+          "listed_count": 18,
+          "media_count": 940,
+          "tweet_count": 8229
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

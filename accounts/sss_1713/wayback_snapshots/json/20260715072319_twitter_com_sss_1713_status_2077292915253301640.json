@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2077218830280265840",
+    "created_at": "2026-07-15T07:23:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T08:23:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077292915253301640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035655278931439616",
+          "start": 0,
+          "username": "NorthWest_Corps"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077292915253301640",
+    "in_reply_to_user_id": "2035655278931439616",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077285132403404924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NorthWest_Corps idk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2077218830280265840",
+        "created_at": "2026-07-15T07:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077292915253301640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035655278931439616",
+              "start": 0,
+              "username": "NorthWest_Corps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077292915253301640",
+        "in_reply_to_user_id": "2035655278931439616",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077285132403404924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NorthWest_Corps idk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035655278931439616",
+        "conversation_id": "2077218830280265840",
+        "created_at": "2026-07-15T06:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077285132403404924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077285132403404924",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077218830280265840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 缅甸咋拿到的95"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5983,
+          "following_count": 794,
+          "like_count": 54735,
+          "listed_count": 18,
+          "media_count": 1090,
+          "tweet_count": 9519
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-22T09:50:23.000Z",
+        "description": "你在期待什么",
+        "id": "2035655278931439616",
+        "location": "西部战区地下防核掩体",
+        "name": "西北集群",
+        "pinned_tweet_id": "2061655669472924110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035657905769525248/UYfz12L1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 58,
+          "like_count": 3733,
+          "listed_count": 5,
+          "media_count": 818,
+          "tweet_count": 3366
+        },
+        "url": "",
+        "username": "NorthWest_Corps",
+        "verified": false
+      }
+    ]
+  }
+}

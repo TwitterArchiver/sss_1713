@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2000412126683505076",
+    "created_at": "2025-12-15T06:18:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T07:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000450431302984003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1548157400632270848",
+          "start": 0,
+          "username": "annayanamisuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000450431302984003",
+    "in_reply_to_user_id": "1548157400632270848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000412126683505076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@annayanamisuki 绿水青山就是金山银山"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30800,
+        "height": 720,
+        "media_key": "13_2000412063718354951",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2000412063718354951/img/Om67rx8pglpkkQkU.jpg",
+        "public_metrics": {
+          "view_count": 142
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000412063718354951/vid/avc1/480x270/z_hrFGGzqrLmsJkG.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000412063718354951/vid/avc1/640x360/Mow4WyEmBMTdQGVP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000412063718354951/vid/avc1/1280x720/EoNDvxZdiIYii3Ok.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2000412063718354951/pl/zF5v_1c0DhqAQK5y.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2000412126683505076",
+        "created_at": "2025-12-15T06:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T07:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000450431302984003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1548157400632270848",
+              "start": 0,
+              "username": "annayanamisuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000450431302984003",
+        "in_reply_to_user_id": "1548157400632270848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000412126683505076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@annayanamisuki 绿水青山就是金山银山"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000412063718354951"
+          ]
+        },
+        "author_id": "1548157400632270848",
+        "conversation_id": "2000412126683505076",
+        "created_at": "2025-12-15T03:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T04:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000412126683505076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SEDjislWyo",
+              "end": 34,
+              "expanded_url": "https://x.com/annayanamisuki/status/2000412126683505076/video/1",
+              "media_key": "13_2000412063718354951",
+              "start": 11,
+              "url": "https://t.co/SEDjislWyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000412126683505076",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 385,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好厚米第一次玩安慕希 https://t.co/SEDjislWyo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5783,
+          "following_count": 996,
+          "like_count": 45957,
+          "listed_count": 17,
+          "media_count": 931,
+          "tweet_count": 7988
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-16T04:08:07.000Z",
+        "description": "Alt：@sima_musk｜High Commissioner of @enchenia in North America",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "sima_musk"
+              },
+              {
+                "end": 45,
+                "start": 36,
+                "username": "enchenia"
+              }
+            ]
+          }
+        },
+        "id": "1548157400632270848",
+        "location": "衡水中学",
+        "name": "韦大厨今天吃两脚羊☭⃠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864175949681401857/nU4COn35_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4336,
+          "following_count": 982,
+          "like_count": 45249,
+          "listed_count": 18,
+          "media_count": 1662,
+          "tweet_count": 8300
+        },
+        "username": "annayanamisuki",
+        "verified": true
+      }
+    ]
+  }
+}

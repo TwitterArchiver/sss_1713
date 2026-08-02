@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2063585628382785647",
+    "created_at": "2026-06-07T11:57:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T12:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063591247462207898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1426789547954737153",
+          "start": 0,
+          "username": "DelayNoMore64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063591247462207898",
+    "in_reply_to_user_id": "1426789547954737153",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063585628382785647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DelayNoMore64 好丑啊……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2378,
+        "media_key": "3_2063585616852561921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNUL2gaMAEN7Em.jpg",
+        "width": 1438
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2063585628382785647",
+        "created_at": "2026-06-07T11:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063591247462207898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1426789547954737153",
+              "start": 0,
+              "username": "DelayNoMore64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063591247462207898",
+        "in_reply_to_user_id": "1426789547954737153",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063585628382785647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DelayNoMore64 好丑啊……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063585616852561921"
+          ]
+        },
+        "author_id": "1426789547954737153",
+        "conversation_id": "2063585628382785647",
+        "created_at": "2026-06-07T11:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063585628382785647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/scIHpBCy2V",
+              "end": 26,
+              "expanded_url": "https://x.com/DelayNoMore64/status/2063585628382785647/photo/1",
+              "media_key": "3_2063585616852561921",
+              "start": 3,
+              "url": "https://t.co/scIHpBCy2V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063585628382785647",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难绷 https://t.co/scIHpBCy2V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5878,
+          "following_count": 753,
+          "like_count": 49497,
+          "listed_count": 18,
+          "media_count": 1001,
+          "tweet_count": 8753
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-15T06:19:30.000Z",
+        "description": "一蕉羞貍貔.Bot¿ | Centrist | TG讨论组/频道/私信 https://t.co/zCJwDqXiJw | 翻墙推荐 迷雾通: https://t.co/RGAYSqXuAW 刷到的墙内人别再用送中机场翻墙了 | 偶尔碎碎念 讨厌民粹 谢绝粉红关注",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HachimiNeko",
+                "end": 59,
+                "expanded_url": "https://t.me/HachimiNeko",
+                "start": 36,
+                "url": "https://t.co/zCJwDqXiJw"
+              },
+              {
+                "display_url": "geph.io",
+                "end": 95,
+                "expanded_url": "https://geph.io",
+                "start": 72,
+                "url": "https://t.co/RGAYSqXuAW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HachimiCat",
+                "end": 23,
+                "expanded_url": "https://t.me/HachimiCat",
+                "start": 0,
+                "url": "https://t.co/cYGMU1qx8q"
+              }
+            ]
+          }
+        },
+        "id": "1426789547954737153",
+        "location": "Seoul",
+        "name": "Bocchi 🇳🇴🍊",
+        "pinned_tweet_id": "2062435162219241561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044710085314969600/U5bQlhTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42706,
+          "following_count": 952,
+          "like_count": 33171,
+          "listed_count": 166,
+          "media_count": 2574,
+          "tweet_count": 19580
+        },
+        "url": "https://t.co/cYGMU1qx8q",
+        "username": "DelayNoMore64",
+        "verified": false
+      }
+    ]
+  }
+}

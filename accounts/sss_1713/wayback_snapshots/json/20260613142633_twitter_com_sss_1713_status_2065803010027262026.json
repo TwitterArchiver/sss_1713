@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2065715915833131384",
+    "created_at": "2026-06-13T14:26:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T15:26:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065803010027262026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1464319347736911877",
+          "start": 0,
+          "username": "sugihara_tatuo"
+        },
+        {
+          "end": 29,
+          "id": "1550005212189827072",
+          "start": 16,
+          "username": "Svoboden1107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065803010027262026",
+    "in_reply_to_user_id": "1464319347736911877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065771506546995559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sugihara_tatuo @Svoboden1107 哇还有老英雄。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 336,
+        "media_key": "3_2065771504047202304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsYPO3boAAhmgc.jpg",
+        "width": 595
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2065715915833131384",
+        "created_at": "2026-06-13T14:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065803010027262026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1464319347736911877",
+              "start": 0,
+              "username": "sugihara_tatuo"
+            },
+            {
+              "end": 29,
+              "id": "1550005212189827072",
+              "start": 16,
+              "username": "Svoboden1107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065803010027262026",
+        "in_reply_to_user_id": "1464319347736911877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065771506546995559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sugihara_tatuo @Svoboden1107 哇还有老英雄。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065771504047202304"
+          ]
+        },
+        "author_id": "1464319347736911877",
+        "conversation_id": "2065715915833131384",
+        "created_at": "2026-06-13T12:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065771506546995559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1550005212189827072",
+              "start": 0,
+              "username": "Svoboden1107"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0NuFwtxz80",
+              "end": 48,
+              "expanded_url": "https://x.com/sugihara_tatuo/status/2065771506546995559/photo/1",
+              "media_key": "3_2065771504047202304",
+              "start": 25,
+              "url": "https://t.co/0NuFwtxz80"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065771506546995559",
+        "in_reply_to_user_id": "1550005212189827072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065736825306751058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Svoboden1107 合订本怎么这么坏啊😭 https://t.co/0NuFwtxz80"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5883,
+          "following_count": 760,
+          "like_count": 50780,
+          "listed_count": 18,
+          "media_count": 1021,
+          "tweet_count": 8945
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-26T19:45:30.000Z",
+        "description": "斃れずば止まじ。邪惡目田狗 退步保守逼 有神論渣滓 無恥死川黑。President of @enchenia。\n語言：漢/英/日/阿/西/波/拉。\n歷史架空作品「子夜之后」https://t.co/uE3gW318D2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "enchenia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitter.com/sugihara_tatuo…",
+                "end": 109,
+                "expanded_url": "https://twitter.com/sugihara_tatuo/status/1604130969434279936?s=19",
+                "start": 86,
+                "url": "https://t.co/uE3gW318D2"
+              }
+            ]
+          }
+        },
+        "id": "1464319347736911877",
+        "name": "杉原 辰雄 ☭⃠🌸⛩️ （不定期退隱）",
+        "pinned_tweet_id": "1604130969434279936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045448471986180097/uMpwJ8KP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5609,
+          "following_count": 778,
+          "like_count": 159058,
+          "listed_count": 33,
+          "media_count": 1759,
+          "tweet_count": 16587
+        },
+        "username": "sugihara_tatuo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-21T06:30:41.000Z",
+        "description": "中国人、普通の社会民主主義者、右派だけど左派の思想が少し受け入れる、戦争反対、ゆり好き、ネトウヨとパヨク以外の皆さんに仲良くしたい / 🇬🇱🇺🇦🇵🇸💪 / 🇯🇵🇰🇷🇬🇧🇪🇺🇭🇰🇮🇩🇸🇬🇻🇳👍️ / 🇮🇱🇷🇺🇺🇸🇰🇵👎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@svoboden1107?…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@svoboden1107?si=N_kIi-vPru4FXFCC",
+                "start": 0,
+                "url": "https://t.co/ELY3uu4tar"
+              }
+            ]
+          }
+        },
+        "id": "1550005212189827072",
+        "location": "しまむらの❤️の中",
+        "name": "とある革命の安達桜",
+        "pinned_tweet_id": "1880271935415939344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887859042896527360/8YFJwihW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 1240,
+          "like_count": 2890,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 871
+        },
+        "url": "https://t.co/ELY3uu4tar",
+        "username": "Svoboden1107",
+        "verified": false
+      }
+    ]
+  }
+}

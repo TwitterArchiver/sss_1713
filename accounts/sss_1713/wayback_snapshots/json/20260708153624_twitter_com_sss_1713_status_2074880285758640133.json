@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2074872459325743543",
+    "created_at": "2026-07-08T15:36:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T16:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074880285758640133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1941553078492332033",
+          "start": 0,
+          "username": "Eric52802090721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074880285758640133",
+    "in_reply_to_user_id": "1941553078492332033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074872459325743543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eric52802090721 我也是。是不是太焦虑了。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2074872459325743543].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2074872459325743543",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2074872459325743543"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2074872459325743543",
+        "created_at": "2026-07-08T15:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074880285758640133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1941553078492332033",
+              "start": 0,
+              "username": "Eric52802090721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074880285758640133",
+        "in_reply_to_user_id": "1941553078492332033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074872459325743543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eric52802090721 我也是。是不是太焦虑了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5947,
+          "following_count": 797,
+          "like_count": 54087,
+          "listed_count": 18,
+          "media_count": 1070,
+          "tweet_count": 9370
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-05T17:41:53.000Z",
+        "description": "我的心脏非常柔软不要伤害我",
+        "id": "1941553078492332033",
+        "location": "这里没有你们想看的",
+        "name": "小唯",
+        "pinned_tweet_id": "2067245546436465057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067166505285083136/D8ifFZ38_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 57,
+          "like_count": 317,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 210
+        },
+        "url": "",
+        "username": "Eric52802090721",
+        "verified": false
+      }
+    ]
+  }
+}

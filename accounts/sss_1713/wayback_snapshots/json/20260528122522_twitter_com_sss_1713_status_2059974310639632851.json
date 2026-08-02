@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2059974310639632851",
+    "created_at": "2026-05-28T12:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059974310639632851"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/memesoficiial/…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/memesoficiial/status/2059708465946218607",
+          "start": 19,
+          "url": "https://t.co/fO5sW7nPXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059974310639632851",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059708465946218607",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这样做的话中国人就会少很多了😶‍🌫️ https://t.co/fO5sW7nPXX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2059974310639632851",
+        "created_at": "2026-05-28T12:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059974310639632851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/memesoficiial/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/memesoficiial/status/2059708465946218607",
+              "start": 19,
+              "url": "https://t.co/fO5sW7nPXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059974310639632851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059708465946218607",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这样做的话中国人就会少很多了😶‍🌫️ https://t.co/fO5sW7nPXX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1310044609007976450",
+        "conversation_id": "2059708465946218607",
+        "created_at": "2026-05-27T18:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059708465946218607"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059708465946218607",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 633021,
+          "like_count": 2049,
+          "quote_count": 13,
+          "reply_count": 104,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "احظروا المحتوى الإباحي في X\nاحظروا المحتوى الإباحي في X\nاحظروا المحتوى الإباحي في X\nاحظروا المحتوى الإباحي في X\nاحظروا المحتوى الإباحي في X\nاحظروا المحتوى الإباحي في X\nاحظروا المحتوى الإباحي في X\nاحظروا المحتوى الإباحي في X\nاحظروا المحتوى الإباحي في x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5849,
+          "following_count": 749,
+          "like_count": 48518,
+          "listed_count": 18,
+          "media_count": 981,
+          "tweet_count": 8551
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-27T02:32:48.000Z",
+        "description": "ابحث واترجم لكم كل ما هو جديد",
+        "id": "1310044609007976450",
+        "name": "سعود",
+        "pinned_tweet_id": "2059386655832756341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054108421541027840/lAjfGK6O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825392,
+          "following_count": 73,
+          "like_count": 26964,
+          "listed_count": 197,
+          "media_count": 7608,
+          "tweet_count": 21336
+        },
+        "username": "MemesOficiial",
+        "verified": true
+      }
+    ]
+  }
+}

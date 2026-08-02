@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2059598604709331396",
+    "created_at": "2026-05-28T12:51:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:51:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059980814985965679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1667742294756450304",
+          "start": 0,
+          "username": "Sasagawa_Arashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059980814985965679",
+    "in_reply_to_user_id": "1667742294756450304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059980596752040236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sasagawa_Arashi 就让如此无聊的我们……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2059598604709331396",
+        "created_at": "2026-05-28T12:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059980814985965679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1667742294756450304",
+              "start": 0,
+              "username": "Sasagawa_Arashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059980814985965679",
+        "in_reply_to_user_id": "1667742294756450304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059980596752040236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sasagawa_Arashi 就让如此无聊的我们……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667742294756450304",
+        "conversation_id": "2059598604709331396",
+        "created_at": "2026-05-28T12:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059980596752040236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059980596752040236",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059977102431281465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 不用谢，因为我也很无聊🫪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5850,
+          "following_count": 750,
+          "like_count": 48525,
+          "listed_count": 18,
+          "media_count": 982,
+          "tweet_count": 8556
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T03:55:41.000Z",
+        "description": "I’m here",
+        "id": "1667742294756450304",
+        "location": "遥远的彼方",
+        "name": "ZOoooLLY!(*･ω･)ﾉ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015245776700821504/cMDqYUMW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 201,
+          "like_count": 11007,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 749
+        },
+        "username": "Sasagawa_Arashi",
+        "verified": false
+      }
+    ]
+  }
+}

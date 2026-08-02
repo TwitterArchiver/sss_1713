@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1952980531206873257",
+    "created_at": "2025-08-06T06:30:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T07:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952980531206873257"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1952721792138895395",
+          "start": 29,
+          "url": "https://t.co/qVHgDrbifB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952980531206873257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952721792138895395",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "赔礼道歉终究不是目的，追根究底打人者为什么有打人的底气。 https://t.co/qVHgDrbifB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1062,
+        "media_key": "3_1952721189346140160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxl1k2Ra4AA-LI4.jpg",
+        "width": 580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1952980531206873257",
+        "created_at": "2025-08-06T06:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T07:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952980531206873257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1952721792138895395",
+              "start": 29,
+              "url": "https://t.co/qVHgDrbifB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952980531206873257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952721792138895395",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "赔礼道歉终究不是目的，追根究底打人者为什么有打人的底气。 https://t.co/qVHgDrbifB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952721189346140160"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1952721792138895395",
+        "created_at": "2025-08-05T13:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T14:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952721792138895395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CVNcOTMX0d",
+              "end": 52,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1952721792138895395/photo/1",
+              "media_key": "3_1952721189346140160",
+              "start": 29,
+              "url": "https://t.co/CVNcOTMX0d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952721792138895395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 209,
+          "impression_count": 552693,
+          "like_count": 2283,
+          "quote_count": 25,
+          "reply_count": 498,
+          "retweet_count": 149
+        },
+        "reply_settings": "everyone",
+        "text": "网友投稿：疑似受害者父母在网上发声，呼吁大家不要再转发了 https://t.co/CVNcOTMX0d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJo6NX"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5792,
+          "following_count": 973,
+          "like_count": 46069,
+          "listed_count": 18,
+          "media_count": 945,
+          "tweet_count": 7731
+        },
+        "url": "https://t.co/Z7RPjJo6NX",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 132,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 109,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1952853943630889093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2062826,
+          "following_count": 980,
+          "like_count": 7854,
+          "listed_count": 8240,
+          "media_count": 32954,
+          "tweet_count": 39664
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064190152914726912"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2064027579716190669",
+    "created_at": "2026-06-09T03:37:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T04:37:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064190164872651031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1994714042196529159",
+          "start": 0,
+          "username": "y225851250"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ch7GPFKQ47",
+          "end": 45,
+          "expanded_url": "https://x.com/sss_1713/status/2064190164872651031/photo/1",
+          "media_key": "3_2064190152914726912",
+          "start": 22,
+          "url": "https://t.co/ch7GPFKQ47"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064190164872651031",
+    "in_reply_to_user_id": "1994714042196529159",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064189845438857237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y225851250 主页破案，去看黄吧 https://t.co/ch7GPFKQ47"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2064190152914726912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKV6Ae1XcAATsVC.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064190152914726912"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2064027579716190669",
+        "created_at": "2026-06-09T03:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064190164872651031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1994714042196529159",
+              "start": 0,
+              "username": "y225851250"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ch7GPFKQ47",
+              "end": 45,
+              "expanded_url": "https://x.com/sss_1713/status/2064190164872651031/photo/1",
+              "media_key": "3_2064190152914726912",
+              "start": 22,
+              "url": "https://t.co/ch7GPFKQ47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064190164872651031",
+        "in_reply_to_user_id": "1994714042196529159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064189845438857237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y225851250 主页破案，去看黄吧 https://t.co/ch7GPFKQ47"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994714042196529159",
+        "conversation_id": "2064027579716190669",
+        "created_at": "2026-06-09T03:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064189845438857237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064189845438857237",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064189178531795441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 你太喜欢狗叫了，不是一个适合讨论问题的人😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5877,
+          "following_count": 752,
+          "like_count": 49700,
+          "listed_count": 18,
+          "media_count": 1004,
+          "tweet_count": 8796
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T10:24:50.000Z",
+        "description": "",
+        "id": "1994714042196529159",
+        "name": "iONC EAS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004344770479771650/spuB2-W1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 131,
+          "like_count": 2086,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 92
+        },
+        "username": "y225851250",
+        "verified": false
+      }
+    ]
+  }
+}

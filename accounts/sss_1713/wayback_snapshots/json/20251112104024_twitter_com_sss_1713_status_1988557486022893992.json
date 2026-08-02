@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1988557486022893992",
+    "created_at": "2025-11-12T10:40:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T11:40:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988557486022893992"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/quanlujun/stat…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/quanlujun/status/1988487865379250645",
+          "start": 28,
+          "url": "https://t.co/sByibOVN2h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988557486022893992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988487865379250645",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "发现无论什么立场的中年人/老年人都没办法正确识别ai图 https://t.co/sByibOVN2h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988487858517397504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5iHK_8bUAAcxV-.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1988557486022893992",
+        "created_at": "2025-11-12T10:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T11:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988557486022893992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/quanlujun/stat…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/quanlujun/status/1988487865379250645",
+              "start": 28,
+              "url": "https://t.co/sByibOVN2h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988557486022893992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988487865379250645",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发现无论什么立场的中年人/老年人都没办法正确识别ai图 https://t.co/sByibOVN2h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988487858517397504"
+          ]
+        },
+        "author_id": "1653278595719081986",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1988487865379250645",
+        "created_at": "2025-11-12T06:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T07:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988487865379250645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/emAyko81MZ",
+              "end": 44,
+              "expanded_url": "https://x.com/QuanLujun/status/1988487865379250645/photo/1",
+              "media_key": "3_1988487858517397504",
+              "start": 21,
+              "url": "https://t.co/emAyko81MZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988487865379250645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 18059,
+          "like_count": 192,
+          "quote_count": 5,
+          "reply_count": 98,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "外卖小哥背着民国国旗路过天安门，了不起！ https://t.co/emAyko81MZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5821,
+          "following_count": 986,
+          "like_count": 45673,
+          "listed_count": 17,
+          "media_count": 925,
+          "tweet_count": 7829
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-02T06:02:43.000Z",
+        "description": "台湾就是台湾，台湾是一个国家；守护台湾就是守护民主自由，就是守护普世价值，就是守护人类的底线和未来！邪恶中共绝不能得逞！结束邪恶中共匪帮恐怖主义法西斯暴政，结束共产主义独裁者蛊惑人心，祸害世界；基督✝️文明世界必将战胜任何邪恶撒旦；台独顽固分子/支持各民族各地区追责中共人权迫害/荣耀基督联盟 Luke-权录军",
+        "id": "1653278595719081986",
+        "location": "California, USA",
+        "name": "LuJun Quan",
+        "pinned_tweet_id": "1969944857461559515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780063090182365184/OY7ky_fp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1872,
+          "following_count": 997,
+          "like_count": 25147,
+          "listed_count": 21,
+          "media_count": 719,
+          "tweet_count": 13117
+        },
+        "username": "QuanLujun",
+        "verified": true
+      }
+    ]
+  }
+}

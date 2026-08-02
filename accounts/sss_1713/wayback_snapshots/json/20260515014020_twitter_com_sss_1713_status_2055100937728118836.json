@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2055100937728118836",
+    "created_at": "2026-05-15T01:40:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T02:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055100937728118836"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/filmfanatics__…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/filmfanatics__/status/2055013929630228806",
+          "start": 35,
+          "url": "https://t.co/6MJ38ytJEP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055100937728118836",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055013929630228806",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "从小追到大，第五季太烂了，烂出了一个新高度。但还是很期待沃特崛起的。 https://t.co/6MJ38ytJEP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055013926450966528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HITgRzaXMAAiPAg.jpg",
+        "width": 1746
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2055100937728118836",
+        "created_at": "2026-05-15T01:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T02:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055100937728118836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/filmfanatics__…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/filmfanatics__/status/2055013929630228806",
+              "start": 35,
+              "url": "https://t.co/6MJ38ytJEP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055100937728118836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055013929630228806",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从小追到大，第五季太烂了，烂出了一个新高度。但还是很期待沃特崛起的。 https://t.co/6MJ38ytJEP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055013926450966528"
+          ]
+        },
+        "author_id": "1530119699618480128",
+        "conversation_id": "2055013929630228806",
+        "created_at": "2026-05-14T19:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T20:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055013929630228806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HfmpmXKqDf",
+              "end": 63,
+              "expanded_url": "https://x.com/Filmfanatics__/status/2055013929630228806/photo/1",
+              "media_key": "3_2055013926450966528",
+              "start": 40,
+              "url": "https://t.co/HfmpmXKqDf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055013929630228806",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2111,
+          "impression_count": 1051301,
+          "like_count": 36646,
+          "quote_count": 210,
+          "reply_count": 279,
+          "retweet_count": 2313
+        },
+        "reply_settings": "everyone",
+        "text": "The Boys Series Perfectly Summarised! 🫩 https://t.co/HfmpmXKqDf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5804,
+          "following_count": 1046,
+          "like_count": 47395,
+          "listed_count": 18,
+          "media_count": 945,
+          "tweet_count": 8273
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-27T09:33:07.000Z",
+        "description": "",
+        "id": "1530119699618480128",
+        "name": "PEAK",
+        "pinned_tweet_id": "2054922063425532123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011186370258096128/pFrs4Iwu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121414,
+          "following_count": 105,
+          "like_count": 15491,
+          "listed_count": 1807,
+          "media_count": 3646,
+          "tweet_count": 16046
+        },
+        "username": "Filmfanatics__",
+        "verified": true
+      }
+    ]
+  }
+}

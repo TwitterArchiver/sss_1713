@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2079226479947530436",
+    "created_at": "2026-07-20T15:26:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T16:26:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079226479947530436"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/myg1313113/sta…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/myg1313113/status/2079056591916331183",
+          "start": 57,
+          "url": "https://t.co/qAVh9ifduW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079226479947530436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079056591916331183",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个人也在抖音私信骚扰过我，讲话讲的特别难听，几乎可以称得上是侮辱，不知道怎么惹到他了，我一直表现的都很良善…… https://t.co/qAVh9ifduW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2720,
+        "media_key": "3_2079056530541023232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNpK5jLakAA7T5y.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2720,
+        "media_key": "3_2079056191603494912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNpKl0iaUAAr1bn.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2079226479947530436",
+        "created_at": "2026-07-20T15:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079226479947530436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/myg1313113/sta…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/myg1313113/status/2079056591916331183",
+              "start": 57,
+              "url": "https://t.co/qAVh9ifduW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079226479947530436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079056591916331183",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个人也在抖音私信骚扰过我，讲话讲的特别难听，几乎可以称得上是侮辱，不知道怎么惹到他了，我一直表现的都很良善…… https://t.co/qAVh9ifduW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079056530541023232",
+            "3_2079056191603494912"
+          ]
+        },
+        "author_id": "1893149421480878081",
+        "conversation_id": "2079056591916331183",
+        "created_at": "2026-07-20T04:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T05:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079056591916331183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PYfkc8SBeQ",
+              "end": 102,
+              "expanded_url": "https://x.com/myg1313113/status/2079056591916331183/photo/1",
+              "media_key": "3_2079056530541023232",
+              "start": 79,
+              "url": "https://t.co/PYfkc8SBeQ"
+            },
+            {
+              "display_url": "pic.x.com/PYfkc8SBeQ",
+              "end": 102,
+              "expanded_url": "https://x.com/myg1313113/status/2079056591916331183/photo/1",
+              "media_key": "3_2079056191603494912",
+              "start": 79,
+              "url": "https://t.co/PYfkc8SBeQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079056591916331183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4366,
+          "like_count": 52,
+          "quote_count": 9,
+          "reply_count": 54,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "震惊⚠️:在广州石室圣心天主教堂发生了一件圣体亵渎事件，亵渎者是一位广东籍皇汉组织人员，此人曾多次在网络上公开诋毁耶稣和圣母玛利亚，并且多次进入教堂进行捣乱 https://t.co/PYfkc8SBeQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5999,
+          "following_count": 802,
+          "like_count": 55067,
+          "listed_count": 18,
+          "media_count": 1089,
+          "tweet_count": 9555
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-22T04:03:28.000Z",
+        "description": "降来火毁判世，主勿记我罪🙏🏻🙏🏻🙏🏻",
+        "id": "1893149421480878081",
+        "name": "✝️进教之佑🇻🇦",
+        "pinned_tweet_id": "2058388402547069134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033621434640306176/5NXpBKEi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 117,
+          "like_count": 355,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 466
+        },
+        "url": "",
+        "username": "myg1313113",
+        "verified": false
+      }
+    ]
+  }
+}

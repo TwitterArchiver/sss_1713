@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2049149263595352215",
+    "created_at": "2026-04-28T15:30:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T16:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049149263595352215"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/npc888666/stat…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/npc888666/status/2048932527243731267",
+          "start": 47,
+          "url": "https://t.co/pyUntcQNeU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049149263595352215",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048932527243731267",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只求语文老师上课问我们现在有没有选举权，有没有给谁投过票，她说我们的票全都被代表投给校长了😂 https://t.co/pyUntcQNeU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1514,
+        "media_key": "3_2048932343512272897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG9FHFfbkAElNuC.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2049149263595352215",
+        "created_at": "2026-04-28T15:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049149263595352215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/npc888666/stat…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/npc888666/status/2048932527243731267",
+              "start": 47,
+              "url": "https://t.co/pyUntcQNeU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049149263595352215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048932527243731267",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只求语文老师上课问我们现在有没有选举权，有没有给谁投过票，她说我们的票全都被代表投给校长了😂 https://t.co/pyUntcQNeU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048932343512272897"
+          ]
+        },
+        "author_id": "1620328547847110656",
+        "conversation_id": "2048932527243731267",
+        "created_at": "2026-04-28T01:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T02:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048932527243731267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ygtiLc6lUd",
+              "end": 32,
+              "expanded_url": "https://x.com/NPC888666/status/2048932527243731267/photo/1",
+              "media_key": "3_2048932343512272897",
+              "start": 9,
+              "url": "https://t.co/ygtiLc6lUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048932527243731267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 298533,
+          "like_count": 2599,
+          "quote_count": 1,
+          "reply_count": 52,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "为什么这么激动？ https://t.co/ygtiLc6lUd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5801,
+          "following_count": 1033,
+          "like_count": 47258,
+          "listed_count": 18,
+          "media_count": 939,
+          "tweet_count": 8173
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T07:50:10.000Z",
+        "description": "我喜欢讲故事和分享一些感悟，主打一个真实，不虚伪。 一个普通散户 不是KOL。",
+        "id": "1620328547847110656",
+        "name": "有故事的NPC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897867547439251457/CcDVFS1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42211,
+          "following_count": 1321,
+          "like_count": 7250,
+          "listed_count": 243,
+          "media_count": 1029,
+          "tweet_count": 7473
+        },
+        "username": "NPC888666",
+        "verified": true
+      }
+    ]
+  }
+}

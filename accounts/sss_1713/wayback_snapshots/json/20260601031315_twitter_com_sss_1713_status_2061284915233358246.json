@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2061273229210370477",
+    "created_at": "2026-06-01T03:13:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T04:13:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061284915233358246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1532012863480811520",
+          "start": 0,
+          "username": "GensokyoPMO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061284915233358246",
+    "in_reply_to_user_id": "1532012863480811520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061273229210370477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GensokyoPMO 哈哈，儿童节快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 756,
+        "media_key": "3_2061273225460629504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJsdE9SawAAlMF4.jpg",
+        "width": 655
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2061273229210370477",
+        "created_at": "2026-06-01T03:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061284915233358246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1532012863480811520",
+              "start": 0,
+              "username": "GensokyoPMO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061284915233358246",
+        "in_reply_to_user_id": "1532012863480811520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061273229210370477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GensokyoPMO 哈哈，儿童节快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061273225460629504"
+          ]
+        },
+        "author_id": "1532012863480811520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061273229210370477",
+        "created_at": "2026-06-01T02:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T03:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061273229210370477"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "我的X週年紀念日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cQBEIhhDpe",
+              "end": 71,
+              "expanded_url": "https://x.com/GensokyoPMO/status/2061273229210370477/photo/1",
+              "media_key": "3_2061273225460629504",
+              "start": 48,
+              "url": "https://t.co/cQBEIhhDpe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061273229210370477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 129,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#我的X週年紀念日 \n沒想到這麼快就已經在推上度過了四年的時間⋯⋯\n總之還是祝大家兒童節快樂（ https://t.co/cQBEIhhDpe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5860,
+          "following_count": 751,
+          "like_count": 48728,
+          "listed_count": 18,
+          "media_count": 986,
+          "tweet_count": 8600
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T14:55:18.000Z",
+        "description": "「你應當⋯永不言棄！」 \nLanguage: English/中文/日本語\n🟨🔴🟨漢本位/🏛️憲政主義/⛩💜東方眾/🛩️鋼4「戰犯」/🎶昭和ポップスが好き/📚架空歷史愛好者 \n會時不時地轉推一些美圖（\n希望和推上的各位朋友進行友好交流🥰 \n架空歷史作品 #TLM (原 #SMNS ) 持續更新中（",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 131,
+                "start": 127,
+                "tag": "TLM"
+              },
+              {
+                "end": 140,
+                "start": 135,
+                "tag": "SMNS"
+              }
+            ]
+          }
+        },
+        "id": "1532012863480811520",
+        "location": "Γκενσόκιο",
+        "name": "歴史の転換期における隙間妖怪👁️",
+        "pinned_tweet_id": "1988578799500624319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970866925417975808/kv3TNo0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1742,
+          "following_count": 1905,
+          "like_count": 273415,
+          "listed_count": 13,
+          "media_count": 1949,
+          "tweet_count": 50066
+        },
+        "username": "GensokyoPMO",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,495 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2061473442999001593",
+    "created_at": "2026-06-02T03:10:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T04:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061646651769442591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011472609616236544",
+          "start": 0,
+          "username": "FatTailLabs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061646651769442591",
+    "in_reply_to_user_id": "2011472609616236544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061473442999001593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FatTailLabs 看起来好好吃🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2061470550573424640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJvQiynboAAQAAl.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2061470900961370112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJvQ3L6bYAAyCo-.jpg",
+        "width": 900
+      },
+      {
+        "height": 500,
+        "media_key": "3_2061470987988897792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJvQ8QHaEAAP6Ey.png",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2061473442999001593",
+        "created_at": "2026-06-02T03:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T04:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061646651769442591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011472609616236544",
+              "start": 0,
+              "username": "FatTailLabs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061646651769442591",
+        "in_reply_to_user_id": "2011472609616236544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061473442999001593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FatTailLabs 看起来好好吃🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061470550573424640",
+            "3_2061470900961370112",
+            "3_2061470987988897792"
+          ]
+        },
+        "author_id": "2011472609616236544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10039020016",
+              "name": "よしもと新喜劇"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Egg",
+              "id": "842476826526019586",
+              "name": "Egg recipes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cheese",
+              "id": "825063068027621376",
+              "name": "Cheese"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Egg",
+              "id": "842476826526019586",
+              "name": "Egg recipes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Yoshimoto Kogyo (吉本興業)",
+              "id": "1035255226717036544",
+              "name": "Yoshimoto Kogyo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1193991001892745216",
+              "name": "Cuisines"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1395109820571656195",
+              "name": "Korean cuisine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comedy theatre group",
+              "id": "1428031305325809671",
+              "name": "Yoshimoto Shinkigeki"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1357686092971995137",
+              "name": "Asian cuisine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Cheese",
+              "id": "825063068027621376",
+              "name": "Cheese"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Comedy",
+              "id": "847870150225285120",
+              "name": "Comedy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Appliances",
+              "id": "864912523077615616",
+              "name": "Appliances"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cooking Products",
+              "id": "831535030379835392",
+              "name": "Cooking Products"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2061473442999001593",
+        "created_at": "2026-06-01T15:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:38:33.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061472477373710736",
+          "2061472956786823252",
+          "2061473442999001593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VjjhUIzUzt",
+              "end": 153,
+              "expanded_url": "https://x.com/FatTailLabs/status/2061473442999001593/photo/1",
+              "media_key": "3_2061470550573424640",
+              "start": 130,
+              "url": "https://t.co/VjjhUIzUzt"
+            },
+            {
+              "display_url": "pic.x.com/VjjhUIzUzt",
+              "end": 153,
+              "expanded_url": "https://x.com/FatTailLabs/status/2061473442999001593/photo/1",
+              "media_key": "3_2061470900961370112",
+              "start": 130,
+              "url": "https://t.co/VjjhUIzUzt"
+            },
+            {
+              "display_url": "pic.x.com/VjjhUIzUzt",
+              "end": 153,
+              "expanded_url": "https://x.com/FatTailLabs/status/2061473442999001593/photo/1",
+              "media_key": "3_2061470987988897792",
+              "start": 130,
+              "url": "https://t.co/VjjhUIzUzt"
+            },
+            {
+              "display_url": "x.com/kaeruZangyo/st…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/kaeruZangyo/status/2061453442259038708",
+              "start": 154,
+              "url": "https://t.co/OYGB5gMvAs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061473442999001593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 132,
+          "impression_count": 184569,
+          "like_count": 2081,
+          "quote_count": 70,
+          "reply_count": 28,
+          "retweet_count": 470
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061453442259038708",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "実はこれ、外国人にはあまり知られてないんだけど、韓国人はワッフルメーカーを買っても、キムチチヂミやキムチチャーハンを作るマシンにしてしまうんだよ。\n\nたぶん韓国人にたこ焼き機を普及させたら、「キムチ焼き」っていう魔改造グルメを爆誕させてしまうだろうな…😇😇😇 https://t.co/VjjhUIzUzt https://t.co/OYGB5gMvAs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5855,
+          "following_count": 753,
+          "like_count": 48817,
+          "listed_count": 18,
+          "media_count": 987,
+          "tweet_count": 8622
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-14T16:17:04.000Z",
+        "description": "전직 무기 만들던 사람. 다양한 이야기를 합니다. 근데 이제 역사를 곁들인.",
+        "id": "2011472609616236544",
+        "location": "Seoul, South Korea",
+        "name": "Bernard",
+        "pinned_tweet_id": "2036128700476092753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041510648652394496/NSYUxZ10_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3661,
+          "following_count": 2887,
+          "like_count": 72652,
+          "listed_count": 8,
+          "media_count": 1922,
+          "tweet_count": 13256
+        },
+        "username": "FatTailLabs",
+        "verified": true
+      }
+    ]
+  }
+}

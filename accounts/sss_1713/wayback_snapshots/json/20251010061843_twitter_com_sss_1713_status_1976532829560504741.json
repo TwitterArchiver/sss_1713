@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1976456710404579765",
+    "created_at": "2025-10-10T06:18:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T07:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976532829560504741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1421696758812266497",
+          "start": 0,
+          "username": "_SacersbE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976532829560504741",
+    "in_reply_to_user_id": "1421696758812266497",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976471617984397582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_SacersbE 那你就out啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1976456710404579765",
+        "created_at": "2025-10-10T06:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T07:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976532829560504741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1421696758812266497",
+              "start": 0,
+              "username": "_SacersbE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976532829560504741",
+        "in_reply_to_user_id": "1421696758812266497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976471617984397582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_SacersbE 那你就out啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1421696758812266497",
+        "conversation_id": "1976456710404579765",
+        "created_at": "2025-10-10T02:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T03:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976471617984397582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976471617984397582",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976456710404579765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 啊啊，我就没见到过那个图"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5809,
+          "following_count": 975,
+          "like_count": 45850,
+          "listed_count": 17,
+          "media_count": 943,
+          "tweet_count": 7779
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-01T04:58:30.000Z",
+        "description": "是金平糖！\n亲爱的😍 @0range_Seed",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "0range_Seed"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/sacersbe",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/sacersbe",
+                "start": 0,
+                "url": "https://t.co/riV7znGYZA"
+              }
+            ]
+          }
+        },
+        "id": "1421696758812266497",
+        "location": "Aizumisato-machi, Fukushima",
+        "name": "-ˋˏ🍬ˎˊ-",
+        "pinned_tweet_id": "1622398554840104960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602627223470878721/8sdAZtgX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3773,
+          "following_count": 691,
+          "like_count": 54586,
+          "listed_count": 13,
+          "media_count": 994,
+          "tweet_count": 17359
+        },
+        "url": "https://t.co/riV7znGYZA",
+        "username": "_SacersbE",
+        "verified": false
+      }
+    ]
+  }
+}

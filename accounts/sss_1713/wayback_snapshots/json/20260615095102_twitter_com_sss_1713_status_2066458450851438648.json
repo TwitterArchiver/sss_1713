@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2066037925255790987",
+    "created_at": "2026-06-15T09:51:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T10:51:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066458450851438648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "912228589306703873",
+          "start": 0,
+          "username": "sumika_wallace"
+        },
+        {
+          "end": 29,
+          "id": "761112574813310976",
+          "start": 16,
+          "username": "kawaii_asahi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066458450851438648",
+    "in_reply_to_user_id": "912228589306703873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066432298359423399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sumika_wallace @kawaii_asahi 我屏幕开胶了不知道是不是这个原因。🙂‍↕️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2066037925255790987",
+        "created_at": "2026-06-15T09:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066458450851438648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "912228589306703873",
+              "start": 0,
+              "username": "sumika_wallace"
+            },
+            {
+              "end": 29,
+              "id": "761112574813310976",
+              "start": 16,
+              "username": "kawaii_asahi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066458450851438648",
+        "in_reply_to_user_id": "912228589306703873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066432298359423399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sumika_wallace @kawaii_asahi 我屏幕开胶了不知道是不是这个原因。🙂‍↕️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "912228589306703873",
+        "conversation_id": "2066037925255790987",
+        "created_at": "2026-06-15T08:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066432298359423399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "761112574813310976",
+              "start": 0,
+              "username": "kawaii_asahi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066432298359423399",
+        "in_reply_to_user_id": "761112574813310976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066396501925065039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawaii_asahi 屏幕弯了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5887,
+          "following_count": 763,
+          "like_count": 51049,
+          "listed_count": 18,
+          "media_count": 1028,
+          "tweet_count": 8987
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-25T08:13:38.000Z",
+        "description": "UoA Stats/Econ | USYD Finance (MCom)| 不卖基金不卖期货，纯网瘾大",
+        "id": "912228589306703873",
+        "location": "Sydney, New South Wales",
+        "name": "純夏",
+        "pinned_tweet_id": "1923001440152273288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009305364769226752/HfQmpg8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6251,
+          "following_count": 1082,
+          "like_count": 16935,
+          "listed_count": 29,
+          "media_count": 2497,
+          "tweet_count": 20881
+        },
+        "username": "sumika_wallace",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-04T08:12:33.000Z",
+        "description": "朝日可愛い 是個新推友（迫真）喜歡可愛的東西 是個點心怪 這個賬戶可能是升天了？\n小號運行ing @asahikokura1 @L080_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "asahikokura1"
+              },
+              {
+                "end": 70,
+                "start": 63,
+                "username": "L080_0"
+              }
+            ]
+          }
+        },
+        "id": "761112574813310976",
+        "location": "Manchester, England",
+        "name": "Asahi 🌍貓貓教",
+        "pinned_tweet_id": "1952322757624320058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998609229599617027/z3oIfWJ7_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 388,
+          "like_count": 99255,
+          "listed_count": 3,
+          "media_count": 653,
+          "tweet_count": 5358
+        },
+        "username": "kawaii_asahi",
+        "verified": false
+      }
+    ]
+  }
+}

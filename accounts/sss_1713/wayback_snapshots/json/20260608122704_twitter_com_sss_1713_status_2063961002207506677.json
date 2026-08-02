@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2063852895154696583",
+    "created_at": "2026-06-08T12:27:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T13:27:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063961002207506677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1969942699013980160",
+          "start": 0,
+          "username": "caswerlebel06"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063961002207506677",
+    "in_reply_to_user_id": "1969942699013980160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063852895154696583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caswerlebel06 古兰经多少钱一本啊🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2063852834823847936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRHN_BbwAAmhIh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063852834802769920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRHN-8aIAANXk9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2063852834802868224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRHN-8boAAWnTR.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063852835079634944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRHN_-awAAJIA5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2063852895154696583",
+        "created_at": "2026-06-08T12:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063961002207506677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1969942699013980160",
+              "start": 0,
+              "username": "caswerlebel06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063961002207506677",
+        "in_reply_to_user_id": "1969942699013980160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063852895154696583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caswerlebel06 古兰经多少钱一本啊🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063852834823847936",
+            "3_2063852834802769920",
+            "3_2063852834802868224",
+            "3_2063852835079634944"
+          ]
+        },
+        "author_id": "1969942699013980160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063852895154696583",
+        "created_at": "2026-06-08T05:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T06:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063852895154696583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3QYcHwNDIc",
+              "end": 78,
+              "expanded_url": "https://x.com/caswerlebel06/status/2063852895154696583/photo/1",
+              "media_key": "3_2063852834823847936",
+              "start": 55,
+              "url": "https://t.co/3QYcHwNDIc"
+            },
+            {
+              "display_url": "pic.x.com/3QYcHwNDIc",
+              "end": 78,
+              "expanded_url": "https://x.com/caswerlebel06/status/2063852895154696583/photo/1",
+              "media_key": "3_2063852834802769920",
+              "start": 55,
+              "url": "https://t.co/3QYcHwNDIc"
+            },
+            {
+              "display_url": "pic.x.com/3QYcHwNDIc",
+              "end": 78,
+              "expanded_url": "https://x.com/caswerlebel06/status/2063852895154696583/photo/1",
+              "media_key": "3_2063852834802868224",
+              "start": 55,
+              "url": "https://t.co/3QYcHwNDIc"
+            },
+            {
+              "display_url": "pic.x.com/3QYcHwNDIc",
+              "end": 78,
+              "expanded_url": "https://x.com/caswerlebel06/status/2063852895154696583/photo/1",
+              "media_key": "3_2063852835079634944",
+              "start": 55,
+              "url": "https://t.co/3QYcHwNDIc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063852895154696583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 536,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "东四清真寺的阿訇说古兰经去牛街一个回民生活用品商店买，但去了没有马坚译古兰经。\n不过羊肉包子肉饼是甄姬吧好吃 https://t.co/3QYcHwNDIc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5877,
+          "following_count": 753,
+          "like_count": 49614,
+          "listed_count": 18,
+          "media_count": 1003,
+          "tweet_count": 8781
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-22T01:52:09.000Z",
+        "description": "子曰：『我欲載之空言，不如見之於行事之深切著明也。』\n🦡@caswerlebel05",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "caswerlebel05"
+              }
+            ]
+          }
+        },
+        "id": "1969942699013980160",
+        "location": "中华人民共和国江苏省南京市鼓楼区华侨路街道广州路264号",
+        "name": "人煩樓里的V.V🦡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058587409273749504/lLBP1Nhd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 55,
+          "like_count": 577,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 227
+        },
+        "username": "caswerlebel06",
+        "verified": false
+      }
+    ]
+  }
+}

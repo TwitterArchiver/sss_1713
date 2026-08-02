@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1952996457411133877",
+    "created_at": "2025-08-06T07:33:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T08:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952996457411133877"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jesoooor/statu…",
+          "end": 153,
+          "expanded_url": "https://twitter.com/jesoooor/status/1952644881186517328",
+          "start": 130,
+          "url": "https://t.co/dNxW6eRexu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952996457411133877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952644881186517328",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说实话我到现在没完整看过王志安一个视频，上次看了一个什么来着，感觉主观性很强，像你听墙内中年男呲牛逼吹水一样，果断关闭。柴静的节目我不仅听了很多期，也带着家人一起听，不仅是因为她以前在墙内的知名度高让人有欲望听，还是因为人家节目真有内涵，这是王志安比不上的。 https://t.co/dNxW6eRexu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1952996457411133877",
+        "created_at": "2025-08-06T07:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T08:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952996457411133877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jesoooor/statu…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/jesoooor/status/1952644881186517328",
+              "start": 130,
+              "url": "https://t.co/dNxW6eRexu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952996457411133877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952644881186517328",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说实话我到现在没完整看过王志安一个视频，上次看了一个什么来着，感觉主观性很强，像你听墙内中年男呲牛逼吹水一样，果断关闭。柴静的节目我不仅听了很多期，也带着家人一起听，不仅是因为她以前在墙内的知名度高让人有欲望听，还是因为人家节目真有内涵，这是王志安比不上的。 https://t.co/dNxW6eRexu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "248647906",
+        "conversation_id": "1952644881186517328",
+        "created_at": "2025-08-05T08:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T09:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952644881186517328"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952644881186517328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 163729,
+          "like_count": 838,
+          "quote_count": 16,
+          "reply_count": 248,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "我真不理解，为什么柴静在舆论场上所受的指责以及无端咒骂，要比王志安多那么多？\n\n跟王志安相比，柴静讲的东西，即便话题本身敏感，但她的阐述立场也符合我们所理解的「改革开放背景下的基本共识」，甚至没太超出她在国内的报道框架。\n\n而且这种憎恨无处不在，墙内墙外，包括她自己的评论区。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJo6NX"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5793,
+          "following_count": 974,
+          "like_count": 46083,
+          "listed_count": 18,
+          "media_count": 945,
+          "tweet_count": 7738
+        },
+        "url": "https://t.co/Z7RPjJo6NX",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-07T12:49:21.000Z",
+        "description": "写报道，做评测，追偶像，打游戏，总是戴着耳机，收藏模型、唱片和纸星星。早熟过，所以一直没长大。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jesor.me",
+                "end": 23,
+                "expanded_url": "https://jesor.me",
+                "start": 0,
+                "url": "https://t.co/fGkIY8fSl2"
+              }
+            ]
+          }
+        },
+        "id": "248647906",
+        "location": "Mordor",
+        "name": "ᴊᴄ🍉",
+        "pinned_tweet_id": "1211966834947215360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745502845716324352/8yNyDlje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19191,
+          "following_count": 698,
+          "like_count": 13660,
+          "listed_count": 131,
+          "media_count": 3759,
+          "tweet_count": 17395
+        },
+        "url": "https://t.co/fGkIY8fSl2",
+        "username": "Jesoooor",
+        "verified": false
+      }
+    ]
+  }
+}

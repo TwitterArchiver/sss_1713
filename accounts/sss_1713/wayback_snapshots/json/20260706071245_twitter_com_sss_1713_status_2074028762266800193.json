@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2073751636619517952",
+    "created_at": "2026-07-06T07:12:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T08:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074028762266800193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "230201638",
+          "start": 0,
+          "username": "turhancuneyt"
+        },
+        {
+          "end": 23,
+          "id": "1254882643478446082",
+          "start": 14,
+          "username": "HVMHaber"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074028762266800193",
+    "in_reply_to_user_id": "230201638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074007990454178225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@turhancuneyt @HVMHaber 为了吸引人注意力。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2073751636619517952",
+        "created_at": "2026-07-06T07:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074028762266800193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "230201638",
+              "start": 0,
+              "username": "turhancuneyt"
+            },
+            {
+              "end": 23,
+              "id": "1254882643478446082",
+              "start": 14,
+              "username": "HVMHaber"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074028762266800193",
+        "in_reply_to_user_id": "230201638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074007990454178225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@turhancuneyt @HVMHaber 为了吸引人注意力。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "230201638",
+        "conversation_id": "2073751636619517952",
+        "created_at": "2026-07-06T05:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T06:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074007990454178225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254882643478446082",
+              "start": 0,
+              "username": "HVMHaber"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074007990454178225",
+        "in_reply_to_user_id": "1254882643478446082",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2916,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073751636619517952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HVMHaber Bu videolar neden böyle skimskim sondan başlayıp baştan devam eder oldu. Fragman özelliğinin amk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5936,
+          "following_count": 788,
+          "like_count": 53746,
+          "listed_count": 18,
+          "media_count": 1057,
+          "tweet_count": 9302
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-24T15:49:51.000Z",
+        "description": "Ben, bir başkasıdır artık !",
+        "id": "230201638",
+        "location": "Madrid",
+        "name": "%99",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823234325124382720/IaHKDKr5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 474,
+          "like_count": 2294,
+          "listed_count": 0,
+          "media_count": 438,
+          "tweet_count": 6774
+        },
+        "url": "",
+        "username": "turhancuneyt",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-27T21:18:42.000Z",
+        "description": "Dijital Medya | Hızlı, Güvenilir, Tarafsız | Gündemden tek tweetle haberdar olmak için bildirimleri açın. iletisim@reklamlarmedya.com",
+        "id": "1254882643478446082",
+        "location": "Türkiye",
+        "name": "Haberin Var Mı?",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060418549093404677/MyjzUecq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741036,
+          "following_count": 56,
+          "like_count": 18205,
+          "listed_count": 561,
+          "media_count": 28533,
+          "tweet_count": 31421
+        },
+        "url": "",
+        "username": "HVMHaber",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2067928530865070410",
+    "created_at": "2026-06-21T12:09:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T13:09:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068667577430323338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1951699961260945410",
+          "start": 0,
+          "username": "ringingrain2000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068667577430323338",
+    "in_reply_to_user_id": "1951699961260945410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068640526778187821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ringingrain2000 不吃血还有大小斋吧你可以去搜一下。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2067928530865070410",
+        "created_at": "2026-06-21T12:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068667577430323338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1951699961260945410",
+              "start": 0,
+              "username": "ringingrain2000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068667577430323338",
+        "in_reply_to_user_id": "1951699961260945410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068640526778187821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ringingrain2000 不吃血还有大小斋吧你可以去搜一下。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951699961260945410",
+        "conversation_id": "2067928530865070410",
+        "created_at": "2026-06-21T10:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068640526778187821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068640526778187821",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067928530865070410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 说起来之前在天国拯救里还做过斋戒无杀的成就，基督教各大教派里有对腥膻斋戒的要求吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5909,
+          "following_count": 774,
+          "like_count": 51929,
+          "listed_count": 18,
+          "media_count": 1039,
+          "tweet_count": 9116
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-02T17:42:42.000Z",
+        "description": "",
+        "id": "1951699961260945410",
+        "name": "麦当劳骑士",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953898794745311236/yRK3MZQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 448,
+          "like_count": 22704,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1340
+        },
+        "url": "",
+        "username": "ringingrain2000",
+        "verified": false
+      }
+    ]
+  }
+}

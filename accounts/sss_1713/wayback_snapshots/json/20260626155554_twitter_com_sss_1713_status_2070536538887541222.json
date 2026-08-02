@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2070515614075261346",
+    "created_at": "2026-06-26T15:55:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T16:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070536538887541222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3700078994",
+          "start": 0,
+          "username": "midiexiang6555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070536538887541222",
+    "in_reply_to_user_id": "3700078994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070515614075261346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@midiexiang6555 大概十年前吧，我上小学的时候，我们这里有一栋楼全是卖建材的，现在那栋楼都荒废了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43928,
+        "height": 720,
+        "media_key": "13_2070515027547992064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070515027547992064/img/TeDAtVzWKRJOU0x5.jpg",
+        "public_metrics": {
+          "view_count": 160
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070515027547992064/vid/avc1/480x270/-Xexim5QELfYMlAV.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070515027547992064/vid/avc1/640x360/LIv2e3yFGc2wfr_f.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070515027547992064/vid/avc1/1280x720/VpS8zdqA8V_u3ipj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070515027547992064/pl/5txybfzk3n_fJdYn.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2070515614075261346",
+        "created_at": "2026-06-26T15:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070536538887541222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3700078994",
+              "start": 0,
+              "username": "midiexiang6555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070536538887541222",
+        "in_reply_to_user_id": "3700078994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070515614075261346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@midiexiang6555 大概十年前吧，我上小学的时候，我们这里有一栋楼全是卖建材的，现在那栋楼都荒废了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070515027547992064"
+          ]
+        },
+        "author_id": "3700078994",
+        "conversation_id": "2070515614075261346",
+        "created_at": "2026-06-26T14:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T15:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070515614075261346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hAlmy9hUM5",
+              "end": 139,
+              "expanded_url": "https://x.com/midiexiang6555/status/2070515614075261346/video/1",
+              "media_key": "13_2070515027547992064",
+              "start": 116,
+              "url": "https://t.co/hAlmy9hUM5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070515614075261346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 357,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "房子要装修了，过来我们当地的建材市场看材料。 一整栋专做建材类的商场，每次过来几乎都只有我一个客人，此种冷清，真是挺让人震惊的。\n\n其中一个店主跟我笑称：现在的建材行业就是个夕阳产业了。\n我想问问X友们：你们当地的情况也是这样吗？ https://t.co/hAlmy9hUM5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5908,
+          "following_count": 776,
+          "like_count": 52552,
+          "listed_count": 18,
+          "media_count": 1050,
+          "tweet_count": 9213
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-27T04:52:42.000Z",
+        "description": "實名：陈燕慧   中年非油膩美少女  一枚。",
+        "id": "3700078994",
+        "location": "湖南長沙",
+        "name": "迷迭香",
+        "pinned_tweet_id": "1993891804270518723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1383101725763018753/I-c4hNRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29784,
+          "following_count": 182,
+          "like_count": 43181,
+          "listed_count": 81,
+          "media_count": 1087,
+          "tweet_count": 9997
+        },
+        "url": "",
+        "username": "midiexiang6555",
+        "verified": false
+      }
+    ]
+  }
+}

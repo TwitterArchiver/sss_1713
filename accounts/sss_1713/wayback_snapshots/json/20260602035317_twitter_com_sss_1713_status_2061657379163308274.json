@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2061461001233682501",
+    "created_at": "2026-06-02T03:53:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T04:53:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061657379163308274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2040054095378083840",
+          "start": 0,
+          "username": "shsh531980"
+        },
+        {
+          "end": 23,
+          "id": "2042826086707568640",
+          "start": 12,
+          "username": "Zxfiiiow9i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061657379163308274",
+    "in_reply_to_user_id": "2040054095378083840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061656730912870781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shsh531980 @Zxfiiiow9i 不客气😉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2061461001233682501",
+        "created_at": "2026-06-02T03:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T04:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061657379163308274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040054095378083840",
+              "start": 0,
+              "username": "shsh531980"
+            },
+            {
+              "end": 23,
+              "id": "2042826086707568640",
+              "start": 12,
+              "username": "Zxfiiiow9i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061657379163308274",
+        "in_reply_to_user_id": "2040054095378083840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061656730912870781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shsh531980 @Zxfiiiow9i 不客气😉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040054095378083840",
+        "conversation_id": "2061461001233682501",
+        "created_at": "2026-06-02T03:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T04:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061656730912870781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            },
+            {
+              "end": 21,
+              "id": "2042826086707568640",
+              "start": 10,
+              "username": "Zxfiiiow9i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061656730912870781",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061645862007128202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 @Zxfiiiow9i 谢谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5856,
+          "following_count": 753,
+          "like_count": 48825,
+          "listed_count": 18,
+          "media_count": 989,
+          "tweet_count": 8626
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T13:09:47.000Z",
+        "description": "",
+        "id": "2040054095378083840",
+        "name": "fukd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040054157512441856/Ub1fM0Ed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 12,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 65
+        },
+        "username": "shsh531980",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T04:45:40.000Z",
+        "description": "不加wx 不看鸡巴 不聊骚 不线下 不约炮 不找金主 无🚪 我没有精力去回复你们这么多人的私信 有时候没照顾到你们的情绪不好意思",
+        "id": "2042826086707568640",
+        "name": "Zxfiii",
+        "pinned_tweet_id": "2056817709619572947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054626040904056832/-FUTwbXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 9,
+          "like_count": 476,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 895
+        },
+        "username": "Zxfiiiow9i",
+        "verified": false
+      }
+    ]
+  }
+}

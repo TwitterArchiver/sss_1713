@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2028624573575344128"
+      ],
+      "media_source_tweet_id": [
+        "2028624631922393332"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2029100575376179483",
+    "created_at": "2026-03-04T07:44:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T08:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029100575376179483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1497481140915290115",
+          "start": 3,
+          "username": "karasu_ga_warau"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kh5m7C3Ehm",
+          "end": 98,
+          "expanded_url": "https://x.com/SamanthaTaghoy/status/2028624631922393332/video/1",
+          "media_key": "13_2028624573575344128",
+          "start": 75,
+          "url": "https://t.co/kh5m7C3Ehm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029100575376179483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 416
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028636308671750569",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @karasu_ga_warau: 今天的亞洲盃揭幕戰，伊朗女足國家隊在全世界的注視下，拒絕演唱伊朗伊斯蘭政權的國歌。\n\n真正的女權主義。\n\n https://t.co/kh5m7C3Ehm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37985,
+        "height": 1290,
+        "media_key": "13_2028624573575344128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2028624573575344128/img/vSL_AM9UK4lH6lyw.jpg",
+        "public_metrics": {
+          "view_count": 6650272
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028624573575344128/vid/avc1/472x270/QcAspl6GN_H_gNcl.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028624573575344128/vid/avc1/630x360/VNwc62Arr3HH47bk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2028624573575344128/pl/XyN6iFdNW6kQyIec.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028624573575344128/vid/avc1/1260x720/_s4Zy7lE8b6Ynej3.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028624573575344128/vid/avc1/2260x1290/SMgFI1nzel2ifhd4.mp4"
+          }
+        ],
+        "width": 2260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2028624573575344128"
+          ],
+          "media_source_tweet_id": [
+            "2028624631922393332"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2029100575376179483",
+        "created_at": "2026-03-04T07:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T08:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029100575376179483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1497481140915290115",
+              "start": 3,
+              "username": "karasu_ga_warau"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kh5m7C3Ehm",
+              "end": 98,
+              "expanded_url": "https://x.com/SamanthaTaghoy/status/2028624631922393332/video/1",
+              "media_key": "13_2028624573575344128",
+              "start": 75,
+              "url": "https://t.co/kh5m7C3Ehm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029100575376179483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 416
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028636308671750569",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @karasu_ga_warau: 今天的亞洲盃揭幕戰，伊朗女足國家隊在全世界的注視下，拒絕演唱伊朗伊斯蘭政權的國歌。\n\n真正的女權主義。\n\n https://t.co/kh5m7C3Ehm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2028624573575344128"
+          ],
+          "media_source_tweet_id": [
+            "2028624631922393332"
+          ]
+        },
+        "author_id": "1497481140915290115",
+        "conversation_id": "2028636308671750569",
+        "created_at": "2026-03-03T00:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T01:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028636308671750569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kh5m7C3Ehm",
+              "end": 77,
+              "expanded_url": "https://x.com/SamanthaTaghoy/status/2028624631922393332/video/1",
+              "media_key": "13_2028624573575344128",
+              "start": 54,
+              "url": "https://t.co/kh5m7C3Ehm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028636308671750569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 214,
+          "impression_count": 398626,
+          "like_count": 5087,
+          "quote_count": 24,
+          "reply_count": 81,
+          "retweet_count": 416
+        },
+        "reply_settings": "everyone",
+        "text": "今天的亞洲盃揭幕戰，伊朗女足國家隊在全世界的注視下，拒絕演唱伊朗伊斯蘭政權的國歌。\n\n真正的女權主義。\n\n https://t.co/kh5m7C3Ehm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5845,
+          "following_count": 1016,
+          "like_count": 46555,
+          "listed_count": 18,
+          "media_count": 938,
+          "tweet_count": 8087
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-26T07:59:00.000Z",
+        "description": "Proud Chinese communism survivor | Proud Feminist | Proud Queer (she/they) | May all the justice live in peace, love in peace and rest in peace.",
+        "id": "1497481140915290115",
+        "name": "夏巢川 Rei Xia",
+        "pinned_tweet_id": "2027863763731296577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798095968576958464/DJkGIkQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28859,
+          "following_count": 1312,
+          "like_count": 9508,
+          "listed_count": 117,
+          "media_count": 541,
+          "tweet_count": 5254
+        },
+        "username": "karasu_ga_warau",
+        "verified": false
+      }
+    ]
+  }
+}

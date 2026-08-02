@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2072628818217730415",
+    "created_at": "2026-07-02T10:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T11:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072628818217730415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1959216496833667072",
+          "start": 3,
+          "username": "zbbeyzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072628818217730415",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1081
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071927126022910404",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zbbeyzz: Tecavüz,mağdura “neden savaşmadın?” diye hesap sorulan tek suç. Mesela evine hırsız girse kimse “mutfakta bıçak vardı, niye ku…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2072628818217730415",
+        "created_at": "2026-07-02T10:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072628818217730415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1959216496833667072",
+              "start": 3,
+              "username": "zbbeyzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072628818217730415",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1081
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071927126022910404",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zbbeyzz: Tecavüz,mağdura “neden savaşmadın?” diye hesap sorulan tek suç. Mesela evine hırsız girse kimse “mutfakta bıçak vardı, niye ku…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959216496833667072",
+        "conversation_id": "2071927126022910404",
+        "created_at": "2026-06-30T12:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071927126022910404"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071927126022910404",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 282,
+          "impression_count": 657467,
+          "like_count": 9749,
+          "quote_count": 22,
+          "reply_count": 11,
+          "retweet_count": 1081
+        },
+        "reply_settings": "everyone",
+        "text": "Tecavüz,mağdura “neden savaşmadın?” diye hesap sorulan tek suç. Mesela evine hırsız girse kimse “mutfakta bıçak vardı, niye kullanmadın? İstesen durdururdun adamı” demez. Ama cinsel saldırıda sürekli mağdurun performansı yargılanıyor. Neden? Cevap yine mizojini."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5921,
+          "following_count": 784,
+          "like_count": 53244,
+          "listed_count": 18,
+          "media_count": 1046,
+          "tweet_count": 9237
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-23T11:30:16.000Z",
+        "description": "",
+        "id": "1959216496833667072",
+        "location": "Ankara, Türkiye",
+        "name": "Beyz",
+        "pinned_tweet_id": "2072307682497704115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959218512213278720/zbMY7F_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 286,
+          "like_count": 23989,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 2336
+        },
+        "url": "",
+        "username": "zbbeyzz",
+        "verified": false
+      }
+    ]
+  }
+}

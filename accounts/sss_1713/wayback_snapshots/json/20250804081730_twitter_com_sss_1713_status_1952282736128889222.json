@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1951628045800124416"
+      ],
+      "media_source_tweet_id": [
+        "1951628102070895069"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "1952282736128889222",
+    "created_at": "2025-08-04T08:17:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T09:17:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952282736128889222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1721056525920407552",
+          "start": 3,
+          "username": "goingtovomit"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yuyx1KGLzw",
+          "end": 70,
+          "expanded_url": "https://x.com/goingtovomit/status/1951628102070895069/video/1",
+          "media_key": "13_1951628045800124416",
+          "start": 47,
+          "url": "https://t.co/Yuyx1KGLzw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952282736128889222",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 187
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951628102070895069",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @goingtovomit: 이날 너무 맘에들어서 한번만더올릴게예 \n미안합니다, https://t.co/Yuyx1KGLzw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4133,
+        "height": 720,
+        "media_key": "13_1951628045800124416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1951628045800124416/img/PulPIxBSdLC70CrY.jpg",
+        "public_metrics": {
+          "view_count": 50549
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951628045800124416/vid/avc1/442x270/-SIH9XyfTPHwvUzg.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951628045800124416/vid/avc1/590x360/BK31H46hMGZ0NQF-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951628045800124416/vid/avc1/1180x720/HhLANhDg8XZjjqiz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1951628045800124416/pl/Kfavst78FSR24s03.m3u8"
+          }
+        ],
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1951628045800124416"
+          ],
+          "media_source_tweet_id": [
+            "1951628102070895069"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "1952282736128889222",
+        "created_at": "2025-08-04T08:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T09:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952282736128889222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1721056525920407552",
+              "start": 3,
+              "username": "goingtovomit"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yuyx1KGLzw",
+              "end": 70,
+              "expanded_url": "https://x.com/goingtovomit/status/1951628102070895069/video/1",
+              "media_key": "13_1951628045800124416",
+              "start": 47,
+              "url": "https://t.co/Yuyx1KGLzw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952282736128889222",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 187
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951628102070895069",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @goingtovomit: 이날 너무 맘에들어서 한번만더올릴게예 \n미안합니다, https://t.co/Yuyx1KGLzw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1951628045800124416"
+          ]
+        },
+        "author_id": "1721056525920407552",
+        "conversation_id": "1951628102070895069",
+        "created_at": "2025-08-02T12:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T13:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951628102070895069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yuyx1KGLzw",
+              "end": 52,
+              "expanded_url": "https://x.com/goingtovomit/status/1951628102070895069/video/1",
+              "media_key": "13_1951628045800124416",
+              "start": 29,
+              "url": "https://t.co/Yuyx1KGLzw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951628102070895069",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 347,
+          "impression_count": 136127,
+          "like_count": 3875,
+          "quote_count": 42,
+          "reply_count": 8,
+          "retweet_count": 187
+        },
+        "reply_settings": "following",
+        "text": "이날 너무 맘에들어서 한번만더올릴게예 \n미안합니다, https://t.co/Yuyx1KGLzw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJo6NX"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5788,
+          "following_count": 972,
+          "like_count": 46063,
+          "listed_count": 18,
+          "media_count": 945,
+          "tweet_count": 7728
+        },
+        "url": "https://t.co/Z7RPjJo6NX",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-05T06:47:18.000Z",
+        "description": "이계정말곤도용/틧터 인스타 제외 안합니당",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC6dqq…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC6dqq-bnqZq1Pp4B2liDejg?si=5fMkKMZPAw5Aty-T",
+                "start": 0,
+                "url": "https://t.co/V4YIXFvBOF"
+              }
+            ]
+          }
+        },
+        "id": "1721056525920407552",
+        "location": "ig . angelnumber_7777",
+        "name": "올망이",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932749271134248960/o3weoSQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4014,
+          "following_count": 95,
+          "like_count": 3335,
+          "listed_count": 3,
+          "media_count": 34,
+          "tweet_count": 1025
+        },
+        "url": "https://t.co/V4YIXFvBOF",
+        "username": "goingtovomit",
+        "verified": false
+      }
+    ]
+  }
+}

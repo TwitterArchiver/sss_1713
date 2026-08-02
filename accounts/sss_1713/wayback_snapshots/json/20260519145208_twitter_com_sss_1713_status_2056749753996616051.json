@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2056736402344378656",
+    "created_at": "2026-05-19T14:52:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T15:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056749753996616051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1283001843665104898",
+          "start": 0,
+          "username": "JDDDMX114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056749753996616051",
+    "in_reply_to_user_id": "1283001843665104898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056736402344378656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JDDDMX114514 嘻嘻我四级还没考"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2056736402344378656].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2056736402344378656",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2056736402344378656"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2056736402344378656",
+        "created_at": "2026-05-19T14:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056749753996616051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1283001843665104898",
+              "start": 0,
+              "username": "JDDDMX114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056749753996616051",
+        "in_reply_to_user_id": "1283001843665104898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056736402344378656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JDDDMX114514 嘻嘻我四级还没考"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2056686933950996682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5803,
+          "following_count": 747,
+          "like_count": 47747,
+          "listed_count": 18,
+          "media_count": 962,
+          "tweet_count": 8361
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-14T11:34:22.000Z",
+        "description": "東方众║Language: CN/EN║\n“以我残躯化烈火。我们永不消逝！”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/user/119068321",
+                "end": 23,
+                "expanded_url": "https://www.nicovideo.jp/user/119068321",
+                "start": 0,
+                "url": "https://t.co/TePfLqNy3s"
+              }
+            ]
+          }
+        },
+        "id": "1283001843665104898",
+        "location": "Ленинград, СССР",
+        "name": "シンプルな 大 冒険",
+        "pinned_tweet_id": "2054595526331678985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056746306681585665/F4CW0Fo7_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 786,
+          "like_count": 254754,
+          "listed_count": 5,
+          "media_count": 3957,
+          "tweet_count": 18744
+        },
+        "url": "https://t.co/TePfLqNy3s",
+        "username": "JDDDMX114514",
+        "verified": false
+      }
+    ]
+  }
+}

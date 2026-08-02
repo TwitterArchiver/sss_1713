@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2075189523097788736",
+    "created_at": "2026-07-09T12:05:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T13:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075189523097788736"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2075163049019757036",
+          "start": 22,
+          "url": "https://t.co/VJAcQKmNEN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075189523097788736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075163049019757036",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“他们怎么抹黑我们的？”\n“他们说实话了” https://t.co/VJAcQKmNEN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23312,
+        "height": 848,
+        "media_key": "13_2075162193704759296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075162193704759296/img/cDcHoOyJuk_5MITW.jpg",
+        "public_metrics": {
+          "view_count": 15981
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075162193704759296/vid/avc1/320x470/BXWp7Q1CiPydBAnC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075162193704759296/vid/avc1/480x706/9qDweUHEtkcan5OR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075162193704759296/vid/avc1/576x848/X8YhQx0zC9IYVOVU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075162193704759296/pl/lAix93PbLxPcZ14e.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2075189523097788736",
+        "created_at": "2026-07-09T12:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075189523097788736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2075163049019757036",
+              "start": 22,
+              "url": "https://t.co/VJAcQKmNEN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075189523097788736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075163049019757036",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“他们怎么抹黑我们的？”\n“他们说实话了” https://t.co/VJAcQKmNEN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075162193704759296"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075163049019757036",
+        "created_at": "2026-07-09T10:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075163049019757036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r9gAPZFiBS",
+              "end": 142,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2075163049019757036/video/1",
+              "media_key": "13_2075162193704759296",
+              "start": 119,
+              "url": "https://t.co/r9gAPZFiBS"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2075144175079800980",
+              "start": 143,
+              "url": "https://t.co/VyAeOoUHgq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075163049019757036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“抓特务”\n7月9日，一网友发帖：“注意这两个外国人，来我们灾区不知道要干嘛，是不是黑记者啊？”\n\n评论区：\n“非常时期多加注意，非我族人必有异心。”\n“汶川地震的时候，日本人打着支援的名义光明正大的进入国内，被我国发现深入山区腹地。”\n“会不会去投病毒？水灾过后很大可能有疫情，希望不要发生疫情了”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 89172,
+          "like_count": 248,
+          "quote_count": 7,
+          "reply_count": 76,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075144175079800980",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“抓特务”\n7月9日，一网友发帖：“注意这两个外国人，来我们灾区不知道要干嘛，是不是黑记者啊？”\n\n评论区：\n“非常时期多加注意，非我族人必有异心。”\n“汶川地震的时候，日本人打着支援的名义光明正大的进入国内，被我国发现深入山区腹地。” https://t.co/r9gAPZFiBS https://t.co/VyAeOoUHgq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5943,
+          "following_count": 790,
+          "like_count": 54216,
+          "listed_count": 18,
+          "media_count": 1073,
+          "tweet_count": 9400
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2245292,
+          "following_count": 1073,
+          "like_count": 9787,
+          "listed_count": 8817,
+          "media_count": 50109,
+          "tweet_count": 57315
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

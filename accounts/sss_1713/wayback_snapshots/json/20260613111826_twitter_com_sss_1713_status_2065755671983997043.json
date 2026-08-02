@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2065755671983997043",
+    "created_at": "2026-06-13T11:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T12:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065755671983997043"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/intelshadowop/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/intelshadowop/status/2064804862454550816",
+          "start": 5,
+          "url": "https://t.co/F2XM2GzNEN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065755671983997043",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064804862454550816",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑的我。 https://t.co/F2XM2GzNEN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2065755671983997043",
+        "created_at": "2026-06-13T11:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065755671983997043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/intelshadowop/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/intelshadowop/status/2064804862454550816",
+              "start": 5,
+              "url": "https://t.co/F2XM2GzNEN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065755671983997043",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064804862454550816",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑的我。 https://t.co/F2XM2GzNEN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014982151641673728",
+        "conversation_id": "2064715330430349731",
+        "created_at": "2026-06-10T20:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T21:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064804862454550816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1942890610601713664",
+              "start": 0,
+              "username": "YoobieDoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064804862454550816",
+        "in_reply_to_user_id": "1942890610601713664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 24019,
+          "like_count": 95,
+          "quote_count": 5,
+          "reply_count": 18,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064799817705103727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YoobieDoo 对于高种姓的中国人来说，每月可以得到 10 只狗；对于低种姓的中国人来说，每月只能得到 1 个鸭蛋。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5881,
+          "following_count": 760,
+          "like_count": 50743,
+          "listed_count": 18,
+          "media_count": 1021,
+          "tweet_count": 8943
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T08:42:52.000Z",
+        "description": "Tibetan refugee. Migrated to SA in 1959-62. Commander in chief\n (1st battalion, online regiment) Anti ching chong twitter army.",
+        "id": "2014982151641673728",
+        "location": "⛰️",
+        "name": "Eason Tenzin🇭🇰🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065421942698725376/orNw-25x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2196,
+          "following_count": 17,
+          "like_count": 85,
+          "listed_count": 8,
+          "media_count": 114,
+          "tweet_count": 179
+        },
+        "username": "IntelShadowOp",
+        "verified": false
+      }
+    ]
+  }
+}

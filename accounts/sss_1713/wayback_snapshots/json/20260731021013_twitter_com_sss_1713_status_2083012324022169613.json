@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083012282221826048",
+        "3_2083012282184052736",
+        "3_2083012282200793088",
+        "3_2083012282225922048"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2083012324022169613",
+    "created_at": "2026-07-31T02:10:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T03:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083012324022169613"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NGEV2mUM3y",
+          "end": 168,
+          "expanded_url": "https://x.com/sss_1713/status/2083012324022169613/photo/1",
+          "media_key": "3_2083012282221826048",
+          "start": 145,
+          "url": "https://t.co/NGEV2mUM3y"
+        },
+        {
+          "display_url": "pic.x.com/NGEV2mUM3y",
+          "end": 168,
+          "expanded_url": "https://x.com/sss_1713/status/2083012324022169613/photo/1",
+          "media_key": "3_2083012282184052736",
+          "start": 145,
+          "url": "https://t.co/NGEV2mUM3y"
+        },
+        {
+          "display_url": "pic.x.com/NGEV2mUM3y",
+          "end": 168,
+          "expanded_url": "https://x.com/sss_1713/status/2083012324022169613/photo/1",
+          "media_key": "3_2083012282200793088",
+          "start": 145,
+          "url": "https://t.co/NGEV2mUM3y"
+        },
+        {
+          "display_url": "pic.x.com/NGEV2mUM3y",
+          "end": 168,
+          "expanded_url": "https://x.com/sss_1713/status/2083012324022169613/photo/1",
+          "media_key": "3_2083012282225922048",
+          "start": 145,
+          "url": "https://t.co/NGEV2mUM3y"
+        },
+        {
+          "display_url": "x.com/nikolatesla201…",
+          "end": 192,
+          "expanded_url": "https://twitter.com/nikolatesla2010/status/2082434879405601243",
+          "start": 169,
+          "url": "https://t.co/haerpMrMTE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083012324022169613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082434879405601243",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "爱国皮下男连立人设都不会，在推特成功实现了又当爹又当妈。\n在短短一天的时间之内不仅完成了大学毕业，又完成了结婚并且在百忙之中抽空查看老公的计算机，甚至在结婚当天就出轨了一位女性。\n靠盗图盗视频用繁体字装台湾人，且大部分帖子都是在装台女，皮下男概率99.9999999999999999%。 https://t.co/NGEV2mUM3y https://t.co/haerpMrMTE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1134,
+        "media_key": "3_2083012282221826048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhYomibkAAS8UK.jpg",
+        "width": 1206
+      },
+      {
+        "height": 862,
+        "media_key": "3_2083012282184052736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhYomZbMAAymR2.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1515,
+        "media_key": "3_2083012282200793088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhYomdaoAAhoD_.jpg",
+        "width": 1206
+      },
+      {
+        "height": 880,
+        "media_key": "3_2083012282225922048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhYomjaEAAzbfG.jpg",
+        "width": 1206
+      },
+      {
+        "height": 665,
+        "media_key": "3_2082434861705629696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZLeTfakAAMwQg.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083012282221826048",
+            "3_2083012282184052736",
+            "3_2083012282200793088",
+            "3_2083012282225922048"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2083012324022169613",
+        "created_at": "2026-07-31T02:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083012324022169613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NGEV2mUM3y",
+              "end": 168,
+              "expanded_url": "https://x.com/sss_1713/status/2083012324022169613/photo/1",
+              "media_key": "3_2083012282221826048",
+              "start": 145,
+              "url": "https://t.co/NGEV2mUM3y"
+            },
+            {
+              "display_url": "pic.x.com/NGEV2mUM3y",
+              "end": 168,
+              "expanded_url": "https://x.com/sss_1713/status/2083012324022169613/photo/1",
+              "media_key": "3_2083012282184052736",
+              "start": 145,
+              "url": "https://t.co/NGEV2mUM3y"
+            },
+            {
+              "display_url": "pic.x.com/NGEV2mUM3y",
+              "end": 168,
+              "expanded_url": "https://x.com/sss_1713/status/2083012324022169613/photo/1",
+              "media_key": "3_2083012282200793088",
+              "start": 145,
+              "url": "https://t.co/NGEV2mUM3y"
+            },
+            {
+              "display_url": "pic.x.com/NGEV2mUM3y",
+              "end": 168,
+              "expanded_url": "https://x.com/sss_1713/status/2083012324022169613/photo/1",
+              "media_key": "3_2083012282225922048",
+              "start": 145,
+              "url": "https://t.co/NGEV2mUM3y"
+            },
+            {
+              "display_url": "x.com/nikolatesla201…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/nikolatesla2010/status/2082434879405601243",
+              "start": 169,
+              "url": "https://t.co/haerpMrMTE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083012324022169613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082434879405601243",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爱国皮下男连立人设都不会，在推特成功实现了又当爹又当妈。\n在短短一天的时间之内不仅完成了大学毕业，又完成了结婚并且在百忙之中抽空查看老公的计算机，甚至在结婚当天就出轨了一位女性。\n靠盗图盗视频用繁体字装台湾人，且大部分帖子都是在装台女，皮下男概率99.9999999999999999%。 https://t.co/NGEV2mUM3y https://t.co/haerpMrMTE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082434861705629696"
+          ]
+        },
+        "author_id": "2215812295",
+        "conversation_id": "2082434879405601243",
+        "created_at": "2026-07-29T11:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082434879405601243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n3qgcSQ6pK",
+              "end": 131,
+              "expanded_url": "https://x.com/NikolaTesla2010/status/2082434879405601243/photo/1",
+              "media_key": "3_2082434861705629696",
+              "start": 108,
+              "url": "https://t.co/n3qgcSQ6pK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082434879405601243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天，我決定退出民進黨。\n\n我是臺南人，32 歲，支持民進黨八年。\n\n這八年，我始終相信民主，也相信這個政黨能讓臺灣變得更好，從小英到賴桑，每一次投票，我都沒有猶豫。\n\n但最近民進黨對毒油的處理態度真的讓我很失望。\n\n支持一個政黨，不代表要替所有問題找理由；真正的支持，是願意在它做得不好的時候勇敢說出來。\n\n今天的離開，不代表我放棄對臺灣的期待，而是希望所有執政者都明白，人民的信任不是理所當然，而是需要一次又一次用真誠去贏回來。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 281642,
+          "like_count": 1894,
+          "quote_count": 17,
+          "reply_count": 506,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "今天，我決定退出民進黨。\n\n我是臺南人，32 歲，支持民進黨八年。\n\n這八年，我始終相信民主，也相信這個政黨能讓臺灣變得更好，從小英到賴桑，每一次投票，我都沒有猶豫。\n\n但最近民進黨對毒油的處理態度真的讓我很失望。 https://t.co/n3qgcSQ6pK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5997,
+          "following_count": 797,
+          "like_count": 55597,
+          "listed_count": 18,
+          "media_count": 1097,
+          "tweet_count": 9631
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2013-11-26T14:23:23.000Z",
+        "description": "呈現最真實，沒有濾鏡的寶島，讓世界看見台灣。",
+        "id": "2215812295",
+        "location": "Taiwan,China",
+        "name": "Tesla",
+        "pinned_tweet_id": "2082434879405601243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884785853194776576/U7JbZj26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20900,
+          "following_count": 4582,
+          "like_count": 137623,
+          "listed_count": 80,
+          "media_count": 13614,
+          "tweet_count": 31496
+        },
+        "url": "",
+        "username": "NikolaTesla2010",
+        "verified": true
+      }
+    ]
+  }
+}

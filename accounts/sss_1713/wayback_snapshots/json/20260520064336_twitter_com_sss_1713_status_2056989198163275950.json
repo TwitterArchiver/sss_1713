@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2056876554953646155",
+    "created_at": "2026-05-20T06:43:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T07:43:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056989198163275950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1709526237700575232",
+          "start": 0,
+          "username": "orange_xxyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056989198163275950",
+    "in_reply_to_user_id": "1709526237700575232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056876554953646155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orange_xxyy 这男的情绪太不稳定了，给老师整的幸福者退让了😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 429466,
+        "height": 960,
+        "media_key": "13_2056830711370493952",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056830711370493952/img/dWkih8dygTjwHnBA.jpg",
+        "public_metrics": {
+          "view_count": 132386
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056830711370493952/vid/avc1/320x564/QMkiLQzyuVP9sqnd.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056830711370493952/vid/avc1/480x846/fHHcV-l2W6vmSlLw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056830711370493952/vid/avc1/544x960/vR0nfznstJKp8ari.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056830711370493952/pl/liQG4hOP1g9iB65c.m3u8"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2056876554953646155",
+        "created_at": "2026-05-20T06:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T07:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056989198163275950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1709526237700575232",
+              "start": 0,
+              "username": "orange_xxyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056989198163275950",
+        "in_reply_to_user_id": "1709526237700575232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056876554953646155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange_xxyy 这男的情绪太不稳定了，给老师整的幸福者退让了😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056830711370493952"
+          ]
+        },
+        "author_id": "1709526237700575232",
+        "conversation_id": "2056876554953646155",
+        "created_at": "2026-05-19T23:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T00:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056876554953646155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tQDXXrxq2z",
+              "end": 151,
+              "expanded_url": "https://x.com/orange_xxyy/status/2056876554953646155/video/1",
+              "media_key": "13_2056830711370493952",
+              "start": 128,
+              "url": "https://t.co/tQDXXrxq2z"
+            },
+            {
+              "display_url": "x.com/orange_xxyy/st…",
+              "end": 175,
+              "expanded_url": "https://twitter.com/orange_xxyy/status/2056829598227386500",
+              "start": 152,
+              "url": "https://t.co/6tDnoZzns2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056876554953646155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "后续完整版来了😂\n\n这哥们儿上课迟到，只能坐前排。\n\n老师让他坐第一排，他拒绝；让他坐第二排，他还是不爽。\n\n老师只是随口提醒了一句“不要睡觉”，结果直接引爆：  冲出教室拿消防器材砸门、砸东西  \n回来质问老师“为什么要折他的面子”  \n怒吼“杀杀杀”  \n\n老师被迫道歉说“是我错，不该打扰你睡觉”后，他才稍微消气  \n\n老师心力交瘁宣布提前下课，他又折返回来指责老师“把矛盾转移到同学身上”  \n\n最后甩下一句“这就是所谓的集体、荣誉……”冷笑离开"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 630,
+          "impression_count": 541292,
+          "like_count": 1253,
+          "quote_count": 29,
+          "reply_count": 216,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056829598227386500",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后续完整版来了😂\n\n这哥们儿上课迟到，只能坐前排。\n\n老师让他坐第一排，他拒绝；让他坐第二排，他还是不爽。\n\n老师只是随口提醒了一句“不要睡觉”，结果直接引爆：  冲出教室拿消防器材砸门、砸东西  \n回来质问老师“为什么要折他的面子”  \n怒吼“杀杀杀” https://t.co/tQDXXrxq2z https://t.co/6tDnoZzns2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2056686933950996682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5804,
+          "following_count": 747,
+          "like_count": 47817,
+          "listed_count": 18,
+          "media_count": 963,
+          "tweet_count": 8384
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T11:10:00.000Z",
+        "description": "JasperVault BD  @jaspervault  |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "jaspervault"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "app.jaspervault.io/airdrops/Arbit…",
+                "end": 23,
+                "expanded_url": "https://app.jaspervault.io/airdrops/Arbitrum?referral_code=xywizy",
+                "start": 0,
+                "url": "https://t.co/DiEEcnKfU6"
+              }
+            ]
+          }
+        },
+        "id": "1709526237700575232",
+        "location": "JasperVault",
+        "name": "GGbond🐬TermMax",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020916422860472321/4rBXKNV5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7659,
+          "following_count": 4227,
+          "like_count": 19523,
+          "listed_count": 15,
+          "media_count": 388,
+          "tweet_count": 17552
+        },
+        "url": "https://t.co/DiEEcnKfU6",
+        "username": "orange_xxyy",
+        "verified": true
+      }
+    ]
+  }
+}

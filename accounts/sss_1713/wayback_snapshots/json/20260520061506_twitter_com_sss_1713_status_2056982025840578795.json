@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2056982025840578795",
+    "created_at": "2026-05-20T06:15:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T07:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056982025840578795"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056982025840578795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自从马斯克接手了推特之后，本来很便利的“第三方生态”（类似可以一键删除黑历史的tweet delete）都不能用了，还有些很有趣的小东西也慢慢消失了，更加商业化的同时，软件质量也没有相对上升，原来被封号的推友很少，基本都是主动选择退推，我也被冻结过几次，但最后提交个申请就好了，现在应该不行了🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2056982025840578795",
+        "created_at": "2026-05-20T06:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T07:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056982025840578795"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056982025840578795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自从马斯克接手了推特之后，本来很便利的“第三方生态”（类似可以一键删除黑历史的tweet delete）都不能用了，还有些很有趣的小东西也慢慢消失了，更加商业化的同时，软件质量也没有相对上升，原来被封号的推友很少，基本都是主动选择退推，我也被冻结过几次，但最后提交个申请就好了，现在应该不行了🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2056686933950996682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5804,
+          "following_count": 747,
+          "like_count": 47803,
+          "listed_count": 18,
+          "media_count": 963,
+          "tweet_count": 8382
+        },
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

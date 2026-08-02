@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2059517684308394238",
+    "created_at": "2026-05-27T06:11:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T07:11:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059517728541585569"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059517728541585569",
+    "in_reply_to_user_id": "1254605353838231553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059517721637703759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "三、但为什么一些女性会觉得不舒服？\n\n这里就进入核心矛盾了。\n\n很多女性的不适，不只是“讨厌跨性别者”，而是：\n\n她们觉得：\n\n“那些曾经压迫我的东西，被别人当成了女人本身。”\n\n比如：\n\n很多女性从小被教育：\n\n女孩不能粗鲁\n女孩要漂亮\n女孩腿毛恶心\n女孩要温柔\n女孩要瘦\n女孩要会化妆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2059517684308394238",
+        "created_at": "2026-05-27T06:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059517728541585569"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059517728541585569",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059517721637703759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "三、但为什么一些女性会觉得不舒服？\n\n这里就进入核心矛盾了。\n\n很多女性的不适，不只是“讨厌跨性别者”，而是：\n\n她们觉得：\n\n“那些曾经压迫我的东西，被别人当成了女人本身。”\n\n比如：\n\n很多女性从小被教育：\n\n女孩不能粗鲁\n女孩要漂亮\n女孩腿毛恶心\n女孩要温柔\n女孩要瘦\n女孩要会化妆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2059517684308394238",
+        "created_at": "2026-05-27T06:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059517721637703759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059517721637703759",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059517715006595472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为这些是社会里最容易被识别为“女人”的东西。\n\n本质上：\n\n她们是在学习“如何被社会看作女性”。\n\n这像什么？\n\n像一个外国人刚学中文时，会拼命使用最标准、最教科书化的表达。\n\n因为她害怕“不像”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5849,
+          "following_count": 752,
+          "like_count": 48355,
+          "listed_count": 18,
+          "media_count": 979,
+          "tweet_count": 8523
+        },
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2076688293190926836",
+    "created_at": "2026-07-13T15:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T16:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076688293190926836"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ayuki_believe/…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/ayuki_believe/status/2076507873786695850",
+          "start": 42,
+          "url": "https://t.co/u1C0I82q47"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076688293190926836",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076507873786695850",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "特别讨厌这种在公共场所脱鞋脱袜并且把脚踩在座位上的人，很不卫生，很恶心，很没教养。 https://t.co/u1C0I82q47"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076507866522079232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNE85x1aUAACJM2.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2076688293190926836",
+        "created_at": "2026-07-13T15:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076688293190926836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayuki_believe/…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/ayuki_believe/status/2076507873786695850",
+              "start": 42,
+              "url": "https://t.co/u1C0I82q47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076688293190926836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076507873786695850",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "特别讨厌这种在公共场所脱鞋脱袜并且把脚踩在座位上的人，很不卫生，很恶心，很没教养。 https://t.co/u1C0I82q47"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076507866522079232"
+          ]
+        },
+        "author_id": "1714571705694420992",
+        "conversation_id": "2076507873786695850",
+        "created_at": "2026-07-13T03:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T04:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076507873786695850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Iq1J3cfZuO",
+              "end": 35,
+              "expanded_url": "https://x.com/Ayuki_Believe/status/2076507873786695850/photo/1",
+              "media_key": "3_2076507866522079232",
+              "start": 12,
+              "url": "https://t.co/Iq1J3cfZuO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076507873786695850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1786,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是你们喜欢的滨寿司吗 https://t.co/Iq1J3cfZuO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5979,
+          "following_count": 795,
+          "like_count": 54648,
+          "listed_count": 18,
+          "media_count": 1085,
+          "tweet_count": 9484
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-18T09:19:08.000Z",
+        "description": "一个抽象可爱碎碎念高强度冲浪小女孩 喜欢分享自己的一切 （中文繁體English ok） 🫶爱人：@Takitsuki_Shoko| 🥰好妹妹： @Kisen0v0| 碎碎念小号 @Ayuki_Rotsuki 欢迎扩列",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "Takitsuki_Shoko"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "Kisen0v0"
+              },
+              {
+                "end": 104,
+                "start": 90,
+                "username": "Ayuki_Rotsuki"
+              }
+            ]
+          }
+        },
+        "id": "1714571705694420992",
+        "location": "美乐蒂家",
+        "name": "TekeliLi_iLilekeT（黑化贝利亚版",
+        "pinned_tweet_id": "2063149674266235268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054592931852701696/W1JmW_Gf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3844,
+          "following_count": 550,
+          "like_count": 10165,
+          "listed_count": 9,
+          "media_count": 1475,
+          "tweet_count": 4239
+        },
+        "url": "",
+        "username": "Ayuki_Believe",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056270510816628736"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2056270522254582056",
+    "created_at": "2026-05-18T07:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T08:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056270522254582056"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9M4ag6T40N",
+          "end": 38,
+          "expanded_url": "https://x.com/sss_1713/status/2056270522254582056/photo/1",
+          "media_key": "3_2056270510816628736",
+          "start": 15,
+          "url": "https://t.co/9M4ag6T40N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056270522254582056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "朋友问我每天都在玩什么游戏… https://t.co/9M4ag6T40N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 471,
+        "media_key": "3_2056270510816628736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlXIo9WEAAoO4L.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056270510816628736"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056270522254582056",
+        "created_at": "2026-05-18T07:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056270522254582056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9M4ag6T40N",
+              "end": 38,
+              "expanded_url": "https://x.com/sss_1713/status/2056270522254582056/photo/1",
+              "media_key": "3_2056270510816628736",
+              "start": 15,
+              "url": "https://t.co/9M4ag6T40N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056270522254582056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友问我每天都在玩什么游戏… https://t.co/9M4ag6T40N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5800,
+          "following_count": 752,
+          "like_count": 47605,
+          "listed_count": 18,
+          "media_count": 955,
+          "tweet_count": 8321
+        },
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

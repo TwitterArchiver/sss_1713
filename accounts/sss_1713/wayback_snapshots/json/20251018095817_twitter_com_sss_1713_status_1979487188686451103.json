@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1977702253201850611",
+    "created_at": "2025-10-18T09:58:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T10:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979487188686451103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1770793119094542336",
+          "start": 0,
+          "username": "cli493310316"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979487188686451103",
+    "in_reply_to_user_id": "1770793119094542336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979205550786412751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cli493310316 就是取一个圣人的名字，洗礼和坚振的时候取的，一种希望的意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1977702253201850611",
+        "created_at": "2025-10-18T09:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T10:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979487188686451103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1770793119094542336",
+              "start": 0,
+              "username": "cli493310316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979487188686451103",
+        "in_reply_to_user_id": "1770793119094542336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979205550786412751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cli493310316 就是取一个圣人的名字，洗礼和坚振的时候取的，一种希望的意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1770793119094542336",
+        "conversation_id": "1977702253201850611",
+        "created_at": "2025-10-17T15:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T16:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979205550786412751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979205550786412751",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977702253201850611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 請問一下聖名是什麼？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5818,
+          "following_count": 980,
+          "like_count": 45966,
+          "listed_count": 17,
+          "media_count": 926,
+          "tweet_count": 7804
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-21T12:43:54.000Z",
+        "description": "民主社會主義、生態社會主義、棄成長共產主義者暨無神論者。\n副帳號：@cli152789",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "cli152789"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cli49331_0316?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cli49331_0316?igsh=N3VqazJiYzdmYXZw",
+                "start": 0,
+                "url": "https://t.co/8tMwcIxkkd"
+              }
+            ]
+          }
+        },
+        "id": "1770793119094542336",
+        "location": "Taiwan",
+        "name": "Lee Seung Chul",
+        "pinned_tweet_id": "1776638773276954757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936649346386366464/XtQ1uq5K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 26,
+          "like_count": 727,
+          "listed_count": 2,
+          "media_count": 271,
+          "tweet_count": 2917
+        },
+        "url": "https://t.co/8tMwcIxkkd",
+        "username": "cli493310316",
+        "verified": false
+      }
+    ]
+  }
+}

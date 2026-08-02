@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2075161166356303888",
+    "created_at": "2026-07-09T12:21:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T13:21:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075193717086945504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1566739868688199680",
+          "start": 0,
+          "username": "wabnp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075193717086945504",
+    "in_reply_to_user_id": "1566739868688199680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075161166356303888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wabnp 和红小兵刚交流了很多。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2075161166356303888",
+        "created_at": "2026-07-09T12:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075193717086945504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1566739868688199680",
+              "start": 0,
+              "username": "wabnp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075193717086945504",
+        "in_reply_to_user_id": "1566739868688199680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075161166356303888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wabnp 和红小兵刚交流了很多。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1566739868688199680",
+        "conversation_id": "2075161166356303888",
+        "created_at": "2026-07-09T10:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075161166356303888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wgddking/statu…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/wgddking/status/2075043954643611652",
+              "start": 15,
+              "url": "https://t.co/7jm9vQiwnC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075161166356303888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075043954643611652",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "永不生锈是因为润滑油用很多吗 https://t.co/7jm9vQiwnC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5943,
+          "following_count": 790,
+          "like_count": 54230,
+          "listed_count": 18,
+          "media_count": 1074,
+          "tweet_count": 9403
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-05T10:47:56.000Z",
+        "description": "我想写什么写什么",
+        "id": "1566739868688199680",
+        "location": "横幅2023.11",
+        "name": "醬燒魚乾",
+        "pinned_tweet_id": "1935293435520630965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072040900591816704/hT4oIZPt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2434,
+          "following_count": 918,
+          "like_count": 262323,
+          "listed_count": 5,
+          "media_count": 669,
+          "tweet_count": 17091
+        },
+        "url": "",
+        "username": "wabnp",
+        "verified": true
+      }
+    ]
+  }
+}

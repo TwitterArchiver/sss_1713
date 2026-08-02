@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2064607999071596746",
+    "created_at": "2026-06-11T01:13:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T02:13:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064878759707283769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1788183381080961024",
+          "start": 0,
+          "username": "MelaniaFrance"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064878759707283769",
+    "in_reply_to_user_id": "1788183381080961024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064607999071596746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MelaniaFrance 😭好伟大。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2064260751133466624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKW6N1sXYAAVZw5.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2064607999071596746",
+        "created_at": "2026-06-11T01:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T02:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064878759707283769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1788183381080961024",
+              "start": 0,
+              "username": "MelaniaFrance"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064878759707283769",
+        "in_reply_to_user_id": "1788183381080961024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064607999071596746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MelaniaFrance 😭好伟大。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064260751133466624"
+          ]
+        },
+        "author_id": "1788183381080961024",
+        "conversation_id": "2064607999071596746",
+        "created_at": "2026-06-10T07:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064607999071596746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qonxe0HPfV",
+              "end": 70,
+              "expanded_url": "https://x.com/MelaniaFrance/status/2064607999071596746/photo/1",
+              "media_key": "3_2064260751133466624",
+              "start": 47,
+              "url": "https://t.co/Qonxe0HPfV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064607999071596746",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 94700,
+          "like_count": 8697,
+          "quote_count": 7,
+          "reply_count": 119,
+          "retweet_count": 395
+        },
+        "reply_settings": "everyone",
+        "text": "Que Dieu bénisse les chirurgiens ! 🧑🏻‍⚕️🙌🏻🙏🏻❤️ https://t.co/Qonxe0HPfV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5884,
+          "following_count": 759,
+          "like_count": 50283,
+          "listed_count": 18,
+          "media_count": 1006,
+          "tweet_count": 8857
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T12:25:38.000Z",
+        "description": "Journaliste @TiredEarth_FR 🪶\n\nDéfenseure des animaux | Contre chasse, élevage intensif, maltraitance, labos, cirques, corrida, zoos & trafic | justice éthique✊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "TiredEarth_FR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiredearth.com",
+                "end": 23,
+                "expanded_url": "http://tiredearth.com",
+                "start": 0,
+                "url": "https://t.co/Z9bvuQWWO8"
+              }
+            ]
+          }
+        },
+        "id": "1788183381080961024",
+        "location": "France",
+        "name": "Mélania",
+        "pinned_tweet_id": "1953835089168937073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788461432582918144/1a-JHDDw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13078,
+          "following_count": 3512,
+          "like_count": 5258,
+          "listed_count": 33,
+          "media_count": 1548,
+          "tweet_count": 2649
+        },
+        "url": "https://t.co/Z9bvuQWWO8",
+        "username": "MelaniaFrance",
+        "verified": true
+      }
+    ]
+  }
+}

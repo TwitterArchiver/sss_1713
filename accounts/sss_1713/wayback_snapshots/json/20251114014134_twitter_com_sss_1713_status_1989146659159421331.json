@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1989146659159421331",
+    "created_at": "2025-11-14T01:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T02:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989146659159421331"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pddlq/status/1…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/pddlq/status/1988639043899343106",
+          "start": 67,
+          "url": "https://t.co/7tNRFpb6jO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989146659159421331",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988639043899343106",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "x再给我推这种傻逼老中视频就似了码了，不是大外宣傻逼五毛发就是中年反贼发，有点自我意识好不好，“哇哇哇是视频和大字体，看来是真的了” https://t.co/7tNRFpb6jO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 49722,
+        "height": 1152,
+        "media_key": "13_1988638956687081472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1988638956687081472/img/kjVmUUDuXHlMEMS8.jpg",
+        "public_metrics": {
+          "view_count": 706500
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988638956687081472/vid/avc1/320x512/ydV5utj8y9EatCwj.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988638956687081472/vid/avc1/480x768/hJA4_kXiy1tHXVIh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988638956687081472/vid/avc1/720x1152/8VXfFViPdOpYdPrn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1988638956687081472/pl/JLlkuK3RHDFjd4GX.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1989146659159421331",
+        "created_at": "2025-11-14T01:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T02:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989146659159421331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pddlq/status/1…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/pddlq/status/1988639043899343106",
+              "start": 67,
+              "url": "https://t.co/7tNRFpb6jO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989146659159421331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988639043899343106",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "x再给我推这种傻逼老中视频就似了码了，不是大外宣傻逼五毛发就是中年反贼发，有点自我意识好不好，“哇哇哇是视频和大字体，看来是真的了” https://t.co/7tNRFpb6jO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1988638956687081472"
+          ]
+        },
+        "author_id": "1946293931744083969",
+        "conversation_id": "1988639043899343106",
+        "created_at": "2025-11-12T16:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T17:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988639043899343106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VGwT2h47g8",
+              "end": 43,
+              "expanded_url": "https://x.com/PDDLQ/status/1988639043899343106/video/1",
+              "media_key": "13_1988638956687081472",
+              "start": 20,
+              "url": "https://t.co/VGwT2h47g8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988639043899343106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 738,
+          "impression_count": 1116723,
+          "like_count": 1419,
+          "quote_count": 21,
+          "reply_count": 97,
+          "retweet_count": 372
+        },
+        "reply_settings": "everyone",
+        "text": "这么说，中国足球队是不是吃了假海参🤣! https://t.co/VGwT2h47g8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5829,
+          "following_count": 985,
+          "like_count": 45691,
+          "listed_count": 17,
+          "media_count": 925,
+          "tweet_count": 7834
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T19:40:30.000Z",
+        "description": "平等的利器，自由的保障，暴君的噩梦！",
+        "id": "1946293931744083969",
+        "location": "加利福尼亚",
+        "name": "平等的利器",
+        "pinned_tweet_id": "1988855616786317697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951111199476617216/vEaykONG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8889,
+          "following_count": 2525,
+          "like_count": 9726,
+          "listed_count": 36,
+          "media_count": 1121,
+          "tweet_count": 3495
+        },
+        "username": "PDDLQ",
+        "verified": false
+      }
+    ]
+  }
+}

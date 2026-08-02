@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Pope Francis",
+          "id": "806597775282421760",
+          "name": "Pope Francis"
+        }
+      }
+    ],
+    "conversation_id": "2000802681766731951",
+    "created_at": "2025-12-16T05:38:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T06:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000802681766731951"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 21,
+          "tag": "PrayTogether"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1922567634907791360",
+          "start": 3,
+          "username": "Pontifex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000802681766731951",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2915
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000536322235396539",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pontifex: Let us #PrayTogether for all those who suffer due to war and violence. Today I particularly wish to entrust to the Lord the v…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Pope Francis",
+              "id": "806597775282421760",
+              "name": "Pope Francis"
+            }
+          }
+        ],
+        "conversation_id": "2000802681766731951",
+        "created_at": "2025-12-16T05:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T06:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000802681766731951"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 21,
+              "tag": "PrayTogether"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1922567634907791360",
+              "start": 3,
+              "username": "Pontifex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000802681766731951",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2915
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000536322235396539",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pontifex: Let us #PrayTogether for all those who suffer due to war and violence. Today I particularly wish to entrust to the Lord the v…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922567634907791360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+              "id": "847543836330958848",
+              "name": "Global security & terrorism"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Sydney",
+              "id": "855109903752454145",
+              "name": "Sydney"
+            }
+          }
+        ],
+        "conversation_id": "2000536322235396539",
+        "created_at": "2025-12-15T12:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T13:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000536322235396539"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 189,
+              "normalized_text": "Sydney",
+              "probability": 0.9813,
+              "start": 184,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 7,
+              "tag": "PrayTogether"
+            },
+            {
+              "end": 190,
+              "start": 183,
+              "tag": "Sydney"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000536322235396539",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 7,
+                "tag": "PrayTogether"
+              },
+              {
+                "end": 190,
+                "start": 183,
+                "tag": "Sydney"
+              }
+            ]
+          },
+          "text": "Let us #PrayTogether for all those who suffer due to war and violence. Today I particularly wish to entrust to the Lord the victims of the terrorist massacre carried out yesterday in #Sydney against the Jewish community. Enough with this antisemitic violence! Let us eliminate hatred from our hearts."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 284,
+          "impression_count": 544762,
+          "like_count": 26666,
+          "quote_count": 110,
+          "reply_count": 608,
+          "retweet_count": 2915
+        },
+        "reply_settings": "everyone",
+        "text": "Let us #PrayTogether for all those who suffer due to war and violence. Today I particularly wish to entrust to the Lord the victims of the terrorist massacre carried out yesterday in #Sydney against the Jewish community. Enough with this antisemitic violence! Let us eliminate"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5775,
+          "following_count": 999,
+          "like_count": 45990,
+          "listed_count": 17,
+          "media_count": 931,
+          "tweet_count": 8006
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T08:21:32.000Z",
+        "description": "Welcome to the official account of His Holiness, Pope Leo XIV.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vatican.va/content/leo-xi…",
+                "end": 23,
+                "expanded_url": "https://www.vatican.va/content/leo-xiv/en.html",
+                "start": 0,
+                "url": "https://t.co/b4w8ATgvVU"
+              }
+            ]
+          }
+        },
+        "id": "1922567634907791360",
+        "location": "Vatican City",
+        "name": "Pope Leo XIV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922601341576216576/JA1DF-Tv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17769917,
+          "following_count": 47,
+          "like_count": 0,
+          "listed_count": 1175,
+          "media_count": 11,
+          "tweet_count": 421
+        },
+        "url": "https://t.co/b4w8ATgvVU",
+        "username": "Pontifex",
+        "verified": true
+      }
+    ]
+  }
+}

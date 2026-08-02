@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2056319742814679099",
+    "created_at": "2026-05-18T12:14:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T13:14:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056347698224132102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1950548412140494848",
+          "start": 0,
+          "username": "realQinYuele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056347698224132102",
+    "in_reply_to_user_id": "1950548412140494848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056319742814679099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realQinYuele 把一群未成年学生的照片放上来何意味，在学校里本身就被校规束缚，还要被硬拉进成年人的外貌评价体系……好刻薄。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 932,
+        "media_key": "3_2056319598631288832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImDx7UXgAALb45.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2056319742814679099",
+        "created_at": "2026-05-18T12:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056347698224132102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1950548412140494848",
+              "start": 0,
+              "username": "realQinYuele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056347698224132102",
+        "in_reply_to_user_id": "1950548412140494848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056319742814679099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realQinYuele 把一群未成年学生的照片放上来何意味，在学校里本身就被校规束缚，还要被硬拉进成年人的外貌评价体系……好刻薄。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056319598631288832"
+          ]
+        },
+        "author_id": "1950548412140494848",
+        "conversation_id": "2056319742814679099",
+        "created_at": "2026-05-18T10:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T11:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056319742814679099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vsuR281Lhd",
+              "end": 31,
+              "expanded_url": "https://x.com/realQinYuele/status/2056319742814679099/photo/1",
+              "media_key": "3_2056319598631288832",
+              "start": 8,
+              "url": "https://t.co/vsuR281Lhd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056319742814679099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1544,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "汉族普遍长相： https://t.co/vsuR281Lhd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5800,
+          "following_count": 750,
+          "like_count": 47637,
+          "listed_count": 18,
+          "media_count": 956,
+          "tweet_count": 8333
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T13:26:23.000Z",
+        "description": "Senior correspondent at Langxin News focusing on East Asian socio-political dynamics, digital civil rights, and emerging internet subcultures.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwen1",
+                "end": 23,
+                "expanded_url": "https://t.me/langrenxinwen1",
+                "start": 0,
+                "url": "https://t.co/CFxkcvTlO6"
+              }
+            ]
+          }
+        },
+        "id": "1950548412140494848",
+        "location": "Prague, Czech Republic",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000796873461043200/CC2Fl9ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26689,
+          "following_count": 350,
+          "like_count": 2065,
+          "listed_count": 71,
+          "media_count": 1711,
+          "tweet_count": 2167
+        },
+        "url": "https://t.co/CFxkcvTlO6",
+        "username": "realQinYuele",
+        "verified": false
+      }
+    ]
+  }
+}

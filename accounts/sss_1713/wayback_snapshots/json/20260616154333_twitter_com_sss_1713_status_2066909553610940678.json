@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066909542777012224"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2066889736770462057",
+    "created_at": "2026-06-16T15:43:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T16:43:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066909553610940678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1926589725189476352",
+          "start": 0,
+          "username": "sandyyyy0922"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uTweAzXroW",
+          "end": 46,
+          "expanded_url": "https://x.com/sss_1713/status/2066909553610940678/photo/1",
+          "media_key": "3_2066909542777012224",
+          "start": 23,
+          "url": "https://t.co/uTweAzXroW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066909553610940678",
+    "in_reply_to_user_id": "1926589725189476352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066889736770462057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sandyyyy0922 我的私信好难看😭 https://t.co/uTweAzXroW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2066909542777012224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8jRzgWwAAeR7x.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066909542777012224"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2066889736770462057",
+        "created_at": "2026-06-16T15:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066909553610940678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1926589725189476352",
+              "start": 0,
+              "username": "sandyyyy0922"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uTweAzXroW",
+              "end": 46,
+              "expanded_url": "https://x.com/sss_1713/status/2066909553610940678/photo/1",
+              "media_key": "3_2066909542777012224",
+              "start": 23,
+              "url": "https://t.co/uTweAzXroW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066909553610940678",
+        "in_reply_to_user_id": "1926589725189476352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066889736770462057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sandyyyy0922 我的私信好难看😭 https://t.co/uTweAzXroW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926589725189476352",
+        "conversation_id": "2066889736770462057",
+        "created_at": "2026-06-16T14:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T15:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066889736770462057"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066889736770462057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 347,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我连人机私信都收不到了。我的私信闹鬼了。无人问津。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5895,
+          "following_count": 763,
+          "like_count": 51357,
+          "listed_count": 18,
+          "media_count": 1033,
+          "tweet_count": 9036
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T10:42:55.000Z",
+        "description": "碎碎念+照片随机掉落+恋爱碎片｜叫我M豆或者豆就好｜Bisexual｜infp｜有老公/哥哥/宝宝（同一个人）｜另一个豆@woxihuandaMdou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 60,
+                "username": "woxihuandaMdou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "brothergo.com//lcel46/web?t=…",
+                "end": 23,
+                "expanded_url": "https://www.brothergo.com//lcel46/web?t=1780027673",
+                "start": 0,
+                "url": "https://t.co/9CCewqfogR"
+              }
+            ]
+          }
+        },
+        "id": "1926589725189476352",
+        "location": "M豆星",
+        "name": "黄色大M🫘",
+        "pinned_tweet_id": "2058565041256063190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926595280301875202/aWTzMjuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1826,
+          "following_count": 386,
+          "like_count": 3559,
+          "listed_count": 1,
+          "media_count": 342,
+          "tweet_count": 3308
+        },
+        "url": "https://t.co/9CCewqfogR",
+        "username": "sandyyyy0922",
+        "verified": true
+      }
+    ]
+  }
+}

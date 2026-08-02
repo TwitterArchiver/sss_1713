@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074289146810564608"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2074165623349985637",
+    "created_at": "2026-07-07T00:27:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T01:27:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074289157514445190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1647229461769891842",
+          "start": 0,
+          "username": "DrilL019"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vJIBJMmZO3",
+          "end": 36,
+          "expanded_url": "https://x.com/sss_1713/status/2074289157514445190/photo/1",
+          "media_key": "3_2074289146810564608",
+          "start": 13,
+          "url": "https://t.co/vJIBJMmZO3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074289157514445190",
+    "in_reply_to_user_id": "1647229461769891842",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074165623349985637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@DrilL019 +1 https://t.co/vJIBJMmZO3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2074289146810564608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMla_S0XgAA4IL5.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074165614328119296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjqowdbgAA4Lrb.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074165614332248064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjqoweagAAdmsk.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074165614332329985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjqowebwAEbaE7.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074289146810564608"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2074165623349985637",
+        "created_at": "2026-07-07T00:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T01:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074289157514445190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1647229461769891842",
+              "start": 0,
+              "username": "DrilL019"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vJIBJMmZO3",
+              "end": 36,
+              "expanded_url": "https://x.com/sss_1713/status/2074289157514445190/photo/1",
+              "media_key": "3_2074289146810564608",
+              "start": 13,
+              "url": "https://t.co/vJIBJMmZO3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074289157514445190",
+        "in_reply_to_user_id": "1647229461769891842",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074165623349985637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@DrilL019 +1 https://t.co/vJIBJMmZO3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074165614328119296",
+            "3_2074165614332248064",
+            "3_2074165614332329985"
+          ]
+        },
+        "author_id": "1647229461769891842",
+        "conversation_id": "2074165623349985637",
+        "created_at": "2026-07-06T16:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074165623349985637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IvSDqWydSo",
+              "end": 140,
+              "expanded_url": "https://x.com/DrilL019/status/2074165623349985637/photo/1",
+              "media_key": "3_2074165614328119296",
+              "start": 117,
+              "url": "https://t.co/IvSDqWydSo"
+            },
+            {
+              "display_url": "pic.x.com/IvSDqWydSo",
+              "end": 140,
+              "expanded_url": "https://x.com/DrilL019/status/2074165623349985637/photo/1",
+              "media_key": "3_2074165614332248064",
+              "start": 117,
+              "url": "https://t.co/IvSDqWydSo"
+            },
+            {
+              "display_url": "pic.x.com/IvSDqWydSo",
+              "end": 140,
+              "expanded_url": "https://x.com/DrilL019/status/2074165623349985637/photo/1",
+              "media_key": "3_2074165614332329985",
+              "start": 117,
+              "url": "https://t.co/IvSDqWydSo"
+            },
+            {
+              "display_url": "x.com/neko0202002/st…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/neko0202002/status/2074118670541021485",
+              "start": 141,
+              "url": "https://t.co/V4G4MPpVhr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074165623349985637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3751,
+          "like_count": 41,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074118670541021485",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "突发：约从昨夜起，大量账号收到了来自不同受认证新账号的premium+礼物赠送，我的朋友shellwen亦受影响。\n\n目前尚不明确此事件的后续影响。这不一定是好事，各位同仁请务必保持安全意识，不论如何保护好自己的账号财产和信息安全。 https://t.co/IvSDqWydSo https://t.co/V4G4MPpVhr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5942,
+          "following_count": 794,
+          "like_count": 53836,
+          "listed_count": 18,
+          "media_count": 1065,
+          "tweet_count": 9335
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-15T13:25:23.000Z",
+        "description": "小号@Noakatsuki1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "Noakatsuki1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/drill019",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/drill019",
+                "start": 0,
+                "url": "https://t.co/2G0EsDCv8q"
+              }
+            ]
+          }
+        },
+        "id": "1647229461769891842",
+        "location": "请给我钱🥺⬇️",
+        "name": "DrilL019",
+        "pinned_tweet_id": "2073444820048392561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011804418208063488/uOZ4kFzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 1287,
+          "like_count": 20416,
+          "listed_count": 1,
+          "media_count": 940,
+          "tweet_count": 6477
+        },
+        "url": "https://t.co/2G0EsDCv8q",
+        "username": "DrilL019",
+        "verified": true
+      }
+    ]
+  }
+}

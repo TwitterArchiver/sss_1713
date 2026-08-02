@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2069793611836014668",
+    "created_at": "2026-06-24T14:43:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T15:43:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069793611836014668"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/alamida001/sta…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/alamida001/status/2069624250210910505",
+          "start": 21,
+          "url": "https://t.co/KtiwRDjex1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069793611836014668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069624250210910505",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只要天安门上的头像不换，我们就还是一代人 https://t.co/KtiwRDjex1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 335,
+        "media_key": "3_2069624239272198144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjIR8BbgAAOQk0.png",
+        "width": 353
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2069793611836014668",
+        "created_at": "2026-06-24T14:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T15:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069793611836014668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alamida001/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/alamida001/status/2069624250210910505",
+              "start": 21,
+              "url": "https://t.co/KtiwRDjex1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069793611836014668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069624250210910505",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只要天安门上的头像不换，我们就还是一代人 https://t.co/KtiwRDjex1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069624239272198144"
+          ]
+        },
+        "author_id": "2027354397983076352",
+        "conversation_id": "2069624250210910505",
+        "created_at": "2026-06-24T03:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T04:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069624250210910505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e8IQnOGej0",
+              "end": 32,
+              "expanded_url": "https://x.com/Alamida001/status/2069624250210910505/photo/1",
+              "media_key": "3_2069624239272198144",
+              "start": 9,
+              "url": "https://t.co/e8IQnOGej0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069624250210910505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 895,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "汉族，作揖，，， https://t.co/e8IQnOGej0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5908,
+          "following_count": 774,
+          "like_count": 52306,
+          "listed_count": 18,
+          "media_count": 1043,
+          "tweet_count": 9172
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T12:05:41.000Z",
+        "description": "he/him | bisexual | 176/62 | 纯1正太控 | \n爱好是cos小男孩和上班刷推说批话 |\n眼熟的会回fo，直fo的都是好人喵 | 里推@A1am1daOOI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 80,
+                "username": "A1am1daOOI"
+              }
+            ]
+          }
+        },
+        "id": "2027354397983076352",
+        "name": "不完全果皮🌈（已有闺le厌男沈星回梦女）",
+        "pinned_tweet_id": "2054753609901027491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988291571474432/lv_XdAWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1408,
+          "following_count": 319,
+          "like_count": 2589,
+          "listed_count": 2,
+          "media_count": 194,
+          "tweet_count": 3022
+        },
+        "url": "",
+        "username": "Alamida001",
+        "verified": false
+      }
+    ]
+  }
+}

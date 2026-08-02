@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036791448037924864"
+      ],
+      "media_source_tweet_id": [
+        "2036792501487518185"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2036973924073038127",
+    "created_at": "2026-03-26T01:10:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T02:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036973924073038127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "919005797018988545",
+          "start": 3,
+          "username": "chinatransition"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pTYjaK5TYY",
+          "end": 121,
+          "expanded_url": "https://x.com/chinatransition/status/2036792501487518185/photo/1",
+          "media_key": "3_2036791448037924864",
+          "start": 98,
+          "url": "https://t.co/pTYjaK5TYY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036973924073038127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 90
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036792501487518185",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chinatransition: 1949年12月，康奈尔大学经济学博士董时进向毛泽东和中共高官致公开信，并抄送至其他各党派领导人。董时进在信中强烈反对把中国社会说成是“封建地主制”：… https://t.co/pTYjaK5TYY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2888,
+        "media_key": "3_2036791448037924864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEQjB9XaoAA6BKP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036791448037924864"
+          ],
+          "media_source_tweet_id": [
+            "2036792501487518185"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2036973924073038127",
+        "created_at": "2026-03-26T01:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T02:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036973924073038127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "919005797018988545",
+              "start": 3,
+              "username": "chinatransition"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pTYjaK5TYY",
+              "end": 121,
+              "expanded_url": "https://x.com/chinatransition/status/2036792501487518185/photo/1",
+              "media_key": "3_2036791448037924864",
+              "start": 98,
+              "url": "https://t.co/pTYjaK5TYY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036973924073038127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 90
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036792501487518185",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chinatransition: 1949年12月，康奈尔大学经济学博士董时进向毛泽东和中共高官致公开信，并抄送至其他各党派领导人。董时进在信中强烈反对把中国社会说成是“封建地主制”：… https://t.co/pTYjaK5TYY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036791448037924864"
+          ]
+        },
+        "author_id": "919005797018988545",
+        "conversation_id": "2036792501487518185",
+        "created_at": "2026-03-25T13:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T14:06:15.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036791773092036830",
+          "2036792501487518185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pTYjaK5TYY",
+              "end": 99,
+              "expanded_url": "https://x.com/chinatransition/status/2036792501487518185/photo/1",
+              "media_key": "3_2036791448037924864",
+              "start": 76,
+              "url": "https://t.co/pTYjaK5TYY"
+            },
+            {
+              "display_url": "x.com/chinatransitio…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/chinatransition/status/2036601291837710654",
+              "start": 100,
+              "url": "https://t.co/xOyzIgfvhm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036792501487518185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "chinademocrats.org/?p=4584",
+                "end": 1873,
+                "expanded_url": "https://chinademocrats.org/?p=4584",
+                "start": 1850,
+                "url": "https://t.co/D8I93mq6QZ"
+              },
+              {
+                "display_url": "chinademocrats.org/?p=6153",
+                "end": 1931,
+                "expanded_url": "https://chinademocrats.org/?p=6153",
+                "start": 1908,
+                "url": "https://t.co/JdOz38287N"
+              }
+            ]
+          },
+          "text": "1949年12月，康奈尔大学经济学博士董时进向毛泽东和中共高官致公开信，并抄送至其他各党派领导人。董时进在信中强烈反对把中国社会说成是“封建地主制”：\n\n“中国的土地制度是一个可以自由买卖及出租的私有制度，这些条件并不足以构成封建性。因为在有财产制度之下，一切物品都是可以自由买卖及出租的，譬如房屋车辆船机器牛马等，无一不是如此。对于这些物品既不认为是封建性，何以独认为土地是封建性呢？……在以前帝俄和许多欧洲的国家，土地大多为贵族所有，而且不能自由分割买卖，乃是由那些贵族大地主，像一个一个的小国家一样，将它一代一代的传袭下去。地上面的农民也没有迁徙或退佃的自由，而必须世世代代在同一地主采邑之下奴役，除非随同土地被出卖给另一个贵族。那样的土地制度和地主，才可以说是封建性的。中国的情形迥乎不同，土地是可以自由分割及自由买卖的，租佃是自由的契约行为，地主也不是世袭的贵族，而是可以由任何平民阶级及任何贫苦人户出身的。这样的土地制度和地主是封建性的，实在太与事实不相符合。”\n\n董时进还进一步实事求是地分析道：“地主富农之所以成为地主富农，除少数特殊情形而外，大多是因为他们的能力较强，工作较勤，花费较省。虽有不少是由于其祖若父的积蓄，然而自身由贫农起家者亦很多。即使是由于其祖若父的积蓄，亦必须其自身健全，否则必然衰败。这即是说，地主富农多半是社会上的优秀分子，是促社会进步的动力，是国家所应保护和奖励的。但这决不是说，贫农都是低劣的分子，因为在战祸绵亘，百业不振的情况之下，多数人都没有改善他们的境遇的机会。但是，无论哪一个贫农都没有不愿意成为地主或富农的，若说他们之所以没有成为地主或富农，乃是因为他们的道德特别高尚，不愿意剥削他人，则决不足信。国家当然应该帮助这些贫农去改善他们的境遇，但帮助他们的正当办法，是在和平恢复之后，努力发展生产建设，多创造就业的机会，使大家都有工作，能够赚到丰富的进款，而不是分给很少几亩土地，把他们羁縻在小块的土地上面，使他们继续留在农人已嫌太多的农村里面讨生活。他们耕种那样小的一块土地，终年劳苦的结果除去了粮税及各项开支以后，根本还是不够维持最低的生活。”\n\n在其上书的最后，董时进以揶揄的口气写道：“新民主主义不是还要更进一步转变为社会主义么？耕者有其田的制度不是还要转进到土地社会化和农业集体化么？那末，何必多此分地一举呢？现在像割肉似的将土地从地主和富农身上割下来，已经使他们很庝了，割下来分给贫民之后，不久又要从他们和大家身上再割下来，那恐怕困难更多了。何如现时不必分，待将来真要实行社会主义时，直接把土地连同他种生产工具一齐社会化呢？”对此，董时进在另一文中做了如下的鞭辟入里的阐释：\n\n“共产党的真正目的，并非是要耕者有其田。这不过是他们一时应用的一种策略，是在革命过渡时期用来拉拢一部分的贫民和流氓地痞的手段。他们的真实意向是要将一切土地社会化，这即是收归国有。将来一切人都不准有土地，一切土地都归共产党的政府，使那个政府变成独占全国土地的大地主。这并不是什么秘密的计划，而是早已在他们的许多书刊上公开宣布了的。他们用来暂时安慰人心的话是说，这是要待将来才实行。至于好远的将来，他们并没有说，也是不肯说的。实际是十年八年也不知，一年两年也可能，总之要看他们的所谓‘客观环境’是如何而定。假使明年他们认为阻力已经消除，准备已经搞好，他们明年就可以实行。一旦田地社会化了，什么人也没有田地。这与耕者有其田的口号恰恰相反。……换句话说。在共产制度下，农人都会成为奴隶，也等于当了耕牛，甚至于还有不如耕牛的地方，因为耕牛只须在乡下耕田，不必去前线打仗，但是农人却要去替共产党打仗。共产党对农人说：‘我们分了田地给你们，你们还不去帮我们打仗么’？于是他们把农人都拉去参军了。结果农人打死的打死，残废的残废，最后田地仍然要交还政府。共产党好比一个渔夫，他利用田地作为钓鱼的蚯蚓，农人当了鱼，鱼上了钓，蚯蚓仍旧是渔夫的。”\n\n------\n\n董时进在第一时间察觉到形势不对，就于1950年逃难到美国，完美避开了中共建政后前三十年内乱，终得以颐养天年。而其同辈学人，凡滞留中国大陆的，鲜有不受动乱祸及，或自尽、或死于动乱、或饱受非人折磨。\n\n中共是怎么削足适履把所谓“封建地主”伪造成阶级敌人的？为什么宋永毅认为土改神话塑造的阶级敌人根本不存在？\n\n感兴趣的读者，请参阅宋永毅在《中国民主季刊》发表的《颠覆土改的革命神话：现代中国真有一个地主阶级吗？》全文：\nhttps://t.co/D8I93mq6QZ\n\n欢迎读者下载最新一期《中国民主季刊》（2026年第1期）电子版：\nhttps://t.co/JdOz38287N"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 224,
+          "impression_count": 52820,
+          "like_count": 332,
+          "quote_count": 6,
+          "reply_count": 25,
+          "retweet_count": 90
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036601291837710654",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1949年12月，康奈尔大学经济学博士董时进向毛泽东和中共高官致公开信，并抄送至其他各党派领导人。董时进在信中强烈反对把中国社会说成是“封建地主制”： https://t.co/pTYjaK5TYY https://t.co/xOyzIgfvhm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5817,
+          "following_count": 1022,
+          "like_count": 46777,
+          "listed_count": 18,
+          "media_count": 938,
+          "tweet_count": 8110
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-14T01:03:51.000Z",
+        "description": "一个为未来做准备的智库/主办《中国民主季刊》\n\nICDT: Institute for China's Democratic Transition,a think tank preparing for the future/Flagship publication: China Journal of Democracy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chinademocrats.org",
+                "end": 23,
+                "expanded_url": "https://chinademocrats.org/",
+                "start": 0,
+                "url": "https://t.co/YpF5lToJVW"
+              }
+            ]
+          }
+        },
+        "id": "919005797018988545",
+        "location": "美国新泽西/New Jersey, USA",
+        "name": "中国民主转型研究所(ICDT)",
+        "pinned_tweet_id": "2020231400163541428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021953937088143360/TyyfnS52_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16700,
+          "following_count": 1314,
+          "like_count": 674,
+          "listed_count": 105,
+          "media_count": 954,
+          "tweet_count": 2891
+        },
+        "url": "https://t.co/YpF5lToJVW",
+        "username": "chinatransition",
+        "verified": true
+      }
+    ]
+  }
+}

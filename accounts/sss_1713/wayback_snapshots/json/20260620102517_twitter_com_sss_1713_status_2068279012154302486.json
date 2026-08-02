@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2068279012154302486",
+    "created_at": "2026-06-20T10:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T11:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068279012154302486"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/selahalph/stat…",
+          "end": 125,
+          "expanded_url": "https://twitter.com/selahalph/status/2068118409712382014",
+          "start": 102,
+          "url": "https://t.co/lGeThPpHwU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068279012154302486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068118409712382014",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "教会要像医院一样，去包扎人的伤口，而不是急着去审判。\n\n“不应对一个自我了结生命者的永远获救失望。天主能够运用唯有祂知道的方法，给他们安排忏悔得救的机会。教会为自杀者祈祷。”——《天主教教理》2283条 https://t.co/lGeThPpHwU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2068279012154302486",
+        "created_at": "2026-06-20T10:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068279012154302486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/selahalph/stat…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/selahalph/status/2068118409712382014",
+              "start": 102,
+              "url": "https://t.co/lGeThPpHwU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068279012154302486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068118409712382014",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "教会要像医院一样，去包扎人的伤口，而不是急着去审判。\n\n“不应对一个自我了结生命者的永远获救失望。天主能够运用唯有祂知道的方法，给他们安排忏悔得救的机会。教会为自杀者祈祷。”——《天主教教理》2283条 https://t.co/lGeThPpHwU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688103097275449344",
+        "conversation_id": "2067922020625793378",
+        "created_at": "2026-06-19T23:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T00:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068118409712382014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1513898402366439427",
+              "start": 0,
+              "username": "tired_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068118409712382014",
+        "in_reply_to_user_id": "1513898402366439427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11103,
+          "like_count": 1,
+          "quote_count": 3,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067922020625793378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tired_8964 自杀必下地狱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5903,
+          "following_count": 773,
+          "like_count": 51761,
+          "listed_count": 18,
+          "media_count": 1039,
+          "tweet_count": 9099
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T08:22:10.000Z",
+        "description": "Acts 13:36  \nDavid Served God's Purpose in his generation.",
+        "id": "1688103097275449344",
+        "location": "Canada",
+        "name": "✝️ Selah❤️‍🔥",
+        "pinned_tweet_id": "2068200867279618430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068198460663435264/UMRwa8Ga_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 224,
+          "like_count": 6585,
+          "listed_count": 3,
+          "media_count": 29,
+          "tweet_count": 661
+        },
+        "url": "",
+        "username": "SelahAlph",
+        "verified": false
+      }
+    ]
+  }
+}

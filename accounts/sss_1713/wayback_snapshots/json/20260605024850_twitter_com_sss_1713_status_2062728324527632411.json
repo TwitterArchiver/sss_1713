@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2062728324527632411",
+    "created_at": "2026-06-05T02:48:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T03:48:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062728324527632411"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062728324527632411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有时候，我在抽象概念的讨论中听到男人对我说：“您这样理解，因为您是一个女人”，我感到很恼火；我知道，我唯一的捍卫方法就是这样回答：“我这样理解，因为事实如此”，这句话取消了我的主体性；我不能这样反驳：“您意见相反，因为您是一个男人”\n\n这段话就能反驳那些用仅凭性别就反对别人一切的话。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2062728324527632411",
+        "created_at": "2026-06-05T02:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T03:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062728324527632411"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062728324527632411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时候，我在抽象概念的讨论中听到男人对我说：“您这样理解，因为您是一个女人”，我感到很恼火；我知道，我唯一的捍卫方法就是这样回答：“我这样理解，因为事实如此”，这句话取消了我的主体性；我不能这样反驳：“您意见相反，因为您是一个男人”\n\n这段话就能反驳那些用仅凭性别就反对别人一切的话。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5873,
+          "following_count": 750,
+          "like_count": 49178,
+          "listed_count": 18,
+          "media_count": 994,
+          "tweet_count": 8675
+        },
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

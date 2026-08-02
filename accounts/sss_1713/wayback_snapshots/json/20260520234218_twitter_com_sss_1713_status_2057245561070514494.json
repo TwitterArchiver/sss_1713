@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057245549804601344"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2057099638700937591",
+    "created_at": "2026-05-20T23:42:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T00:42:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057245561070514494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "766667997859590144",
+          "start": 0,
+          "username": "fishmagic80"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KPvAvkI2qF",
+          "end": 62,
+          "expanded_url": "https://x.com/sss_1713/status/2057245561070514494/photo/1",
+          "media_key": "3_2057245549804601344",
+          "start": 39,
+          "url": "https://t.co/KPvAvkI2qF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057245561070514494",
+    "in_reply_to_user_id": "766667997859590144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057244091235328322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fishmagic80 这种哈哈哈哈，好多年前买的了，前两天刚发现穿上合适 https://t.co/KPvAvkI2qF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2057245549804601344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIzN7YPbQAAf750.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057245549804601344"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2057099638700937591",
+        "created_at": "2026-05-20T23:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T00:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057245561070514494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "766667997859590144",
+              "start": 0,
+              "username": "fishmagic80"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KPvAvkI2qF",
+              "end": 62,
+              "expanded_url": "https://x.com/sss_1713/status/2057245561070514494/photo/1",
+              "media_key": "3_2057245549804601344",
+              "start": 39,
+              "url": "https://t.co/KPvAvkI2qF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057245561070514494",
+        "in_reply_to_user_id": "766667997859590144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057244091235328322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fishmagic80 这种哈哈哈哈，好多年前买的了，前两天刚发现穿上合适 https://t.co/KPvAvkI2qF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "766667997859590144",
+        "conversation_id": "2057099638700937591",
+        "created_at": "2026-05-20T23:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T00:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057244091235328322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057244091235328322",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057099638700937591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 想看看衣服（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2056686933950996682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5806,
+          "following_count": 744,
+          "like_count": 47876,
+          "listed_count": 18,
+          "media_count": 968,
+          "tweet_count": 8396
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-19T16:07:49.000Z",
+        "description": "ID标准译名: 莱瓦汀•斯卡蕾特\n有主野生狐狸\nAgender & Asexual",
+        "id": "766667997859590144",
+        "name": "Laevatein Scarlet🏳️‍⚧️🦊",
+        "pinned_tweet_id": "2026333229624721795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602958268975919104/78bwVW5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 2660,
+          "like_count": 55976,
+          "listed_count": 14,
+          "media_count": 1245,
+          "tweet_count": 40530
+        },
+        "username": "fishmagic80",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2064291717637943566",
+    "created_at": "2026-06-10T00:13:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T01:13:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064501288444862610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1486921234700853249",
+          "start": 0,
+          "username": "xyzxy123123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064501288444862610",
+    "in_reply_to_user_id": "1486921234700853249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064499014570004570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xyzxy123123 这本应该是可以讨论的事情，墙内一刀切和墙外一刀切都不可取。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2064291717637943566",
+        "created_at": "2026-06-10T00:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T01:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064501288444862610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1486921234700853249",
+              "start": 0,
+              "username": "xyzxy123123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064501288444862610",
+        "in_reply_to_user_id": "1486921234700853249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064499014570004570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyzxy123123 这本应该是可以讨论的事情，墙内一刀切和墙外一刀切都不可取。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486921234700853249",
+        "conversation_id": "2064291717637943566",
+        "created_at": "2026-06-10T00:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T01:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064499014570004570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/xixi_anonymous…",
+              "end": 79,
+              "expanded_url": "https://x.com/xixi_anonymous/status/2064404885429490169",
+              "start": 56,
+              "url": "https://t.co/QejwCBC3hH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064499014570004570",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064404885429490169",
+            "type": "quoted"
+          },
+          {
+            "id": "2064291717637943566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 我对提高性同意年龄持开放态度。但是有些女权主义的逻辑让我很害怕，她们和红卫兵没什么区别。\n\nhttps://t.co/QejwCBC3hH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5882,
+          "following_count": 753,
+          "like_count": 49904,
+          "listed_count": 18,
+          "media_count": 1005,
+          "tweet_count": 8822
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-28T04:38:07.000Z",
+        "description": "",
+        "id": "1486921234700853249",
+        "name": "halo gong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044253206406946816/_bCiohPh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 206,
+          "like_count": 518,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 244
+        },
+        "username": "xyzxy123123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2063271211820605896",
+    "created_at": "2026-06-06T16:09:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T17:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063292236343779506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1095998402817454087",
+          "start": 0,
+          "username": "Liechtensteinal"
+        },
+        {
+          "end": 29,
+          "id": "1877035470615638016",
+          "start": 17,
+          "username": "LMegurine03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063292236343779506",
+    "in_reply_to_user_id": "1095998402817454087",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063280556545302629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liechtensteinal @LMegurine03 羡慕…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2063271211820605896",
+        "created_at": "2026-06-06T16:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T17:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063292236343779506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1095998402817454087",
+              "start": 0,
+              "username": "Liechtensteinal"
+            },
+            {
+              "end": 29,
+              "id": "1877035470615638016",
+              "start": 17,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063292236343779506",
+        "in_reply_to_user_id": "1095998402817454087",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063280556545302629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liechtensteinal @LMegurine03 羡慕…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1095998402817454087",
+        "conversation_id": "2063271211820605896",
+        "created_at": "2026-06-06T15:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063280556545302629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063280556545302629",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 260,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063271211820605896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 庆幸自己没有参加过高考以及没有被高中生活摧残过😌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "   天安门坦克下",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5876,
+          "following_count": 751,
+          "like_count": 49403,
+          "listed_count": 18,
+          "media_count": 998,
+          "tweet_count": 8727
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-14T10:49:16.000Z",
+        "description": "ISTP/Minarchy/Individualism/Pro-Life/Antifeminism/Non populist anti-elitism/Libertarian Zionism🇮🇱/Trumpism libertarian🇺🇸/💛🖤@Panpkin0973",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 123,
+                "username": "Panpkin0973"
+              }
+            ]
+          }
+        },
+        "id": "1095998402817454087",
+        "location": "Watertown, SD",
+        "name": "列支敦士登匿名用户🇺🇸🇮🇱🗽",
+        "pinned_tweet_id": "2055647614742212771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883580647337558016/wFl9Uhk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5092,
+          "following_count": 1788,
+          "like_count": 72934,
+          "listed_count": 21,
+          "media_count": 1449,
+          "tweet_count": 19758
+        },
+        "username": "Liechtensteinal",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4226,
+          "following_count": 7332,
+          "like_count": 7546,
+          "listed_count": 7,
+          "media_count": 1646,
+          "tweet_count": 6586
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

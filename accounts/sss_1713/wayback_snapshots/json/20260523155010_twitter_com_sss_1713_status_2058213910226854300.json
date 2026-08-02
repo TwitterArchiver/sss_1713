@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2058213910226854300",
+    "created_at": "2026-05-23T15:50:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T16:50:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058213910226854300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1224953820716945408",
+          "start": 3,
+          "username": "ChingteLai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058213910226854300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058204597983043745",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChingteLai: 对于中国山西发生重大矿灾造成重大伤亡，我们感到十分痛心。我要向不幸罹难者致以深切哀悼，并向伤者及家属表达诚挚慰问。面对重大灾情，台湾愿在必要时提供人道协助，同时期盼受困人员能早日获救，并祈愿逝者安息。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2058213910226854300",
+        "created_at": "2026-05-23T15:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058213910226854300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224953820716945408",
+              "start": 3,
+              "username": "ChingteLai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058213910226854300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058204597983043745",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChingteLai: 对于中国山西发生重大矿灾造成重大伤亡，我们感到十分痛心。我要向不幸罹难者致以深切哀悼，并向伤者及家属表达诚挚慰问。面对重大灾情，台湾愿在必要时提供人道协助，同时期盼受困人员能早日获救，并祈愿逝者安息。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224953820716945408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1451358585376575499",
+              "name": "NZ roadmap"
+            }
+          }
+        ],
+        "conversation_id": "2058204597983043745",
+        "created_at": "2026-05-23T15:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058204597983043745"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058204597983043745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 24449,
+          "like_count": 589,
+          "quote_count": 14,
+          "reply_count": 93,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "对于中国山西发生重大矿灾造成重大伤亡，我们感到十分痛心。我要向不幸罹难者致以深切哀悼，并向伤者及家属表达诚挚慰问。面对重大灾情，台湾愿在必要时提供人道协助，同时期盼受困人员能早日获救，并祈愿逝者安息。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5810,
+          "following_count": 744,
+          "like_count": 48052,
+          "listed_count": 18,
+          "media_count": 972,
+          "tweet_count": 8436
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-05T07:12:26.000Z",
+        "description": "President of R.O.C. Taiwan. Chairperson of the Democratic Progressive Party.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/chingte/",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/chingte/",
+                "start": 0,
+                "url": "https://t.co/jlskvCNhj9"
+              }
+            ]
+          }
+        },
+        "id": "1224953820716945408",
+        "location": "Taiwan",
+        "name": "賴清德Lai Ching-te",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006578933672857600/tFQi7HjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616509,
+          "following_count": 4,
+          "like_count": 163,
+          "listed_count": 1369,
+          "media_count": 522,
+          "tweet_count": 977
+        },
+        "url": "https://t.co/jlskvCNhj9",
+        "username": "ChingteLai",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1930111470613770635",
+    "created_at": "2025-06-04T03:56:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T04:56:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930111470613770635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "89421672",
+          "start": 3,
+          "username": "USA_China_Talk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930111470613770635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 694
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930051307156504593",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @USA_China_Talk: 我们记得36年前中国共产党在天安门广场的残酷镇压行径，并缅怀在那一天被杀害及监禁的无辜民众的勇气。自由、民主和自治是中国共产党无法抹杀的人类原则。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1930111470613770635",
+        "created_at": "2025-06-04T03:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T04:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930111470613770635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "89421672",
+              "start": 3,
+              "username": "USA_China_Talk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930111470613770635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 694
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930051307156504593",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @USA_China_Talk: 我们记得36年前中国共产党在天安门广场的残酷镇压行径，并缅怀在那一天被杀害及监禁的无辜民众的勇气。自由、民主和自治是中国共产党无法抹杀的人类原则。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "89421672",
+        "conversation_id": "1930051307156504593",
+        "created_at": "2025-06-03T23:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T00:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930051307156504593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SecRubio/statu…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/SecRubio/status/1930010351569121564",
+              "start": 74,
+              "url": "https://t.co/c6SeHVm5HJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930051307156504593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 550429,
+          "like_count": 3524,
+          "quote_count": 58,
+          "reply_count": 551,
+          "retweet_count": 694
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930010351569121564",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们记得36年前中国共产党在天安门广场的残酷镇压行径，并缅怀在那一天被杀害及监禁的无辜民众的勇气。自由、民主和自治是中国共产党无法抹杀的人类原则。 https://t.co/c6SeHVm5HJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJo6NX"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5758,
+          "following_count": 1034,
+          "like_count": 45998,
+          "listed_count": 18,
+          "media_count": 937,
+          "tweet_count": 7652
+        },
+        "url": "https://t.co/Z7RPjJo6NX",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-12T10:55:22.000Z",
+        "description": "欢迎来到美国驻华使领馆的“推特”平台！本帐号使用条款可在以下链接找到：https://t.co/7fIbxneOkc 有时候，我们的内容会将关注者定向到非美国政府网站，此处包含的链接仅供参考，不一定代表美国政府或美国国务院观点或背书。关注庞德伟大使： @USAmbChina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 126,
+                "username": "USAmbChina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ow.ly/T3EO50OxjR8",
+                "end": 58,
+                "expanded_url": "http://ow.ly/T3EO50OxjR8",
+                "start": 35,
+                "url": "https://t.co/7fIbxneOkc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "china.usembassy-china.org.cn",
+                "end": 23,
+                "expanded_url": "https://china.usembassy-china.org.cn/",
+                "start": 0,
+                "url": "https://t.co/EJ5I77rnR8"
+              }
+            ]
+          }
+        },
+        "id": "89421672",
+        "location": "China",
+        "name": "美国驻华使领馆 U.S. Mission to China",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713839270769618944/eLoK1MFM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674802,
+          "following_count": 174,
+          "like_count": 11,
+          "listed_count": 4166,
+          "media_count": 3604,
+          "tweet_count": 19424
+        },
+        "url": "https://t.co/EJ5I77rnR8",
+        "username": "USA_China_Talk",
+        "verified": true
+      }
+    ]
+  }
+}

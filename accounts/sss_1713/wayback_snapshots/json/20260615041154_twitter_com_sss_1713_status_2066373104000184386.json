@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2066373104000184386",
+    "created_at": "2026-06-15T04:11:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T05:11:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066373104000184386"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wkfxjfrp/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/wkfxjfrp/status/2066077853750595798",
+          "start": 9,
+          "url": "https://t.co/bsUT9l4v9m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066373104000184386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066077853750595798",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嘿嘿，像小猪🐷🐖 https://t.co/bsUT9l4v9m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2066077847262023680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwu2wRbUAA1pWO.png",
+        "width": 800
+      },
+      {
+        "height": 387,
+        "media_key": "3_2066077847253598208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwu2wPawAAsOwP.png",
+        "width": 549
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2066373104000184386",
+        "created_at": "2026-06-15T04:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066373104000184386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wkfxjfrp/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/wkfxjfrp/status/2066077853750595798",
+              "start": 9,
+              "url": "https://t.co/bsUT9l4v9m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066373104000184386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066077853750595798",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嘿嘿，像小猪🐷🐖 https://t.co/bsUT9l4v9m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066077847262023680",
+            "3_2066077847253598208"
+          ]
+        },
+        "author_id": "945314922065305600",
+        "conversation_id": "2066077853750595798",
+        "created_at": "2026-06-14T08:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066077853750595798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HtOuZk11Pa",
+              "end": 56,
+              "expanded_url": "https://x.com/WkfxjfrP/status/2066077853750595798/photo/1",
+              "media_key": "3_2066077847262023680",
+              "start": 33,
+              "url": "https://t.co/HtOuZk11Pa"
+            },
+            {
+              "display_url": "pic.x.com/HtOuZk11Pa",
+              "end": 56,
+              "expanded_url": "https://x.com/WkfxjfrP/status/2066077853750595798/photo/1",
+              "media_key": "3_2066077847253598208",
+              "start": 33,
+              "url": "https://t.co/HtOuZk11Pa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066077853750595798",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2333,
+          "impression_count": 1029705,
+          "like_count": 35799,
+          "quote_count": 276,
+          "reply_count": 0,
+          "retweet_count": 4563
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "에도시대 화가들 강아지를 이렇게 그려놔서 어이가 없고 웃김 https://t.co/HtOuZk11Pa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5885,
+          "following_count": 761,
+          "like_count": 51001,
+          "listed_count": 18,
+          "media_count": 1026,
+          "tweet_count": 8977
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-25T15:26:55.000Z",
+        "description": "재밌어보이는거 or 사람들이 봐줬으면하는거 저장용",
+        "id": "945314922065305600",
+        "name": "짤주워오는계정",
+        "pinned_tweet_id": "1447130110423748610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1169070430583283712/oTJrXisj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2498072,
+          "following_count": 0,
+          "like_count": 74,
+          "listed_count": 396,
+          "media_count": 4828,
+          "tweet_count": 5000
+        },
+        "username": "WkfxjfrP",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1972330108242559026",
+    "created_at": "2025-09-29T06:17:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T07:17:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972546375427482090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1825362738316824576",
+          "start": 0,
+          "username": "Andywcnm123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972546375427482090",
+    "in_reply_to_user_id": "1825362738316824576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972330108242559026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Andywcnm123 那时候我还在上小学。没想到啊，这是什么先锋队"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1972330108242559026",
+        "created_at": "2025-09-29T06:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T07:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972546375427482090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1825362738316824576",
+              "start": 0,
+              "username": "Andywcnm123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972546375427482090",
+        "in_reply_to_user_id": "1825362738316824576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972330108242559026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Andywcnm123 那时候我还在上小学。没想到啊，这是什么先锋队"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825362738316824576",
+        "conversation_id": "1972330108242559026",
+        "created_at": "2025-09-28T15:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T16:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972330108242559026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/igeekbb/status…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/igeekbb/status/1972084260824928659",
+              "start": 54,
+              "url": "https://t.co/UaURunjDYW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972330108242559026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2993,
+          "like_count": 55,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972084260824928659",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "18年➕4之后各地马院都被干烂和取缔了，真正关心社会的人都被干了，取而代之的是狗党养出来的粉猪和思想警察。 https://t.co/UaURunjDYW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5806,
+          "following_count": 975,
+          "like_count": 45875,
+          "listed_count": 17,
+          "media_count": 943,
+          "tweet_count": 7765
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-19T02:42:59.000Z",
+        "description": "没什么好给自己贴的。可以多咨询我如何科学上网，我会手把手教你。可以和我分享彼此的左转经历。只要你想，我可以带你从一个旁观者变成一个参与者再变成一个组织者，没什么是你做不到的。你不是一个人，我们到处都有朋友，革命已在各地逐渐开花。帝国赢不了的，有压迫就有反抗。",
+        "id": "1825362738316824576",
+        "name": "牛排与桥牌",
+        "pinned_tweet_id": "1972305828771455407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952325637848596480/pLamSl4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 1254,
+          "like_count": 7251,
+          "listed_count": 6,
+          "media_count": 261,
+          "tweet_count": 3605
+        },
+        "username": "Andywcnm123",
+        "verified": false
+      }
+    ]
+  }
+}

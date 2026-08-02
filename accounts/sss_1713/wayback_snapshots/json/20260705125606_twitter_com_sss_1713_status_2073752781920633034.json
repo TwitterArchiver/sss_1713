@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2073704538851414334",
+    "created_at": "2026-07-05T12:56:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T13:56:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073752781920633034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2053824487330852865",
+          "start": 0,
+          "username": "RusskiyCvyatoy"
+        },
+        {
+          "end": 32,
+          "id": "1746527586912735232",
+          "start": 16,
+          "username": "jinwang69489102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073752781920633034",
+    "in_reply_to_user_id": "2053824487330852865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073714893119684904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RusskiyCvyatoy @jinwang69489102 哎，自由"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2073704538851414334",
+        "created_at": "2026-07-05T12:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073752781920633034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2053824487330852865",
+              "start": 0,
+              "username": "RusskiyCvyatoy"
+            },
+            {
+              "end": 32,
+              "id": "1746527586912735232",
+              "start": 16,
+              "username": "jinwang69489102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073752781920633034",
+        "in_reply_to_user_id": "2053824487330852865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073714893119684904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusskiyCvyatoy @jinwang69489102 哎，自由"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053824487330852865",
+        "conversation_id": "2073704538851414334",
+        "created_at": "2026-07-05T10:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T11:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073714893119684904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1746527586912735232",
+              "start": 0,
+              "username": "jinwang69489102"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2073714893119684904",
+        "in_reply_to_user_id": "1746527586912735232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 366,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073704538851414334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinwang69489102 虽然这些清教徒很死吗，但是宪法里写着宗教自由却打击教会是不是有点无耻了？感觉直接一下子禁止亚伯拉罕宗教，恢复儒释道做国教好了。评价是宪法里保障什么自由，什么自由就是摆设。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5937,
+          "following_count": 789,
+          "like_count": 53634,
+          "listed_count": 18,
+          "media_count": 1056,
+          "tweet_count": 9284
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T13:09:44.000Z",
+        "description": "无限热爱伊玛目霍梅尼、无限崇拜伊玛目哈梅内伊，俩一俩海，银兰拉呼！\n黄俄罗斯伊斯兰革命总指挥部（Sedes Revolutionis Islamicae Zheltrossae）",
+        "id": "2053824487330852865",
+        "location": "Sankt-Paulsburg, RSFSR",
+        "name": "黄俄罗斯伊斯兰革命总指挥部",
+        "pinned_tweet_id": "2060020055111287178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069630190095880192/DjdCd_pl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 114,
+          "like_count": 1482,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1603
+        },
+        "url": "",
+        "username": "RusskiyCvyatoy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T13:40:12.000Z",
+        "description": "完颜氏，满族格格，现居NYC\n\n吃瓜能手，日常爆瓜\n\n有仿冒我的号注意甄别\n\n认准账号开头的jinwang是契丹语“完颜”的意思\n\n注：\n\nhttps://t.co/jq04kIfrBY不GA😂，幽默党人，满网找乐子\n\n2.有乐子和润族的故事可以给我投稿\n\n3.高强度刷推选手，全家用一个号",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "1.MA",
+                "end": 93,
+                "expanded_url": "http://1.MA",
+                "start": 70,
+                "url": "https://t.co/jq04kIfrBY"
+              }
+            ]
+          }
+        },
+        "id": "1746527586912735232",
+        "location": "Billionaires' Row, NYC",
+        "name": "海兰珠（Victoria）",
+        "pinned_tweet_id": "1786940451750302021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995378340929400832/DzIF36dU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26265,
+          "following_count": 679,
+          "like_count": 52324,
+          "listed_count": 83,
+          "media_count": 996,
+          "tweet_count": 34155
+        },
+        "url": "",
+        "username": "jinwang69489102",
+        "verified": true
+      }
+    ]
+  }
+}

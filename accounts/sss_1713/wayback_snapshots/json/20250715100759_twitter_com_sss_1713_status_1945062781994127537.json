@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1705942810170671505",
+    "created_at": "2025-07-15T10:07:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T11:07:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945062781994127537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489549038466699266",
+          "start": 0,
+          "username": "qiaoyu70571571"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945062781994127537",
+    "in_reply_to_user_id": "1489549038466699266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1705942810170671505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiaoyu70571571 想联系她也找不到lo，想来也算认识她四年了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1705942810170671505",
+        "created_at": "2025-07-15T10:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T11:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945062781994127537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489549038466699266",
+              "start": 0,
+              "username": "qiaoyu70571571"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945062781994127537",
+        "in_reply_to_user_id": "1489549038466699266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1705942810170671505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiaoyu70571571 想联系她也找不到lo，想来也算认识她四年了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489549038466699266",
+        "conversation_id": "1705942810170671505",
+        "created_at": "2023-09-24T13:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2023-09-24T14:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1705942810170671505"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1705942810170671505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 329,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在床上眼泪混合着黏糊糊的鼻涕在哭\n每次总是感觉自己快要忘记的时候记忆又变得清晰\n我这辈子可能都再也不会碰到像芽宝这样好看、智慧、善良的人了\n我只能在阴暗的房间里跟弱智一样自己默默地流鼻涕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJo6NX"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5784,
+          "following_count": 1047,
+          "like_count": 46001,
+          "listed_count": 18,
+          "media_count": 941,
+          "tweet_count": 7687
+        },
+        "url": "https://t.co/Z7RPjJo6NX",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T10:39:18.000Z",
+        "description": "本人想求偶，愿上海的好看的妹妹能看上我，我必报答你一辈子🙏🙏🙏",
+        "id": "1489549038466699266",
+        "location": "SH，hongkou",
+        "name": "樵渔（求偶版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643628440350777350/bXe5Qiz8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 1091,
+          "like_count": 37375,
+          "listed_count": 4,
+          "media_count": 1186,
+          "tweet_count": 18048
+        },
+        "username": "qiaoyu70571571",
+        "verified": false
+      }
+    ]
+  }
+}

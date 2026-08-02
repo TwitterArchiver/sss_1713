@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064223308653146112"
+      ],
+      "media_source_tweet_id": [
+        "2064223319340228996"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2064312865494860046",
+    "created_at": "2026-06-09T11:45:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T12:45:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064312865494860046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1741063508102627328",
+          "start": 3,
+          "username": "kitty068_ly"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dUmWWKQocF",
+          "end": 112,
+          "expanded_url": "https://x.com/kitty068_ly/status/2064223319340228996/photo/1",
+          "media_key": "3_2064223308653146112",
+          "start": 89,
+          "url": "https://t.co/dUmWWKQocF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064312865494860046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064223319340228996",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kitty068_ly: 这个女孩保守了一点觉得操逼这种事可以晚点于是对她荡妇羞辱太下作了吧 不知道这个说的人有没有成年但是这样对一个没有伤害别人的小女孩确实没必要啊呃 https://t.co/dUmWWKQocF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1684,
+        "media_key": "3_2064223308653146112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKWYKZlaMAAHEIf.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064223308653146112"
+          ],
+          "media_source_tweet_id": [
+            "2064223319340228996"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2064312865494860046",
+        "created_at": "2026-06-09T11:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064312865494860046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1741063508102627328",
+              "start": 3,
+              "username": "kitty068_ly"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dUmWWKQocF",
+              "end": 112,
+              "expanded_url": "https://x.com/kitty068_ly/status/2064223319340228996/photo/1",
+              "media_key": "3_2064223308653146112",
+              "start": 89,
+              "url": "https://t.co/dUmWWKQocF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064312865494860046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064223319340228996",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kitty068_ly: 这个女孩保守了一点觉得操逼这种事可以晚点于是对她荡妇羞辱太下作了吧 不知道这个说的人有没有成年但是这样对一个没有伤害别人的小女孩确实没必要啊呃 https://t.co/dUmWWKQocF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064223308653146112"
+          ]
+        },
+        "author_id": "1741063508102627328",
+        "conversation_id": "2064223319340228996",
+        "created_at": "2026-06-09T05:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064223319340228996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dUmWWKQocF",
+              "end": 95,
+              "expanded_url": "https://x.com/kitty068_ly/status/2064223319340228996/photo/1",
+              "media_key": "3_2064223308653146112",
+              "start": 72,
+              "url": "https://t.co/dUmWWKQocF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064223319340228996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 127999,
+          "like_count": 1832,
+          "quote_count": 21,
+          "reply_count": 299,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "这个女孩保守了一点觉得操逼这种事可以晚点于是对她荡妇羞辱太下作了吧 不知道这个说的人有没有成年但是这样对一个没有伤害别人的小女孩确实没必要啊呃 https://t.co/dUmWWKQocF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "  这个位置是可以随便改的，你们这群傻屌",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5880,
+          "following_count": 753,
+          "like_count": 49780,
+          "listed_count": 18,
+          "media_count": 1005,
+          "tweet_count": 8806
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T11:47:58.000Z",
+        "description": "本账号不适合看不懂人话的人交流 和我想法不一样的人可以不说话 你是谁啊你的想法重要吗这是我的个人账户\n一个queer\n老婆妈妈主人爸爸老公哥哥姐姐@dngyng169770781",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "dngyng169770781"
+              }
+            ]
+          }
+        },
+        "id": "1741063508102627328",
+        "location": "South Park",
+        "name": "易子而食",
+        "pinned_tweet_id": "2036628825292091673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019851159041949696/qYHRz2xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1614,
+          "following_count": 549,
+          "like_count": 8915,
+          "listed_count": 4,
+          "media_count": 272,
+          "tweet_count": 5131
+        },
+        "username": "kitty068_ly",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1991319448826048992",
+    "created_at": "2025-11-20T01:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-20T02:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991319448826048992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991319448826048992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 304
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990993439136362538",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 网友投稿\n近日，西安培华学院，一名女生在请假返家照顾病重母亲时，因为超出请假时限，被辅导员严厉训斥，并以“处分”“无法毕业”相威胁。\n女生与家长多次道歉，反而遭到进一步的责备与施压。\n在巨大精神压力下，这名女生在返校途中跳河自尽。\n其家属…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1990912569872191488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6EkbxoXkAA1lim.jpg",
+        "width": 1149
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1990913300469514241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ElGTUWAAEPT0S.jpg",
+        "width": 1677
+      },
+      {
+        "height": 948,
+        "media_key": "3_1990913310330392576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ElG4DXEAAr_36.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1991319448826048992",
+        "created_at": "2025-11-20T01:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T02:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991319448826048992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991319448826048992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 304
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990993439136362538",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 网友投稿\n近日，西安培华学院，一名女生在请假返家照顾病重母亲时，因为超出请假时限，被辅导员严厉训斥，并以“处分”“无法毕业”相威胁。\n女生与家长多次道歉，反而遭到进一步的责备与施压。\n在巨大精神压力下，这名女生在返校途中跳河自尽。\n其家属…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990912569872191488",
+            "3_1990913300469514241",
+            "3_1990913310330392576"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1990993439136362538",
+        "created_at": "2025-11-19T04:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T05:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990993439136362538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VQQMgzyeoQ",
+              "end": 166,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1990993439136362538/photo/1",
+              "media_key": "3_1990912569872191488",
+              "start": 143,
+              "url": "https://t.co/VQQMgzyeoQ"
+            },
+            {
+              "display_url": "pic.x.com/VQQMgzyeoQ",
+              "end": 166,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1990993439136362538/photo/1",
+              "media_key": "3_1990913300469514241",
+              "start": 143,
+              "url": "https://t.co/VQQMgzyeoQ"
+            },
+            {
+              "display_url": "pic.x.com/VQQMgzyeoQ",
+              "end": 166,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1990993439136362538/photo/1",
+              "media_key": "3_1990913310330392576",
+              "start": 143,
+              "url": "https://t.co/VQQMgzyeoQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990993439136362538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "网友投稿\n近日，西安培华学院，一名女生在请假返家照顾病重母亲时，因为超出请假时限，被辅导员严厉训斥，并以“处分”“无法毕业”相威胁。\n女生与家长多次道歉，反而遭到进一步的责备与施压。\n在巨大精神压力下，这名女生在返校途中跳河自尽。\n其家属随后前往学校维权，却遭到推搡、殴打与持续压迫。\n目前校方无公开回应，此事在社媒上遭到限流和屏蔽。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 314,
+          "impression_count": 438798,
+          "like_count": 2388,
+          "quote_count": 20,
+          "reply_count": 200,
+          "retweet_count": 304
+        },
+        "reply_settings": "everyone",
+        "text": "网友投稿\n近日，西安培华学院，一名女生在请假返家照顾病重母亲时，因为超出请假时限，被辅导员严厉训斥，并以“处分”“无法毕业”相威胁。\n女生与家长多次道歉，反而遭到进一步的责备与施压。\n在巨大精神压力下，这名女生在返校途中跳河自尽。\n其家属随后前往学校维权，却遭到推搡、殴打与持续压迫。 https://t.co/VQQMgzyeoQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5829,
+          "following_count": 994,
+          "like_count": 45774,
+          "listed_count": 17,
+          "media_count": 927,
+          "tweet_count": 7914
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1757195077619691725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2142892,
+          "following_count": 979,
+          "like_count": 8337,
+          "listed_count": 8411,
+          "media_count": 37448,
+          "tweet_count": 44311
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

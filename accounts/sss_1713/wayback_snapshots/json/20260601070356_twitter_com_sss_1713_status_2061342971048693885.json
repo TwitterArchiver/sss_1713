@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2061279366940868791",
+    "created_at": "2026-06-01T07:03:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T08:03:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061342971048693885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1926589725189476352",
+          "start": 0,
+          "username": "sandyyyy0922"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061342971048693885",
+    "in_reply_to_user_id": "1926589725189476352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061279366940868791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sandyyyy0922 我不行了啊啊啊啊笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2061279353473011712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJsipp6bEAAodc4.jpg",
+        "width": 471
+      },
+      {
+        "height": 284,
+        "media_key": "3_2061279352801943552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJsipnabYAANaBQ.jpg",
+        "width": 1024
+      },
+      {
+        "height": 308,
+        "media_key": "3_2061279352818638848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJsipneaIAA4gGO.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2061279366940868791",
+        "created_at": "2026-06-01T07:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T08:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061342971048693885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1926589725189476352",
+              "start": 0,
+              "username": "sandyyyy0922"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061342971048693885",
+        "in_reply_to_user_id": "1926589725189476352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061279366940868791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sandyyyy0922 我不行了啊啊啊啊笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061279353473011712",
+            "3_2061279352801943552",
+            "3_2061279352818638848"
+          ]
+        },
+        "author_id": "1926589725189476352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061279366940868791",
+        "created_at": "2026-06-01T02:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T03:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061279366940868791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QaYUuqwtwV",
+              "end": 121,
+              "expanded_url": "https://x.com/sandyyyy0922/status/2061279366940868791/photo/1",
+              "media_key": "3_2061279353473011712",
+              "start": 98,
+              "url": "https://t.co/QaYUuqwtwV"
+            },
+            {
+              "display_url": "pic.x.com/QaYUuqwtwV",
+              "end": 121,
+              "expanded_url": "https://x.com/sandyyyy0922/status/2061279366940868791/photo/1",
+              "media_key": "3_2061279352801943552",
+              "start": 98,
+              "url": "https://t.co/QaYUuqwtwV"
+            },
+            {
+              "display_url": "pic.x.com/QaYUuqwtwV",
+              "end": 121,
+              "expanded_url": "https://x.com/sandyyyy0922/status/2061279366940868791/photo/1",
+              "media_key": "3_2061279352818638848",
+              "start": 98,
+              "url": "https://t.co/QaYUuqwtwV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061279366940868791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2450,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你讲啥逻辑了老猪，你看看你那个主页有人理你不，看着跟低智商老土鳖有啥区别啊？人家玩sm都是温馨的环境两个人幸福的很，你就在那个工地泥土上打滚时不时还对着女的猪拱两下，你哪都不叫sm你那是肉猪拱地 https://t.co/QaYUuqwtwV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5860,
+          "following_count": 750,
+          "like_count": 48726,
+          "listed_count": 18,
+          "media_count": 986,
+          "tweet_count": 8605
+        },
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T10:42:55.000Z",
+        "description": "碎碎念+照片随机掉落+恋爱碎片｜🇨🇦｜叫我M豆或者豆就好｜Bisexual｜infp｜有老公/哥哥/宝宝（同一个人）｜另一个豆@woxihuandaMdou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 63,
+                "username": "woxihuandaMdou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "brothergo.com//lcel46/web?t=…",
+                "end": 23,
+                "expanded_url": "https://www.brothergo.com//lcel46/web?t=1780027673",
+                "start": 0,
+                "url": "https://t.co/9CCewqfogR"
+              }
+            ]
+          }
+        },
+        "id": "1926589725189476352",
+        "location": "Ontario, Canada",
+        "name": "黄色大M🫘",
+        "pinned_tweet_id": "2058565041256063190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926595280301875202/aWTzMjuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601,
+          "following_count": 386,
+          "like_count": 3267,
+          "listed_count": 1,
+          "media_count": 322,
+          "tweet_count": 3059
+        },
+        "url": "https://t.co/9CCewqfogR",
+        "username": "sandyyyy0922",
+        "verified": true
+      }
+    ]
+  }
+}

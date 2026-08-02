@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2000474217402470670",
+    "created_at": "2025-12-15T07:53:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T08:53:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000474217402470670"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liyuan6/status…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/liyuan6/status/2000011775136133243",
+          "start": 9,
+          "url": "https://t.co/XURy7UfTVp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000474217402470670",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000011775136133243",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有良心嘅香港人。 https://t.co/XURy7UfTVp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1734,
+        "media_key": "3_2000011768404271105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8F4G1pWYAENbPk.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1239,
+        "media_key": "3_2000011768400125952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8F4G1oXIAA_HF0.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1201,
+        "media_key": "3_2000011768395964421",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8F4G1nXoAUSAFR.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1065,
+        "media_key": "3_2000011768400162821",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8F4G1oXsAUQTyD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2000474217402470670",
+        "created_at": "2025-12-15T07:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T08:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000474217402470670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liyuan6/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/liyuan6/status/2000011775136133243",
+              "start": 9,
+              "url": "https://t.co/XURy7UfTVp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000474217402470670",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000011775136133243",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有良心嘅香港人。 https://t.co/XURy7UfTVp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000011768404271105",
+            "3_2000011768400125952",
+            "3_2000011768395964421",
+            "3_2000011768400162821"
+          ]
+        },
+        "author_id": "394797065",
+        "conversation_id": "2000011775136133243",
+        "created_at": "2025-12-14T01:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T02:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000011775136133243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GSYI1QFzwS",
+              "end": 166,
+              "expanded_url": "https://x.com/LiYuan6/status/2000011775136133243/photo/1",
+              "media_key": "3_2000011768404271105",
+              "start": 143,
+              "url": "https://t.co/GSYI1QFzwS"
+            },
+            {
+              "display_url": "pic.x.com/GSYI1QFzwS",
+              "end": 166,
+              "expanded_url": "https://x.com/LiYuan6/status/2000011775136133243/photo/1",
+              "media_key": "3_2000011768400125952",
+              "start": 143,
+              "url": "https://t.co/GSYI1QFzwS"
+            },
+            {
+              "display_url": "pic.x.com/GSYI1QFzwS",
+              "end": 166,
+              "expanded_url": "https://x.com/LiYuan6/status/2000011775136133243/photo/1",
+              "media_key": "3_2000011768395964421",
+              "start": 143,
+              "url": "https://t.co/GSYI1QFzwS"
+            },
+            {
+              "display_url": "pic.x.com/GSYI1QFzwS",
+              "end": 166,
+              "expanded_url": "https://x.com/LiYuan6/status/2000011775136133243/photo/1",
+              "media_key": "3_2000011768400162821",
+              "start": 143,
+              "url": "https://t.co/GSYI1QFzwS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000011775136133243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 192,
+                "id": "1825326157635473409",
+                "start": 180,
+                "username": "Jifengbooks"
+              }
+            ]
+          },
+          "text": "今天一口气看完黎智英传，他真是一个独特的人，这辈子走的每一步似乎都是为了追求自由，从逃离大饥荒的中国，在香港奋斗脱离贫穷，到八九后为了继续自由地活着而卖掉佐丹奴股份，创办壹周刊和苹果日报，到2014年起站在香港民主运动最前线，直至入狱，一直被单独关押，却在信仰中找到尊严和自由。特别喜欢作者写的这句话：“黎智英抵抗的每一天，都是自由对极权的胜利。” 季风书园 @Jifengbooks 和博客来有售，强烈推荐"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 174,
+          "impression_count": 191369,
+          "like_count": 1390,
+          "quote_count": 24,
+          "reply_count": 185,
+          "retweet_count": 272
+        },
+        "reply_settings": "everyone",
+        "text": "今天一口气看完黎智英传，他真是一个独特的人，这辈子走的每一步似乎都是为了追求自由，从逃离大饥荒的中国，在香港奋斗脱离贫穷，到八九后为了继续自由地活着而卖掉佐丹奴股份，创办壹周刊和苹果日报，到2014年起站在香港民主运动最前线，直至入狱，一直被单独关押，却在信仰中找到尊严和自由。特别喜 https://t.co/GSYI1QFzwS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5783,
+          "following_count": 997,
+          "like_count": 45959,
+          "listed_count": 17,
+          "media_count": 931,
+          "tweet_count": 7991
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-20T16:55:22.000Z",
+        "description": "NYT Asia tech columnist 不明白播客主持人 Views here are my own  联系请用li.yuan AT nytimes. com 或者 FreeFrom公匙npub1nc3azwxkfaj96n85sujpcvy5mmn72hm3rzxklqqaklmzrwlljrqsfgsyca",
+        "id": "394797065",
+        "location": "New York, NY",
+        "name": "Li Yuan袁莉",
+        "pinned_tweet_id": "1996294329472553122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881149356/LiUdaipur_normal.JPG",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135997,
+          "following_count": 1658,
+          "like_count": 11895,
+          "listed_count": 1407,
+          "media_count": 448,
+          "tweet_count": 11041
+        },
+        "username": "LiYuan6",
+        "verified": true
+      }
+    ]
+  }
+}

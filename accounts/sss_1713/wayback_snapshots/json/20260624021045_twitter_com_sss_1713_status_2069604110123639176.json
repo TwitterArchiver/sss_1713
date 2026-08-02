@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2069604110123639176",
+    "created_at": "2026-06-24T02:10:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T03:10:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069604110123639176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2021347310840795136",
+          "start": 3,
+          "username": "_eoantao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069604110123639176",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1956
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069450409534451833",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_eoantao: Eu nunca vou parar de chamar esse app de \"Twitter\""
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2069604110123639176",
+        "created_at": "2026-06-24T02:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069604110123639176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2021347310840795136",
+              "start": 3,
+              "username": "_eoantao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069604110123639176",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1956
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069450409534451833",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_eoantao: Eu nunca vou parar de chamar esse app de \"Twitter\""
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021347310840795136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2069450409534451833",
+        "created_at": "2026-06-23T16:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T17:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069450409534451833"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069450409534451833",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 93093,
+          "like_count": 7906,
+          "quote_count": 63,
+          "reply_count": 73,
+          "retweet_count": 1956
+        },
+        "reply_settings": "everyone",
+        "text": "Eu nunca vou parar de chamar esse app de \"Twitter\""
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5909,
+          "following_count": 774,
+          "like_count": 52225,
+          "listed_count": 18,
+          "media_count": 1040,
+          "tweet_count": 9153
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-10T22:15:40.000Z",
+        "description": ".",
+        "id": "2021347310840795136",
+        "name": "floptok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021347965496066054/2QeIy85S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7635,
+          "following_count": 1981,
+          "like_count": 978,
+          "listed_count": 4,
+          "media_count": 278,
+          "tweet_count": 1681
+        },
+        "url": "",
+        "username": "_eoantao",
+        "verified": true
+      }
+    ]
+  }
+}

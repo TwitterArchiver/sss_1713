@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2000892851870142677",
+    "created_at": "2025-12-16T16:37:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T17:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000968593941651711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1998791279350874112",
+          "start": 0,
+          "username": "murderxijinping"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000968593941651711",
+    "in_reply_to_user_id": "1998791279350874112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000908607169458476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@murderxijinping 我很少看私信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2000892851870142677",
+        "created_at": "2025-12-16T16:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T17:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000968593941651711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1998791279350874112",
+              "start": 0,
+              "username": "murderxijinping"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000968593941651711",
+        "in_reply_to_user_id": "1998791279350874112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000908607169458476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@murderxijinping 我很少看私信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998791279350874112",
+        "conversation_id": "2000892851870142677",
+        "created_at": "2025-12-16T12:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T13:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000908607169458476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000908607169458476",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000892851870142677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 为啥不回我私信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5775,
+          "following_count": 999,
+          "like_count": 45996,
+          "listed_count": 17,
+          "media_count": 931,
+          "tweet_count": 8009
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T16:26:03.000Z",
+        "description": "09女/地雷系/病娇/反差萌/中国看黄公狗和它父母去陪毛腊肉/SAT1600/IELTS 9/TOEFL 120/JLPT N1/my principle is anti-communist. PRC,DPRK and Iran are malignant tumors。中国共産党倒せ",
+        "id": "1998791279350874112",
+        "name": "よみがえった桃香さん 共産主義をしばき隊",
+        "pinned_tweet_id": "1998800911834194316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998794079006765066/v--3dLFD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 137,
+          "like_count": 693,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 463
+        },
+        "username": "murderxijinping",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2053676627666874712",
+    "created_at": "2026-05-11T03:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T04:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053676627666874712"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tingyun97/stat…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/tingyun97/status/2053465672152412257",
+          "start": 19,
+          "url": "https://t.co/BLvSAnGyXR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053676627666874712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053465672152412257",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“为了避免结束，你避免了一切开始。” https://t.co/BLvSAnGyXR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 439,
+        "media_key": "3_2053465665458360320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9gJJwbUAAUTyN.jpg",
+        "width": 780
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2053676627666874712",
+        "created_at": "2026-05-11T03:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053676627666874712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tingyun97/stat…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/tingyun97/status/2053465672152412257",
+              "start": 19,
+              "url": "https://t.co/BLvSAnGyXR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053676627666874712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053465672152412257",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“为了避免结束，你避免了一切开始。” https://t.co/BLvSAnGyXR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053465665458360320"
+          ]
+        },
+        "author_id": "776961507917639681",
+        "conversation_id": "2053465672152412257",
+        "created_at": "2026-05-10T13:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T14:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053465672152412257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nherkAfcYm",
+              "end": 76,
+              "expanded_url": "https://x.com/tingyun97/status/2053465672152412257/photo/1",
+              "media_key": "3_2053465665458360320",
+              "start": 53,
+              "url": "https://t.co/nherkAfcYm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053465672152412257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 16750,
+          "like_count": 156,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "following",
+        "text": "《颐和园》里有句对白：\n\n“我要跟你分手。\n为什么？\n因为我离不开你。”\n\n那种感觉，懂的人，不言自明。 https://t.co/nherkAfcYm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5798,
+          "following_count": 1038,
+          "like_count": 47491,
+          "listed_count": 18,
+          "media_count": 940,
+          "tweet_count": 8231
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-17T01:50:33.000Z",
+        "description": "一生負氣成今日 四海無人對夕陽",
+        "id": "776961507917639681",
+        "location": "北平",
+        "name": "停雲",
+        "pinned_tweet_id": "1245338957363195906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959168888891117568/9aZARp5p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135038,
+          "following_count": 2175,
+          "like_count": 43878,
+          "listed_count": 462,
+          "media_count": 36077,
+          "tweet_count": 66154
+        },
+        "username": "tingyun97",
+        "verified": true
+      }
+    ]
+  }
+}

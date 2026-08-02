@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2076797132481479098",
+    "created_at": "2026-07-14T02:20:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T03:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076854251666780425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2040013301367681024",
+          "start": 0,
+          "username": "zlh49428"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076854251666780425",
+    "in_reply_to_user_id": "2040013301367681024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076797132481479098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zlh49428 生日快乐！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2076797132481479098",
+        "created_at": "2026-07-14T02:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T03:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076854251666780425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2040013301367681024",
+              "start": 0,
+              "username": "zlh49428"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076854251666780425",
+        "in_reply_to_user_id": "2040013301367681024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076797132481479098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zlh49428 生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040013301367681024",
+        "conversation_id": "2076797132481479098",
+        "created_at": "2026-07-13T22:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T23:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076797132481479098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076797132481479098",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 709,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天生日☺️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5978,
+          "following_count": 794,
+          "like_count": 54674,
+          "listed_count": 18,
+          "media_count": 1087,
+          "tweet_count": 9493
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-03T10:27:43.000Z",
+        "description": "男高",
+        "id": "2040013301367681024",
+        "name": "亚太区最值得交往华人男",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074180395348934656/6Lu19V4v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 28,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 64
+        },
+        "url": "",
+        "username": "zlh49428",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1976455400829726884",
+    "created_at": "2025-10-10T06:19:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T07:19:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976533073224503733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1919122844",
+          "start": 0,
+          "username": "deserthouse98"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976533073224503733",
+    "in_reply_to_user_id": "1919122844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976458351962988681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@deserthouse98 刚从监狱里面出来，不是晶哥就是精神失常"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1976458351962988681].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1976458351962988681",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1976458351962988681"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1976455400829726884",
+        "created_at": "2025-10-10T06:19:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T07:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976533073224503733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1919122844",
+              "start": 0,
+              "username": "deserthouse98"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976533073224503733",
+        "in_reply_to_user_id": "1919122844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976458351962988681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@deserthouse98 刚从监狱里面出来，不是晶哥就是精神失常"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5809,
+          "following_count": 975,
+          "like_count": 45850,
+          "listed_count": 17,
+          "media_count": 943,
+          "tweet_count": 7781
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-30T06:19:25.000Z",
+        "description": "你所说的曙光究竟是什么意思\n\nBluesky: https://t.co/gfjwgk42f2\nMastodon: https://t.co/A58dBalq2L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/desert…",
+                "end": 47,
+                "expanded_url": "https://bsky.app/profile/deserthouse.bsky.social",
+                "start": 24,
+                "url": "https://t.co/gfjwgk42f2"
+              },
+              {
+                "display_url": "mastodon.social/@deserthouse",
+                "end": 81,
+                "expanded_url": "http://mastodon.social/@deserthouse",
+                "start": 58,
+                "url": "https://t.co/A58dBalq2L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/deserthouse",
+                "end": 23,
+                "expanded_url": "http://t.me/deserthouse",
+                "start": 0,
+                "url": "https://t.co/2ek1GqXAaJ"
+              }
+            ]
+          }
+        },
+        "id": "1919122844",
+        "location": "🌏 SES Stallion of Destiny ",
+        "name": "Wolp kit (Self-assembling)",
+        "pinned_tweet_id": "1186638320727576578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682260419057192960/ULXIJ6gr_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2460,
+          "following_count": 5528,
+          "like_count": 213286,
+          "listed_count": 4,
+          "media_count": 6982,
+          "tweet_count": 179299
+        },
+        "url": "https://t.co/2ek1GqXAaJ",
+        "username": "deserthouse98",
+        "verified": false
+      }
+    ]
+  }
+}

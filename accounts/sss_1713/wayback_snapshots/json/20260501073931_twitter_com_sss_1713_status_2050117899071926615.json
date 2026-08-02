@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2049767864421273608",
+    "created_at": "2026-05-01T07:39:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T08:39:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050117899071926615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "143810986",
+          "start": 0,
+          "username": "dw_chinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050117899071926615",
+    "in_reply_to_user_id": "143810986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049767864421273608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dw_chinese 他不是对香港民主抱有幻想，而是为言论自由而殉道。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 143520,
+        "height": 1920,
+        "media_key": "13_2049767353295028224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049767353295028224/img/OyJsCWdr-thHeQC7.jpg",
+        "public_metrics": {
+          "view_count": 15231
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049767353295028224/vid/avc1/480x852/mgllyoPjcM3U6V-g.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049767353295028224/vid/avc1/320x568/DTcRHSDzMKJxgugg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049767353295028224/pl/UhO6yv1i-hXwpnN7.m3u8?v=ef1"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049767353295028224/vid/avc1/1080x1920/ecsiqPijlGWBg5aj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049767353295028224/vid/avc1/720x1280/t8gv_tsYPl_-y5sc.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2049767864421273608",
+        "created_at": "2026-05-01T07:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T08:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050117899071926615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "143810986",
+              "start": 0,
+              "username": "dw_chinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050117899071926615",
+        "in_reply_to_user_id": "143810986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049767864421273608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dw_chinese 他不是对香港民主抱有幻想，而是为言论自由而殉道。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049767353295028224"
+          ]
+        },
+        "author_id": "143810986",
+        "conversation_id": "2049767864421273608",
+        "created_at": "2026-04-30T08:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049767864421273608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8o63x0JJo2",
+              "end": 125,
+              "expanded_url": "https://x.com/dw_chinese/status/2049767864421273608/video/1",
+              "media_key": "13_2049767353295028224",
+              "start": 102,
+              "url": "https://t.co/8o63x0JJo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049767864421273608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "黎智英当初为何不离开香港？\n\n“我愿与这艘船一同沉没，因为它给了我所有。”在2020年6月接受DW专访时，黎智英如此说道，同年12月他遭到关押至今。\n\n拥有的资讯越多，你就越自由，黎智英在受审时这样说。\n\n为了追求这个理想，现年78岁的黎智英可能会死在狱中——2026年，在一场受到国际关注的审判中，香港法院宣判，他犯下“串谋勾结外国势力罪”等三项罪名，遭判处20年徒刑。\n\n如今黎智英遭到单独监禁超过5年，罗冠聪对DW说：“继续分享他的故事，这是我们这些仍能发声的人的责任。”\n亲友与支持者如何看待黎智英与香港一同浮沉的人生？\n\n2026年德国之声言论自由奖得主：黎智英。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 33240,
+          "like_count": 414,
+          "quote_count": 11,
+          "reply_count": 131,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "黎智英当初为何不离开香港？\n\n“我愿与这艘船一同沉没，因为它给了我所有。”在2020年6月接受DW专访时，黎智英如此说道，同年12月他遭到关押至今。\n\n拥有的资讯越多，你就越自由，黎智英在受审时这样说。 https://t.co/8o63x0JJo2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5806,
+          "following_count": 1035,
+          "like_count": 47328,
+          "listed_count": 18,
+          "media_count": 939,
+          "tweet_count": 8196
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-14T13:16:33.000Z",
+        "description": "德国之声中文官方推特：德国国际广播电台中文资讯服务，来自德国，介绍德国，聚焦华语区时政、经济、社会新闻，为您提供多媒体信息服务、背景报道、观点评论。欢迎积极参与互动!https://t.co/sd6bL3bDrv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/dwlegalnotice",
+                "end": 106,
+                "expanded_url": "http://bit.ly/dwlegalnotice",
+                "start": 83,
+                "url": "https://t.co/sd6bL3bDrv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dw.com/chinese",
+                "end": 23,
+                "expanded_url": "http://www.dw.com/chinese",
+                "start": 0,
+                "url": "https://t.co/MJXQ2XoxI2"
+              }
+            ]
+          }
+        },
+        "id": "143810986",
+        "location": "德国 波恩",
+        "name": "DW 中文- 德国之声",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799009694549413888/a4GIoJOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381341,
+          "following_count": 11,
+          "like_count": 388,
+          "listed_count": 5512,
+          "media_count": 15859,
+          "tweet_count": 84586
+        },
+        "url": "https://t.co/MJXQ2XoxI2",
+        "username": "dw_chinese",
+        "verified": true
+      }
+    ]
+  }
+}

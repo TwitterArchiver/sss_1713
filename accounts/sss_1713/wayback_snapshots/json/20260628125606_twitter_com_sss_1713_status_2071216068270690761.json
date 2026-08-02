@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2071216068270690761",
+    "created_at": "2026-06-28T12:56:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T13:56:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071216068270690761"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lourou7292/sta…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/lourou7292/status/2071142623004500389",
+          "start": 66,
+          "url": "https://t.co/3AL0rjyMhQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071216068270690761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071142623004500389",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得孩子十六岁以前不应该接受任何宗教和意识形态单方面的教育，以尊重个人自主权，要接受客观、多元的教育，学习通识养成独立思考能力。 https://t.co/3AL0rjyMhQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 238793,
+        "height": 1920,
+        "media_key": "13_2071141852179570688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071141852179570688/img/IFvzYb4IIfjN94Az.jpg",
+        "public_metrics": {
+          "view_count": 120068
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071141852179570688/vid/avc1/720x1280/17Dc0J29pI2Fgpxy.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071141852179570688/vid/avc1/480x852/1cpKuofU6wy6u09C.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071141852179570688/vid/avc1/1080x1920/lvarYo8pGH9ytYpe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071141852179570688/pl/nrCVCTvptPXQfTlc.m3u8?v=119"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071141852179570688/vid/avc1/320x568/As_OieGiiA2_qL81.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2071216068270690761",
+        "created_at": "2026-06-28T12:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071216068270690761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lourou7292/sta…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/lourou7292/status/2071142623004500389",
+              "start": 66,
+              "url": "https://t.co/3AL0rjyMhQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071216068270690761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071142623004500389",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得孩子十六岁以前不应该接受任何宗教和意识形态单方面的教育，以尊重个人自主权，要接受客观、多元的教育，学习通识养成独立思考能力。 https://t.co/3AL0rjyMhQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071141852179570688"
+          ]
+        },
+        "author_id": "1655482952711831553",
+        "conversation_id": "2071142623004500389",
+        "created_at": "2026-06-28T08:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071142623004500389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8GR4b5l5PP",
+              "end": 74,
+              "expanded_url": "https://x.com/lourou7292/status/2071142623004500389/video/1",
+              "media_key": "13_2071141852179570688",
+              "start": 51,
+              "url": "https://t.co/8GR4b5l5PP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071142623004500389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 435,
+          "impression_count": 120479,
+          "like_count": 978,
+          "quote_count": 5,
+          "reply_count": 197,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "大理这个10岁小孩哥，把“可以没有文凭，但不能没有文化”具象化了：谈吐有章法，见识有根底，社交有分寸 https://t.co/8GR4b5l5PP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5912,
+          "following_count": 778,
+          "like_count": 52688,
+          "listed_count": 18,
+          "media_count": 1053,
+          "tweet_count": 9241
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-08T08:01:21.000Z",
+        "description": "只要心怀热爱，脚踏实地，\n任何时候出发都不算晚。",
+        "id": "1655482952711831553",
+        "location": "Central & Western District",
+        "name": "xiayan Lou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051673361756123136/lyIhZrV1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35533,
+          "following_count": 7443,
+          "like_count": 21206,
+          "listed_count": 49,
+          "media_count": 6871,
+          "tweet_count": 23003
+        },
+        "url": "",
+        "username": "lourou7292",
+        "verified": true
+      }
+    ]
+  }
+}

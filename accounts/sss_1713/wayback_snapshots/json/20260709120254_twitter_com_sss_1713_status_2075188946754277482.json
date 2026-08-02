@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2075124685956902930",
+    "created_at": "2026-07-09T12:02:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T13:02:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075188946754277482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1685261233325285376",
+          "start": 0,
+          "username": "caixukun134114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075188946754277482",
+    "in_reply_to_user_id": "1685261233325285376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075175194671386632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caixukun134114 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2075124685956902930",
+        "created_at": "2026-07-09T12:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075188946754277482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1685261233325285376",
+              "start": 0,
+              "username": "caixukun134114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075188946754277482",
+        "in_reply_to_user_id": "1685261233325285376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075175194671386632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caixukun134114 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685261233325285376",
+        "conversation_id": "2075124685956902930",
+        "created_at": "2026-07-09T11:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075175194671386632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075175194671386632",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075124685956902930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 当时的ccp知道自己这么牛逼吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5943,
+          "following_count": 790,
+          "like_count": 54212,
+          "listed_count": 18,
+          "media_count": 1073,
+          "tweet_count": 9399
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-29T12:09:36.000Z",
+        "description": "普通，平淡，稍微沾点建政的日子人，纯情绪输出会拉黑",
+        "id": "1685261233325285376",
+        "location": "安徽，合肥",
+        "name": "万能哈基旅店",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933399946784591872/8l2liLZS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 154,
+          "like_count": 13910,
+          "listed_count": 5,
+          "media_count": 391,
+          "tweet_count": 8470
+        },
+        "url": "",
+        "username": "caixukun134114",
+        "verified": false
+      }
+    ]
+  }
+}

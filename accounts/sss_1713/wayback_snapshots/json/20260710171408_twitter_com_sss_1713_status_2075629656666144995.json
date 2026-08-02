@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2075629656666144995",
+    "created_at": "2026-07-10T17:14:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T18:14:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075629656666144995"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075629656666144995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我对天主堂最初的印象是巴黎圣母院，它收养了卡西莫多，庇护了他和他的母亲，年幼无知的我无法想象为什么教堂有这么大的力量可以把一位当权者拒之门外来庇护“罪人”。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2075629656666144995",
+        "created_at": "2026-07-10T17:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T18:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075629656666144995"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075629656666144995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对天主堂最初的印象是巴黎圣母院，它收养了卡西莫多，庇护了他和他的母亲，年幼无知的我无法想象为什么教堂有这么大的力量可以把一位当权者拒之门外来庇护“罪人”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5958,
+          "following_count": 793,
+          "like_count": 54439,
+          "listed_count": 18,
+          "media_count": 1079,
+          "tweet_count": 9438
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      }
+    ]
+  }
+}

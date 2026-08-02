@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2073228141578056018",
+    "created_at": "2026-07-04T02:11:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T03:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073228141578056018"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mynameisgorgi/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/mynameisgorgi/status/2073090912205283577",
+          "start": 11,
+          "url": "https://t.co/JyV6qvQjVd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073228141578056018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073090912205283577",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可这是越南战争的图片 https://t.co/JyV6qvQjVd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 375,
+        "media_key": "3_2073090501960458240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUY0-yW4AAFPwE.png",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2073228141578056018",
+        "created_at": "2026-07-04T02:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T03:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073228141578056018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mynameisgorgi/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/mynameisgorgi/status/2073090912205283577",
+              "start": 11,
+              "url": "https://t.co/JyV6qvQjVd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073228141578056018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073090912205283577",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可这是越南战争的图片 https://t.co/JyV6qvQjVd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073090501960458240"
+          ]
+        },
+        "author_id": "2022336156126318592",
+        "conversation_id": "2073088836184273036",
+        "created_at": "2026-07-03T17:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T18:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073090912205283577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1338186398600482816",
+              "start": 0,
+              "username": "bosunatiklama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3mMyDL4SYG",
+              "end": 99,
+              "expanded_url": "https://x.com/Mynameisgorgi/status/2073090912205283577/photo/1",
+              "media_key": "3_2073090501960458240",
+              "start": 76,
+              "url": "https://t.co/3mMyDL4SYG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073090912205283577",
+        "in_reply_to_user_id": "1338186398600482816",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 12947,
+          "like_count": 297,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073088836184273036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bosunatiklama Amerika Japonya'da 200.000 kişiyi Atom Bombası ile öldürdü.. https://t.co/3mMyDL4SYG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5927,
+          "following_count": 788,
+          "like_count": 53483,
+          "listed_count": 18,
+          "media_count": 1052,
+          "tweet_count": 9265
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T15:44:55.000Z",
+        "description": "---",
+        "id": "2022336156126318592",
+        "location": "Osmanlı imparatorluğu",
+        "name": "IamGorgi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022336711687094272/96YIOyvg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 127,
+          "like_count": 10361,
+          "listed_count": 0,
+          "media_count": 766,
+          "tweet_count": 2019
+        },
+        "url": "",
+        "username": "Mynameisgorgi",
+        "verified": true
+      }
+    ]
+  }
+}

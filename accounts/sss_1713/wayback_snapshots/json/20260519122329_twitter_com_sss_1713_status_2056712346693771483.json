@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2056712346693771483",
+    "created_at": "2026-05-19T12:23:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T13:23:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056712346693771483"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sss_1713/statu…",
+          "end": 102,
+          "expanded_url": "https://twitter.com/sss_1713/status/2056700049619402766",
+          "start": 79,
+          "url": "https://t.co/WooBRSi6Wm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056712346693771483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056700049619402766",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不用说本身偷拍就严重侵犯人权，\n在评论区“求资源”是对受害者的公开羞辱，是在漠视一个活生生的人基本的尊严！\n二次传播者应该和偷拍者同罪，偷拍离我们并不遥远。 https://t.co/WooBRSi6Wm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2056712346693771483",
+        "created_at": "2026-05-19T12:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056712346693771483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/sss_1713/status/2056700049619402766",
+              "start": 79,
+              "url": "https://t.co/WooBRSi6Wm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056712346693771483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056700049619402766",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不用说本身偷拍就严重侵犯人权，\n在评论区“求资源”是对受害者的公开羞辱，是在漠视一个活生生的人基本的尊严！\n二次传播者应该和偷拍者同罪，偷拍离我们并不遥远。 https://t.co/WooBRSi6Wm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2056700049619402766",
+        "created_at": "2026-05-19T11:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056700049619402766"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056700049619402766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我草抖音能不能别这么傻逼，刚刷到一个很漂亮的女生，弹幕里一堆莫名其妙的话，看评论才知道是被偷拍了😅😅一堆人在下面求求求免免免一块钱秒回，你们似全家了😅😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️",
+        "pinned_tweet_id": "2056686933950996682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5803,
+          "following_count": 752,
+          "like_count": 47724,
+          "listed_count": 18,
+          "media_count": 962,
+          "tweet_count": 8358
+        },
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

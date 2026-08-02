@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2072537176236306784",
+    "created_at": "2026-07-02T09:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T10:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072609839684223069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1604181895721504771",
+          "start": 0,
+          "username": "mengtunwudaimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072609839684223069",
+    "in_reply_to_user_id": "1604181895721504771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072537176236306784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengtunwudaimu 累死之后还要给当官的吃了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2072537176236306784",
+        "created_at": "2026-07-02T09:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T10:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072609839684223069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1604181895721504771",
+              "start": 0,
+              "username": "mengtunwudaimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072609839684223069",
+        "in_reply_to_user_id": "1604181895721504771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072537176236306784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengtunwudaimu 累死之后还要给当官的吃了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604181895721504771",
+        "conversation_id": "2072537176236306784",
+        "created_at": "2026-07-02T04:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T05:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072537176236306784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/muriiodeigamer…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/muriiodeigamer/status/2072136411268968863",
+              "start": 16,
+              "url": "https://t.co/ZGNScz19Mn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072537176236306784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 984,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072136411268968863",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不，共產主義者兩頭牛全給你拿走 https://t.co/ZGNScz19Mn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5922,
+          "following_count": 784,
+          "like_count": 53223,
+          "listed_count": 18,
+          "media_count": 1046,
+          "tweet_count": 9236
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T18:29:10.000Z",
+        "description": "大家好，我是一個日本人，中文學習中，希望可以和使用中文的人成為朋友。",
+        "id": "1604181895721504771",
+        "location": "IP属地：南京",
+        "name": "川和喵酱薯条🍟🇯🇵井外势力",
+        "pinned_tweet_id": "1729765345424990414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067680240068083713/vzZpnDsF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14428,
+          "following_count": 3073,
+          "like_count": 30393,
+          "listed_count": 143,
+          "media_count": 2802,
+          "tweet_count": 17575
+        },
+        "url": "",
+        "username": "mengtunwudaimu",
+        "verified": true
+      }
+    ]
+  }
+}

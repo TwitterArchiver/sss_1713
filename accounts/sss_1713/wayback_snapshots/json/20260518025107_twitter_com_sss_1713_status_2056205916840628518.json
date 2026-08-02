@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2056205916840628518",
+    "created_at": "2026-05-18T02:51:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T03:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056205916840628518"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 22,
+          "tag": "暴论"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/ashasw114514/s…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/ashasw114514/status/2056102634592059695",
+          "start": 27,
+          "url": "https://t.co/mizZbtjEkt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056205916840628518",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056102634592059695",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我在恋爱关系中喜欢被当狗是不是有吃屎倾向……#暴论🗿 https://t.co/mizZbtjEkt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2056205916840628518",
+        "created_at": "2026-05-18T02:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T03:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056205916840628518"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "暴论"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ashasw114514/s…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/ashasw114514/status/2056102634592059695",
+              "start": 27,
+              "url": "https://t.co/mizZbtjEkt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056205916840628518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056102634592059695",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在恋爱关系中喜欢被当狗是不是有吃屎倾向……#暴论🗿 https://t.co/mizZbtjEkt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981638054688501760",
+        "conversation_id": "2056102634592059695",
+        "created_at": "2026-05-17T20:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T20:59:06.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056102228055007736",
+          "2056102634592059695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mimiii_072/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/mimiii_072/status/2055491352461512968",
+              "start": 29,
+              "url": "https://t.co/4KhmfVudcN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056102634592059695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1372,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055491352461512968",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呃呃xp和生活分不开的吗，我喜欢被掐脖子是不是有自杀倾向 https://t.co/4KhmfVudcN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5802,
+          "following_count": 751,
+          "like_count": 47587,
+          "listed_count": 18,
+          "media_count": 952,
+          "tweet_count": 8325
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "they/him  县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52",
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3277,
+          "following_count": 2905,
+          "like_count": 6598,
+          "listed_count": 8,
+          "media_count": 483,
+          "tweet_count": 4126
+        },
+        "username": "ashasw114514",
+        "verified": true
+      }
+    ]
+  }
+}

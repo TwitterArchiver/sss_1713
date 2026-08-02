@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2040045744581677426",
+    "created_at": "2026-04-03T12:36:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T13:36:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040045744581677426"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tianchaeth/sta…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/tianchaeth/status/2039953570326544797",
+          "start": 21,
+          "url": "https://t.co/Q7BtqhyPGM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040045744581677426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039953570326544797",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "过几天：我知道有个境外软件的境外账号…… https://t.co/Q7BtqhyPGM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_2039953553972989953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE9e8v7bEAEKeAe.jpg",
+        "width": 826
+      },
+      {
+        "height": 1044,
+        "media_key": "3_2039953553989779456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE9e8v_bQAAL7VD.jpg",
+        "width": 836
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2040045744581677426",
+        "created_at": "2026-04-03T12:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T13:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040045744581677426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tianchaeth/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/tianchaeth/status/2039953570326544797",
+              "start": 21,
+              "url": "https://t.co/Q7BtqhyPGM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040045744581677426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039953570326544797",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "过几天：我知道有个境外软件的境外账号…… https://t.co/Q7BtqhyPGM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039953553972989953",
+            "3_2039953553989779456"
+          ]
+        },
+        "author_id": "1938273765202509824",
+        "conversation_id": "2039953570326544797",
+        "created_at": "2026-04-03T06:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T07:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039953570326544797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M2uEBNANZq",
+              "end": 43,
+              "expanded_url": "https://x.com/Tianchaeth/status/2039953570326544797/photo/1",
+              "media_key": "3_2039953553972989953",
+              "start": 20,
+              "url": "https://t.co/M2uEBNANZq"
+            },
+            {
+              "display_url": "pic.x.com/M2uEBNANZq",
+              "end": 43,
+              "expanded_url": "https://x.com/Tianchaeth/status/2039953570326544797/photo/1",
+              "media_key": "3_2039953553989779456",
+              "start": 20,
+              "url": "https://t.co/M2uEBNANZq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039953570326544797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 498660,
+          "like_count": 237,
+          "quote_count": 1,
+          "reply_count": 311,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我潮，这可是央视镜头啊。。。  赵露思 https://t.co/M2uEBNANZq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5816,
+          "following_count": 1023,
+          "like_count": 46889,
+          "listed_count": 18,
+          "media_count": 938,
+          "tweet_count": 8128
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T16:30:59.000Z",
+        "description": "六年老韭菜，BSC高级研究员,Bnbchain专家，天生锦鲤幸运体质！天才交易员爱投研爱分享生活赚钱。#Bnb｜#Binance｜#okx｜#btc｜Aspiring to become a rich woman with wealth and freedom 合作DM https://t.co/iwRbJoI6Jv",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "Bnb"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "Binance"
+              },
+              {
+                "end": 69,
+                "start": 65,
+                "tag": "okx"
+              },
+              {
+                "end": 74,
+                "start": 70,
+                "tag": "btc"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Tianchaeth",
+                "end": 159,
+                "expanded_url": "https://t.me/Tianchaeth",
+                "start": 136,
+                "url": "https://t.co/iwRbJoI6Jv"
+              }
+            ]
+          }
+        },
+        "id": "1938273765202509824",
+        "name": "甜茶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001248425430671363/BQSkZDvi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5334,
+          "following_count": 3210,
+          "like_count": 1006,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 3573
+        },
+        "username": "Tianchaeth",
+        "verified": true
+      }
+    ]
+  }
+}

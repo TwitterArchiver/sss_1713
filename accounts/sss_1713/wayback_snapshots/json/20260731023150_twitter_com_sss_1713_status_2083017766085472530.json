@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2083017766085472530",
+    "created_at": "2026-07-31T02:31:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T03:31:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083017766085472530"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nikolatesla201…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/nikolatesla2010/status/2083016692092060111",
+          "start": 47,
+          "url": "https://t.co/0mt2I0PSi5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083017766085472530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083016692092060111",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为你是偷人家素人的照片当你自己的照片，我截你的帖子当然要给别人打码了，你以为谁都跟你一样。 https://t.co/0mt2I0PSi5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2083017766085472530",
+        "created_at": "2026-07-31T02:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083017766085472530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nikolatesla201…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/nikolatesla2010/status/2083016692092060111",
+              "start": 47,
+              "url": "https://t.co/0mt2I0PSi5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083017766085472530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083016692092060111",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为你是偷人家素人的照片当你自己的照片，我截你的帖子当然要给别人打码了，你以为谁都跟你一样。 https://t.co/0mt2I0PSi5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2215812295",
+        "conversation_id": "2083012324022169613",
+        "created_at": "2026-07-31T02:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083016692092060111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083016692092060111",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083012324022169613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 我從來沒有貼過有馬賽克的照片！特姐一直都以真面目示人。你不要偽造我的貼文！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5997,
+          "following_count": 797,
+          "like_count": 55606,
+          "listed_count": 18,
+          "media_count": 1097,
+          "tweet_count": 9629
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2013-11-26T14:23:23.000Z",
+        "description": "呈現最真實，沒有濾鏡的寶島，讓世界看見台灣。",
+        "id": "2215812295",
+        "location": "Taiwan,China",
+        "name": "Tesla",
+        "pinned_tweet_id": "2082434879405601243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884785853194776576/U7JbZj26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20904,
+          "following_count": 4582,
+          "like_count": 137633,
+          "listed_count": 80,
+          "media_count": 13615,
+          "tweet_count": 31500
+        },
+        "url": "",
+        "username": "NikolaTesla2010",
+        "verified": true
+      }
+    ]
+  }
+}

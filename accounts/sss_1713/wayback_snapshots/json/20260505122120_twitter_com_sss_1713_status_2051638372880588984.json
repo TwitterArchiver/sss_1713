@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2051568106049515819",
+    "created_at": "2026-05-05T12:21:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T13:21:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051638372880588984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1464319347736911877",
+          "start": 0,
+          "username": "sugihara_tatuo"
+        },
+        {
+          "end": 25,
+          "id": "1247054463329656832",
+          "start": 16,
+          "username": "quasarne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051638372880588984",
+    "in_reply_to_user_id": "1464319347736911877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051601210164265026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@sugihara_tatuo @quasarne 学校监狱化🗿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2051568106049515819",
+        "created_at": "2026-05-05T12:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T13:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051638372880588984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1464319347736911877",
+              "start": 0,
+              "username": "sugihara_tatuo"
+            },
+            {
+              "end": 25,
+              "id": "1247054463329656832",
+              "start": 16,
+              "username": "quasarne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051638372880588984",
+        "in_reply_to_user_id": "1464319347736911877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051601210164265026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@sugihara_tatuo @quasarne 学校监狱化🗿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464319347736911877",
+        "conversation_id": "2051568106049515819",
+        "created_at": "2026-05-05T09:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T10:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051601210164265026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247054463329656832",
+              "start": 0,
+              "username": "quasarne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051601210164265026",
+        "in_reply_to_user_id": "1247054463329656832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051568106049515819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@quasarne 雨果说过：多建一座学校，就少建一座监狱。\n万万没想到，这句话竟以一种吊诡的方式在中国得到了实现🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5806,
+          "following_count": 1036,
+          "like_count": 47400,
+          "listed_count": 18,
+          "media_count": 941,
+          "tweet_count": 8212
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-26T19:45:30.000Z",
+        "description": "斃れずば止まじ。邪惡目田狗 退步保守逼 有神論渣滓 無恥死川黑。President of @enchenia。\n語言：漢/英/日/阿/西/波/拉。\n歷史架空作品「子夜之后」https://t.co/uE3gW318D2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "enchenia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitter.com/sugihara_tatuo…",
+                "end": 109,
+                "expanded_url": "https://twitter.com/sugihara_tatuo/status/1604130969434279936?s=19",
+                "start": 86,
+                "url": "https://t.co/uE3gW318D2"
+              }
+            ]
+          }
+        },
+        "id": "1464319347736911877",
+        "name": "杉原 辰雄 ☭⃠🌸⛩️ （不定期退隱）",
+        "pinned_tweet_id": "1604130969434279936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045448471986180097/uMpwJ8KP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5537,
+          "following_count": 781,
+          "like_count": 155820,
+          "listed_count": 34,
+          "media_count": 1711,
+          "tweet_count": 16219
+        },
+        "username": "sugihara_tatuo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-06T07:01:04.000Z",
+        "description": "猫！@kyrinxo｜數碼/科幻/政治/策略.音游 Wikier｜🏳️‍🌈pan/gay｜🚩🏴自由·平等 Тавлов, Эа🌹｜🌐漢語 吴、普/English OK/好语言学｜Knowledge is key to the universe｜政:@junenkim",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "kyrinxo"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "junenkim"
+              }
+            ]
+          }
+        },
+        "id": "1247054463329656832",
+        "location": "Freedom Territory of QNA",
+        "name": "neⒶστήρ |星ない🏳️‍🌈",
+        "pinned_tweet_id": "2043336938221170970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015318609091026944/HsmCBNSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 1033,
+          "like_count": 77470,
+          "listed_count": 6,
+          "media_count": 1123,
+          "tweet_count": 14731
+        },
+        "username": "quasarne",
+        "verified": true
+      }
+    ]
+  }
+}

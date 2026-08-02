@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062001463367233536",
+        "3_2062001463350407168"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2062001479217504261",
+    "created_at": "2026-06-03T02:40:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T03:40:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062001479217504261"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rey3J453fX",
+          "end": 41,
+          "expanded_url": "https://x.com/sss_1713/status/2062001479217504261/photo/1",
+          "media_key": "3_2062001463367233536",
+          "start": 18,
+          "url": "https://t.co/rey3J453fX"
+        },
+        {
+          "display_url": "pic.x.com/rey3J453fX",
+          "end": 41,
+          "expanded_url": "https://x.com/sss_1713/status/2062001479217504261/photo/1",
+          "media_key": "3_2062001463350407168",
+          "start": 18,
+          "url": "https://t.co/rey3J453fX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062001479217504261",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "李银河：“我是自由主义的女性主义” https://t.co/rey3J453fX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1015,
+        "media_key": "3_2062001463367233536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ2zZ-5W8AALdcB.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1302,
+        "media_key": "3_2062001463350407168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ2zZ-1WMAA410v.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062001463367233536",
+            "3_2062001463350407168"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2062001479217504261",
+        "created_at": "2026-06-03T02:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T03:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062001479217504261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rey3J453fX",
+              "end": 41,
+              "expanded_url": "https://x.com/sss_1713/status/2062001479217504261/photo/1",
+              "media_key": "3_2062001463367233536",
+              "start": 18,
+              "url": "https://t.co/rey3J453fX"
+            },
+            {
+              "display_url": "pic.x.com/rey3J453fX",
+              "end": 41,
+              "expanded_url": "https://x.com/sss_1713/status/2062001479217504261/photo/1",
+              "media_key": "3_2062001463350407168",
+              "start": 18,
+              "url": "https://t.co/rey3J453fX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062001479217504261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "李银河：“我是自由主义的女性主义” https://t.co/rey3J453fX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Nevada, United States",
+              "geo": {
+                "coordinates": [
+                  -116.75119,
+                  39.25021
+                ],
+                "type": "Point"
+              },
+              "region": "Nevada"
+            }
+          ]
+        },
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Nevada",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5855,
+          "following_count": 752,
+          "like_count": 48934,
+          "listed_count": 18,
+          "media_count": 990,
+          "tweet_count": 8641
+        },
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

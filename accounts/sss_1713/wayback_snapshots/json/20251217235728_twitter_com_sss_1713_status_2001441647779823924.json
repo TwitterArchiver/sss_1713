@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2001232342501765236",
+    "created_at": "2025-12-17T23:57:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T00:57:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001441647779823924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "151930383",
+          "start": 0,
+          "username": "GordonGChang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001441647779823924",
+    "in_reply_to_user_id": "151930383",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001232342501765236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GordonGChang 说点大家不知道的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2001232342501765236",
+        "created_at": "2025-12-17T23:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T00:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001441647779823924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "151930383",
+              "start": 0,
+              "username": "GordonGChang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001441647779823924",
+        "in_reply_to_user_id": "151930383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001232342501765236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GordonGChang 说点大家不知道的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "151930383",
+        "conversation_id": "2001232342501765236",
+        "created_at": "2025-12-17T10:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T11:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001232342501765236"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "China",
+              "probability": 0.9747,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 24,
+              "normalized_text": "Japan",
+              "probability": 0.9728,
+              "start": 20,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001232342501765236",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 28367,
+          "like_count": 1047,
+          "quote_count": 9,
+          "reply_count": 80,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "China is a bluffer; Japan is a fighter."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5773,
+          "following_count": 1001,
+          "like_count": 46024,
+          "listed_count": 17,
+          "media_count": 931,
+          "tweet_count": 8014
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-04T16:23:14.000Z",
+        "description": "Author of Plan Red: China’s Project to Destroy America, The Coming Collapse of China, and China Is Going To War.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gordonchang.com",
+                "end": 23,
+                "expanded_url": "http://www.gordonchang.com",
+                "start": 0,
+                "url": "https://t.co/NoOEsA7THp"
+              }
+            ]
+          }
+        },
+        "id": "151930383",
+        "name": "Gordon G. Chang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1183859425905430529/zJMuSq9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409069,
+          "following_count": 927,
+          "like_count": 11,
+          "listed_count": 2082,
+          "media_count": 338,
+          "tweet_count": 41104
+        },
+        "url": "https://t.co/NoOEsA7THp",
+        "username": "GordonGChang",
+        "verified": true
+      }
+    ]
+  }
+}

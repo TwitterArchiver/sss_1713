@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1976266572743475678",
+    "created_at": "2025-10-10T01:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T02:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976454245093343544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1587696726022017027",
+          "start": 0,
+          "username": "Ephraim_deca"
+        },
+        {
+          "end": 22,
+          "id": "1873105262971887616",
+          "start": 14,
+          "username": "yly1229"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976454245093343544",
+    "in_reply_to_user_id": "1587696726022017027",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976277707278385179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ephraim_deca @yly1229 yesss"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1976266572743475678",
+        "created_at": "2025-10-10T01:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T02:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976454245093343544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1587696726022017027",
+              "start": 0,
+              "username": "Ephraim_deca"
+            },
+            {
+              "end": 22,
+              "id": "1873105262971887616",
+              "start": 14,
+              "username": "yly1229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976454245093343544",
+        "in_reply_to_user_id": "1587696726022017027",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976277707278385179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ephraim_deca @yly1229 yesss"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587696726022017027",
+        "conversation_id": "1976266572743475678",
+        "created_at": "2025-10-09T13:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T14:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976277707278385179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1873105262971887616",
+              "start": 0,
+              "username": "yly1229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976277707278385179",
+        "in_reply_to_user_id": "1873105262971887616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2248,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976269097597087752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yly1229 主动看（x）\n被推送（✓）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5809,
+          "following_count": 974,
+          "like_count": 45838,
+          "listed_count": 17,
+          "media_count": 943,
+          "tweet_count": 7774
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T06:43:01.000Z",
+        "description": "现流放在加拿大//中文/English/Español（科班生😡不是业余的）//\n进教之佑，为我等祈；中华圣母，为我等祈；吁玛利亚无原罪之始胎，我等奔尔台前为我等祈🇻🇦\nhttps://t.co/TfjP9W0sVX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Clemens777hepta",
+                "end": 108,
+                "expanded_url": "http://t.me/Clemens777hepta",
+                "start": 85,
+                "url": "https://t.co/TfjP9W0sVX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clemensdsh",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clemensdsh",
+                "start": 0,
+                "url": "https://t.co/BUKhQfYqVS"
+              }
+            ]
+          }
+        },
+        "id": "1587696726022017027",
+        "location": "Hamilton, Ontario",
+        "name": "楊柳條兒青",
+        "pinned_tweet_id": "1959026398766510194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916508130042896384/4QZdgjiH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 3935,
+          "like_count": 66409,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 1304
+        },
+        "url": "https://t.co/BUKhQfYqVS",
+        "username": "Ephraim_deca",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-28T20:34:44.000Z",
+        "description": "愿世界和平 再无泪水\n\n只是记录生活 派系或意见不同的不要和我对打 烦 谁也说服不了谁₍₍ (̨̡ ‾᷄ᗣ‾᷅ )̧̢ ₎₎\n\n把反人类 虐杀等等当玩笑的……就请不要和我说话 闹麻了…… \n\nfo的推文我有可能漏刷了 ……૮ o̴̶̷᷄ ·̫ o̴̶̷̥᷅ ა",
+        "id": "1873105262971887616",
+        "name": "六月六",
+        "pinned_tweet_id": "1974056787906343133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971732545818841088/b1QfNGry_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 98,
+          "like_count": 1019,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 445
+        },
+        "username": "yly1229",
+        "verified": false
+      }
+    ]
+  }
+}

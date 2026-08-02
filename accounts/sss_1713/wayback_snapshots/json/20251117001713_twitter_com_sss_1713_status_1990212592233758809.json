@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "1990083315391467722",
+    "created_at": "2025-11-17T00:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T01:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990212592233758809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1916755437535604736",
+          "start": 0,
+          "username": "dongbeibisima89"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990212592233758809",
+    "in_reply_to_user_id": "1916755437535604736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990083315391467722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dongbeibisima89 回来吧曲婉婷👊👊😭请你吃桌饺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1990083315391467722",
+        "created_at": "2025-11-17T00:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T01:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990212592233758809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1916755437535604736",
+              "start": 0,
+              "username": "dongbeibisima89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990212592233758809",
+        "in_reply_to_user_id": "1916755437535604736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990083315391467722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dongbeibisima89 回来吧曲婉婷👊👊😭请你吃桌饺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916755437535604736",
+        "conversation_id": "1990083315391467722",
+        "created_at": "2025-11-16T15:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T16:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990083315391467722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1990072023117099077",
+              "start": 53,
+              "url": "https://t.co/kF2i9KpKrX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990083315391467722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 14159,
+          "like_count": 98,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990072023117099077",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又又又又又又又又又又又又又又又又又又又又又又又又又又又又又又又又又又又又又又又又又又又又又又又又是东百逼 https://t.co/kF2i9KpKrX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭/catholic🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petp.art.blog",
+                "end": 23,
+                "expanded_url": "http://petp.art.blog",
+                "start": 0,
+                "url": "https://t.co/Z7RPjJnyYp"
+              }
+            ]
+          }
+        },
+        "id": "1254605353838231553",
+        "location": "天安门坦克下",
+        "name": "1713✝️",
+        "pinned_tweet_id": "1923940710438383808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5829,
+          "following_count": 987,
+          "like_count": 45744,
+          "listed_count": 17,
+          "media_count": 926,
+          "tweet_count": 7874
+        },
+        "url": "https://t.co/Z7RPjJnyYp",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T07:24:50.000Z",
+        "description": "管东百逼叫满洲人等于祝福它们死🐴",
+        "id": "1916755437535604736",
+        "name": "曲婉婷",
+        "pinned_tweet_id": "1940215539986768053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983106609485393920/VFM474AJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 43,
+          "like_count": 239,
+          "listed_count": 5,
+          "media_count": 47,
+          "tweet_count": 857
+        },
+        "username": "dongbeibisima89",
+        "verified": false
+      }
+    ]
+  }
+}
