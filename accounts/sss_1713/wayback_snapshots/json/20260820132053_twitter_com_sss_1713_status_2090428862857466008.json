@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2090428862857466008",
+    "created_at": "2026-08-20T13:20:53.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T14:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090428862857466008"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2090151819960070157",
+          "start": 47,
+          "url": "https://t.co/KXbSFDpNQ5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090428862857466008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090151819960070157",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看，我派遣你们好像羊进入狼群中，所以你们要机警如同蛇，纯朴如同鸽子。（玛窦福音 10:16） https://t.co/KXbSFDpNQ5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1115,
+        "media_key": "3_2089919015330471936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQDiRYYbYAAo3CX.jpg",
+        "width": 878
+      },
+      {
+        "height": 837,
+        "media_key": "3_2089919015330476033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQDiRYYbcAEOSLn.jpg",
+        "width": 974
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2090428862857466008",
+        "created_at": "2026-08-20T13:20:53.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T14:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090428862857466008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2090151819960070157",
+              "start": 47,
+              "url": "https://t.co/KXbSFDpNQ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090428862857466008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090151819960070157",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看，我派遣你们好像羊进入狼群中，所以你们要机警如同蛇，纯朴如同鸽子。（玛窦福音 10:16） https://t.co/KXbSFDpNQ5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089919015330471936",
+            "3_2089919015330476033"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2090151819960070157",
+        "created_at": "2026-08-19T19:00:01.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T20:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090151819960070157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lT1FIcbRhN",
+              "end": 129,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2090151819960070157/photo/1",
+              "media_key": "3_2089919015330471936",
+              "start": 106,
+              "url": "https://t.co/lT1FIcbRhN"
+            },
+            {
+              "display_url": "pic.x.com/lT1FIcbRhN",
+              "end": 129,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2090151819960070157/photo/1",
+              "media_key": "3_2089919015330476033",
+              "start": 106,
+              "url": "https://t.co/lT1FIcbRhN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090151819960070157",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089919015330471936"
+          },
+          {
+            "media_key": "3_2089919015330476033"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "近日，一上海天主教徒连续记录了过去一年中国天主教活动空间收紧的多个细节。\n\n去年开始，上海徐家汇天主堂圣物商店陆续下架神学书籍。\n今年，原本直接朝向公共广场、路人可以自由进入的商店正门被封死，入口改到教堂院内。\n8月1日，他再次前往时发现，店内书架已经全部撤走，不仅神学书籍消失，连《圣经》和常用经本“四样经”也已经不再出售。\n面对教友询问，工作人员只表示：“没了没了，全都没了。”\n\n与此同时，徐家汇天主堂今年以来也停止接待游客参观。\n发帖者称，教堂是否能够开放，并非教会自己能够决定。\n\n类似的收紧也发生在北京。\n今年6月，他在北京一间天主教堂参加弥撒时，一名神父告诉教友，原计划7月组织的外地朝圣因为新的管理要求无法成行，堂区集体前往外地需要审批，未经批准前往，当地教堂还可能上报，因此今后教友只能“三三两两”自行相约。\n\n线上宗教空间同样被压缩。\n中国天主教官方平台“万有真原”过去长期直播法国露德圣母朝圣地的玫瑰经祈祷，但去年12月起直播停止，随后整个直播页面消失。\n\n发帖者还记录，一名来自山东、自称公务员的年轻天主教徒出差上海时，只敢戴着口罩偷偷进入教堂。\n他称自己担心宗教信仰被单位发现，因此平时不敢公开参加弥撒，只能趁出差时前往外地教堂。\n\n8月18日，限制进一步延伸到死亡之后。\n发帖者称，他收到消息，上海殡仪馆已经开始停止举行天主教礼仪葬礼。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 194,
+          "impression_count": 96348,
+          "like_count": 663,
+          "quote_count": 22,
+          "reply_count": 75,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "近日，一上海天主教徒连续记录了过去一年中国天主教活动空间收紧的多个细节。\n\n去年开始，上海徐家汇天主堂圣物商店陆续下架神学书籍。\n今年，原本直接朝向公共广场、路人可以自由进入的商店正门被封死，入口改到教堂院内。 https://t.co/lT1FIcbRhN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2090428862857466008",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6030,
+          "following_count": 798,
+          "like_count": 56856,
+          "listed_count": 18,
+          "media_count": 1122,
+          "tweet_count": 9795
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2090428637875179658",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2081228505925492773",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2253199,
+          "following_count": 1081,
+          "like_count": 10068,
+          "listed_count": 8887,
+          "media_count": 52387,
+          "tweet_count": 59696
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

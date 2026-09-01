@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2090069155315691741",
+    "created_at": "2026-08-19T13:31:32.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T14:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090069155315691741"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2089980686019293410",
+          "start": 15,
+          "url": "https://t.co/cftvKSmxo3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090069155315691741",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089980686019293410",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人民万岁快跟少羽牛逼差不多了 https://t.co/cftvKSmxo3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 889,
+        "media_key": "3_2089916973769793536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQDgai-boAAXdBU.jpg",
+        "width": 1206
+      },
+      {
+        "height": 648,
+        "media_key": "3_2089916973765562368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQDgai9bEAAhXUP.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2090069155315691741",
+        "created_at": "2026-08-19T13:31:32.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T14:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090069155315691741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2089980686019293410",
+              "start": 15,
+              "url": "https://t.co/cftvKSmxo3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090069155315691741",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089980686019293410",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人民万岁快跟少羽牛逼差不多了 https://t.co/cftvKSmxo3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089916973769793536",
+            "3_2089916973765562368"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2089980686019293410",
+        "created_at": "2026-08-19T07:40:00.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089980686019293410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UeNc0GkZvB",
+              "end": 103,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2089980686019293410/photo/1",
+              "media_key": "3_2089916973769793536",
+              "start": 80,
+              "url": "https://t.co/UeNc0GkZvB"
+            },
+            {
+              "display_url": "pic.x.com/UeNc0GkZvB",
+              "end": 103,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2089980686019293410/photo/1",
+              "media_key": "3_2089916973765562368",
+              "start": 80,
+              "url": "https://t.co/UeNc0GkZvB"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2089721480326287420",
+              "start": 104,
+              "url": "https://t.co/Um54DAxOE8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089980686019293410",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089916973769793536"
+          },
+          {
+            "media_key": "3_2089916973765562368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 115491,
+          "like_count": 323,
+          "quote_count": 14,
+          "reply_count": 95,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089721480326287420",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "8月19日，重庆长江国际，粉丝聚集和打卡圣地——时代峰峻的涂鸦墙上，有人用黑色喷漆写下了大型的“人民万岁”字样，将原本写满偶像名字及追星留言的墙面大面积覆盖。 https://t.co/UeNc0GkZvB https://t.co/Um54DAxOE8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2090069155315691741",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6029,
+          "following_count": 798,
+          "like_count": 56803,
+          "listed_count": 18,
+          "media_count": 1122,
+          "tweet_count": 9791
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2090068507350495362",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2081228505925492773",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2252096,
+          "following_count": 1081,
+          "like_count": 10022,
+          "listed_count": 8888,
+          "media_count": 52302,
+          "tweet_count": 59610
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

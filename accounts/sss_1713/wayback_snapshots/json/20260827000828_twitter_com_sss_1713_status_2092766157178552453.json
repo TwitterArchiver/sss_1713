@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2092766157178552453",
+    "created_at": "2026-08-27T00:08:28.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T01:08:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092766157178552453"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tengriorigin/s…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/tengriorigin/status/2092685991362613539",
+          "start": 16,
+          "url": "https://t.co/gKUijtkmw0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092766157178552453",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092685991362613539",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你妈三天复活的话我也可以信你妈 https://t.co/gKUijtkmw0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2092766157178552453",
+        "created_at": "2026-08-27T00:08:28.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T01:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092766157178552453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tengriorigin/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/tengriorigin/status/2092685991362613539",
+              "start": 16,
+              "url": "https://t.co/gKUijtkmw0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092766157178552453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092685991362613539",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你妈三天复活的话我也可以信你妈 https://t.co/gKUijtkmw0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013112887250964480",
+        "conversation_id": "2092632650410246634",
+        "created_at": "2026-08-26T18:49:55.000Z",
+        "display_text_range": [
+          10,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T19:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092685991362613539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092685991362613539",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092632650410246634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 信你那狗屁基督的全说话跟弱智一样"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2092766157178552453",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6039,
+          "following_count": 806,
+          "like_count": 57206,
+          "listed_count": 18,
+          "media_count": 1130,
+          "tweet_count": 9854
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-19T04:55:09.000Z",
+        "description": "泽圣单推人",
+        "id": "2013112887250964480",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092688554518597968",
+        "name": "ALTila",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2013112887250964480/1777713499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064536599468425217/2gd6WxER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 102,
+          "like_count": 355,
+          "listed_count": 5,
+          "media_count": 14,
+          "tweet_count": 991
+        },
+        "url": "",
+        "username": "Tengriorigin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

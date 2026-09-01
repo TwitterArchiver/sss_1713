@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087437486217924608"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2087212582247506099",
+    "created_at": "2026-08-12T07:14:17.000Z",
+    "display_text_range": [
+      17,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T08:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087437502026223783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1961835260037287936",
+          "start": 0,
+          "username": "chan19890604to5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o9bfd8BJpU",
+          "end": 46,
+          "expanded_url": "https://x.com/sss_1713/status/2087437502026223783/photo/1",
+          "media_key": "3_2087437486217924608",
+          "start": 23,
+          "url": "https://t.co/o9bfd8BJpU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087437502026223783",
+    "in_reply_to_user_id": "1961835260037287936",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087437486217924608"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087430897876558276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chan19890604to5 还有中医💞 https://t.co/o9bfd8BJpU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1352,
+        "media_key": "3_2087437486217924608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgRVYDakAARBxK.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087437486217924608"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2087212582247506099",
+        "created_at": "2026-08-12T07:14:17.000Z",
+        "display_text_range": [
+          17,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T08:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087437502026223783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1961835260037287936",
+              "start": 0,
+              "username": "chan19890604to5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o9bfd8BJpU",
+              "end": 46,
+              "expanded_url": "https://x.com/sss_1713/status/2087437502026223783/photo/1",
+              "media_key": "3_2087437486217924608",
+              "start": 23,
+              "url": "https://t.co/o9bfd8BJpU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087437502026223783",
+        "in_reply_to_user_id": "1961835260037287936",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087437486217924608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087430897876558276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chan19890604to5 还有中医💞 https://t.co/o9bfd8BJpU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961835260037287936",
+        "conversation_id": "2087212582247506099",
+        "created_at": "2026-08-12T06:48:03.000Z",
+        "display_text_range": [
+          10,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T07:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087430897876558276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087430897876558276",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087429135253811480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 享受陽光🌞沙灘🏖️比基尼👙\n😎😎😎"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2087437502026223783",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5992,
+          "following_count": 803,
+          "like_count": 56360,
+          "listed_count": 18,
+          "media_count": 1115,
+          "tweet_count": 9742
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-30T16:56:30.000Z",
+        "description": "@chan19890604t04的備用號 🕷️🐷🐰滾 不跟🕷️🐷🐰對話 畜牲是聽不懂人話的 備用號@chan19890604to6 圖和影片都是轉的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "chan19890604t04"
+              },
+              {
+                "end": 65,
+                "start": 49,
+                "username": "chan19890604to6"
+              }
+            ]
+          }
+        },
+        "id": "1961835260037287936",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087437037083541574",
+        "name": "陳少5.0",
+        "pinned_tweet_id": "2043861402184757747",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1961835260037287936/1771085056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961836450586275840/_P22MB1V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 480,
+          "like_count": 9637,
+          "listed_count": 6,
+          "media_count": 2788,
+          "tweet_count": 5441
+        },
+        "url": "",
+        "username": "chan19890604to5",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2094013774093078793",
+    "created_at": "2026-08-30T23:45:42.000Z",
+    "display_text_range": [
+      17,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T00:45:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094209981486633456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1548037417378009090",
+          "start": 0,
+          "username": "jolnobewild8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094209981486633456",
+    "in_reply_to_user_id": "1548037417378009090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094055245571908021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jolnobewild8964 不可理喻的脑回路，too young too simple"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2094055245571908021].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2094055245571908021",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2094055245571908021"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2094013774093078793",
+        "created_at": "2026-08-30T23:45:42.000Z",
+        "display_text_range": [
+          17,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T00:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094209981486633456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1548037417378009090",
+              "start": 0,
+              "username": "jolnobewild8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094209981486633456",
+        "in_reply_to_user_id": "1548037417378009090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094055245571908021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jolnobewild8964 不可理喻的脑回路，too young too simple"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2094209981486633456",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6047,
+          "following_count": 809,
+          "like_count": 57367,
+          "listed_count": 18,
+          "media_count": 1132,
+          "tweet_count": 9872
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T20:11:19.000Z",
+        "description": "امام خمینی دانشجویان و نگهبانان، از نظام دولتی امام بسیار متمرکز حمایت می کنند",
+        "id": "1548037417378009090",
+        "is_identity_verified": false,
+        "location": "Xen星球",
+        "most_recent_tweet_id": "2092892970051616966",
+        "name": "南條愛乃2🇮🇷🇮🇶🇾🇪",
+        "pinned_tweet_id": "2061054090650759630",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1548037417378009090/1779805274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018730065107038210/Pyh4qm-5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 2662,
+          "like_count": 95533,
+          "listed_count": 6,
+          "media_count": 951,
+          "tweet_count": 29716
+        },
+        "url": "",
+        "username": "jolnobewild8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

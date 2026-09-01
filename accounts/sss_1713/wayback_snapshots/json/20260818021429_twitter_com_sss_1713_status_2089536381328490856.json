@@ -1,0 +1,551 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089536362399625216",
+        "3_2089536362403725312"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1338342919460200449",
+          "name": "G.E.M."
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1338342919460200449",
+          "name": "G.E.M."
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "C-Pop",
+          "id": "1098263006213881856",
+          "name": "C-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1338342919460200449",
+          "name": "G.E.M."
+        }
+      }
+    ],
+    "conversation_id": "2089536381328490856",
+    "created_at": "2026-08-18T02:14:29.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T03:14:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089536381328490856"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mvR7JPjPlG",
+          "end": 73,
+          "expanded_url": "https://x.com/sss_1713/status/2089536381328490856/photo/1",
+          "media_key": "3_2089536362399625216",
+          "start": 50,
+          "url": "https://t.co/mvR7JPjPlG"
+        },
+        {
+          "display_url": "pic.x.com/mvR7JPjPlG",
+          "end": 73,
+          "expanded_url": "https://x.com/sss_1713/status/2089536381328490856/photo/1",
+          "media_key": "3_2089536362403725312",
+          "start": 50,
+          "url": "https://t.co/mvR7JPjPlG"
+        },
+        {
+          "display_url": "x.com/cuichenghao/st…",
+          "end": 97,
+          "expanded_url": "https://twitter.com/cuichenghao/status/2089263815880020351",
+          "start": 74,
+          "url": "https://t.co/F4lU31ZNF2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089536381328490856",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089536362399625216"
+      },
+      {
+        "media_key": "3_2089536362403725312"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089263815880020351",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "邓紫棋：“占中还是反占中，我不希望我的取态会影响年轻观众，不希望他们被煽动，而是有自己独立思考。” https://t.co/mvR7JPjPlG https://t.co/F4lU31ZNF2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1459,
+        "media_key": "3_2089536362399625216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP-GQDIXcAA_naf.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1564,
+        "media_key": "3_2089536362403725312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP-GQDJWAAAI7pC.jpg",
+        "width": 1206
+      },
+      {
+        "duration_ms": 27166,
+        "height": 792,
+        "media_key": "13_2089263773723119616",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089263773723119616/img/eV0yBNNGivVV2BsY.jpg",
+        "public_metrics": {
+          "view_count": 536646
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089263773723119616/pl/cI7bSsLXiEVRcwAX.m3u8?v=30a"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089263773723119616/vid/avc1/804x720/axPT95rLe66lj3ih.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089263773723119616/vid/avc1/886x792/Jb9dw7OmBjdD_rRr.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089263773723119616/vid/avc1/302x270/pCS98apoSpqZHQcz.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089263773723119616/vid/avc1/402x360/5CXMTSdQNwcyiaFW.mp4"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089536362399625216",
+            "3_2089536362403725312"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1338342919460200449",
+              "name": "G.E.M."
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1338342919460200449",
+              "name": "G.E.M."
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "C-Pop",
+              "id": "1098263006213881856",
+              "name": "C-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1338342919460200449",
+              "name": "G.E.M."
+            }
+          }
+        ],
+        "conversation_id": "2089536381328490856",
+        "created_at": "2026-08-18T02:14:29.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T03:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089536381328490856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mvR7JPjPlG",
+              "end": 73,
+              "expanded_url": "https://x.com/sss_1713/status/2089536381328490856/photo/1",
+              "media_key": "3_2089536362399625216",
+              "start": 50,
+              "url": "https://t.co/mvR7JPjPlG"
+            },
+            {
+              "display_url": "pic.x.com/mvR7JPjPlG",
+              "end": 73,
+              "expanded_url": "https://x.com/sss_1713/status/2089536381328490856/photo/1",
+              "media_key": "3_2089536362403725312",
+              "start": 50,
+              "url": "https://t.co/mvR7JPjPlG"
+            },
+            {
+              "display_url": "x.com/cuichenghao/st…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/cuichenghao/status/2089263815880020351",
+              "start": 74,
+              "url": "https://t.co/F4lU31ZNF2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089536381328490856",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089536362399625216"
+          },
+          {
+            "media_key": "3_2089536362403725312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089263815880020351",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "邓紫棋：“占中还是反占中，我不希望我的取态会影响年轻观众，不希望他们被煽动，而是有自己独立思考。” https://t.co/mvR7JPjPlG https://t.co/F4lU31ZNF2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089263773723119616"
+          ]
+        },
+        "author_id": "1811888010088316932",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1338342919460200449",
+              "name": "G.E.M."
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1338342919460200449",
+              "name": "G.E.M."
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "C-Pop",
+              "id": "1098263006213881856",
+              "name": "C-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1338342919460200449",
+              "name": "G.E.M."
+            }
+          }
+        ],
+        "conversation_id": "2089263815880020351",
+        "created_at": "2026-08-17T08:11:25.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T09:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089263815880020351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bJfflnQ2c7",
+              "end": 147,
+              "expanded_url": "https://x.com/cuichenghao/status/2089263815880020351/video/1",
+              "media_key": "13_2089263773723119616",
+              "start": 124,
+              "url": "https://t.co/bJfflnQ2c7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089263815880020351",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089263773723119616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 390,
+          "impression_count": 936755,
+          "like_count": 2410,
+          "quote_count": 18,
+          "reply_count": 506,
+          "retweet_count": 106
+        },
+        "reply_settings": "everyone",
+        "text": "8月15日晚，邓紫棋杭州演唱会，邓紫棋问，“今天是个特别的日子，你们知道是什么吗？”，粉丝一齐高喊“日本投降日！”，结果邓紫棋听了根本不接话，直接说明天是自己的生日，8月15号只是34岁的最后一场演唱会，这一回答令刚刚血脉偾张的观众大失所望。🤣🤣 https://t.co/bJfflnQ2c7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2089536381328490856",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6024,
+          "following_count": 798,
+          "like_count": 56721,
+          "listed_count": 18,
+          "media_count": 1123,
+          "tweet_count": 9784
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-12T22:19:15.000Z",
+        "description": "心系平壤，从未离开。Heart in Pyongyang ,never left.",
+        "id": "1811888010088316932",
+        "is_identity_verified": false,
+        "location": "Kyoto",
+        "most_recent_tweet_id": "2089534677388562783",
+        "name": "作家崔成浩",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811888010088316932/1748090117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926255631092092928/w0e8RIvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126381,
+          "following_count": 805,
+          "like_count": 10605,
+          "listed_count": 389,
+          "media_count": 6226,
+          "tweet_count": 6556
+        },
+        "url": "",
+        "username": "cuichenghao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

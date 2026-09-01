@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2088087016248635530",
+    "created_at": "2026-08-14T12:50:56.000Z",
+    "display_text_range": [
+      16,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T13:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088246998139060627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1596427841943793664",
+          "start": 0,
+          "username": "TheWonderofu_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088246998139060627",
+    "in_reply_to_user_id": "1596427841943793664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088087016248635530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@TheWonderofu_1 生日快乐！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1555,
+        "media_key": "3_2088087013002207232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPpgEz4aYAA8ydh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2088087016248635530",
+        "created_at": "2026-08-14T12:50:56.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088246998139060627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1596427841943793664",
+              "start": 0,
+              "username": "TheWonderofu_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088246998139060627",
+        "in_reply_to_user_id": "1596427841943793664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088087016248635530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@TheWonderofu_1 生日快乐！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088087013002207232"
+          ]
+        },
+        "author_id": "1596427841943793664",
+        "conversation_id": "2088087016248635530",
+        "created_at": "2026-08-14T02:15:14.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T03:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088087016248635530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uiEfppLmaZ",
+              "end": 63,
+              "expanded_url": "https://x.com/TheWonderofu_1/status/2088087016248635530/photo/1",
+              "media_key": "3_2088087013002207232",
+              "start": 40,
+              "url": "https://t.co/uiEfppLmaZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088087016248635530",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088087013002207232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "Faye酱和我是同一天生日呀…！！！！\n祝faye和我自己全都亚洲时间生日快乐 https://t.co/uiEfppLmaZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2088246998139060627",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6025,
+          "following_count": 803,
+          "like_count": 56523,
+          "listed_count": 18,
+          "media_count": 1118,
+          "tweet_count": 9759
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T08:57:23.000Z",
+        "description": "老鼠爱好者｜最喜欢的人@TheWonderofu_1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "TheWonderofu_1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pome.vip/Thespin",
+                "end": 23,
+                "expanded_url": "https://www.pome.vip/Thespin",
+                "start": 0,
+                "url": "https://t.co/lGfdNCt4IR"
+              }
+            ]
+          }
+        },
+        "id": "1596427841943793664",
+        "is_identity_verified": false,
+        "location": "直到世界把我们分开",
+        "most_recent_tweet_id": "2088151401574940763",
+        "name": "GZ_",
+        "pinned_tweet_id": "2081248895305449718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596427841943793664/1774998534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015678671093370880/gWA3z00l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 301,
+          "like_count": 11172,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 3575
+        },
+        "url": "https://t.co/lGfdNCt4IR",
+        "username": "TheWonderofu_1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

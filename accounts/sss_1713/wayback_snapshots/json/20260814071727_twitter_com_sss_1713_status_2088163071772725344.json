@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2088136186439348514",
+    "created_at": "2026-08-14T07:17:27.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T08:17:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088163071772725344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1741063508102627328",
+          "start": 0,
+          "username": "kitty068_ly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088163071772725344",
+    "in_reply_to_user_id": "1741063508102627328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088136186439348514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kitty068_ly 🤤好漂亮的包"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2088136168080822273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqMyA0aUAEDmfp.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088136168068333568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqMyAxbwAAP2Qy.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2088136168051560448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqMyAtb0AAHDUD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2088136186439348514",
+        "created_at": "2026-08-14T07:17:27.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T08:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088163071772725344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1741063508102627328",
+              "start": 0,
+              "username": "kitty068_ly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088163071772725344",
+        "in_reply_to_user_id": "1741063508102627328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088136186439348514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitty068_ly 🤤好漂亮的包"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088136168080822273",
+            "3_2088136168068333568",
+            "3_2088136168051560448"
+          ]
+        },
+        "author_id": "1741063508102627328",
+        "conversation_id": "2088136186439348514",
+        "created_at": "2026-08-14T05:30:37.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T06:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088136186439348514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ViFA18rzNP",
+              "end": 25,
+              "expanded_url": "https://x.com/kitty068_ly/status/2088136186439348514/photo/1",
+              "media_key": "3_2088136168080822273",
+              "start": 2,
+              "url": "https://t.co/ViFA18rzNP"
+            },
+            {
+              "display_url": "pic.x.com/ViFA18rzNP",
+              "end": 25,
+              "expanded_url": "https://x.com/kitty068_ly/status/2088136186439348514/photo/1",
+              "media_key": "3_2088136168068333568",
+              "start": 2,
+              "url": "https://t.co/ViFA18rzNP"
+            },
+            {
+              "display_url": "pic.x.com/ViFA18rzNP",
+              "end": 25,
+              "expanded_url": "https://x.com/kitty068_ly/status/2088136186439348514/photo/1",
+              "media_key": "3_2088136168051560448",
+              "start": 2,
+              "url": "https://t.co/ViFA18rzNP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088136186439348514",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088136168080822273"
+          },
+          {
+            "media_key": "3_2088136168068333568"
+          },
+          {
+            "media_key": "3_2088136168051560448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "工 https://t.co/ViFA18rzNP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2088163071772725344",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6024,
+          "following_count": 803,
+          "like_count": 56515,
+          "listed_count": 18,
+          "media_count": 1118,
+          "tweet_count": 9758
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-30T11:47:58.000Z",
+        "description": "你喜欢我我喜欢你你对我好我对你好/帮我爱的一切人事物说话/queer/时不时失踪欢迎私联\n会用@Eric52802090721 说一些可爱可怕的事 喜欢我的不会伤害我的朋友来找我玩吧陌生人不行\n老婆妈妈主人爸爸老公哥哥姐姐@dngyng169770781",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "Eric52802090721"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "dngyng169770781"
+              }
+            ]
+          }
+        },
+        "id": "1741063508102627328",
+        "is_identity_verified": false,
+        "location": "South Park",
+        "most_recent_tweet_id": "2088145086450372860",
+        "name": "易子而食",
+        "pinned_tweet_id": "2036628825292091673",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741063508102627328/1784439989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078720064032051200/ZSQR2vqu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1834,
+          "following_count": 590,
+          "like_count": 13264,
+          "listed_count": 1,
+          "media_count": 393,
+          "tweet_count": 6888
+        },
+        "url": "",
+        "username": "kitty068_ly",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

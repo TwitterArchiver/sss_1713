@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2085238214982619453",
+    "created_at": "2026-08-06T17:26:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T18:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085417166124245130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1532599611684429824",
+          "start": 0,
+          "username": "Codforeverloyal"
+        },
+        {
+          "end": 28,
+          "id": "1017604796042211330",
+          "start": 17,
+          "username": "Evenin_eko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085417166124245130",
+    "in_reply_to_user_id": "1532599611684429824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085293029800464455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Codforeverloyal @Evenin_eko 草。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2085238214982619453",
+        "created_at": "2026-08-06T17:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T18:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085417166124245130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1532599611684429824",
+              "start": 0,
+              "username": "Codforeverloyal"
+            },
+            {
+              "end": 28,
+              "id": "1017604796042211330",
+              "start": 17,
+              "username": "Evenin_eko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085417166124245130",
+        "in_reply_to_user_id": "1532599611684429824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085293029800464455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Codforeverloyal @Evenin_eko 草。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1532599611684429824",
+        "conversation_id": "2085238214982619453",
+        "created_at": "2026-08-06T09:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T10:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085293029800464455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1017604796042211330",
+              "start": 0,
+              "username": "Evenin_eko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085293029800464455",
+        "in_reply_to_user_id": "1017604796042211330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 505,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085238214982619453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evenin_eko 我不給你們草出自哪？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5999,
+          "following_count": 808,
+          "like_count": 56097,
+          "listed_count": 18,
+          "media_count": 1106,
+          "tweet_count": 9701
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T05:46:56.000Z",
+        "description": "永遠忠誠",
+        "id": "1532599611684429824",
+        "location": "暗黑鄕",
+        "name": "幼存",
+        "pinned_tweet_id": "1847481357972165054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006681955442765824/aPzEFsLV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 728,
+          "like_count": 209439,
+          "listed_count": 14,
+          "media_count": 1045,
+          "tweet_count": 8526
+        },
+        "url": "",
+        "username": "Codforeverloyal",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-13T03:01:04.000Z",
+        "description": "DTMer&Coder｜东大情理备考中｜Member of PASAU SOUND｜欢迎DM｜纸飞机 https://t.co/EWTwAHXHsN｜里账号 @RikaNeko9｜可爱橙宝 @ST_Bed0721｜可爱棉花糖 @Misncandy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "RikaNeko9"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "ST_Bed0721"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "Misncandy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/asakawashio",
+                "end": 74,
+                "expanded_url": "http://t.me/asakawashio",
+                "start": 51,
+                "url": "https://t.co/EWTwAHXHsN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shiori-net.work",
+                "end": 23,
+                "expanded_url": "https://shiori-net.work/",
+                "start": 0,
+                "url": "https://t.co/wKiADpYai2"
+              }
+            ]
+          }
+        },
+        "id": "1017604796042211330",
+        "location": "Hokkaidō, Japan",
+        "name": "淺川 曦✨ 詩織網路 Shiori Networks",
+        "pinned_tweet_id": "2041398514509635588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950168958138740736/cICoLDtw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3304,
+          "following_count": 1277,
+          "like_count": 179375,
+          "listed_count": 11,
+          "media_count": 3024,
+          "tweet_count": 31677
+        },
+        "url": "https://t.co/wKiADpYai2",
+        "username": "Evenin_eko",
+        "verified": false
+      }
+    ]
+  }
+}

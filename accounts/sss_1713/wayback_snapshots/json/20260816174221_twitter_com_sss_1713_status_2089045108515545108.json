@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2089045108515545108",
+    "created_at": "2026-08-16T17:42:21.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T18:42:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089045108515545108"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gl0cmh/status/…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/gl0cmh/status/2089043744691757166",
+          "start": 55,
+          "url": "https://t.co/Dy7iC7NoQc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089045108515545108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089043744691757166",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没有踩一捧一，趁圣母升天节玩一个面向基督徒的梗也能让下面评论区应激成这样也是我没想到的。**人冷静点.jpg https://t.co/Dy7iC7NoQc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2089045108515545108",
+        "created_at": "2026-08-16T17:42:21.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T18:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089045108515545108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gl0cmh/status/…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/gl0cmh/status/2089043744691757166",
+              "start": 55,
+              "url": "https://t.co/Dy7iC7NoQc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089045108515545108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089043744691757166",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没有踩一捧一，趁圣母升天节玩一个面向基督徒的梗也能让下面评论区应激成这样也是我没想到的。**人冷静点.jpg https://t.co/Dy7iC7NoQc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060382677807857664",
+        "conversation_id": "2088578515297820762",
+        "created_at": "2026-08-16T17:36:55.000Z",
+        "display_text_range": [
+          26,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T18:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089043744691757166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1596179529239855107",
+              "start": 0,
+              "username": "RussiaDingtalk"
+            },
+            {
+              "end": 25,
+              "id": "1254605353838231553",
+              "start": 16,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089043744691757166",
+        "in_reply_to_user_id": "1596179529239855107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089034025805734183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RussiaDingtalk @sss_1713 你别给我扣大帽子，我不信那东西，但这不是作为基督教信徒他踩一捧一的理由"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2089045108515545108",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6028,
+          "following_count": 797,
+          "like_count": 56667,
+          "listed_count": 18,
+          "media_count": 1122,
+          "tweet_count": 9778
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-29T15:28:36.000Z",
+        "description": "你妈逼里国总统/资本操你妈主义/孙笑川主义/冲绳帝国总统/日本海海王/东南亚驻东南亚总督/蒙古海军元帅/陆上自卫队少将/社会自由主义亲爹/奥斯曼突厥可汗/梵蒂冈皇帝/跨物种做爱支持者",
+        "id": "2060382677807857664",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089044836053922147",
+        "name": "こわだ まさこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060382677807857664/1786782483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088543228354273280/VcdVcktq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 28,
+          "like_count": 16,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 110
+        },
+        "url": "",
+        "username": "gl0cmh",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-25T16:30:44.000Z",
+        "description": "Jesus Christ my lord.",
+        "id": "1596179529239855107",
+        "is_identity_verified": false,
+        "location": "衡水",
+        "most_recent_tweet_id": "2089037228156801481",
+        "name": "Z-Dingtalk✝",
+        "pinned_tweet_id": "1818662012299145511",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596179529239855107/1755537012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980938311351873536/N7xc_pm5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 100,
+          "like_count": 3030,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 1155
+        },
+        "url": "",
+        "username": "RussiaDingtalk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

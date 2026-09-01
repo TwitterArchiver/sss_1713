@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2087467284998840558",
+    "created_at": "2026-08-12T16:47:50.000Z",
+    "display_text_range": [
+      23,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T17:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087581840060096751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1587696726022017027",
+          "start": 0,
+          "username": "Ephraim_deca"
+        },
+        {
+          "end": 22,
+          "id": "1702558607773151232",
+          "start": 14,
+          "username": "ooorjd4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087581840060096751",
+    "in_reply_to_user_id": "1587696726022017027",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087548371741315386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ephraim_deca @ooorjd4 笑死我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2087467284998840558",
+        "created_at": "2026-08-12T16:47:50.000Z",
+        "display_text_range": [
+          23,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087581840060096751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1587696726022017027",
+              "start": 0,
+              "username": "Ephraim_deca"
+            },
+            {
+              "end": 22,
+              "id": "1702558607773151232",
+              "start": 14,
+              "username": "ooorjd4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087581840060096751",
+        "in_reply_to_user_id": "1587696726022017027",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087548371741315386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ephraim_deca @ooorjd4 笑死我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587696726022017027",
+        "conversation_id": "2087467284998840558",
+        "created_at": "2026-08-12T14:34:51.000Z",
+        "display_text_range": [
+          9,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087548371741315386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1702558607773151232",
+              "start": 0,
+              "username": "ooorjd4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087548371741315386",
+        "in_reply_to_user_id": "1702558607773151232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087467284998840558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ooorjd4 这个岁数了还健在的话，只能说续了这么多1s都被他截胡了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2087581840060096751",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6001,
+          "following_count": 805,
+          "like_count": 56413,
+          "listed_count": 18,
+          "media_count": 1116,
+          "tweet_count": 9750
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2022-11-02T06:43:01.000Z",
+        "description": "网络幽灵//中文/English/Español/Latina ecclesiastica(studeo)//\n圣神请降临，充信尔众心，以厥仁爱火，燃灼诸黎民🇻🇦\n电报：https://t.co/2c1TVVkK15\n垃圾箱：https://t.co/BUKhQfYqVS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Clemens777hepta",
+                "end": 108,
+                "expanded_url": "http://telegram.me/Clemens777hepta",
+                "start": 85,
+                "url": "https://t.co/2c1TVVkK15"
+              },
+              {
+                "display_url": "ngl.link/clemensdsh",
+                "end": 136,
+                "expanded_url": "https://ngl.link/clemensdsh",
+                "start": 113,
+                "url": "https://t.co/BUKhQfYqVS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "clemensdsh.xyz",
+                "end": 23,
+                "expanded_url": "https://clemensdsh.xyz/",
+                "start": 0,
+                "url": "https://t.co/7H8hmco3uJ"
+              }
+            ]
+          }
+        },
+        "id": "1587696726022017027",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087568535002247305",
+        "name": "楊柳條兒青",
+        "pinned_tweet_id": "2077812485499867590",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1587696726022017027/1761025014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916508130042896384/4QZdgjiH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 3995,
+          "like_count": 92011,
+          "listed_count": 4,
+          "media_count": 642,
+          "tweet_count": 5000
+        },
+        "url": "https://t.co/7H8hmco3uJ",
+        "username": "Ephraim_deca",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-15T05:43:17.000Z",
+        "description": "作为圣诞礼物我大西王送你们归西！/系列号→@djrongiaui1 @wangdao810 /旧号→@mugaku31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 21,
+                "username": "djrongiaui1"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "wangdao810"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "username": "mugaku31"
+              }
+            ]
+          }
+        },
+        "id": "1702558607773151232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087504778066796998",
+        "name": "猫型键政摸鱼机",
+        "pinned_tweet_id": "2014991160830574863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1702558607773151232/1732886256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076627432296361984/ehc9pNxh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 871,
+          "like_count": 8907,
+          "listed_count": 3,
+          "media_count": 1295,
+          "tweet_count": 16422
+        },
+        "url": "",
+        "username": "ooorjd4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2087216435651031551",
+    "created_at": "2026-08-11T16:35:51.000Z",
+    "display_text_range": [
+      0,
+      146
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T17:35:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087216435651031551"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sss_1713/statu…",
+          "end": 170,
+          "expanded_url": "https://twitter.com/sss_1713/status/1656328578819059714",
+          "start": 147,
+          "url": "https://t.co/yLEG4NrnvV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087216435651031551",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1656328578819059714",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "即使三年后的今天我也信了基督教✝️，但我仍然认为柴玲的“原谅”是为人所不齿的，是她政治明星路上的作秀。\n不是出于信仰的慈悲和宽容，是出于自身现实利益而对受害者造成二次伤害的表演。\n信仰指引我们追求公义，而非只懂得“爱我们的仇敌”\n\n只愿公道如水常流，正义像川流不息的江河！（亚毛斯 5:24） https://t.co/yLEG4NrnvV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2087216435651031551",
+        "created_at": "2026-08-11T16:35:51.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T17:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087216435651031551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/sss_1713/status/1656328578819059714",
+              "start": 147,
+              "url": "https://t.co/yLEG4NrnvV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087216435651031551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1656328578819059714",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "即使三年后的今天我也信了基督教✝️，但我仍然认为柴玲的“原谅”是为人所不齿的，是她政治明星路上的作秀。\n不是出于信仰的慈悲和宽容，是出于自身现实利益而对受害者造成二次伤害的表演。\n信仰指引我们追求公义，而非只懂得“爱我们的仇敌”\n\n只愿公道如水常流，正义像川流不息的江河！（亚毛斯 5:24） https://t.co/yLEG4NrnvV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "1656326790191763461",
+        "created_at": "2023-05-10T16:01:20.000Z",
+        "display_text_range": [
+          15,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2023-05-10T16:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1656328578819059714"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1656328578819059714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2185,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Oldzhaoziyang 虽然她话是那样说了，但终归六四那天没跑。但是后来信基督教了，就要原谅邓小平和李鹏真是......挺无语的😇"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2087216435651031551",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5990,
+          "following_count": 799,
+          "like_count": 56301,
+          "listed_count": 18,
+          "media_count": 1111,
+          "tweet_count": 9726
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

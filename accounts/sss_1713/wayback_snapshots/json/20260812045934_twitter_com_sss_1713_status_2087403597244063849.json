@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087403547084410880"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2087403597244063849",
+    "created_at": "2026-08-12T04:59:34.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T05:59:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087403597244063849"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/elQzc2tpjc",
+          "end": 63,
+          "expanded_url": "https://x.com/sss_1713/status/2087403597244063849/photo/1",
+          "media_key": "3_2087403547084410880",
+          "start": 40,
+          "url": "https://t.co/elQzc2tpjc"
+        },
+        {
+          "display_url": "x.com/sss_1713/statu…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/sss_1713/status/2087244781072289906",
+          "start": 64,
+          "url": "https://t.co/TKmligVCiS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087403597244063849",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087403547084410880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087244781072289906",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "致敬最不爱阴谋论的中年人\n到底是谁在逼张雪峰隐藏身份，土木学长的追杀吗。。。？ https://t.co/elQzc2tpjc https://t.co/TKmligVCiS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1484,
+        "media_key": "3_2087403547084410880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPfyd27bUAAiFFz.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1201,
+        "media_key": "3_2087244764194496513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPdiDekbYAE6kCJ.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087403547084410880"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2087403597244063849",
+        "created_at": "2026-08-12T04:59:34.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T05:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087403597244063849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/elQzc2tpjc",
+              "end": 63,
+              "expanded_url": "https://x.com/sss_1713/status/2087403597244063849/photo/1",
+              "media_key": "3_2087403547084410880",
+              "start": 40,
+              "url": "https://t.co/elQzc2tpjc"
+            },
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/sss_1713/status/2087244781072289906",
+              "start": 64,
+              "url": "https://t.co/TKmligVCiS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087403597244063849",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087403547084410880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087244781072289906",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "致敬最不爱阴谋论的中年人\n到底是谁在逼张雪峰隐藏身份，土木学长的追杀吗。。。？ https://t.co/elQzc2tpjc https://t.co/TKmligVCiS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087244764194496513"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2087244781072289906",
+        "created_at": "2026-08-11T18:28:29.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T19:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087244781072289906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kaLM2ISSol",
+              "end": 36,
+              "expanded_url": "https://x.com/sss_1713/status/2087244781072289906/photo/1",
+              "media_key": "3_2087244764194496513",
+              "start": 13,
+              "url": "https://t.co/kaLM2ISSol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087244781072289906",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087244764194496513"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2040,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "做这图的家里得请高人了。 https://t.co/kaLM2ISSol"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2087403597244063849",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5989,
+          "following_count": 803,
+          "like_count": 56348,
+          "listed_count": 18,
+          "media_count": 1114,
+          "tweet_count": 9736
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

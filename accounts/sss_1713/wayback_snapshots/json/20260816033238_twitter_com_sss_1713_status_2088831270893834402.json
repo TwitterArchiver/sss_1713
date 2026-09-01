@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2088831270893834402",
+    "created_at": "2026-08-16T03:32:38.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T04:32:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088831270893834402"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dearemon/statu…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/dearemon/status/2088241960268320843",
+          "start": 20,
+          "url": "https://t.co/gbNHcN16PV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088831270893834402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088241960268320843",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "上次看到这个大概还是疫情第一年的时候。 https://t.co/gbNHcN16PV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2551,
+        "media_key": "3_2088241950738776064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrs_X7agAAffAE.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2551,
+        "media_key": "3_2088241950768111617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrs_YCaIAEfezV.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2088831270893834402",
+        "created_at": "2026-08-16T03:32:38.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T04:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088831270893834402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dearemon/statu…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/dearemon/status/2088241960268320843",
+              "start": 20,
+              "url": "https://t.co/gbNHcN16PV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088831270893834402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088241960268320843",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上次看到这个大概还是疫情第一年的时候。 https://t.co/gbNHcN16PV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088241950738776064",
+            "3_2088241950768111617"
+          ]
+        },
+        "author_id": "126581934",
+        "conversation_id": "2088241960268320843",
+        "created_at": "2026-08-14T12:30:55.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088241960268320843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/amQwgC4pw4",
+              "end": 30,
+              "expanded_url": "https://x.com/dearemon/status/2088241960268320843/photo/1",
+              "media_key": "3_2088241950738776064",
+              "start": 7,
+              "url": "https://t.co/amQwgC4pw4"
+            },
+            {
+              "display_url": "pic.x.com/amQwgC4pw4",
+              "end": 30,
+              "expanded_url": "https://x.com/dearemon/status/2088241960268320843/photo/1",
+              "media_key": "3_2088241950768111617",
+              "start": 7,
+              "url": "https://t.co/amQwgC4pw4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088241960268320843",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088241950738776064"
+          },
+          {
+            "media_key": "3_2088241950768111617"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 780,
+          "impression_count": 1602934,
+          "like_count": 3965,
+          "quote_count": 37,
+          "reply_count": 794,
+          "retweet_count": 134
+        },
+        "reply_settings": "everyone",
+        "text": "人类太可怕了 https://t.co/amQwgC4pw4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2088831270893834402",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6025,
+          "following_count": 802,
+          "like_count": 56641,
+          "listed_count": 18,
+          "media_count": 1120,
+          "tweet_count": 9770
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-03-26T09:45:48.000Z",
+        "description": "世上哪有Happy Ending这回事儿，Ending本身就够悲伤的了。 第一届皮皮虾花样去壳冠军 。SW 5792-2309-7599 动森梦境岛 DA-9972-7707-7708",
+        "id": "126581934",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088831227751235648",
+        "name": "禿道道🐟",
+        "pinned_tweet_id": "1917513212721090703",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/126581934/1424588322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004910874897907712/QA8ibrUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67932,
+          "following_count": 711,
+          "like_count": 5873,
+          "listed_count": 242,
+          "media_count": 37395,
+          "tweet_count": 412169
+        },
+        "url": "",
+        "username": "dearemon",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

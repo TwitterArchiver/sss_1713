@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088912172453613568"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2088912190711488740",
+    "created_at": "2026-08-16T08:54:11.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T09:54:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088912190711488740"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/f17M5ANmGv",
+          "end": 88,
+          "expanded_url": "https://x.com/sss_1713/status/2088912190711488740/photo/1",
+          "media_key": "3_2088912172453613568",
+          "start": 65,
+          "url": "https://t.co/f17M5ANmGv"
+        },
+        {
+          "display_url": "x.com/sss_1713/statu…",
+          "end": 112,
+          "expanded_url": "https://twitter.com/sss_1713/status/2088578515297820762",
+          "start": 89,
+          "url": "https://t.co/uX5S3M5rEu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088912190711488740",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088912172453613568"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088578515297820762",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一群人连最简单的英文（for christian）都看不懂吗。\n我能对你们报以尊重，也希望你们能尊重别人的信仰，祝你们生活愉快🙏 https://t.co/f17M5ANmGv https://t.co/uX5S3M5rEu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1737,
+        "media_key": "3_2088912172453613568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1OjaYWUAA0vMg.jpg",
+        "width": 1206
+      },
+      {
+        "height": 220,
+        "media_key": "3_2088578495467118592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwfE2vWYAALOaf.jpg",
+        "width": 329
+      },
+      {
+        "height": 1207,
+        "media_key": "3_2088578495463018498",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwfE2uX0AIhDro.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088912172453613568"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2088912190711488740",
+        "created_at": "2026-08-16T08:54:11.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T09:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088912190711488740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f17M5ANmGv",
+              "end": 88,
+              "expanded_url": "https://x.com/sss_1713/status/2088912190711488740/photo/1",
+              "media_key": "3_2088912172453613568",
+              "start": 65,
+              "url": "https://t.co/f17M5ANmGv"
+            },
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/sss_1713/status/2088578515297820762",
+              "start": 89,
+              "url": "https://t.co/uX5S3M5rEu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088912190711488740",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088912172453613568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088578515297820762",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一群人连最简单的英文（for christian）都看不懂吗。\n我能对你们报以尊重，也希望你们能尊重别人的信仰，祝你们生活愉快🙏 https://t.co/f17M5ANmGv https://t.co/uX5S3M5rEu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088578495467118592",
+            "3_2088578495463018498"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2088578515297820762",
+        "created_at": "2026-08-15T10:48:16.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T11:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088578515297820762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jrBMW8hWcd",
+              "end": 78,
+              "expanded_url": "https://x.com/sss_1713/status/2088578515297820762/photo/1",
+              "media_key": "3_2088578495467118592",
+              "start": 55,
+              "url": "https://t.co/jrBMW8hWcd"
+            },
+            {
+              "display_url": "pic.x.com/jrBMW8hWcd",
+              "end": 78,
+              "expanded_url": "https://x.com/sss_1713/status/2088578515297820762/photo/1",
+              "media_key": "3_2088578495463018498",
+              "start": 55,
+              "url": "https://t.co/jrBMW8hWcd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088578515297820762",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088578495467118592"
+          },
+          {
+            "media_key": "3_2088578495463018498"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3753,
+          "like_count": 90,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "For Christian：\n虚假的咱妈⬇️                         真正的咱妈⬇️ https://t.co/jrBMW8hWcd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2088912190711488740",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6025,
+          "following_count": 797,
+          "like_count": 56644,
+          "listed_count": 18,
+          "media_count": 1122,
+          "tweet_count": 9774
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2090304870133743805",
+    "created_at": "2026-08-20T05:08:11.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T06:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090304870133743805"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/satireorcry1/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/satireorcry1/status/2090016614750011551",
+          "start": 3,
+          "url": "https://t.co/yFmmuSh0eJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090304870133743805",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090016614750011551",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真假 https://t.co/yFmmuSh0eJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2090304870133743805",
+        "created_at": "2026-08-20T05:08:11.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T06:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090304870133743805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/satireorcry1/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/satireorcry1/status/2090016614750011551",
+              "start": 3,
+              "url": "https://t.co/yFmmuSh0eJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090304870133743805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090016614750011551",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真假 https://t.co/yFmmuSh0eJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993455710274043905",
+        "conversation_id": "2090016614750011551",
+        "created_at": "2026-08-19T10:02:46.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090016614750011551"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090016614750011551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 37671,
+          "like_count": 247,
+          "quote_count": 2,
+          "reply_count": 59,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "今天收到消息，从本月开始，上海所有的殡仪馆不得再举行天主教礼仪的葬礼。不知道是只有上海如此，还是已经推到全国。￼\n\n按照天主教的风俗，教友去世后，会在教堂内停放遗体，然后再移至殡仪馆，由神父主持追悼会。现在教堂停灵也不再允许了。￼"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2090304870133743805",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6030,
+          "following_count": 799,
+          "like_count": 56834,
+          "listed_count": 18,
+          "media_count": 1122,
+          "tweet_count": 9795
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "专注梗图制作20年。 Professional meme maker for 20 years.\n\n欢迎商业洽谈，请用邮箱联系：furinana.x.com@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@FurinanaDF/sh…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@FurinanaDF/shorts",
+                "start": 0,
+                "url": "https://t.co/DFPciNfDgf"
+              }
+            ]
+          }
+        },
+        "id": "1993455710274043905",
+        "is_identity_verified": false,
+        "location": "12 Millbank, London, SW1P 4QE",
+        "most_recent_tweet_id": "2090180630222962823",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2084174899216548219",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1993455710274043905/1778601400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41271,
+          "following_count": 1717,
+          "like_count": 24930,
+          "listed_count": 122,
+          "media_count": 6144,
+          "tweet_count": 8180
+        },
+        "url": "https://t.co/DFPciNfDgf",
+        "username": "satireorcry1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

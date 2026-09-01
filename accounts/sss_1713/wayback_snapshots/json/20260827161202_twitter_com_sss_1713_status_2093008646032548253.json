@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093008637576773633"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2093008646032548253",
+    "created_at": "2026-08-27T16:12:02.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T17:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093008646032548253"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cj0dCXcdyE",
+          "end": 36,
+          "expanded_url": "https://x.com/sss_1713/status/2093008646032548253/photo/1",
+          "media_key": "3_2093008637576773633",
+          "start": 13,
+          "url": "https://t.co/cj0dCXcdyE"
+        },
+        {
+          "display_url": "x.com/ruters0615/sta…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/ruters0615/status/2093006859699646750",
+          "start": 37,
+          "url": "https://t.co/sV1eZxrK8H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093008646032548253",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093008637576773633"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093006859699646750",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "之前官号比现在接地气多了 https://t.co/cj0dCXcdyE https://t.co/sV1eZxrK8H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 509,
+        "media_key": "3_2093008637576773633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvcREKWgAElkgy.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1125,
+        "media_key": "3_2093006829744001024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvan1dbkAAWUsg.jpg",
+        "width": 576
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2093006829743919104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvan1daUAAaIp7.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093008637576773633"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2093008646032548253",
+        "created_at": "2026-08-27T16:12:02.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T17:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093008646032548253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cj0dCXcdyE",
+              "end": 36,
+              "expanded_url": "https://x.com/sss_1713/status/2093008646032548253/photo/1",
+              "media_key": "3_2093008637576773633",
+              "start": 13,
+              "url": "https://t.co/cj0dCXcdyE"
+            },
+            {
+              "display_url": "x.com/ruters0615/sta…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/ruters0615/status/2093006859699646750",
+              "start": 37,
+              "url": "https://t.co/sV1eZxrK8H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093008646032548253",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093008637576773633"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093006859699646750",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前官号比现在接地气多了 https://t.co/cj0dCXcdyE https://t.co/sV1eZxrK8H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093006829744001024",
+            "3_2093006829743919104"
+          ]
+        },
+        "author_id": "1153970326604144640",
+        "conversation_id": "2093006859699646750",
+        "created_at": "2026-08-27T16:04:56.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T17:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093006859699646750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/paxHmYo3Bo",
+              "end": 69,
+              "expanded_url": "https://x.com/Ruters0615/status/2093006859699646750/photo/1",
+              "media_key": "3_2093006829744001024",
+              "start": 46,
+              "url": "https://t.co/paxHmYo3Bo"
+            },
+            {
+              "display_url": "pic.x.com/paxHmYo3Bo",
+              "end": 69,
+              "expanded_url": "https://x.com/Ruters0615/status/2093006859699646750/photo/1",
+              "media_key": "3_2093006829743919104",
+              "start": 46,
+              "url": "https://t.co/paxHmYo3Bo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093006859699646750",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093006829744001024"
+          },
+          {
+            "media_key": "3_2093006829743919104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 326,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "顶天立地，目及寰宇，睥睨天下，器宇轩昂。举手投足尽显帝王风范。中国高质量雄性，身高180😎 https://t.co/paxHmYo3Bo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2093008646032548253",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6046,
+          "following_count": 808,
+          "like_count": 57236,
+          "listed_count": 18,
+          "media_count": 1131,
+          "tweet_count": 9859
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-07-24T10:09:00.000Z",
+        "description": "官方X账户，国安部最高通缉，专注于乳包反共鬼畜作品，投稿请私信or邮箱投稿：Ruters0615@gmail.com\nTelegram：https://t.co/p6qoFVZxgy\nYouTube：小反旗&小池塘（被国安橄榄过三回啊三回）\nRumble / Spotify：Ruters乳透社",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ruters0615",
+                "end": 91,
+                "expanded_url": "http://t.me/Ruters0615",
+                "start": 68,
+                "url": "https://t.co/p6qoFVZxgy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@RutersXiaoFan…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@RutersXiaoFanQi",
+                "start": 0,
+                "url": "https://t.co/fxNkDBFEkL"
+              }
+            ]
+          }
+        },
+        "id": "1153970326604144640",
+        "is_identity_verified": false,
+        "location": "IP属地：梁家河",
+        "most_recent_tweet_id": "2093006859699646750",
+        "name": "Ruters乳透社",
+        "pinned_tweet_id": "2013472422435983458",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1153970326604144640/1652329388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520784344280748032/gHq_Pfaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297917,
+          "following_count": 2371,
+          "like_count": 2443,
+          "listed_count": 942,
+          "media_count": 2478,
+          "tweet_count": 3300
+        },
+        "url": "https://t.co/fxNkDBFEkL",
+        "username": "Ruters0615",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

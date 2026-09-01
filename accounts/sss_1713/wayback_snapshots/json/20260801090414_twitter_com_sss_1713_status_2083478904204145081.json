@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Author\n",
+          "id": "808408440301232128",
+          "name": "JK Rowling"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Author\n",
+          "id": "808408440301232128",
+          "name": "JK Rowling"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166408461485101056",
+          "name": "Authors"
+        }
+      }
+    ],
+    "conversation_id": "2083478904204145081",
+    "created_at": "2026-08-01T09:04:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T10:04:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083478904204145081"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jk_rowling/sta…",
+          "end": 86,
+          "expanded_url": "https://twitter.com/jk_rowling/status/2083461365847454130",
+          "start": 63,
+          "url": "https://t.co/0nQ5ek2b3G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083478904204145081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083461365847454130",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "明明可以翻译成“偷懒了一下”，但是偏偏翻译成了“轻松了一下”，好像J.K.Rowling 在享受“检查性器官”的过程一样…… https://t.co/0nQ5ek2b3G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 892,
+        "media_key": "3_2083461356854845440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnxEL6WIAAUDcL.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          }
+        ],
+        "conversation_id": "2083478904204145081",
+        "created_at": "2026-08-01T09:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083478904204145081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jk_rowling/sta…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/jk_rowling/status/2083461365847454130",
+              "start": 63,
+              "url": "https://t.co/0nQ5ek2b3G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083478904204145081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083461365847454130",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "明明可以翻译成“偷懒了一下”，但是偏偏翻译成了“轻松了一下”，好像J.K.Rowling 在享受“检查性器官”的过程一样…… https://t.co/0nQ5ek2b3G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083461356854845440"
+          ]
+        },
+        "author_id": "62513246",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          }
+        ],
+        "conversation_id": "2083461365847454130",
+        "created_at": "2026-08-01T07:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083461365847454130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zzK47SWr2O",
+              "end": 229,
+              "expanded_url": "https://x.com/jk_rowling/status/2083461365847454130/photo/1",
+              "media_key": "3_2083461356854845440",
+              "start": 206,
+              "url": "https://t.co/zzK47SWr2O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083461365847454130",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 66038,
+          "like_count": 4969,
+          "quote_count": 24,
+          "reply_count": 387,
+          "retweet_count": 320
+        },
+        "reply_settings": "everyone",
+        "text": "As it’s my birthday, I’ve taken it easy today: only three penises and just the two vulvas. Apologies to those waiting. Normal service will resume tomorrow. No need to keep everything exposed while queuing. https://t.co/zzK47SWr2O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5994,
+          "following_count": 798,
+          "like_count": 55664,
+          "listed_count": 18,
+          "media_count": 1097,
+          "tweet_count": 9639
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-03T13:23:45.000Z",
+        "description": "Author, founder of Lumos and Beira's Place, surname rhymes with bowling, not growling.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jkrowling.com",
+                "end": 23,
+                "expanded_url": "http://www.jkrowling.com",
+                "start": 0,
+                "url": "https://t.co/sQiPGyMIFA"
+              }
+            ]
+          }
+        },
+        "id": "62513246",
+        "location": "Scotland",
+        "name": "J.K. Rowling",
+        "pinned_tweet_id": "1966256971134234678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068423688500744192/mBmehEZf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13775561,
+          "following_count": 1160,
+          "like_count": 73118,
+          "listed_count": 30411,
+          "media_count": 1779,
+          "tweet_count": 23136
+        },
+        "url": "https://t.co/sQiPGyMIFA",
+        "username": "jk_rowling",
+        "verified": true
+      }
+    ]
+  }
+}

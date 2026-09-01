@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2093555872462983341",
+    "created_at": "2026-08-29T04:26:31.000Z",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T05:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093555872462983341"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sss_1713/statu…",
+          "end": 168,
+          "expanded_url": "https://twitter.com/sss_1713/status/2093552376770650422",
+          "start": 145,
+          "url": "https://t.co/ARfJcPu2cn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093555872462983341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093552376770650422",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想看完后很多中国人会想到“我们不是生活在一个和平的年代，只是生活在一个和平的国家。”\n\n把战争中的人仅仅理解为“生活在不和平国家的人”，把他们的苦难反过来证明“我们生活得足够幸运”，是居高临下的，战争中的孩子、平民、难民并不是用来衬托我们和平生活的背景板，他们首先是和我们一样具体的人。 https://t.co/ARfJcPu2cn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2093555872462983341",
+        "created_at": "2026-08-29T04:26:31.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T05:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093555872462983341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/sss_1713/status/2093552376770650422",
+              "start": 145,
+              "url": "https://t.co/ARfJcPu2cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093555872462983341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093552376770650422",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想看完后很多中国人会想到“我们不是生活在一个和平的年代，只是生活在一个和平的国家。”\n\n把战争中的人仅仅理解为“生活在不和平国家的人”，把他们的苦难反过来证明“我们生活得足够幸运”，是居高临下的，战争中的孩子、平民、难民并不是用来衬托我们和平生活的背景板，他们首先是和我们一样具体的人。 https://t.co/ARfJcPu2cn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2093552376770650422",
+        "created_at": "2026-08-29T04:12:37.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T05:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093552376770650422"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 130,
+              "start": 123,
+              "tag": "欢迎来龙餐馆"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093552376770650422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沈腾演的龙餐馆蛮不错，有些人把它和战狼放一起是不可理喻的，主人公不止一次提到过自己和同伴的中国人身份，但国籍没有让美军停下，也没有让反抗军因此放弃杀戮。它没有赋予马俊生某种超越战争的特权。一个人在战争中首先是一个具体的人，其次才是某个国家的国民。#欢迎来龙餐馆"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2093555872462983341",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6048,
+          "following_count": 808,
+          "like_count": 57296,
+          "listed_count": 18,
+          "media_count": 1131,
+          "tweet_count": 9865
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2091151775650984092",
+    "created_at": "2026-08-22T15:32:23.000Z",
+    "display_text_range": [
+      48,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T16:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091186730145620065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2008540594214473728",
+          "start": 0,
+          "username": "LuciusMalakor"
+        },
+        {
+          "end": 30,
+          "id": "1464319347736911877",
+          "start": 15,
+          "username": "sugihara_tatuo"
+        },
+        {
+          "end": 47,
+          "id": "1982839066120048640",
+          "start": 31,
+          "username": "yidegelamiamisi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091186730145620065",
+    "in_reply_to_user_id": "2008540594214473728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091156659049767016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuciusMalakor @sugihara_tatuo @yidegelamiamisi 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2091151775650984092",
+        "created_at": "2026-08-22T15:32:23.000Z",
+        "display_text_range": [
+          48,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T16:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091186730145620065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2008540594214473728",
+              "start": 0,
+              "username": "LuciusMalakor"
+            },
+            {
+              "end": 30,
+              "id": "1464319347736911877",
+              "start": 15,
+              "username": "sugihara_tatuo"
+            },
+            {
+              "end": 47,
+              "id": "1982839066120048640",
+              "start": 31,
+              "username": "yidegelamiamisi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091186730145620065",
+        "in_reply_to_user_id": "2008540594214473728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091156659049767016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuciusMalakor @sugihara_tatuo @yidegelamiamisi 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008540594214473728",
+        "conversation_id": "2091151775650984092",
+        "created_at": "2026-08-22T13:32:53.000Z",
+        "display_text_range": [
+          33,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T14:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091156659049767016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1464319347736911877",
+              "start": 0,
+              "username": "sugihara_tatuo"
+            },
+            {
+              "end": 32,
+              "id": "1982839066120048640",
+              "start": 16,
+              "username": "yidegelamiamisi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091156659049767016",
+        "in_reply_to_user_id": "1464319347736911877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 255,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091154892291448865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sugihara_tatuo @yidegelamiamisi 推友搞了很多年也没有搞明白。可能🐜🐉的思路比较好，搞了个封号，可惜扩大化了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2091186730145620065",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6032,
+          "following_count": 802,
+          "like_count": 56974,
+          "listed_count": 18,
+          "media_count": 1125,
+          "tweet_count": 9813
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-06T14:06:28.000Z",
+        "description": "",
+        "id": "2008540594214473728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091156659049767016",
+        "name": "Lucius Malakor",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008540594214473728/1783596177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047154911197147136/KZtxL9e2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 150,
+          "like_count": 4749,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 67
+        },
+        "url": "",
+        "username": "LuciusMalakor",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-26T19:45:30.000Z",
+        "description": "斃れずば止まじ。邪惡目田狗 退步保守逼 有神論渣滓 無恥死川黑 非支黑。President of @enchenia。\n語言：漢/英/日/阿/西/波/拉。\n歷史架空作品「子夜之后」https://t.co/uE3gW318D2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "enchenia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitter.com/sugihara_tatuo…",
+                "end": 113,
+                "expanded_url": "https://twitter.com/sugihara_tatuo/status/1604130969434279936?s=19",
+                "start": 90,
+                "url": "https://t.co/uE3gW318D2"
+              }
+            ]
+          }
+        },
+        "id": "1464319347736911877",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091154892291448865",
+        "name": "杉原 辰雄 ☭⃠🌸⛩️ （不定期退隱）",
+        "pinned_tweet_id": "1604130969434279936",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1464319347736911877/1756040942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045448471986180097/uMpwJ8KP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5710,
+          "following_count": 763,
+          "like_count": 162178,
+          "listed_count": 33,
+          "media_count": 1827,
+          "tweet_count": 17090
+        },
+        "url": "",
+        "username": "sugihara_tatuo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-27T15:57:38.000Z",
+        "description": "114",
+        "id": "1982839066120048640",
+        "is_identity_verified": false,
+        "location": "一的格拉米",
+        "most_recent_tweet_id": "2091186490294571118",
+        "name": "斯塔默主席万寿无疆",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1982839066120048640/1783866729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076243237325651968/roKbwovh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 465,
+          "like_count": 4111,
+          "listed_count": 8,
+          "media_count": 271,
+          "tweet_count": 3426
+        },
+        "url": "",
+        "username": "yidegelamiamisi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2091034433411244190",
+    "created_at": "2026-08-22T08:09:34.000Z",
+    "display_text_range": [
+      15,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T09:09:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091075292576014422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1753042880162299904",
+          "start": 0,
+          "username": "Aletheic_Self"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091075292576014422",
+    "in_reply_to_user_id": "1753042880162299904",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091052258444406976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aletheic_Self 🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2091034433411244190",
+        "created_at": "2026-08-22T08:09:34.000Z",
+        "display_text_range": [
+          15,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T09:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091075292576014422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1753042880162299904",
+              "start": 0,
+              "username": "Aletheic_Self"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091075292576014422",
+        "in_reply_to_user_id": "1753042880162299904",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091052258444406976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aletheic_Self 🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753042880162299904",
+        "conversation_id": "2091034433411244190",
+        "created_at": "2026-08-22T06:38:02.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T07:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091052258444406976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091052258444406976",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091034433411244190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 历史的眼泪。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2091075292576014422",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6031,
+          "following_count": 801,
+          "like_count": 56945,
+          "listed_count": 18,
+          "media_count": 1124,
+          "tweet_count": 9807
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-01T13:09:39.000Z",
+        "description": "希望你天天开心🤝🫂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "substack.com/@jjwg1110",
+                "end": 23,
+                "expanded_url": "http://substack.com/@jjwg1110",
+                "start": 0,
+                "url": "https://t.co/OfrRca9H4b"
+              }
+            ]
+          }
+        },
+        "id": "1753042880162299904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091070736698114437",
+        "name": "荆棘我冠 .",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753042880162299904/1706794591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083557574671261696/uNhNSFGo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 34,
+          "like_count": 6787,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 12878
+        },
+        "url": "https://t.co/OfrRca9H4b",
+        "username": "Aletheic_Self",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

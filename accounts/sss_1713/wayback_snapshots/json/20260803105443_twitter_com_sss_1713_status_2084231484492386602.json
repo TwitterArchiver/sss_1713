@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2084228679027376144",
+    "created_at": "2026-08-03T10:54:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T11:54:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084231484492386602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1640150075950374914",
+          "start": 0,
+          "username": "AraBh_channels"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084231484492386602",
+    "in_reply_to_user_id": "1640150075950374914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084231111283261761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AraBh_channels 我觉得也是！他们这个酱又多又稠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2084228679027376144",
+        "created_at": "2026-08-03T10:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084231484492386602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1640150075950374914",
+              "start": 0,
+              "username": "AraBh_channels"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084231484492386602",
+        "in_reply_to_user_id": "1640150075950374914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084231111283261761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AraBh_channels 我觉得也是！他们这个酱又多又稠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1640150075950374914",
+        "conversation_id": "2084228679027376144",
+        "created_at": "2026-08-03T10:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084231111283261761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084231111283261761",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084228679027376144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 我吃炸酱面的话，一般一两勺炸酱就够了，如果后面淡了再按需加一勺。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5989,
+          "following_count": 799,
+          "like_count": 55763,
+          "listed_count": 18,
+          "media_count": 1101,
+          "tweet_count": 9650
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-27T00:33:58.000Z",
+        "description": "Buddhist☸️，愿诸吉祥，祈祷上师三宝加持！//Kancolle百级提督、航空航天爱好、绘画摄影等。//志愿成为一名插画师，想去日本生活。//欲关注者须知，政治坐标声明：佛教保护、支持乌克兰、女权与LGBT关心、厌恶中国。",
+        "id": "1640150075950374914",
+        "location": "普愿沉溺诸众生 速往无量光佛刹！",
+        "name": "☸️BuKi道心",
+        "pinned_tweet_id": "2072355452822970462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072349045096579072/upwFQL7L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 639,
+          "like_count": 42263,
+          "listed_count": 4,
+          "media_count": 2441,
+          "tweet_count": 5410
+        },
+        "url": "",
+        "username": "AraBh_channels",
+        "verified": false
+      }
+    ]
+  }
+}

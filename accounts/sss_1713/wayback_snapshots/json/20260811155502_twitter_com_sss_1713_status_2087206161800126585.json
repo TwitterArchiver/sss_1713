@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2087206161800126585",
+    "created_at": "2026-08-11T15:55:02.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T16:55:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087206161800126585"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wangzhian8848/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/wangzhian8848/status/2087196059294715939",
+          "start": 9,
+          "url": "https://t.co/JvujCIdpR5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087206161800126585",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087196059294715939",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中登的性压抑⬇️ https://t.co/JvujCIdpR5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2087206161800126585",
+        "created_at": "2026-08-11T15:55:02.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T16:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087206161800126585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wangzhian8848/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/wangzhian8848/status/2087196059294715939",
+              "start": 9,
+              "url": "https://t.co/JvujCIdpR5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087206161800126585",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087196059294715939",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中登的性压抑⬇️ https://t.co/JvujCIdpR5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1072109417200414720",
+        "conversation_id": "2087196059294715939",
+        "created_at": "2026-08-11T15:14:53.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T16:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087196059294715939"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087196059294715939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13819,
+          "like_count": 28,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉郭杰瑞要是想睡中国女生，不会比王水牛差。很受欢迎的。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2087206161800126585",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5990,
+          "following_count": 799,
+          "like_count": 56297,
+          "listed_count": 18,
+          "media_count": 1112,
+          "tweet_count": 9732
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-10T12:42:58.000Z",
+        "description": "调查记者，主持人。油管频道地址：https://t.co/WfO3vZ0ygY?amp=1，Facebook地址：https://t.co/QO4mprdzUL，TikTok地址：https://t.co/chl5sh7Cfa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "",
+                "end": 23,
+                "expanded_url": "",
+                "start": 0,
+                "url": "https://t.co/DrbI80kqkz"
+              }
+            ]
+          }
+        },
+        "id": "1072109417200414720",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2087196059294715939",
+        "name": "王局志安",
+        "pinned_tweet_id": "1876486307205251482",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1072109417200414720/1544452109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1527433965824802816/PgXCsVL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513835,
+          "following_count": 678,
+          "like_count": 1887,
+          "listed_count": 4155,
+          "media_count": 7296,
+          "tweet_count": 21309
+        },
+        "url": "https://t.co/DrbI80kqkz",
+        "username": "wangzhian8848",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

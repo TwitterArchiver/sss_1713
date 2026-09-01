@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2092150431484952963",
+    "created_at": "2026-08-25T17:40:47.000Z",
+    "display_text_range": [
+      17,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T18:40:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092306207423771066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2016007880387002369",
+          "start": 0,
+          "username": "fBVJFEnfNW50497"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092306207423771066",
+    "in_reply_to_user_id": "2016007880387002369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092264342125486097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fBVJFEnfNW50497 其实him并不强"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2078,
+        "media_key": "3_2092264336337317888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQk3VB-asAANxDt.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2092150431484952963",
+        "created_at": "2026-08-25T17:40:47.000Z",
+        "display_text_range": [
+          17,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T18:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092306207423771066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2016007880387002369",
+              "start": 0,
+              "username": "fBVJFEnfNW50497"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092306207423771066",
+        "in_reply_to_user_id": "2016007880387002369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092264342125486097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fBVJFEnfNW50497 其实him并不强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092264336337317888"
+          ]
+        },
+        "author_id": "2016007880387002369",
+        "conversation_id": "2092150431484952963",
+        "created_at": "2026-08-25T14:54:26.000Z",
+        "display_text_range": [
+          9,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T15:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092264342125486097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/axMzO0YgX8",
+              "end": 33,
+              "expanded_url": "https://x.com/fBVJFEnfNW50497/status/2092264342125486097/photo/1",
+              "media_key": "3_2092264336337317888",
+              "start": 10,
+              "url": "https://t.co/axMzO0YgX8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092264342125486097",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2092264336337317888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 491,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092150431484952963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 https://t.co/axMzO0YgX8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2092306207423771066",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6033,
+          "following_count": 803,
+          "like_count": 57121,
+          "listed_count": 18,
+          "media_count": 1129,
+          "tweet_count": 9840
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-27T04:38:38.000Z",
+        "description": "ahh",
+        "id": "2016007880387002369",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092279477279572428",
+        "name": "😭😭😭",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016007880387002369/1784391542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089725755366445056/m_xPaHcM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 75,
+          "like_count": 2394,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 237
+        },
+        "url": "",
+        "username": "fBVJFEnfNW50497",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

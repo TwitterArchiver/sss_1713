@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2084607115998482811",
+    "created_at": "2026-08-04T15:24:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T16:24:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084661861425823885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2054962114830483456",
+          "start": 0,
+          "username": "PigCCZhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084661861425823885",
+    "in_reply_to_user_id": "2054962114830483456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084621294277165471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PigCCZhu 啊哈哈哈哈哈哈哈我对这个印象特别深"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2084607115998482811",
+        "created_at": "2026-08-04T15:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084661861425823885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054962114830483456",
+              "start": 0,
+              "username": "PigCCZhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084661861425823885",
+        "in_reply_to_user_id": "2054962114830483456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084621294277165471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PigCCZhu 啊哈哈哈哈哈哈哈我对这个印象特别深"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054962114830483456",
+        "conversation_id": "2084607115998482811",
+        "created_at": "2026-08-04T12:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084621294277165471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084621294277165471",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084607115998482811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 提到尹shake it我就想到那首“应援曲”\n이새끼 都大體 누구야? ~~~\n美國日本의 間諜 새끼냐? ~~~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5996,
+          "following_count": 804,
+          "like_count": 55878,
+          "listed_count": 18,
+          "media_count": 1103,
+          "tweet_count": 9672
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T16:29:14.000Z",
+        "description": "聆听小猪哼哼",
+        "id": "2054962114830483456",
+        "location": "Pignic 猪咖",
+        "name": "朱熙熙🐷小猪诊所",
+        "pinned_tweet_id": "2056354900083397064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079148829296009216/jK5jRwFe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 383,
+          "like_count": 10400,
+          "listed_count": 2,
+          "media_count": 304,
+          "tweet_count": 2641
+        },
+        "url": "",
+        "username": "PigCCZhu",
+        "verified": false
+      }
+    ]
+  }
+}

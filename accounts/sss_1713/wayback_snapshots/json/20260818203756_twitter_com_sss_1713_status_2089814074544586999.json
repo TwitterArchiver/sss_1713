@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2089814074544586999",
+    "created_at": "2026-08-18T20:37:56.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T21:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089814074544586999"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shioochic_xyn/…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/shioochic_xyn/status/2089589437873463772",
+          "start": 18,
+          "url": "https://t.co/JmgQ2lSUde"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089814074544586999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089589437873463772",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "意淫恶心的要死，不以为耻反以为荣。 https://t.co/JmgQ2lSUde"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2089589427794550784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP-2g3IbIAAOEuU.jpg",
+        "width": 1043
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2089814074544586999",
+        "created_at": "2026-08-18T20:37:56.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T21:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089814074544586999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shioochic_xyn/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/shioochic_xyn/status/2089589437873463772",
+              "start": 18,
+              "url": "https://t.co/JmgQ2lSUde"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089814074544586999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089589437873463772",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "意淫恶心的要死，不以为耻反以为荣。 https://t.co/JmgQ2lSUde"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089589427794550784"
+          ]
+        },
+        "author_id": "2033160782687731712",
+        "conversation_id": "2089589437873463772",
+        "created_at": "2026-08-18T05:45:19.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T06:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089589437873463772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2rW7fEoXlu",
+              "end": 42,
+              "expanded_url": "https://x.com/Shioochic_Xyn/status/2089589437873463772/photo/1",
+              "media_key": "3_2089589427794550784",
+              "start": 19,
+              "url": "https://t.co/2rW7fEoXlu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089589437873463772",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089589427794550784"
+          }
+        ],
+        "note_request_suggestions": [
+          {
+            "source_link": "https://x.com/Shioochic_Xyn/status/2089589437873463772",
+            "suggestion": "该内容存在虚假内容：人物对话内容、“医院超声报告”（实际为ps）",
+            "suggestion_id": "2089670086034620663"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1321,
+          "impression_count": 1783303,
+          "like_count": 5342,
+          "quote_count": 9,
+          "reply_count": 789,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "suggested_source_links": [
+          "https://x.com/shioochic_xyn/status/2089589437873463772"
+        ],
+        "suggested_source_links_with_counts": [
+          {
+            "count": "3",
+            "url": "https://x.com/shioochic_xyn/status/2089589437873463772"
+          }
+        ],
+        "text": "不是玩梗玩这么久原来真有该被电的啊😨 https://t.co/2rW7fEoXlu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2089814074544586999",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6024,
+          "following_count": 799,
+          "like_count": 56760,
+          "listed_count": 18,
+          "media_count": 1123,
+          "tweet_count": 9789
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期 09 04 08｜hrt 25 07 20🍥｜小证 26 01 17｜ADHD｜choose life ?!｜抢🐔姐@hiotemaron41774｜友情链接:https://t.co/iIABjp0PAw（这并非我本人的博客）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "hiotemaron41774"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 117,
+                "expanded_url": "https://whatasiger.xyz",
+                "start": 94,
+                "url": "https://t.co/iIABjp0PAw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "is_identity_verified": true,
+        "location": "广州",
+        "most_recent_tweet_id": "2089777828489466030",
+        "name": "汐落 shio",
+        "pinned_tweet_id": "2089157310241497596",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2033160782687731712/1773578586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6118,
+          "following_count": 2240,
+          "like_count": 9073,
+          "listed_count": 7,
+          "media_count": 1259,
+          "tweet_count": 7567
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochic_Xyn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

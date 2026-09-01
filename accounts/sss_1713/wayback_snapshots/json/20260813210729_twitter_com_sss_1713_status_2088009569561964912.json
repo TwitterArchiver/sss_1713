@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2087942808514773292",
+    "created_at": "2026-08-13T21:07:29.000Z",
+    "display_text_range": [
+      12,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T22:07:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088009569561964912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2061813418026512384",
+          "start": 0,
+          "username": "Jinyu_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088009569561964912",
+    "in_reply_to_user_id": "2061813418026512384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087978399784656923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jinyu_8964 不会给他引流的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2087942808514773292",
+        "created_at": "2026-08-13T21:07:29.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T22:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088009569561964912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2061813418026512384",
+              "start": 0,
+              "username": "Jinyu_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088009569561964912",
+        "in_reply_to_user_id": "2061813418026512384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087978399784656923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jinyu_8964 不会给他引流的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061813418026512384",
+        "conversation_id": "2087942808514773292",
+        "created_at": "2026-08-13T19:03:37.000Z",
+        "display_text_range": [
+          10,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T20:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087978399784656923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087978399784656923",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087942808514773292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 @出来，让我去批判性观摩一下这些毒草内容。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2088009569561964912",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6025,
+          "following_count": 803,
+          "like_count": 56493,
+          "listed_count": 18,
+          "media_count": 1118,
+          "tweet_count": 9755
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-02T14:14:12.000Z",
+        "description": "王道之光，普照全球；同心同德，无苦无忧；❤️💙🤍🖤💛。",
+        "id": "2061813418026512384",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087978399784656923",
+        "name": "「金玉🌸」",
+        "pinned_tweet_id": "2062214050017374640",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061813418026512384/1780416571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061842974531817472/xl3LChBx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 163,
+          "like_count": 9630,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 405
+        },
+        "url": "",
+        "username": "Jinyu_8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

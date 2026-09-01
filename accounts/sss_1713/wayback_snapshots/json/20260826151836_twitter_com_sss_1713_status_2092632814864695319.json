@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2092570843289096491",
+    "created_at": "2026-08-26T15:18:36.000Z",
+    "display_text_range": [
+      17,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T16:18:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092632814864695319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1763376163878240256",
+          "start": 0,
+          "username": "AlexandreA23520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092632814864695319",
+    "in_reply_to_user_id": "1763376163878240256",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092614488495399339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlexandreA23520 🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2092570843289096491",
+        "created_at": "2026-08-26T15:18:36.000Z",
+        "display_text_range": [
+          17,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T16:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092632814864695319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1763376163878240256",
+              "start": 0,
+              "username": "AlexandreA23520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092632814864695319",
+        "in_reply_to_user_id": "1763376163878240256",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092614488495399339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlexandreA23520 🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763376163878240256",
+        "conversation_id": "2092570843289096491",
+        "created_at": "2026-08-26T14:05:47.000Z",
+        "display_text_range": [
+          10,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T15:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092614488495399339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092614488495399339",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092570843289096491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 དཀོན་མཆོག་གིས་བོད་སྐྱོབ།，天佑西藏。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2092632814864695319",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6037,
+          "following_count": 805,
+          "like_count": 57199,
+          "listed_count": 18,
+          "media_count": 1130,
+          "tweet_count": 9851
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-01T01:32:48.000Z",
+        "description": "支持匿名上网访问，无需成为一门学问。\n知越多越敬畏未知，言论仅为个人输出无名孤立。\n生于02一人一笔一心书写《红尘旅客》，\n心系九州邦联哪怕赛博建国也是沙盘推演功课。\n水母无脑随波加狒狒野蛮攻击，分辨各种声音充斥。\n为了押韵而不合群不是傲娇，做不到八面玲珑ey包括面面俱到。\nNamaste and checkmate",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/1093515210",
+                "end": 23,
+                "expanded_url": "https://github.com/1093515210",
+                "start": 0,
+                "url": "https://t.co/WWZXwNPBpD"
+              }
+            ]
+          }
+        },
+        "id": "1763376163878240256",
+        "is_identity_verified": false,
+        "location": "Antarctica",
+        "most_recent_tweet_id": "2092623675354943538",
+        "name": "毋明释 Ehnitwi Stokrrh",
+        "pinned_tweet_id": "2070837021342601423",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763376163878240256/1772260421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028013235518246912/cbBlGhsp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 19,
+          "like_count": 5388,
+          "listed_count": 0,
+          "media_count": 1088,
+          "tweet_count": 7954
+        },
+        "url": "https://t.co/WWZXwNPBpD",
+        "username": "AlexandreA23520",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

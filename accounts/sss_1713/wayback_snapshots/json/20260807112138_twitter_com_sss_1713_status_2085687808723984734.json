@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085687782694178816",
+        "3_2085687782681493504",
+        "3_2085687782702555136",
+        "3_2085687782698328064"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2085687808723984734",
+    "created_at": "2026-08-07T11:21:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T12:21:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085687808723984734"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/elAKdbC9Pa",
+          "end": 78,
+          "expanded_url": "https://x.com/sss_1713/status/2085687808723984734/photo/1",
+          "media_key": "3_2085687782694178816",
+          "start": 55,
+          "url": "https://t.co/elAKdbC9Pa"
+        },
+        {
+          "display_url": "pic.x.com/elAKdbC9Pa",
+          "end": 78,
+          "expanded_url": "https://x.com/sss_1713/status/2085687808723984734/photo/1",
+          "media_key": "3_2085687782681493504",
+          "start": 55,
+          "url": "https://t.co/elAKdbC9Pa"
+        },
+        {
+          "display_url": "pic.x.com/elAKdbC9Pa",
+          "end": 78,
+          "expanded_url": "https://x.com/sss_1713/status/2085687808723984734/photo/1",
+          "media_key": "3_2085687782702555136",
+          "start": 55,
+          "url": "https://t.co/elAKdbC9Pa"
+        },
+        {
+          "display_url": "pic.x.com/elAKdbC9Pa",
+          "end": 78,
+          "expanded_url": "https://x.com/sss_1713/status/2085687808723984734/photo/1",
+          "media_key": "3_2085687782698328064",
+          "start": 55,
+          "url": "https://t.co/elAKdbC9Pa"
+        },
+        {
+          "display_url": "x.com/j_godfather/st…",
+          "end": 102,
+          "expanded_url": "https://twitter.com/j_godfather/status/2085395255562850327",
+          "start": 79,
+          "url": "https://t.co/IEnbdKQ4z0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085687808723984734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085395255562850327",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "长崎天主教既是日本军国主义时代的妥协者之一，又是军国主义战争最终制造出的巨大受害者之一。\n\n为和平祈祷🕊️🙏 https://t.co/elAKdbC9Pa https://t.co/IEnbdKQ4z0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1703,
+        "media_key": "3_2085687782694178816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHZ_Ofb0AAJpRg.jpg",
+        "width": 1206
+      },
+      {
+        "height": 783,
+        "media_key": "3_2085687782681493504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHZ_OcaQAAnWcA.jpg",
+        "width": 1206
+      },
+      {
+        "height": 979,
+        "media_key": "3_2085687782702555136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHZ_OhboAAXQE-.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1512,
+        "media_key": "3_2085687782698328064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHZ_OgbIAAK26F.jpg",
+        "width": 1206
+      },
+      {
+        "height": 637,
+        "media_key": "3_2085395065267257344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPDPw1GbgAA_ckH.jpg",
+        "width": 630
+      },
+      {
+        "height": 675,
+        "media_key": "3_2085395065317539840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPDPw1SawAAm2ca.jpg",
+        "width": 454
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085687782694178816",
+            "3_2085687782681493504",
+            "3_2085687782702555136",
+            "3_2085687782698328064"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2085687808723984734",
+        "created_at": "2026-08-07T11:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T12:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085687808723984734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/elAKdbC9Pa",
+              "end": 78,
+              "expanded_url": "https://x.com/sss_1713/status/2085687808723984734/photo/1",
+              "media_key": "3_2085687782694178816",
+              "start": 55,
+              "url": "https://t.co/elAKdbC9Pa"
+            },
+            {
+              "display_url": "pic.x.com/elAKdbC9Pa",
+              "end": 78,
+              "expanded_url": "https://x.com/sss_1713/status/2085687808723984734/photo/1",
+              "media_key": "3_2085687782681493504",
+              "start": 55,
+              "url": "https://t.co/elAKdbC9Pa"
+            },
+            {
+              "display_url": "pic.x.com/elAKdbC9Pa",
+              "end": 78,
+              "expanded_url": "https://x.com/sss_1713/status/2085687808723984734/photo/1",
+              "media_key": "3_2085687782702555136",
+              "start": 55,
+              "url": "https://t.co/elAKdbC9Pa"
+            },
+            {
+              "display_url": "pic.x.com/elAKdbC9Pa",
+              "end": 78,
+              "expanded_url": "https://x.com/sss_1713/status/2085687808723984734/photo/1",
+              "media_key": "3_2085687782698328064",
+              "start": 55,
+              "url": "https://t.co/elAKdbC9Pa"
+            },
+            {
+              "display_url": "x.com/j_godfather/st…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/j_godfather/status/2085395255562850327",
+              "start": 79,
+              "url": "https://t.co/IEnbdKQ4z0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085687808723984734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085395255562850327",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "长崎天主教既是日本军国主义时代的妥协者之一，又是军国主义战争最终制造出的巨大受害者之一。\n\n为和平祈祷🕊️🙏 https://t.co/elAKdbC9Pa https://t.co/IEnbdKQ4z0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085395065267257344",
+            "3_2085395065317539840"
+          ]
+        },
+        "author_id": "317265243",
+        "conversation_id": "2085395255562850327",
+        "created_at": "2026-08-06T15:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T16:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085395255562850327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4CZwWYnKur",
+              "end": 129,
+              "expanded_url": "https://x.com/j_godfather/status/2085395255562850327/photo/1",
+              "media_key": "3_2085395065267257344",
+              "start": 106,
+              "url": "https://t.co/4CZwWYnKur"
+            },
+            {
+              "display_url": "pic.x.com/4CZwWYnKur",
+              "end": 129,
+              "expanded_url": "https://x.com/j_godfather/status/2085395255562850327/photo/1",
+              "media_key": "3_2085395065317539840",
+              "start": 106,
+              "url": "https://t.co/4CZwWYnKur"
+            },
+            {
+              "display_url": "x.com/sakkurusan/sta…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/sakkurusan/status/2085321794861600954",
+              "start": 130,
+              "url": "https://t.co/knLgIC9oYl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085395255562850327",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2478,
+          "impression_count": 3766536,
+          "like_count": 31907,
+          "quote_count": 220,
+          "reply_count": 164,
+          "retweet_count": 6934
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085321794861600954",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一方で長崎原爆を象徴する浦上天主堂は保全されず問答無用で取り壊された。\nこの地区にいた1万2千人近いキリスト教信者の多くを一瞬で焼き殺した大罪を、キリスト教国家であるアメリカはなんとしても隠したかったのだろう。 https://t.co/4CZwWYnKur https://t.co/knLgIC9oYl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5998,
+          "following_count": 808,
+          "like_count": 56148,
+          "listed_count": 18,
+          "media_count": 1108,
+          "tweet_count": 9703
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-14T17:41:39.000Z",
+        "description": "南野陽子さんのファンです✨\n❤：昔の映画📽（午前十時の映画祭）、クラシック音楽🎼、80年代POPS🎶、旅行✈（英国🇬🇧と香港🇭🇰♡）、ドライブ🚗（VW Beetle）\n🗒note/旅行記：https://t.co/amWWILozbY\n🎬Filmarks/映画レビュー：👇",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "note.com/j_godfather/all",
+                "end": 117,
+                "expanded_url": "https://note.com/j_godfather/all",
+                "start": 94,
+                "url": "https://t.co/amWWILozbY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "filmarks.com/users/j_godfat…",
+                "end": 23,
+                "expanded_url": "https://filmarks.com/users/j_godfather",
+                "start": 0,
+                "url": "https://t.co/CNVcWjhgFD"
+              }
+            ]
+          }
+        },
+        "id": "317265243",
+        "location": "Fukuoka, Japan",
+        "name": "Godfather🥂◌˳˚⌖.｡‎(ღˇᴗˇ)｡o.:*˳˚⌖",
+        "pinned_tweet_id": "2048410625911804379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871900796692176897/qwqAT4Hs_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3902,
+          "following_count": 2299,
+          "like_count": 368029,
+          "listed_count": 189,
+          "media_count": 11006,
+          "tweet_count": 93302
+        },
+        "url": "https://t.co/CNVcWjhgFD",
+        "username": "j_godfather",
+        "verified": false
+      }
+    ]
+  }
+}

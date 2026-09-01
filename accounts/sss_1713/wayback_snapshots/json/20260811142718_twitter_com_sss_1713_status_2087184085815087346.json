@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2087184085815087346",
+    "created_at": "2026-08-11T14:27:18.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T15:27:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087184085815087346"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 20,
+          "tag": "李原风案"
+        },
+        {
+          "end": 65,
+          "start": 61,
+          "tag": "李维忠"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "3700078994",
+          "start": 3,
+          "username": "midiexiang6555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087184085815087346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087140337261465637",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @midiexiang6555: #李原风案｜将于后天，8月13日上午9时在益阳市中级人民法院开庭。\n李原风，本名 #李维忠，湖南独立记者，长期关注推动劳工维权；\n2024年10月10日， 被警方带走；\n2025年5月9日，被批准逮捕；\n据起诉书，他被指控在境外网站发表文…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2087140324422619138",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcDESGakAIY1kV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2087184085815087346",
+        "created_at": "2026-08-11T14:27:18.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T15:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087184085815087346"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "李原风案"
+            },
+            {
+              "end": 65,
+              "start": 61,
+              "tag": "李维忠"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "3700078994",
+              "start": 3,
+              "username": "midiexiang6555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087184085815087346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087140337261465637",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @midiexiang6555: #李原风案｜将于后天，8月13日上午9时在益阳市中级人民法院开庭。\n李原风，本名 #李维忠，湖南独立记者，长期关注推动劳工维权；\n2024年10月10日， 被警方带走；\n2025年5月9日，被批准逮捕；\n据起诉书，他被指控在境外网站发表文…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087140324422619138"
+          ]
+        },
+        "author_id": "3700078994",
+        "conversation_id": "2087140337261465637",
+        "created_at": "2026-08-11T11:33:28.000Z",
+        "display_text_range": [
+          0,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087140337261465637"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "李原风案"
+            },
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "李维忠"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UgXTsYGVK2",
+              "end": 174,
+              "expanded_url": "https://x.com/midiexiang6555/status/2087140337261465637/photo/1",
+              "media_key": "3_2087140324422619138",
+              "start": 151,
+              "url": "https://t.co/UgXTsYGVK2"
+            },
+            {
+              "display_url": "x.com/a13887665440/s…",
+              "end": 198,
+              "expanded_url": "https://twitter.com/a13887665440/status/2087007235872600409",
+              "start": 175,
+              "url": "https://t.co/aPEPiXhDjD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087140337261465637",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087140324422619138"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 343,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087007235872600409",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#李原风案｜将于后天，8月13日上午9时在益阳市中级人民法院开庭。\n李原风，本名 #李维忠，湖南独立记者，长期关注推动劳工维权；\n2024年10月10日， 被警方带走；\n2025年5月9日，被批准逮捕；\n据起诉书，他被指控在境外网站发表文章和推文、印制传播违禁出版物，煽动颠覆国家政权和社会主义制度。 https://t.co/UgXTsYGVK2 https://t.co/aPEPiXhDjD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2087184085815087346",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5991,
+          "following_count": 799,
+          "like_count": 56286,
+          "listed_count": 18,
+          "media_count": 1112,
+          "tweet_count": 9732
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-09-27T04:52:42.000Z",
+        "description": "實名：陈燕慧   中年非油膩美少女  一枚。",
+        "id": "3700078994",
+        "is_identity_verified": false,
+        "location": "湖南長沙",
+        "most_recent_tweet_id": "2087140337261465637",
+        "name": "迷迭香",
+        "pinned_tweet_id": "1993891804270518723",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1383101725763018753/I-c4hNRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29721,
+          "following_count": 186,
+          "like_count": 43608,
+          "listed_count": 80,
+          "media_count": 1099,
+          "tweet_count": 10118
+        },
+        "url": "",
+        "username": "midiexiang6555",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

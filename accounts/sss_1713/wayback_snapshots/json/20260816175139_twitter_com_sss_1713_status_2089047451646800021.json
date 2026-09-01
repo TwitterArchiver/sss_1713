@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2089047451646800021",
+    "created_at": "2026-08-16T17:51:39.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T18:51:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089047451646800021"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cardjosephzen/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/cardjosephzen/status/2088876329965904217",
+          "start": 4,
+          "url": "https://t.co/0MITs90VwY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089047451646800021",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088876329965904217",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "辛苦🙏 https://t.co/0MITs90VwY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2088876322672029696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0t8riXMAAh_Px.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1538,
+        "media_key": "3_2088876322495877120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0t8q4XUAAktiX.jpg",
+        "width": 1105
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2089047451646800021",
+        "created_at": "2026-08-16T17:51:39.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T18:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089047451646800021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cardjosephzen/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/cardjosephzen/status/2088876329965904217",
+              "start": 4,
+              "url": "https://t.co/0MITs90VwY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089047451646800021",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088876329965904217",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "辛苦🙏 https://t.co/0MITs90VwY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088876322672029696",
+            "3_2088876322495877120"
+          ]
+        },
+        "author_id": "1089250348223602689",
+        "conversation_id": "2088876329965904217",
+        "created_at": "2026-08-16T06:31:41.000Z",
+        "display_text_range": [
+          0,
+          167
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088876329965904217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mn9r4jaXSj",
+              "end": 191,
+              "expanded_url": "https://x.com/CardJosephZen/status/2088876329965904217/photo/1",
+              "media_key": "3_2088876322672029696",
+              "start": 168,
+              "url": "https://t.co/mn9r4jaXSj"
+            },
+            {
+              "display_url": "pic.x.com/mn9r4jaXSj",
+              "end": 191,
+              "expanded_url": "https://x.com/CardJosephZen/status/2088876329965904217/photo/1",
+              "media_key": "3_2088876322495877120",
+              "start": 168,
+              "url": "https://t.co/mn9r4jaXSj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088876329965904217",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088876322672029696"
+          },
+          {
+            "media_key": "3_2088876322495877120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 566,
+                "start": 556,
+                "tag": "Salesians"
+              },
+              {
+                "end": 576,
+                "start": 567,
+                "tag": "DonBosco"
+              },
+              {
+                "end": 581,
+                "start": 577,
+                "tag": "SDB"
+              },
+              {
+                "end": 590,
+                "start": 582,
+                "tag": "77Years"
+              }
+            ]
+          },
+          "text": "感謝天主賜給我慈幼會的聖召，使我成為神父，服侍天主、服務青年，也為你們服務。\n\n77年前的今天，我發願加入慈幼會，一切都是恩寵。我也不斷反躬自省：「我有做好天主交給我的使命嗎？」\n\n但願在這歲月裡，我沒有一刻辜負過祂的召叫。\n\nDeo gratias!\n\nI thank God for the gift of my Salesian vocation, for calling me to the priesthood, to serve God, to serve the young, and to serve all of you.\n\nSeventy-seven years ago today, I made my first profession as a Salesian. Everything has been grace. I continually ask myself: “Have I faithfully fulfilled the mission God has entrusted to me?”\n\nI pray that, throughout all these years, I have never failed to be faithful to His call.\n\n#Salesians #DonBosco #SDB #77Years"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 7983,
+          "like_count": 701,
+          "quote_count": 4,
+          "reply_count": 27,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "感謝天主賜給我慈幼會的聖召，使我成為神父，服侍天主、服務青年，也為你們服務。\n\n77年前的今天，我發願加入慈幼會，一切都是恩寵。我也不斷反躬自省：「我有做好天主交給我的使命嗎？」\n\n但願在這歲月裡，我沒有一刻辜負過祂的召叫。\n\nDeo gratias!\n\nI thank God for the gift of my Salesian https://t.co/mn9r4jaXSj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2089047451646800021",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6028,
+          "following_count": 797,
+          "like_count": 56674,
+          "listed_count": 18,
+          "media_count": 1122,
+          "tweet_count": 9780
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-01-26T19:54:55.000Z",
+        "description": "Joseph Zen, Bishop Emeritus of Hong Kong",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "oldyosef.hkcatholic.com",
+                "end": 23,
+                "expanded_url": "https://oldyosef.hkcatholic.com",
+                "start": 0,
+                "url": "https://t.co/sUGF9zoiZb"
+              }
+            ]
+          }
+        },
+        "id": "1089250348223602689",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2088876329965904217",
+        "name": "Joseph Zen",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1089250348223602689/1784131611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1138829814654275584/T0OzWqdF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38230,
+          "following_count": 363,
+          "like_count": 3064,
+          "listed_count": 218,
+          "media_count": 525,
+          "tweet_count": 3742
+        },
+        "url": "https://t.co/sUGF9zoiZb",
+        "username": "CardJosephZen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

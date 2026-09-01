@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091365840100757504"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2091365849894469642",
+    "created_at": "2026-08-23T03:24:08.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T04:24:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091365849894469642"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kScGG3sPtt",
+          "end": 52,
+          "expanded_url": "https://x.com/sss_1713/status/2091365849894469642/photo/1",
+          "media_key": "3_2091365840100757504",
+          "start": 29,
+          "url": "https://t.co/kScGG3sPtt"
+        },
+        {
+          "display_url": "x.com/ivansu8964/sta…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/ivansu8964/status/2091220638338072655",
+          "start": 53,
+          "url": "https://t.co/PqTxK1r0Fh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091365849894469642",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091365840100757504"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091220638338072655",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "玩杀人游戏与杀人罪相同，死后必堕地狱（bushi）☝️🤓 https://t.co/kScGG3sPtt https://t.co/PqTxK1r0Fh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 716,
+        "media_key": "3_2091365840100757504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQYGJqqXkAAPiua.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091365840100757504"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2091365849894469642",
+        "created_at": "2026-08-23T03:24:08.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T04:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091365849894469642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kScGG3sPtt",
+              "end": 52,
+              "expanded_url": "https://x.com/sss_1713/status/2091365849894469642/photo/1",
+              "media_key": "3_2091365840100757504",
+              "start": 29,
+              "url": "https://t.co/kScGG3sPtt"
+            },
+            {
+              "display_url": "x.com/ivansu8964/sta…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/ivansu8964/status/2091220638338072655",
+              "start": 53,
+              "url": "https://t.co/PqTxK1r0Fh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091365849894469642",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091365840100757504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091220638338072655",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "玩杀人游戏与杀人罪相同，死后必堕地狱（bushi）☝️🤓 https://t.co/kScGG3sPtt https://t.co/PqTxK1r0Fh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790893006612017152",
+        "conversation_id": "2091220638338072655",
+        "created_at": "2026-08-22T17:47:07.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T18:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091220638338072655"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091220638338072655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 575,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩三角洲的男的有无辜的吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2091365849894469642",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6034,
+          "following_count": 803,
+          "like_count": 57001,
+          "listed_count": 18,
+          "media_count": 1127,
+          "tweet_count": 9821
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-15T23:52:32.000Z",
+        "description": "He/Him/Bi-Pan/男性友好/异性恋友好",
+        "id": "1790893006612017152",
+        "is_identity_verified": false,
+        "location": "太原市公安局万柏林分局",
+        "most_recent_tweet_id": "2091365635775475721",
+        "name": "宙斯之女（弹泽民）",
+        "pinned_tweet_id": "1899833459935256791",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1790893006612017152/1755565746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026533135866015747/64XMDChE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 1204,
+          "like_count": 29286,
+          "listed_count": 16,
+          "media_count": 447,
+          "tweet_count": 9673
+        },
+        "url": "",
+        "username": "IVANSU8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

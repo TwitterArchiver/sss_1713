@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2087478728527937815",
+    "created_at": "2026-08-12T10:23:00.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T11:23:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087484990649180596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1682625054092193795",
+          "start": 0,
+          "username": "zzzzzz65826"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087484990649180596",
+    "in_reply_to_user_id": "1682625054092193795",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087478728527937815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzzzzz65826 性化➕工具化"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2087478728527937815",
+        "created_at": "2026-08-12T10:23:00.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T11:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087484990649180596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1682625054092193795",
+              "start": 0,
+              "username": "zzzzzz65826"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087484990649180596",
+        "in_reply_to_user_id": "1682625054092193795",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087478728527937815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzzzzz65826 性化➕工具化"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682625054092193795",
+        "conversation_id": "2087478728527937815",
+        "created_at": "2026-08-12T09:58:07.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T10:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087478728527937815"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087478728527937815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么要把伴侣称作杯子 好恶心的称呼"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2087484990649180596",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5994,
+          "following_count": 802,
+          "like_count": 56374,
+          "listed_count": 18,
+          "media_count": 1115,
+          "tweet_count": 9742
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-22T05:34:17.000Z",
+        "description": "这是一个文字推。\n10 高一坐牢\n私信先发照片看看脸/也可以和我畅聊人生\n我的匿名\nhttps://t.co/RZVO9bA6fn\n（这里面可以问我各种问题 虽然我更希望大家可以问我一些有思想深度 但是是黄色也没关系的）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supertoesucker",
+                "end": 65,
+                "expanded_url": "https://ngl.link/supertoesucker",
+                "start": 42,
+                "url": "https://t.co/RZVO9bA6fn"
+              }
+            ]
+          }
+        },
+        "id": "1682625054092193795",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087478728527937815",
+        "name": "良子猪肉铺",
+        "pinned_tweet_id": "2085910105489539567",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953482918891835394/Z4KkdrJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 25,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 196
+        },
+        "url": "",
+        "username": "zzzzzz65826",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

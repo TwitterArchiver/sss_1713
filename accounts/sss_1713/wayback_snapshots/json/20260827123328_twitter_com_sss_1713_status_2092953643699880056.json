@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092953632022904833"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2092953643699880056",
+    "created_at": "2026-08-27T12:33:28.000Z",
+    "display_text_range": [
+      0,
+      142
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T13:33:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092953643699880056"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xxqVoq29GJ",
+          "end": 166,
+          "expanded_url": "https://x.com/sss_1713/status/2092953643699880056/photo/1",
+          "media_key": "3_2092953632022904833",
+          "start": 143,
+          "url": "https://t.co/xxqVoq29GJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092953643699880056",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092953632022904833"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真的很痛心会有基督徒在为西藏和尼泊尔灾民祈祷下面说出这样的话。\n耶稣曾教导说：“有人打你的右脸，连左脸也转给他”，我们又因何缘由对没有扇我们左脸的他们说出如此恶毒的话呢？这究竟是在跟随基督，还是只是在借基督的名字表达自己的仇恨？\n\n“父啊，宽赦他们吧！因为他们不知道他们做的是什么。” https://t.co/xxqVoq29GJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 673,
+        "media_key": "3_2092953632022904833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQuqPUgWwAE5mPB.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092953632022904833"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2092953643699880056",
+        "created_at": "2026-08-27T12:33:28.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092953643699880056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xxqVoq29GJ",
+              "end": 166,
+              "expanded_url": "https://x.com/sss_1713/status/2092953643699880056/photo/1",
+              "media_key": "3_2092953632022904833",
+              "start": 143,
+              "url": "https://t.co/xxqVoq29GJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092953643699880056",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092953632022904833"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的很痛心会有基督徒在为西藏和尼泊尔灾民祈祷下面说出这样的话。\n耶稣曾教导说：“有人打你的右脸，连左脸也转给他”，我们又因何缘由对没有扇我们左脸的他们说出如此恶毒的话呢？这究竟是在跟随基督，还是只是在借基督的名字表达自己的仇恨？\n\n“父啊，宽赦他们吧！因为他们不知道他们做的是什么。” https://t.co/xxqVoq29GJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2092953643699880056",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6043,
+          "following_count": 805,
+          "like_count": 57212,
+          "listed_count": 18,
+          "media_count": 1131,
+          "tweet_count": 9858
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091096289383514112"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2091096303040163842",
+    "created_at": "2026-08-22T09:33:03.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T10:33:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091096303040163842"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2GMttlXc9B",
+          "end": 86,
+          "expanded_url": "https://x.com/sss_1713/status/2091096303040163842/photo/1",
+          "media_key": "3_2091096289383514112",
+          "start": 63,
+          "url": "https://t.co/2GMttlXc9B"
+        },
+        {
+          "display_url": "x.com/sss_1713/statu…",
+          "end": 110,
+          "expanded_url": "https://twitter.com/sss_1713/status/2068693881324187959",
+          "start": 87,
+          "url": "https://t.co/Y20YtUQLVp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091096303040163842",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091096289383514112"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068693881324187959",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已经数不清是今年看到的第几条关于司铎轻生的讯息了。圣召不会消除人的脆弱，即使作为牧者，也只是普通的人罢了。\n“牧者亦需牧养” https://t.co/2GMttlXc9B https://t.co/Y20YtUQLVp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1710,
+        "media_key": "3_2091096289383514112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQUQ_v_XgAAae02.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1097,
+        "media_key": "3_2068693871715078144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLV6Haya0AA_8jG.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091096289383514112"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2091096303040163842",
+        "created_at": "2026-08-22T09:33:03.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T10:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091096303040163842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2GMttlXc9B",
+              "end": 86,
+              "expanded_url": "https://x.com/sss_1713/status/2091096303040163842/photo/1",
+              "media_key": "3_2091096289383514112",
+              "start": 63,
+              "url": "https://t.co/2GMttlXc9B"
+            },
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/sss_1713/status/2068693881324187959",
+              "start": 87,
+              "url": "https://t.co/Y20YtUQLVp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091096303040163842",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091096289383514112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068693881324187959",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已经数不清是今年看到的第几条关于司铎轻生的讯息了。圣召不会消除人的脆弱，即使作为牧者，也只是普通的人罢了。\n“牧者亦需牧养” https://t.co/2GMttlXc9B https://t.co/Y20YtUQLVp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068693871715078144"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2068693881324187959",
+        "created_at": "2026-06-21T13:53:50.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068693881324187959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zCtK8vV5BA",
+              "end": 161,
+              "expanded_url": "https://x.com/sss_1713/status/2068693881324187959/photo/1",
+              "media_key": "3_2068693871715078144",
+              "start": 138,
+              "url": "https://t.co/zCtK8vV5BA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068693881324187959",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2068693871715078144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1574,
+          "like_count": 60,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "点开公众号就看到这条推送，想到前天在一条关于自杀的推文下看到一个基督徒评论了一句“自杀必下地狱”\n难道神父不知道轻生是不好的事吗，当然是知道的，但是现世的压力也让他们难以承受，对有轻生倾向的人要以怜悯、同情和尊重来施以以援助之手，而不是用近乎恐吓的话来让人处于孤立无援之地。 https://t.co/zCtK8vV5BA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2091096303040163842",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6031,
+          "following_count": 801,
+          "like_count": 56950,
+          "listed_count": 18,
+          "media_count": 1125,
+          "tweet_count": 9809
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

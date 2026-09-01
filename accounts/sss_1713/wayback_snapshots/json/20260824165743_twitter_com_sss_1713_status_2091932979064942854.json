@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091932967752888320"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2091932979064942854",
+    "created_at": "2026-08-24T16:57:43.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T17:57:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091932979064942854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1947765957658873860",
+          "start": 7,
+          "username": "AGZlove8964"
+        },
+        {
+          "end": 36,
+          "id": "2086838732741885952",
+          "start": 21,
+          "username": "Ididnothinglqz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iVSmVEIoRT",
+          "end": 60,
+          "expanded_url": "https://x.com/sss_1713/status/2091932979064942854/photo/1",
+          "media_key": "3_2091932967752888320",
+          "start": 37,
+          "url": "https://t.co/iVSmVEIoRT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091932979064942854",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091932967752888320"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你俩真够了！\n@AGZlove8964 \n@Ididnothinglqz https://t.co/iVSmVEIoRT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1750,
+        "media_key": "3_2091932967752888320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQgJ81zW8AAoBqn.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091932967752888320"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2091932979064942854",
+        "created_at": "2026-08-24T16:57:43.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T17:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091932979064942854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1947765957658873860",
+              "start": 7,
+              "username": "AGZlove8964"
+            },
+            {
+              "end": 36,
+              "id": "2086838732741885952",
+              "start": 21,
+              "username": "Ididnothinglqz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iVSmVEIoRT",
+              "end": 60,
+              "expanded_url": "https://x.com/sss_1713/status/2091932979064942854/photo/1",
+              "media_key": "3_2091932967752888320",
+              "start": 37,
+              "url": "https://t.co/iVSmVEIoRT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091932979064942854",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091932967752888320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你俩真够了！\n@AGZlove8964 \n@Ididnothinglqz https://t.co/iVSmVEIoRT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2091932979064942854",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6034,
+          "following_count": 803,
+          "like_count": 57072,
+          "listed_count": 18,
+          "media_count": 1129,
+          "tweet_count": 9832
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-22T21:09:43.000Z",
+        "description": "搬我任何内容发在墙内软件默认全家死光\n\n小号@shejumping8964\n🚪89.64 用于国家有难时刻捐款",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "shejumping8964"
+              }
+            ]
+          }
+        },
+        "id": "1947765957658873860",
+        "is_identity_verified": false,
+        "location": "水晶棺",
+        "most_recent_tweet_id": "2091931792366526806",
+        "name": "爱国者8964",
+        "pinned_tweet_id": "2091295220843552916",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1947765957658873860/1786731135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088197181895536640/pyp-2zYg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 136,
+          "like_count": 2758,
+          "listed_count": 5,
+          "media_count": 52,
+          "tweet_count": 1684
+        },
+        "url": "",
+        "username": "AGZlove8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-10T15:39:27.000Z",
+        "description": "秽土转生？！ 推友寻回中 前世前前世昵称撒旦子民 本账号将发表温和言论以避免对线及举报 \n顺性别男趋近非二元  无取向\n友左友右友跨友同友非二元，你包容我我包容你，原则上不ban少ban，新注册号除外看黄男除外魔人除外\n咀嚼一些腊肉，吐沙一些蜘蛛，笑话一些顺治，点赞一些男裱字",
+        "id": "2086838732741885952",
+        "is_identity_verified": false,
+        "location": "美国菏泽曹县",
+        "most_recent_tweet_id": "2091932712911454429",
+        "name": "蚂蚁操龙8964",
+        "pinned_tweet_id": "2086849075186680028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086838732741885952/1786377026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089708250635935744/H9CfsHhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 289,
+          "like_count": 2244,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 1682
+        },
+        "url": "",
+        "username": "Ididnothinglqz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2091719894257881406",
+    "created_at": "2026-08-24T02:50:59.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T03:50:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091719894257881406"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2091525875674353736",
+          "start": 13,
+          "url": "https://t.co/TCds8SJHm1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091719894257881406",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091525875674353736",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有点像李志的感觉😶‍🌫️ https://t.co/TCds8SJHm1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23966,
+        "height": 2116,
+        "media_key": "13_2091523740949520384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091523740949520384/img/gh4QdyCY-06rB0N5.jpg",
+        "public_metrics": {
+          "view_count": 51208
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091523740949520384/vid/avc1/320x626/6zhmUtOMt4iM44h-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091523740949520384/vid/avc1/480x940/5llb9qVuH6NfCHPK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091523740949520384/vid/avc1/720x1410/zzj91kSm4_Hj5O7I.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091523740949520384/vid/avc1/1080x2116/aDqrTJqUQmokO0QA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091523740949520384/pl/fXVZYAPOIbaA8t8z.m3u8?v=9d2"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2091719894257881406",
+        "created_at": "2026-08-24T02:50:59.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T03:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091719894257881406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2091525875674353736",
+              "start": 13,
+              "url": "https://t.co/TCds8SJHm1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091719894257881406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091525875674353736",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有点像李志的感觉😶‍🌫️ https://t.co/TCds8SJHm1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091523740949520384"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2091525875674353736",
+        "created_at": "2026-08-23T14:00:02.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T15:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091525875674353736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P32pkt396g",
+              "end": 81,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2091525875674353736/video/1",
+              "media_key": "13_2091523740949520384",
+              "start": 58,
+              "url": "https://t.co/P32pkt396g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091525875674353736",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2091523740949520384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 90807,
+          "like_count": 475,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "8月22日，一男子在路边弹唱：\n“我学习十八大思想，我听从党的领导\n我从来不贪污也从来不受贿\n也不可能导致亡国。” https://t.co/P32pkt396g"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2091719894257881406",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6036,
+          "following_count": 802,
+          "like_count": 57034,
+          "listed_count": 18,
+          "media_count": 1127,
+          "tweet_count": 9827
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2091714612907692037",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2081228505925492773",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2254924,
+          "following_count": 1080,
+          "like_count": 10197,
+          "listed_count": 8887,
+          "media_count": 52571,
+          "tweet_count": 59882
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2094252560697708552",
+    "created_at": "2026-08-31T02:34:54.000Z",
+    "display_text_range": [
+      0,
+      88
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T03:34:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094252560697708552"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mahcherrys/sta…",
+          "end": 112,
+          "expanded_url": "https://twitter.com/mahcherrys/status/2094124806119514435",
+          "start": 89,
+          "url": "https://t.co/os7Xn5kbq9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094252560697708552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094124806119514435",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "性别立场实用指南\n“我是男权”=是男权\n“我是女权”=是女权\n“我是中间派”=是女权\n“我既不是男权，也不是女权”=是女权\n“我没有偏好”=是女权\n“我不喜欢性别议题”=是女权 https://t.co/os7Xn5kbq9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2094252560697708552",
+        "created_at": "2026-08-31T02:34:54.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T03:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094252560697708552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mahcherrys/sta…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/mahcherrys/status/2094124806119514435",
+              "start": 89,
+              "url": "https://t.co/os7Xn5kbq9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094252560697708552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094124806119514435",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "性别立场实用指南\n“我是男权”=是男权\n“我是女权”=是女权\n“我是中间派”=是女权\n“我既不是男权，也不是女权”=是女权\n“我没有偏好”=是女权\n“我不喜欢性别议题”=是女权 https://t.co/os7Xn5kbq9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897782396994699267",
+        "conversation_id": "2094124806119514435",
+        "created_at": "2026-08-30T18:07:15.000Z",
+        "display_text_range": [
+          0,
+          279
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T19:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094124806119514435"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094124806119514435",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1834,
+          "impression_count": 1038775,
+          "like_count": 59047,
+          "quote_count": 456,
+          "reply_count": 578,
+          "retweet_count": 9597
+        },
+        "reply_settings": "everyone",
+        "text": "Guia prático de posicionamento político.\n\n\"Sou de esquerda\" = é de esquerda.\n\n\"Sou de direita\" = é de direita\n\n\"Sou de centro\" = é de direita\n\n\"Não sou nem de esquerda, nem de direita\" = é de direita\n\n\"Não tenho preferência\" = é de direita\n\n\"Não gosto de política\" = é de direita"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2094252560697708552",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6047,
+          "following_count": 809,
+          "like_count": 57381,
+          "listed_count": 18,
+          "media_count": 1132,
+          "tweet_count": 9874
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T22:52:59.000Z",
+        "description": "𝑫𝒊𝒓𝒆𝒊𝒕𝒐  ⚢ ─────────────────────────────     𝐟𝐞𝐦𝐢𝐧𝐢𝐬𝐭𝐚 𝐢𝐧𝐭𝐞𝐫𝐬𝐞𝐜𝐜𝐢𝐨𝐧𝐚𝐥 𝐧𝐞𝐠𝐫𝐚                        FCK NZS",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mahcherrys?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/mahcherrys?igsh=MWI3Mzlta2E3ejBmMg==",
+                "start": 0,
+                "url": "https://t.co/aGGKoIAOqi"
+              }
+            ]
+          }
+        },
+        "id": "1897782396994699267",
+        "is_identity_verified": false,
+        "location": "Sao Paulo, Brazil",
+        "most_recent_tweet_id": "2094239158248092000",
+        "name": "Mah🍒 ⋆˚",
+        "pinned_tweet_id": "2092299803816333673",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897782396994699267/1788065730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093184206461390848/PcBNmiOC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15288,
+          "following_count": 6703,
+          "like_count": 7802,
+          "listed_count": 51,
+          "media_count": 2097,
+          "tweet_count": 27669
+        },
+        "url": "https://t.co/aGGKoIAOqi",
+        "username": "mahcherrys",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

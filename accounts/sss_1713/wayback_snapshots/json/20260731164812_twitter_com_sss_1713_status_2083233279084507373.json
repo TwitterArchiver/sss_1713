@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Caricature & Portrait",
+          "id": "1037077233070821376",
+          "name": "Caricature and portrait"
+        }
+      }
+    ],
+    "conversation_id": "2083233279084507373",
+    "created_at": "2026-07-31T16:48:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T17:48:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083233279084507373"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/deniadesuwa/st…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/deniadesuwa/status/2082735484938404097",
+          "start": 142,
+          "url": "https://t.co/BqwysPNbeG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083233279084507373",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082735484938404097",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不需要靠别人的评价来证明自己是怎样的基督徒，我只求自己问心无愧。\n即使不认同法轮功的观点我也会尊重他们作为人的尊严，因为我相信每个人都是按照天主的肖像受造的。\n和他们交谈是为了了解他们，在想什么、为什么会这样想，而不是加入他们。\n尊重他人的人格与尊严，也是对自己信仰和良知的尊重。 https://t.co/BqwysPNbeG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Caricature & Portrait",
+              "id": "1037077233070821376",
+              "name": "Caricature and portrait"
+            }
+          }
+        ],
+        "conversation_id": "2083233279084507373",
+        "created_at": "2026-07-31T16:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083233279084507373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/deniadesuwa/st…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/deniadesuwa/status/2082735484938404097",
+              "start": 142,
+              "url": "https://t.co/BqwysPNbeG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083233279084507373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082735484938404097",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不需要靠别人的评价来证明自己是怎样的基督徒，我只求自己问心无愧。\n即使不认同法轮功的观点我也会尊重他们作为人的尊严，因为我相信每个人都是按照天主的肖像受造的。\n和他们交谈是为了了解他们，在想什么、为什么会这样想，而不是加入他们。\n尊重他人的人格与尊严，也是对自己信仰和良知的尊重。 https://t.co/BqwysPNbeG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059531619674025984",
+        "conversation_id": "2082664241207865374",
+        "created_at": "2026-07-30T07:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T08:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082735484938404097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082735484938404097",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082664241207865374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 轮子太弱智，感觉能跟轮子交谈的人不是好基督徒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5995,
+          "following_count": 797,
+          "like_count": 55627,
+          "listed_count": 18,
+          "media_count": 1097,
+          "tweet_count": 9631
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-27T07:10:10.000Z",
+        "description": "勿扰",
+        "id": "2059531619674025984",
+        "name": "Deniadesuwa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059532737879719936/qnci0kRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 25,
+          "like_count": 251,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 232
+        },
+        "url": "",
+        "username": "Deniadesuwa",
+        "verified": false
+      }
+    ]
+  }
+}
