@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Robin Williams",
+          "id": "936664535213137920",
+          "name": "Robin Williams"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Robin Williams",
+          "id": "936664535213137920",
+          "name": "Robin Williams"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Robin Williams",
+          "id": "936664535213137920",
+          "name": "Robin Williams"
+        }
+      }
+    ],
+    "conversation_id": "2096762750663864724",
+    "created_at": "2026-09-07T00:49:30.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T01:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096762750663864724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1050810570570649601",
+          "start": 3,
+          "username": "ceciarmy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/4VMD",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/4VMD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096762750663864724",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14036
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096177223799545898",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ceciarmy: El día que Robin Williams hizo reír a Koko, una gorila que llevaba 6 meses de luto por la muerte de su hijo https://t.co/4VMD…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45166,
+        "height": 520,
+        "media_key": "7_2096177027925622786",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2096177027925622786/pu/img/Ezy50OBd44iXefx-.jpg",
+        "public_metrics": {
+          "view_count": 5452853
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2096177027925622786/pu/vid/avc1/372x270/o1jtG-lPqhyn0Am-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2096177027925622786/pu/vid/avc1/498x360/G2IL-tFXTSL67yPT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2096177027925622786/pu/vid/avc1/720x520/OLJwyMMMt7T_krFY.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2096177027925622786/pu/pl/pvO3KIGA23SUXbDw.m3u8?tag=12&v=ad9"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Robin Williams",
+              "id": "936664535213137920",
+              "name": "Robin Williams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Robin Williams",
+              "id": "936664535213137920",
+              "name": "Robin Williams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Robin Williams",
+              "id": "936664535213137920",
+              "name": "Robin Williams"
+            }
+          }
+        ],
+        "conversation_id": "2096762750663864724",
+        "created_at": "2026-09-07T00:49:30.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T01:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096762750663864724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1050810570570649601",
+              "start": 3,
+              "username": "ceciarmy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/4VMD",
+              "end": 139,
+              "start": 122,
+              "url": "https://t.co/4VMD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096762750663864724",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14036
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096177223799545898",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ceciarmy: El día que Robin Williams hizo reír a Koko, una gorila que llevaba 6 meses de luto por la muerte de su hijo https://t.co/4VMD…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2096177027925622786"
+          ]
+        },
+        "author_id": "1050810570570649601",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Robin Williams",
+              "id": "936664535213137920",
+              "name": "Robin Williams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Robin Williams",
+              "id": "936664535213137920",
+              "name": "Robin Williams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Robin Williams",
+              "id": "936664535213137920",
+              "name": "Robin Williams"
+            }
+          }
+        ],
+        "conversation_id": "2096177223799545898",
+        "created_at": "2026-09-05T10:02:49.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096177223799545898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4VMD8V7WZQ",
+              "end": 131,
+              "expanded_url": "https://x.com/ceciarmy/status/2096177223799545898/video/1",
+              "media_key": "7_2096177027925622786",
+              "start": 108,
+              "url": "https://t.co/4VMD8V7WZQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096177223799545898",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "7_2096177027925622786"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15942,
+          "impression_count": 12729363,
+          "like_count": 246129,
+          "quote_count": 951,
+          "reply_count": 697,
+          "retweet_count": 14038
+        },
+        "reply_settings": "everyone",
+        "text": "El día que Robin Williams hizo reír a Koko, una gorila que llevaba 6 meses de luto por la muerte de su hijo https://t.co/4VMD8V7WZQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2096762750663864724",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6127,
+          "following_count": 814,
+          "like_count": 57896,
+          "listed_count": 18,
+          "media_count": 1141,
+          "tweet_count": 9912
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-10-12T18:08:57.000Z",
+        "description": "business@ceciarmy.com",
+        "id": "1050810570570649601",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096591324472316233",
+        "name": "ceciarmy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1050810570570649601/1604957138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029487364909752322/VIqTXBpH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1672070,
+          "following_count": 0,
+          "like_count": 178,
+          "listed_count": 815,
+          "media_count": 4934,
+          "tweet_count": 5129
+        },
+        "url": "",
+        "username": "ceciarmy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

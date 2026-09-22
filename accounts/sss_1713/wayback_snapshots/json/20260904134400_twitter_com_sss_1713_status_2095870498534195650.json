@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2095737741229293871",
+    "created_at": "2026-09-04T13:44:00.000Z",
+    "display_text_range": [
+      8,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T14:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095870498534195650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1786652542899994624",
+          "start": 0,
+          "username": "zpj624"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095870498534195650",
+    "in_reply_to_user_id": "1786652542899994624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095868401780408805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zpj624 我也会关注你的哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2095737741229293871",
+        "created_at": "2026-09-04T13:44:00.000Z",
+        "display_text_range": [
+          8,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T14:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095870498534195650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1786652542899994624",
+              "start": 0,
+              "username": "zpj624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095870498534195650",
+        "in_reply_to_user_id": "1786652542899994624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095868401780408805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zpj624 我也会关注你的哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786652542899994624",
+        "conversation_id": "2095737741229293871",
+        "created_at": "2026-09-04T13:35:40.000Z",
+        "display_text_range": [
+          10,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T14:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095868401780408805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095868401780408805",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095863836528304552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 既然难得看见了你的推文，就点关注了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2095870498534195650",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6075,
+          "following_count": 813,
+          "like_count": 57652,
+          "listed_count": 18,
+          "media_count": 1138,
+          "tweet_count": 9903
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-04T07:02:30.000Z",
+        "description": "中共国号称的“斗争”，是无时不刻发动反人类的超限战。\n不听党话，不跟党走，不做二十一世纪马列跪族接班奴。\n苏俄到中共国均盛行养蛊文化。\n虫王寿终正寝，后果就是绝种。\n专制畏惧奴隶，载舟亦能覆舟。\n红朝酒肉臭，村有锁链女。\n患有五毒血旗反胃症候群。\n墙裂支持日本国家正常化。\n粉红煞笔勿扰，见一个屏蔽一个。",
+        "id": "1786652542899994624",
+        "is_identity_verified": false,
+        "location": "没有生在美国的美国人",
+        "most_recent_tweet_id": "2095868401780408805",
+        "name": "政治正确",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1786652542899994624/1770233728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894345462288887808/ErTon2-L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 652,
+          "like_count": 22039,
+          "listed_count": 8,
+          "media_count": 345,
+          "tweet_count": 11829
+        },
+        "url": "",
+        "username": "zpj624",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

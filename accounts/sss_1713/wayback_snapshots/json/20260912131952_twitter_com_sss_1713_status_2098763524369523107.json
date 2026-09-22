@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2098738385888399582",
+    "created_at": "2026-09-12T13:19:52.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T14:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098763524369523107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1947765957658873860",
+          "start": 0,
+          "username": "AGZlove8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098763524369523107",
+    "in_reply_to_user_id": "1947765957658873860",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098738385888399582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGZlove8964 不要呀呀呀…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2098738385888399582",
+        "created_at": "2026-09-12T13:19:52.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T14:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098763524369523107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1947765957658873860",
+              "start": 0,
+              "username": "AGZlove8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098763524369523107",
+        "in_reply_to_user_id": "1947765957658873860",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098738385888399582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGZlove8964 不要呀呀呀…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947765957658873860",
+        "conversation_id": "2098738385888399582",
+        "created_at": "2026-09-12T11:39:58.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T12:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098738385888399582"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098738385888399582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想离开这个是非之地，如果我哪天消失了你们会记得曾经有这个人存在过吗。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2098763524369523107",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6140,
+          "following_count": 819,
+          "like_count": 58073,
+          "listed_count": 18,
+          "media_count": 1148,
+          "tweet_count": 9938
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-22T21:09:43.000Z",
+        "description": "反对中共暴政 | 顺直蝻钕屠杀计划 \n友除顺直之外一切群体\n你支持我 我尊重你\n\n小号@dkcy1109",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "dkcy1109"
+              }
+            ]
+          }
+        },
+        "id": "1947765957658873860",
+        "is_identity_verified": false,
+        "location": "水晶棺",
+        "most_recent_tweet_id": "2098760168737780041",
+        "name": "爱国者8964 🇹🇼",
+        "pinned_tweet_id": "2094276078441570373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1947765957658873860/1788514260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088197181895536640/pyp-2zYg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 182,
+          "like_count": 3494,
+          "listed_count": 5,
+          "media_count": 68,
+          "tweet_count": 2351
+        },
+        "url": "",
+        "username": "AGZlove8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

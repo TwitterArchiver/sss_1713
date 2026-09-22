@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2095830482986668284",
+    "created_at": "2026-09-04T11:05:00.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T12:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095830482986668284"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/c2647490211/st…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/c2647490211/status/2095824957141815362",
+          "start": 65,
+          "url": "https://t.co/zzNTnnpu0D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095830482986668284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095824957141815362",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你有母亲或者姐妹吗？我不知道在家里你母亲或者姐妹对你怎么样，但我想她们大概不会称呼你“公人”。\n你的历史水平、个人教养都很差劲。 https://t.co/zzNTnnpu0D"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2095830482986668284",
+        "created_at": "2026-09-04T11:05:00.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T12:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095830482986668284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/c2647490211/st…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/c2647490211/status/2095824957141815362",
+              "start": 65,
+              "url": "https://t.co/zzNTnnpu0D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095830482986668284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095824957141815362",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你有母亲或者姐妹吗？我不知道在家里你母亲或者姐妹对你怎么样，但我想她们大概不会称呼你“公人”。\n你的历史水平、个人教养都很差劲。 https://t.co/zzNTnnpu0D"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835128748058030080",
+        "conversation_id": "2095737741229293871",
+        "created_at": "2026-09-04T10:43:02.000Z",
+        "display_text_range": [
+          10,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T11:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095824957141815362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095824957141815362",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095737741229293871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 有问题吗？妇女解放之前母人算个屁啊！没有苏联鬼子撑腰她们敢叫唤吗！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2095830482986668284",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6073,
+          "following_count": 812,
+          "like_count": 57640,
+          "listed_count": 18,
+          "media_count": 1138,
+          "tweet_count": 9898
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-15T01:29:33.000Z",
+        "description": "共和主义皇汉\n中共国现状：金樽美酒千人血，玉盘珍馐万姓膏，烛泪落时民泪落，歌声高处怨声高",
+        "id": "1835128748058030080",
+        "is_identity_verified": false,
+        "location": "中南海",
+        "most_recent_tweet_id": "2095828605330747431",
+        "name": "傻逼黑绿鞑子杂种龟男习近平🇬🇷🇦🇲🇷🇸",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1835128748058030080/1726903189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837380041895776256/p7YeVUaJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 63,
+          "like_count": 74,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 1148
+        },
+        "url": "",
+        "username": "C2647490211",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

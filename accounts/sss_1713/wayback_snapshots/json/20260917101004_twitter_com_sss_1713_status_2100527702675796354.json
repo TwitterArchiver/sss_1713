@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2100527702675796354",
+    "created_at": "2026-09-17T10:10:04.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T11:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100527702675796354"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2100515100318994921",
+          "start": 43,
+          "url": "https://t.co/D7dbguZ6X3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100527702675796354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100515100318994921",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真的是这样啊😭😭不到二十四个小时的放假时间，在家的时间像恍惚了一下就又回到学校了😭😭 https://t.co/D7dbguZ6X3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41866,
+        "height": 1280,
+        "media_key": "13_2100461953563209728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100461953563209728/img/qzVVDs4AwbUTI74i.jpg",
+        "public_metrics": {
+          "view_count": 7626
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100461953563209728/vid/avc1/320x568/k5oEYAyAjLmgXvq5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100461953563209728/vid/avc1/480x852/SqdbSUzz5Rx8T6mk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100461953563209728/vid/avc1/720x1280/8jcayX8-VtjCgBZQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100461953563209728/pl/0QEFo4nYMiPM1jsh.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2391,
+        "media_key": "3_2100461983191744512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSZXC4RbQAALipH.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2098,
+        "media_key": "3_2100462027764531200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSZXFeUaAAApapf.jpg",
+        "width": 1161
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2100527702675796354",
+        "created_at": "2026-09-17T10:10:04.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T11:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100527702675796354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2100515100318994921",
+              "start": 43,
+              "url": "https://t.co/D7dbguZ6X3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100527702675796354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100515100318994921",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的是这样啊😭😭不到二十四个小时的放假时间，在家的时间像恍惚了一下就又回到学校了😭😭 https://t.co/D7dbguZ6X3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100461953563209728",
+            "3_2100461983191744512",
+            "3_2100462027764531200"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2100515100318994921",
+        "created_at": "2026-09-17T09:20:00.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100515100318994921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b9UhbM3U4t",
+              "end": 104,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2100515100318994921/video/1",
+              "media_key": "13_2100461953563209728",
+              "start": 81,
+              "url": "https://t.co/b9UhbM3U4t"
+            },
+            {
+              "display_url": "pic.x.com/b9UhbM3U4t",
+              "end": 104,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2100515100318994921/video/1",
+              "media_key": "3_2100461983191744512",
+              "start": 81,
+              "url": "https://t.co/b9UhbM3U4t"
+            },
+            {
+              "display_url": "pic.x.com/b9UhbM3U4t",
+              "end": 104,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2100515100318994921/video/1",
+              "media_key": "3_2100462027764531200",
+              "start": 81,
+              "url": "https://t.co/b9UhbM3U4t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100515100318994921",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2100461953563209728"
+          },
+          {
+            "media_key": "3_2100461983191744512"
+          },
+          {
+            "media_key": "3_2100462027764531200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 15854,
+          "like_count": 136,
+          "quote_count": 4,
+          "reply_count": 24,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "近日，一位高中生哭诉高中放假时间的短促，周六下午3：20放假，周日下午3：00点前要返校，回家除开睡觉和作业时间，根本没有额外时间，等于在家睡一觉又回到了学校。 https://t.co/b9UhbM3U4t"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2100527702675796354",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6158,
+          "following_count": 820,
+          "like_count": 58292,
+          "listed_count": 18,
+          "media_count": 1148,
+          "tweet_count": 9952
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2100525177943760983",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2261545,
+          "following_count": 1084,
+          "like_count": 10507,
+          "listed_count": 8903,
+          "media_count": 53885,
+          "tweet_count": 61221
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

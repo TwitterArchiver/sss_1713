@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097657962663948288"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2097657975515017269",
+    "created_at": "2026-09-09T12:06:48.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T13:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097657975515017269"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/K9I9rmYb8a",
+          "end": 32,
+          "expanded_url": "https://x.com/sss_1713/status/2097657975515017269/photo/1",
+          "media_key": "3_2097657962663948288",
+          "start": 9,
+          "url": "https://t.co/K9I9rmYb8a"
+        },
+        {
+          "display_url": "x.com/sunyuchentron/…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/sunyuchentron/status/2097630500433358883",
+          "start": 33,
+          "url": "https://t.co/R7Z6XzUEui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097657975515017269",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097657962663948288"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097630500433358883",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你是否想成为⬇️ https://t.co/K9I9rmYb8a https://t.co/R7Z6XzUEui"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1363,
+        "media_key": "3_2097657962663948288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRxgzZzasAAQDnw.jpg",
+        "width": 1154
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097657962663948288"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2097657975515017269",
+        "created_at": "2026-09-09T12:06:48.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T13:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097657975515017269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K9I9rmYb8a",
+              "end": 32,
+              "expanded_url": "https://x.com/sss_1713/status/2097657975515017269/photo/1",
+              "media_key": "3_2097657962663948288",
+              "start": 9,
+              "url": "https://t.co/K9I9rmYb8a"
+            },
+            {
+              "display_url": "x.com/sunyuchentron/…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/sunyuchentron/status/2097630500433358883",
+              "start": 33,
+              "url": "https://t.co/R7Z6XzUEui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097657975515017269",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097657962663948288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097630500433358883",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你是否想成为⬇️ https://t.co/K9I9rmYb8a https://t.co/R7Z6XzUEui"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1222182756400037889",
+        "conversation_id": "2097630500433358883",
+        "created_at": "2026-09-09T10:17:38.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T11:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097630500433358883"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097630500433358883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 51008,
+          "like_count": 352,
+          "quote_count": 15,
+          "reply_count": 166,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "大家都说，大压抑时代，高富帅已经过时了，孙学，黄毛，薄肌才是版本答案，作为孙学创始人，我将系统性吸收黄毛与薄肌理论，朝闻道夕死可矣！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2097657975515017269",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6133,
+          "following_count": 816,
+          "like_count": 58005,
+          "listed_count": 18,
+          "media_count": 1144,
+          "tweet_count": 9919
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1970541264568520704/J6wYDxYk_bigger.jpg",
+          "description": "TRON DAO",
+          "url": "https://twitter.com/trondao",
+          "user_id": [
+            "894231710065446912"
+          ]
+        },
+        "created_at": "2020-01-28T15:41:01.000Z",
+        "description": "👨‍💻 企业家 | 🤵‍♂️ 外交官 | 👨‍🚀 宇航员 #712 | 🍌 艺术收藏家 | 创始人 @trondaoCN | 顾问 https://t.co/UaNI0eB7Vc https://t.co/KLklaEG0qB https://t.co/Hkyam1WH8d | 英文@justinsuntron",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "trondaoCN"
+              },
+              {
+                "end": 156,
+                "start": 142,
+                "username": "justinsuntron"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "b.ai",
+                "end": 89,
+                "expanded_url": "http://b.ai",
+                "start": 66,
+                "url": "https://t.co/UaNI0eB7Vc"
+              },
+              {
+                "display_url": "bt.io",
+                "end": 113,
+                "expanded_url": "http://bt.io",
+                "start": 90,
+                "url": "https://t.co/KLklaEG0qB"
+              },
+              {
+                "display_url": "htx.com",
+                "end": 137,
+                "expanded_url": "http://htx.com",
+                "start": 114,
+                "url": "https://t.co/Hkyam1WH8d"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b.ai",
+                "end": 23,
+                "expanded_url": "https://b.ai",
+                "start": 0,
+                "url": "https://t.co/Cw0VIzGrAm"
+              }
+            ]
+          }
+        },
+        "id": "1222182756400037889",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2097637933604077901",
+        "name": "孙宇晨（去过太空版）🧑‍🚀",
+        "pinned_tweet_id": "1905450912065229054",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1222182756400037889/1705557778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955272811448340480/M9982AS6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628649,
+          "following_count": 283,
+          "like_count": 83,
+          "listed_count": 1333,
+          "media_count": 3039,
+          "tweet_count": 9790
+        },
+        "url": "https://t.co/Cw0VIzGrAm",
+        "username": "sunyuchentron",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2097657174830854307",
+    "created_at": "2026-09-09T12:03:37.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T13:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097657174830854307"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wangzhian8848/…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/wangzhian8848/status/2097640653933150682",
+          "start": 13,
+          "url": "https://t.co/MSlndxdOcu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097657174830854307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097640653933150682",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "王局说这话小心回不了国😂 https://t.co/MSlndxdOcu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2097657174830854307",
+        "created_at": "2026-09-09T12:03:37.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T13:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097657174830854307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wangzhian8848/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/wangzhian8848/status/2097640653933150682",
+              "start": 13,
+              "url": "https://t.co/MSlndxdOcu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097657174830854307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097640653933150682",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "王局说这话小心回不了国😂 https://t.co/MSlndxdOcu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1072109417200414720",
+        "conversation_id": "2097640653933150682",
+        "created_at": "2026-09-09T10:57:58.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T11:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097640653933150682"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097640653933150682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 31960,
+          "like_count": 359,
+          "quote_count": 2,
+          "reply_count": 77,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "老毛去世五十年，中国发生天翻地覆的变化。他如果能活到150岁，我估计我就在某个农村下乡放羊呢。\n\n幸亏他76年就死了，好悬！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2097657174830854307",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6133,
+          "following_count": 816,
+          "like_count": 58003,
+          "listed_count": 18,
+          "media_count": 1143,
+          "tweet_count": 9918
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-10T12:42:58.000Z",
+        "description": "调查记者，主持人。油管频道地址：https://t.co/WfO3vZ0ygY?amp=1，Facebook地址：https://t.co/QO4mprdzUL，TikTok地址：https://t.co/chl5sh7Cfa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "",
+                "end": 23,
+                "expanded_url": "",
+                "start": 0,
+                "url": "https://t.co/DrbI80kqkz"
+              }
+            ]
+          }
+        },
+        "id": "1072109417200414720",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2097648207207764451",
+        "name": "王局志安",
+        "pinned_tweet_id": "1876486307205251482",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1072109417200414720/1544452109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1527433965824802816/PgXCsVL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525235,
+          "following_count": 683,
+          "like_count": 2084,
+          "listed_count": 4177,
+          "media_count": 7374,
+          "tweet_count": 21537
+        },
+        "url": "https://t.co/DrbI80kqkz",
+        "username": "wangzhian8848",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

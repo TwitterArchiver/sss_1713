@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2098265354657243154",
+    "created_at": "2026-09-11T04:20:19.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T05:20:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098265354657243154"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/johnicniman/st…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/johnicniman/status/2098066375965290717",
+          "start": 14,
+          "url": "https://t.co/89z1dU1WPz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098265354657243154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098066375965290717",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁可以告诉我这是在干什么吗 https://t.co/89z1dU1WPz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 114593,
+        "height": 1280,
+        "media_key": "13_2098066307065462784",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098066307065462784/img/K9E_QjP6Av0JwP17.jpg",
+        "public_metrics": {
+          "view_count": 1078956
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098066307065462784/vid/avc1/320x694/5gtuf5pwGrrX-CTV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098066307065462784/vid/avc1/480x1040/juRwrIxe9BObv5Y8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098066307065462784/vid/avc1/590x1280/DsltKPXr3-XnRV5g.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098066307065462784/pl/qf7YWc96Iu5IDDLU.m3u8?v=cfc"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2098265354657243154",
+        "created_at": "2026-09-11T04:20:19.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T05:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098265354657243154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/johnicniman/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/johnicniman/status/2098066375965290717",
+              "start": 14,
+              "url": "https://t.co/89z1dU1WPz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098265354657243154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098066375965290717",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁可以告诉我这是在干什么吗 https://t.co/89z1dU1WPz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098066307065462784"
+          ]
+        },
+        "author_id": "1556161962962067456",
+        "conversation_id": "2098066375965290717",
+        "created_at": "2026-09-10T15:09:38.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T16:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098066375965290717"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "吴是温"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "签售"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mu1rcdFryu",
+              "end": 83,
+              "expanded_url": "https://x.com/Johnicniman/status/2098066375965290717/video/1",
+              "media_key": "13_2098066307065462784",
+              "start": 60,
+              "url": "https://t.co/Mu1rcdFryu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098066375965290717",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2098066307065462784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4482,
+          "impression_count": 3147564,
+          "like_count": 6945,
+          "quote_count": 2298,
+          "reply_count": 656,
+          "retweet_count": 534
+        },
+        "reply_settings": "everyone",
+        "text": "吴是温签售视频无码 宝贝们理性观看哦 在抖音被冲惨了，视频被举报下架，在这里发吧不喜欢的可以划走哦！\n#吴是温 #签售 https://t.co/Mu1rcdFryu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2098265354657243154",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6138,
+          "following_count": 818,
+          "like_count": 58043,
+          "listed_count": 18,
+          "media_count": 1144,
+          "tweet_count": 9925
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-07T06:15:15.000Z",
+        "description": "•᷄ࡇ•᷅",
+        "id": "1556161962962067456",
+        "is_identity_verified": false,
+        "location": "San Francisco, CA",
+        "most_recent_tweet_id": "2098098724006461523",
+        "name": "John",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1556161962962067456/1692428583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035394153077739520/WWUiYQrj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 42,
+          "like_count": 1043,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "Johnicniman",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

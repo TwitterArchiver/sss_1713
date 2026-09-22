@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2094327653759140046",
+    "created_at": "2026-09-03T01:57:56.000Z",
+    "display_text_range": [
+      28,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T02:57:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095330423471759594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1526517532055572481",
+          "start": 0,
+          "username": "wswm7212151"
+        },
+        {
+          "end": 27,
+          "id": "1316630330019782657",
+          "start": 13,
+          "username": "fanshigui8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095330423471759594",
+    "in_reply_to_user_id": "1526517532055572481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094369875666047372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@wswm7212151 @fanshigui8964 一码归一码哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2094327653759140046",
+        "created_at": "2026-09-03T01:57:56.000Z",
+        "display_text_range": [
+          28,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T02:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095330423471759594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1526517532055572481",
+              "start": 0,
+              "username": "wswm7212151"
+            },
+            {
+              "end": 27,
+              "id": "1316630330019782657",
+              "start": 13,
+              "username": "fanshigui8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095330423471759594",
+        "in_reply_to_user_id": "1526517532055572481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094369875666047372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@wswm7212151 @fanshigui8964 一码归一码哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1526517532055572481",
+        "conversation_id": "2094327653759140046",
+        "created_at": "2026-08-31T10:21:04.000Z",
+        "display_text_range": [
+          15,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T11:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094369875666047372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1316630330019782657",
+              "start": 0,
+              "username": "fanshigui8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094369875666047372",
+        "in_reply_to_user_id": "1316630330019782657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 258,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094327653759140046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@fanshigui8964 恭喜\n\n当然必须鄙视你这个川粉"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2095330423471759594",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6048,
+          "following_count": 812,
+          "like_count": 57564,
+          "listed_count": 18,
+          "media_count": 1136,
+          "tweet_count": 9892
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-17T10:59:13.000Z",
+        "description": "",
+        "id": "1526517532055572481",
+        "is_identity_verified": false,
+        "location": "大陆江苏省淮安市淮安区",
+        "most_recent_tweet_id": "2095328077526282523",
+        "name": "王默 wswm721215",
+        "pinned_tweet_id": "1825504418143535429",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1526517532055572481/1742091233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718877516948180992/tDpeFMtV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11322,
+          "following_count": 925,
+          "like_count": 65850,
+          "listed_count": 49,
+          "media_count": 935,
+          "tweet_count": 23644
+        },
+        "url": "",
+        "username": "wswm7212151",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-15T06:42:04.000Z",
+        "description": "因为中共渗透对我的账号进行了接近于封号的限流、取消了我的盈利分享，因此请网友帮助转发、点赞、评论，对抗中共的跨国镇压 。请大家关注我的备用账号@fanxingdao8964。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 71,
+                "username": "fanxingdao8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/fanshiguifm",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/fanshiguifm",
+                "start": 0,
+                "url": "https://t.co/UeLchrzSau"
+              }
+            ]
+          }
+        },
+        "id": "1316630330019782657",
+        "is_identity_verified": false,
+        "location": "Nederland",
+        "most_recent_tweet_id": "2095171407747383435",
+        "name": "范士贵8964荷兰庇护申请成功",
+        "pinned_tweet_id": "2095073583080906818",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1316630330019782657/1656155686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092171371442790400/vRYgPgcE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89676,
+          "following_count": 8971,
+          "like_count": 21666,
+          "listed_count": 276,
+          "media_count": 17533,
+          "tweet_count": 29096
+        },
+        "url": "https://t.co/UeLchrzSau",
+        "username": "fanshigui8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

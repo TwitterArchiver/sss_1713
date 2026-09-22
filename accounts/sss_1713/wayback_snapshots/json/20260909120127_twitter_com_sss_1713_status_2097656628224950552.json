@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2097611864570020204",
+    "created_at": "2026-09-09T12:01:27.000Z",
+    "display_text_range": [
+      13,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T13:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097656628224950552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1853357932169371648",
+          "start": 0,
+          "username": "SinoFantasy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097656628224950552",
+    "in_reply_to_user_id": "1853357932169371648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097619588435280382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SinoFantasy 但是说“丢人”就有点太过了，不能因为自己的喜好就觉得别人那样是不好的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2097611864570020204",
+        "created_at": "2026-09-09T12:01:27.000Z",
+        "display_text_range": [
+          13,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T13:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097656628224950552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1853357932169371648",
+              "start": 0,
+              "username": "SinoFantasy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097656628224950552",
+        "in_reply_to_user_id": "1853357932169371648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097619588435280382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SinoFantasy 但是说“丢人”就有点太过了，不能因为自己的喜好就觉得别人那样是不好的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853357932169371648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2097611864570020204",
+        "created_at": "2026-09-09T09:34:16.000Z",
+        "display_text_range": [
+          10,
+          151
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T10:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097619588435280382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097619588435280382",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 181,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097611864570020204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 很正常，我也很喜欢给自己加口音，一方面我在这些国家都只是一个过客、外来者。另一方面有一定口音，大多数本地人对待我们这群外国人比对待ABC、BBC要友好的多，也新奇的多。我没必要也不愿意装成什么老伦敦。我讲中文也喜欢带点大学学的东北口音，容易拉近关系，要是用京腔，大多数人态度就变了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2097656628224950552",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6133,
+          "following_count": 816,
+          "like_count": 58000,
+          "listed_count": 18,
+          "media_count": 1143,
+          "tweet_count": 9916
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T08:45:50.000Z",
+        "description": "网左，喷子，嘴臭达人。马列，毛派，解放神学。",
+        "id": "1853357932169371648",
+        "is_identity_verified": false,
+        "location": "人民大会堂",
+        "most_recent_tweet_id": "2097623810342089121",
+        "name": "多说废话",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853357932169371648/1731035578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872740648430051328/hPhFdgL3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 104,
+          "like_count": 8665,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1718
+        },
+        "url": "",
+        "username": "SinoFantasy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

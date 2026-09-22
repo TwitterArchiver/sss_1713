@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2097270363617169651",
+    "created_at": "2026-09-08T10:26:34.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T11:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097270363617169651"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bqbty666/statu…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/bqbty666/status/2097230056573882859",
+          "start": 16,
+          "url": "https://t.co/H3GfLPACxG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097270363617169651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097230056573882859",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你或许和我们生活在不同的世界。 https://t.co/H3GfLPACxG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2097270363617169651",
+        "created_at": "2026-09-08T10:26:34.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T11:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097270363617169651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bqbty666/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/bqbty666/status/2097230056573882859",
+              "start": 16,
+              "url": "https://t.co/H3GfLPACxG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097270363617169651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097230056573882859",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你或许和我们生活在不同的世界。 https://t.co/H3GfLPACxG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "191559319",
+        "conversation_id": "2097156250983366795",
+        "created_at": "2026-09-08T07:46:24.000Z",
+        "display_text_range": [
+          12,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T08:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097230056573882859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2049091879350976513",
+              "start": 0,
+              "username": "Andynkqeba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097230056573882859",
+        "in_reply_to_user_id": "2049091879350976513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4116,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097228675397623854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Andynkqeba 你是不是没去看过？现在的风气，你去小学都未必能找到处女"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2097270363617169651",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6133,
+          "following_count": 814,
+          "like_count": 57940,
+          "listed_count": 18,
+          "media_count": 1142,
+          "tweet_count": 9914
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-09-16T19:12:31.000Z",
+        "description": "✈️商务合作@cy222333 出售外汇黄金AI量化策略，自己的研发团队，有10年以上实战经验。加密圈合约免费跟单，月化30%～80% ，另有推特代运营，帮助刚入行的KOL打造流量变现，每月拿马斯克工资1000～5000美元。请尊重知识付费，非诚勿扰！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "cy222333"
+              }
+            ]
+          }
+        },
+        "id": "191559319",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097269186221445172",
+        "name": "辰逸",
+        "pinned_tweet_id": "2081650378786111831",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/191559319/1714668346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087972729500901376/k46bp1-M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17699,
+          "following_count": 2965,
+          "like_count": 48470,
+          "listed_count": 34,
+          "media_count": 784,
+          "tweet_count": 19325
+        },
+        "url": "",
+        "username": "bqbty666",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-28T11:42:55.000Z",
+        "description": "",
+        "id": "2049091879350976513",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2097228675397623854",
+        "name": "Sunny🇺🇸",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063761294206160896/DznpoOoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 955,
+          "like_count": 979,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 519
+        },
+        "url": "",
+        "username": "Andynkqeba",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

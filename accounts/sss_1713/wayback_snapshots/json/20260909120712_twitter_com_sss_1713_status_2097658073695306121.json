@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2097561029626736708",
+    "created_at": "2026-09-09T12:07:12.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T13:07:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097658073695306121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1528798633168347137",
+          "start": 0,
+          "username": "TomoriNao2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097658073695306121",
+    "in_reply_to_user_id": "1528798633168347137",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097561029626736708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TomoriNao2022 哇塞恭喜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 139,
+        "media_key": "3_2097560922453868544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRwIi62agAAOOZZ.png",
+        "width": 377
+      },
+      {
+        "height": 270,
+        "media_key": "3_2097560981216100352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRwImVwbAAAXnBg.png",
+        "width": 595
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2097561029626736708",
+        "created_at": "2026-09-09T12:07:12.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T13:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097658073695306121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1528798633168347137",
+              "start": 0,
+              "username": "TomoriNao2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097658073695306121",
+        "in_reply_to_user_id": "1528798633168347137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097561029626736708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TomoriNao2022 哇塞恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097560922453868544",
+            "3_2097560981216100352"
+          ]
+        },
+        "author_id": "1528798633168347137",
+        "conversation_id": "2097561029626736708",
+        "created_at": "2026-09-09T05:41:34.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T06:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097561029626736708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yCDmnuiUNJ",
+              "end": 42,
+              "expanded_url": "https://x.com/TomoriNao2022/status/2097561029626736708/photo/1",
+              "media_key": "3_2097560922453868544",
+              "start": 19,
+              "url": "https://t.co/yCDmnuiUNJ"
+            },
+            {
+              "display_url": "pic.x.com/yCDmnuiUNJ",
+              "end": 42,
+              "expanded_url": "https://x.com/TomoriNao2022/status/2097561029626736708/photo/1",
+              "media_key": "3_2097560981216100352",
+              "start": 19,
+              "url": "https://t.co/yCDmnuiUNJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097561029626736708",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097560922453868544"
+          },
+          {
+            "media_key": "3_2097560981216100352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1837,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "效率这么高吗，申请几个小时就通过了🤔 https://t.co/yCDmnuiUNJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2097658073695306121",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6133,
+          "following_count": 816,
+          "like_count": 58005,
+          "listed_count": 18,
+          "media_count": 1144,
+          "tweet_count": 9920
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-23T18:04:26.000Z",
+        "description": "この世の因果を・・・断ち切る！\ntelegram：https://t.co/K8jioEkL4s\ndiscord：https://t.co/ZFHCRnHUMK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+wVgo88kx8FphN…",
+                "end": 48,
+                "expanded_url": "https://t.me/+wVgo88kx8FphNjdl",
+                "start": 25,
+                "url": "https://t.co/K8jioEkL4s"
+              },
+              {
+                "display_url": "discord.gg/RXmHUMUdGN",
+                "end": 80,
+                "expanded_url": "https://discord.gg/RXmHUMUdGN",
+                "start": 57,
+                "url": "https://t.co/ZFHCRnHUMK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+wVgo88kx8FphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+wVgo88kx8FphNjdl",
+                "start": 0,
+                "url": "https://t.co/K8jioEkL4s"
+              }
+            ]
+          }
+        },
+        "id": "1528798633168347137",
+        "is_identity_verified": false,
+        "location": "神奈川県",
+        "most_recent_tweet_id": "2097656242139508872",
+        "name": "なおNaO",
+        "pinned_tweet_id": "2073983646399365630",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1528798633168347137/1653500269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930261843559493635/CPcTKpRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22071,
+          "following_count": 4591,
+          "like_count": 12850,
+          "listed_count": 69,
+          "media_count": 3478,
+          "tweet_count": 12264
+        },
+        "url": "https://t.co/K8jioEkL4s",
+        "username": "TomoriNao2022",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

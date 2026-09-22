@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2098075720081703212",
+    "created_at": "2026-09-11T04:21:47.000Z",
+    "display_text_range": [
+      17,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T05:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098265727329571116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1497481140915290115",
+          "start": 0,
+          "username": "karasu_ga_warau"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098265727329571116",
+    "in_reply_to_user_id": "1497481140915290115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098075720081703212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karasu_ga_warau 豆包真的是我用过最烂的ai，没有之一😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2098075720081703212",
+        "created_at": "2026-09-11T04:21:47.000Z",
+        "display_text_range": [
+          17,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T05:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098265727329571116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1497481140915290115",
+              "start": 0,
+              "username": "karasu_ga_warau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098265727329571116",
+        "in_reply_to_user_id": "1497481140915290115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098075720081703212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karasu_ga_warau 豆包真的是我用过最烂的ai，没有之一😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497481140915290115",
+        "conversation_id": "2098075720081703212",
+        "created_at": "2026-09-10T15:46:46.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T16:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098075720081703212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/finnianyan811/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/finnianyan811/status/2098022661020610884",
+              "start": 15,
+              "url": "https://t.co/Ndq4gQizJk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098075720081703212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2117,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098022661020610884",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "「出了點問題，請稍後再試」🥲 https://t.co/Ndq4gQizJk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2098265727329571116",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6138,
+          "following_count": 818,
+          "like_count": 58044,
+          "listed_count": 18,
+          "media_count": 1144,
+          "tweet_count": 9926
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-26T07:59:00.000Z",
+        "description": "Proud Chinese communism survivor | Proud Feminist | Proud Queer (she/they) | May all the justice live in peace, love in peace and rest in peace.",
+        "id": "1497481140915290115",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098218734934487047",
+        "name": "夏巢川 Rei Xia",
+        "pinned_tweet_id": "1814038292738035893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1497481140915290115/1645863117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798095968576958464/DJkGIkQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29099,
+          "following_count": 1315,
+          "like_count": 10612,
+          "listed_count": 123,
+          "media_count": 585,
+          "tweet_count": 5963
+        },
+        "url": "",
+        "username": "karasu_ga_warau",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

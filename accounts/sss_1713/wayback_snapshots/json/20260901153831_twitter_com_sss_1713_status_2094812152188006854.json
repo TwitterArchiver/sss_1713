@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2094782531858207136",
+    "created_at": "2026-09-01T15:38:31.000Z",
+    "display_text_range": [
+      16,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T16:38:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094812152188006854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2086838732741885952",
+          "start": 0,
+          "username": "Ididnothinglqz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094812152188006854",
+    "in_reply_to_user_id": "2086838732741885952",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094782531858207136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ididnothinglqz just do it"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2094782525617147904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRIpm8EbEAAlmJt.jpg",
+        "width": 554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2094782531858207136",
+        "created_at": "2026-09-01T15:38:31.000Z",
+        "display_text_range": [
+          16,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T16:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094812152188006854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2086838732741885952",
+              "start": 0,
+              "username": "Ididnothinglqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094812152188006854",
+        "in_reply_to_user_id": "2086838732741885952",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094782531858207136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ididnothinglqz just do it"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094782525617147904"
+          ]
+        },
+        "author_id": "2086838732741885952",
+        "conversation_id": "2094782531858207136",
+        "created_at": "2026-09-01T13:40:49.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T14:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094782531858207136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0FhrAVc2LB",
+              "end": 34,
+              "expanded_url": "https://x.com/Ididnothinglqz/status/2094782531858207136/photo/1",
+              "media_key": "3_2094782525617147904",
+              "start": 11,
+              "url": "https://t.co/0FhrAVc2LB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094782531858207136",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094782525617147904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想做什么就做什么。 https://t.co/0FhrAVc2LB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2094812152188006854",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6045,
+          "following_count": 811,
+          "like_count": 57484,
+          "listed_count": 18,
+          "media_count": 1135,
+          "tweet_count": 9885
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-10T15:39:27.000Z",
+        "description": "昵称源于操蚂蚁龙 \n原则上可以和所有人沟通\n间歇炒作间歇呢喃间歇魔人\n友左友右友跨友同友女权友基督教，你包容我我包容你，原则上不ban少ban，新注册号除外看黄号除外魔人除外\n前世前前世昵称撒旦子民",
+        "id": "2086838732741885952",
+        "is_identity_verified": false,
+        "location": "美国菏泽曹县",
+        "most_recent_tweet_id": "2094804503505911855",
+        "name": "蚂蚁操龙8964",
+        "pinned_tweet_id": "2092575887237480786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086838732741885952/1786377026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089708250635935744/H9CfsHhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1255,
+          "following_count": 334,
+          "like_count": 4167,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 2388
+        },
+        "url": "",
+        "username": "Ididnothinglqz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

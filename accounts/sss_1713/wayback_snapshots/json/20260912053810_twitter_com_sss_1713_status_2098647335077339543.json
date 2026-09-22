@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098647316349779968"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2098647335077339543",
+    "created_at": "2026-09-12T05:38:10.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T06:38:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098647335077339543"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8JUGV7sOx2",
+          "end": 86,
+          "expanded_url": "https://x.com/sss_1713/status/2098647335077339543/photo/1",
+          "media_key": "3_2098647316349779968",
+          "start": 63,
+          "url": "https://t.co/8JUGV7sOx2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098647335077339543",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098647316349779968"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这条路边说的话没有一句是能听的，几乎全是各种情绪化输出，见人就咬，并且居然还有那么多人给他点赞，中推的傻逼越来越多了，哀哉。 https://t.co/8JUGV7sOx2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1305,
+        "media_key": "3_2098647316349779968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_knXfbAAA0q34.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098647316349779968"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098647335077339543",
+        "created_at": "2026-09-12T05:38:10.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T06:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098647335077339543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8JUGV7sOx2",
+              "end": 86,
+              "expanded_url": "https://x.com/sss_1713/status/2098647335077339543/photo/1",
+              "media_key": "3_2098647316349779968",
+              "start": 63,
+              "url": "https://t.co/8JUGV7sOx2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098647335077339543",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098647316349779968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这条路边说的话没有一句是能听的，几乎全是各种情绪化输出，见人就咬，并且居然还有那么多人给他点赞，中推的傻逼越来越多了，哀哉。 https://t.co/8JUGV7sOx2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2098647335077339543",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6140,
+          "following_count": 819,
+          "like_count": 58071,
+          "listed_count": 18,
+          "media_count": 1147,
+          "tweet_count": 9934
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

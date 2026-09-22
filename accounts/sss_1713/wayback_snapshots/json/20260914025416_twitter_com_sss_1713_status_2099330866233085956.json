@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2099330866233085956",
+    "created_at": "2026-09-14T02:54:16.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T03:54:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099330866233085956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1265324196",
+          "start": 3,
+          "username": "news_vaticano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099330866233085956",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 712
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099259021349867630",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @news_vaticano: 🎂 Hoy, 14 de septiembre, el Papa León XIV cumple 71 años.\n\nDamos gracias a Dios por su vida y por su servicio a la Igles…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1478,
+        "media_key": "3_2099259014164942848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSIQ83bWkAAq-0n.jpg",
+        "width": 1064
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2099330866233085956",
+        "created_at": "2026-09-14T02:54:16.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T03:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099330866233085956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1265324196",
+              "start": 3,
+              "username": "news_vaticano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099330866233085956",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 712
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099259021349867630",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @news_vaticano: 🎂 Hoy, 14 de septiembre, el Papa León XIV cumple 71 años.\n\nDamos gracias a Dios por su vida y por su servicio a la Igles…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099259014164942848"
+          ]
+        },
+        "author_id": "1265324196",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1482122435499479042",
+              "name": "Maria"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1482122435499479042",
+              "name": "Maria"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1354796903951601669",
+              "name": "Big Brother Brazil stars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1482122435499479042",
+              "name": "Maria"
+            }
+          }
+        ],
+        "conversation_id": "2099259021349867630",
+        "created_at": "2026-09-13T22:08:47.000Z",
+        "display_text_range": [
+          0,
+          273
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T23:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099259021349867630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yMxYlZWp3n",
+              "end": 297,
+              "expanded_url": "https://x.com/news_vaticano/status/2099259021349867630/photo/1",
+              "media_key": "3_2099259014164942848",
+              "start": 274,
+              "url": "https://t.co/yMxYlZWp3n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099259021349867630",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2099259014164942848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 349,
+                "start": 337,
+                "tag": "PapaLeónXIV"
+              },
+              {
+                "end": 358,
+                "start": 350,
+                "tag": "LeónXIV"
+              },
+              {
+                "end": 375,
+                "start": 359,
+                "tag": "FelizCumpleaños"
+              }
+            ]
+          },
+          "text": "🎂 Hoy, 14 de septiembre, el Papa León XIV cumple 71 años.\n\nDamos gracias a Dios por su vida y por su servicio a la Iglesia. Pedimos al Señor que lo sostenga y fortalezca en su misión como sucesor de Pedro, y que la Virgen María lo proteja siempre.\n\n¡Feliz cumpleaños, Santo Padre! Puede contar con nuestra oración y nuestro cariño. 🙏🇻🇦\n\n#PapaLeónXIV #LeónXIV #FelizCumpleaños"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 29193,
+          "like_count": 4013,
+          "quote_count": 29,
+          "reply_count": 100,
+          "retweet_count": 712
+        },
+        "reply_settings": "everyone",
+        "text": "🎂 Hoy, 14 de septiembre, el Papa León XIV cumple 71 años.\n\nDamos gracias a Dios por su vida y por su servicio a la Iglesia. Pedimos al Señor que lo sostenga y fortalezca en su misión como sucesor de Pedro, y que la Virgen María lo proteja siempre.\n\n¡Feliz cumpleaños, Santo https://t.co/yMxYlZWp3n"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2099330866233085956",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6149,
+          "following_count": 819,
+          "like_count": 58156,
+          "listed_count": 18,
+          "media_count": 1147,
+          "tweet_count": 9945
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-03-13T20:09:39.000Z",
+        "description": "Sigue actualidad del Papa #LeónXIV, Vaticano y la Iglesia católica • Perfil no oficial del Vaticano dirigido por @josemarimayoral • https://t.co/3bHzrr2tr3",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 26,
+                "tag": "LeónXIV"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 129,
+                "start": 113,
+                "username": "josemarimayoral"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/news.vaticano",
+                "end": 155,
+                "expanded_url": "http://instagram.com/news.vaticano",
+                "start": 132,
+                "url": "https://t.co/3bHzrr2tr3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "newsvaticano.com",
+                "end": 23,
+                "expanded_url": "http://newsvaticano.com",
+                "start": 0,
+                "url": "https://t.co/sTMALMMLsa"
+              }
+            ]
+          }
+        },
+        "id": "1265324196",
+        "is_identity_verified": false,
+        "location": "Città del Vaticano",
+        "most_recent_tweet_id": "2099259021349867630",
+        "name": "News Vaticano 🇻🇦",
+        "pinned_tweet_id": "1923350352331428045",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1265324196/1776977523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047358473088733184/UDyt07yr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67571,
+          "following_count": 40,
+          "like_count": 3228,
+          "listed_count": 215,
+          "media_count": 52371,
+          "tweet_count": 81480
+        },
+        "url": "https://t.co/sTMALMMLsa",
+        "username": "news_vaticano",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

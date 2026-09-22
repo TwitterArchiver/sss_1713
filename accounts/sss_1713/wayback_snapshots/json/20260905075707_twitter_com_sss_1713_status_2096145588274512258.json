@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096145563213524993"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2096145588274512258",
+    "created_at": "2026-09-05T07:57:07.000Z",
+    "display_text_range": [
+      0,
+      117
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T08:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096145588274512258"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5oiSvkC7dd",
+          "end": 141,
+          "expanded_url": "https://x.com/sss_1713/status/2096145588274512258/photo/1",
+          "media_key": "3_2096145563213524993",
+          "start": 118,
+          "url": "https://t.co/5oiSvkC7dd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096145588274512258",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096145563213524993"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "作为由中国新闻社主办，定位明确、具有政府背景的权威侨务信息平台——“中国侨网”，在微信评论区下面留言种族歧视的话合适吗。\n该文章指责了美国密苏里州一车牌出现“辱华”字眼——CHINK-4，所以官方媒体在面对种族歧视时转而歧视其他种族？ https://t.co/5oiSvkC7dd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 741,
+        "media_key": "3_2096145563213524993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcBSKzacAETJ_j.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096145563213524993"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2096145588274512258",
+        "created_at": "2026-09-05T07:57:07.000Z",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T08:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096145588274512258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5oiSvkC7dd",
+              "end": 141,
+              "expanded_url": "https://x.com/sss_1713/status/2096145588274512258/photo/1",
+              "media_key": "3_2096145563213524993",
+              "start": 118,
+              "url": "https://t.co/5oiSvkC7dd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096145588274512258",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096145563213524993"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "作为由中国新闻社主办，定位明确、具有政府背景的权威侨务信息平台——“中国侨网”，在微信评论区下面留言种族歧视的话合适吗。\n该文章指责了美国密苏里州一车牌出现“辱华”字眼——CHINK-4，所以官方媒体在面对种族歧视时转而歧视其他种族？ https://t.co/5oiSvkC7dd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2096145588274512258",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6091,
+          "following_count": 812,
+          "like_count": 57760,
+          "listed_count": 18,
+          "media_count": 1140,
+          "tweet_count": 9906
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

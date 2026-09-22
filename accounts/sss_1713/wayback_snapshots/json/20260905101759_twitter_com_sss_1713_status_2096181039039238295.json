@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2096175521130545173",
+    "created_at": "2026-09-05T10:17:59.000Z",
+    "display_text_range": [
+      26,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T11:17:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096181039039238295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1074838588012052481",
+          "start": 0,
+          "username": "ChunXiaFb"
+        },
+        {
+          "end": 25,
+          "id": "1833775663222075392",
+          "start": 11,
+          "username": "SocDemCNBunny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096181039039238295",
+    "in_reply_to_user_id": "1074838588012052481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096175521130545173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChunXiaFb @SocDemCNBunny 真的吗，其实我现在很少发推文了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2096175521130545173",
+        "created_at": "2026-09-05T10:17:59.000Z",
+        "display_text_range": [
+          26,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096181039039238295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1074838588012052481",
+              "start": 0,
+              "username": "ChunXiaFb"
+            },
+            {
+              "end": 25,
+              "id": "1833775663222075392",
+              "start": 11,
+              "username": "SocDemCNBunny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096181039039238295",
+        "in_reply_to_user_id": "1074838588012052481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096175521130545173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChunXiaFb @SocDemCNBunny 真的吗，其实我现在很少发推文了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1074838588012052481",
+        "conversation_id": "2096175521130545173",
+        "created_at": "2026-09-05T09:56:03.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T10:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096175521130545173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 120,
+              "id": "1833775663222075392",
+              "start": 106,
+              "username": "SocDemCNBunny"
+            },
+            {
+              "end": 130,
+              "id": "1254605353838231553",
+              "start": 121,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096175521130545173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不知道大家有没有和我一样，推特被这两个大哥占领了，每天发推的数量堪称恐怖，当然对他们这两个人没什么意见都是好人。一个是天主教✝️的忠实信徒，把十字架放在名字后面，一个把巴勒斯坦🇵🇸国旗印在动漫头像的衣服上。😂😂😂@SocDemCNBunny @sss_1713"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2096181039039238295",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6090,
+          "following_count": 812,
+          "like_count": 57773,
+          "listed_count": 18,
+          "media_count": 1139,
+          "tweet_count": 9906
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-18T01:27:43.000Z",
+        "description": "希望在这里找到我想要的东西，然后我会互关的，希望大家关注我支持我🌈，(≧▽≦*)。",
+        "id": "1074838588012052481",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2096175521130545173",
+        "name": "✡春夏风波🇭🇰🌈",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074838588012052481/1656388672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1541781569442299904/qC3mMBsn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1945,
+          "following_count": 1782,
+          "like_count": 15252,
+          "listed_count": 4,
+          "media_count": 433,
+          "tweet_count": 7980
+        },
+        "url": "",
+        "username": "ChunXiaFb",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-11T07:52:53.000Z",
+        "description": "医学预科🥼+政治学🏛️｜民社🌹｜进步派⏩｜INTP🧪｜🇺🇦🇵🇸｜史政coser🎭｜🚹🚺平等｜🏳️‍🌈🏳️‍⚧️友好｜中文🇨🇳English🇺🇸Français🇫🇷｜国际主义🌍+左翼民族主义🇨🇳🇭🇰🇲🇴🇹🇼｜樊星🏓+罗迷⚽️｜Retardophobia厌蠢",
+        "id": "1833775663222075392",
+        "is_identity_verified": false,
+        "location": "巴勒斯坦民主联邦共和国耶路撒冷自由市",
+        "most_recent_tweet_id": "2096176578086519257",
+        "name": "弹兔🐇酱🇨🇳🇺🇦🇵🇸🏳️‍🌈🏳️‍⚧️🌹🚩🍉🌻",
+        "pinned_tweet_id": "2086378144475611440",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1833775663222075392/1786089172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092495091365777408/IQq_AFeg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 1349,
+          "like_count": 34047,
+          "listed_count": 8,
+          "media_count": 2591,
+          "tweet_count": 15071
+        },
+        "url": "",
+        "username": "SocDemCNBunny",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
