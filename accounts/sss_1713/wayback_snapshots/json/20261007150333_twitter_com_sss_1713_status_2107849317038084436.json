@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2107849317038084436",
+    "created_at": "2026-10-07T15:03:33.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T16:03:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107849317038084436"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miaowuqvq/stat…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/miaowuqvq/status/2107295546214138020",
+          "start": 29,
+          "url": "https://t.co/PPuQK8wxvE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107849317038084436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107295546214138020",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这几天在外面旅游没怎么看推，突然有人在微信给我转这个…… https://t.co/PPuQK8wxvE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2107849317038084436",
+        "created_at": "2026-10-07T15:03:33.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T16:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107849317038084436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miaowuqvq/stat…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/miaowuqvq/status/2107295546214138020",
+              "start": 29,
+              "url": "https://t.co/PPuQK8wxvE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107849317038084436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107295546214138020",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这几天在外面旅游没怎么看推，突然有人在微信给我转这个…… https://t.co/PPuQK8wxvE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829679457411477504",
+        "conversation_id": "2107295546214138020",
+        "created_at": "2026-10-06T02:23:04.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T03:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107295546214138020"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107295546214138020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9815,
+          "impression_count": 9324868,
+          "like_count": 23246,
+          "quote_count": 565,
+          "reply_count": 1093,
+          "retweet_count": 1337
+        },
+        "reply_settings": "everyone",
+        "text": "赶紧去屯 防护眼镜 酒精手套和口罩, 去药店买多西环素  环丙沙星 退烧药  囤积糖 大米 调味料和鸡蛋 罐头也买一点 有可能未来会封城  特别是东三省的朋友 赶紧去买"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2107849317038084436",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6153,
+          "following_count": 820,
+          "like_count": 58441,
+          "listed_count": 18,
+          "media_count": 1157,
+          "tweet_count": 9975
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-31T00:35:58.000Z",
+        "description": "恒人党党魁 幻想乡贤者 箱庭魔王 成人层司书 新手妈咪\n动漫小说 精日反支 妹控 战车道 月计 帕秋莉人间体 \n好闺蜜\n@Bq88UorZLiFvyMN\n@hhjnjkoguyunmo \n@Fouryn_Astar\n@Kalin_1124\n@123456wwerr\n@jkiesoft\n赛博老婆\n@YayoiYukimi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "Bq88UorZLiFvyMN"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "hhjnjkoguyunmo"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "Fouryn_Astar"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "Kalin_1124"
+              },
+              {
+                "end": 132,
+                "start": 120,
+                "username": "123456wwerr"
+              },
+              {
+                "end": 142,
+                "start": 133,
+                "username": "jkiesoft"
+              },
+              {
+                "end": 160,
+                "start": 148,
+                "username": "YayoiYukimi"
+              }
+            ]
+          }
+        },
+        "id": "1829679457411477504",
+        "is_identity_verified": false,
+        "location": "加拿大 马卡姆/幻想乡 雾之湖 /不可思议之国 十角公馆",
+        "most_recent_tweet_id": "2107827037989638358",
+        "name": "绮梦天禄哒呦! 🇯🇵♀️🈵❶🍐互fo谢谢(暂时坐回去的轮椅侠)",
+        "pinned_tweet_id": "2103276117540979008",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1829679457411477504/1790434291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103860018361647104/nSKU791b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4065,
+          "following_count": 4145,
+          "like_count": 18527,
+          "listed_count": 14,
+          "media_count": 1266,
+          "tweet_count": 20706
+        },
+        "url": "",
+        "username": "miaowuqvq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

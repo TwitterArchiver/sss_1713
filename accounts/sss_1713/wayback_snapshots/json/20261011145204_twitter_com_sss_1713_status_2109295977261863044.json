@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2109294637940724150",
+    "created_at": "2026-10-11T14:52:04.000Z",
+    "display_text_range": [
+      10,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T15:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109295977261863044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2053830970596593664",
+          "start": 0,
+          "username": "smolc123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109295977261863044",
+    "in_reply_to_user_id": "2053830970596593664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109294637940724150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smolc123 让我叫Peter来。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2109294637940724150].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2109294637940724150",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2109294637940724150"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2109294637940724150",
+        "created_at": "2026-10-11T14:52:04.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T15:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109295977261863044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053830970596593664",
+              "start": 0,
+              "username": "smolc123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109295977261863044",
+        "in_reply_to_user_id": "2053830970596593664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109294637940724150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smolc123 让我叫Peter来。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2109295977261863044",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6142,
+          "following_count": 818,
+          "like_count": 58521,
+          "listed_count": 18,
+          "media_count": 1160,
+          "tweet_count": 9982
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-11T13:34:34.000Z",
+        "description": "我是一个分身\n本体：@ForlikOOO\n本体重生：@CycloOoOoOo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "ForlikOOO"
+              },
+              {
+                "end": 38,
+                "start": 26,
+                "username": "CycloOoOoOo"
+              }
+            ]
+          }
+        },
+        "id": "2053830970596593664",
+        "is_identity_verified": false,
+        "location": "Hanover, Germany",
+        "most_recent_tweet_id": "2081653663815348447",
+        "name": "甜虾终结者",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053830970596593664/1791721524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055141163657777152/ogO9h5WL_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 128,
+          "like_count": 5996,
+          "listed_count": 0,
+          "media_count": 301,
+          "tweet_count": 3794
+        },
+        "url": "",
+        "username": "smolc123",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

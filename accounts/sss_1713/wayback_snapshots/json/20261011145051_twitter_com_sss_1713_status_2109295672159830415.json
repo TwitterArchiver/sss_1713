@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2109295672159830415",
+    "created_at": "2026-10-11T14:50:51.000Z",
+    "display_text_range": [
+      0,
+      142
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T15:50:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2109295672159830415"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jlw_0693/statu…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/jlw_0693/status/2108893746062667998",
+          "start": 143,
+          "url": "https://t.co/j0FbVowu43"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109295672159830415",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108893746062667998",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "He is obliged to repeat the repressed material as a contemporary experience instead of remembering it as something in the past.——Sigmund Freud https://t.co/j0FbVowu43"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2109295672159830415",
+        "created_at": "2026-10-11T14:50:51.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T15:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109295672159830415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jlw_0693/statu…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/jlw_0693/status/2108893746062667998",
+              "start": 143,
+              "url": "https://t.co/j0FbVowu43"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109295672159830415",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108893746062667998",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "He is obliged to repeat the repressed material as a contemporary experience instead of remembering it as something in the past.——Sigmund Freud https://t.co/j0FbVowu43"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696523690366971904",
+        "conversation_id": "2108893746062667998",
+        "created_at": "2026-10-10T12:13:45.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T13:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108893746062667998"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108893746062667998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 290,
+          "impression_count": 129517,
+          "like_count": 6569,
+          "quote_count": 37,
+          "reply_count": 3,
+          "retweet_count": 897
+        },
+        "reply_settings": "following",
+        "text": "小时候大人说吞下去的西瓜籽会在肚子里发芽长大.那我吞下去的话呢？我吞下去的那些欲言又止是否又会生根发芽，四处攀爬，再到我的眼眶里融化。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2109295672159830415",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6142,
+          "following_count": 818,
+          "like_count": 58519,
+          "listed_count": 18,
+          "media_count": 1160,
+          "tweet_count": 9981
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-29T14:03:09.000Z",
+        "description": "一直在意别人的眼光就会变成别人的内裤 |部分内容转载于互联网| 碎碎念 | 回男的私信 5 块一条",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/w.y71445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/w.y71445",
+                "start": 0,
+                "url": "https://t.co/YwgncnFJGb"
+              }
+            ]
+          }
+        },
+        "id": "1696523690366971904",
+        "is_identity_verified": false,
+        "location": "翻斗大街翻斗花园二号楼1001室",
+        "most_recent_tweet_id": "2109190707957379368",
+        "name": "w.y",
+        "pinned_tweet_id": "1836234078766666068",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1696523690366971904/1785175119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098621348235104257/GcQ3TDco_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 434,
+          "like_count": 27569,
+          "listed_count": 5,
+          "media_count": 2266,
+          "tweet_count": 17485
+        },
+        "url": "https://t.co/YwgncnFJGb",
+        "username": "JLw_0693",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

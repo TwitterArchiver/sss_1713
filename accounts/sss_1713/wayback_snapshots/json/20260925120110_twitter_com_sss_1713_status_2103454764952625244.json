@@ -1,0 +1,684 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103454745985961984"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555192269799428096",
+          "name": "China politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555192841529200640",
+          "name": "China political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2103454764952625244",
+    "created_at": "2026-09-25T12:01:10.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T13:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103454764952625244"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9BcQbHTDWC",
+          "end": 39,
+          "expanded_url": "https://x.com/sss_1713/status/2103454764952625244/photo/1",
+          "media_key": "3_2103454745985961984",
+          "start": 16,
+          "url": "https://t.co/9BcQbHTDWC"
+        },
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2103334774849106396",
+          "start": 40,
+          "url": "https://t.co/QQheUCzjhq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103454764952625244",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103454745985961984"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103334774849106396",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "果然还是老艺术家，还这么淡定🌚 https://t.co/9BcQbHTDWC https://t.co/QQheUCzjhq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 809,
+        "media_key": "3_2103454745985961984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTD48meaUAAs0C-.jpg",
+        "width": 761
+      },
+      {
+        "duration_ms": 89280,
+        "height": 720,
+        "media_key": "13_2103334338469449728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103334338469449728/img/lH5WbsG0t-F_LPJn.jpg",
+        "public_metrics": {
+          "view_count": 69006
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103334338469449728/vid/avc1/480x270/CPJ3lun6_tAGCvBx.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103334338469449728/vid/avc1/640x360/QjOmAigTKhqd9it0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103334338469449728/vid/avc1/1280x720/Rv74pb1lIAUSoGXC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2103334338469449728/pl/xbufBXeLAL9etfC2.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 78954,
+        "height": 1080,
+        "media_key": "13_2103334356874043392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103334356874043392/img/ePZrAqTPImn34Xzx.jpg",
+        "public_metrics": {
+          "view_count": 14901
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103334356874043392/vid/avc1/480x270/0bvRVQfoOEMmu8Wo.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103334356874043392/vid/avc1/1920x1080/ef-IXv1s6QQuE8SD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103334356874043392/vid/avc1/1280x720/YXEJwAxRNyESXd6S.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103334356874043392/vid/avc1/640x360/eu6LCfgSKrr_oNBA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2103334356874043392/pl/sqB4Vg0NkNVhcV0P.m3u8?v=cfc"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "height": 1206,
+        "media_key": "3_2103334669702119424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTCLvPdbwAA7xo2.jpg",
+        "width": 1172
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103454745985961984"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192269799428096",
+              "name": "China politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192841529200640",
+              "name": "China political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2103454764952625244",
+        "created_at": "2026-09-25T12:01:10.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T13:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103454764952625244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9BcQbHTDWC",
+              "end": 39,
+              "expanded_url": "https://x.com/sss_1713/status/2103454764952625244/photo/1",
+              "media_key": "3_2103454745985961984",
+              "start": 16,
+              "url": "https://t.co/9BcQbHTDWC"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2103334774849106396",
+              "start": 40,
+              "url": "https://t.co/QQheUCzjhq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103454764952625244",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103454745985961984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103334774849106396",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "果然还是老艺术家，还这么淡定🌚 https://t.co/9BcQbHTDWC https://t.co/QQheUCzjhq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103334338469449728",
+            "13_2103334356874043392",
+            "3_2103334669702119424"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192269799428096",
+              "name": "China politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192841529200640",
+              "name": "China political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2103334774849106396",
+        "created_at": "2026-09-25T04:04:23.000Z",
+        "display_text_range": [
+          0,
+          189
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T05:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103334774849106396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B9IuYP0inX",
+              "end": 213,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2103334774849106396/video/1",
+              "media_key": "13_2103334338469449728",
+              "start": 190,
+              "url": "https://t.co/B9IuYP0inX"
+            },
+            {
+              "display_url": "pic.x.com/B9IuYP0inX",
+              "end": 213,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2103334774849106396/video/1",
+              "media_key": "13_2103334356874043392",
+              "start": 190,
+              "url": "https://t.co/B9IuYP0inX"
+            },
+            {
+              "display_url": "pic.x.com/B9IuYP0inX",
+              "end": 213,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2103334774849106396/video/1",
+              "media_key": "3_2103334669702119424",
+              "start": 190,
+              "url": "https://t.co/B9IuYP0inX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103334774849106396",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2103334338469449728"
+          },
+          {
+            "media_key": "13_2103334356874043392"
+          },
+          {
+            "media_key": "3_2103334669702119424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "9月24日白宫国宴迎接习近平到达之际，白宫外抗议者的口号声清晰可闻。口号涵盖“Keep Taiwan Free”（维持台湾自由）、“Free Hong Kong”（自由香港）、“Free Tibet”（自由西藏）、“Free East Turkestan!”（自由东突厥斯坦），以及“CCP, you're not welcome! Xi Jinping, you're not welcome!”（中共，这里不欢迎你；习近平，这里不欢迎你）等。\n\n美国之音记者黄耀毅在现场报道中提到：“只要是来参加白宫国宴的宾客都可以听得到。”"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 135798,
+          "like_count": 1091,
+          "quote_count": 11,
+          "reply_count": 126,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "9月24日白宫国宴迎接习近平到达之际，白宫外抗议者的口号声清晰可闻。口号涵盖“Keep Taiwan Free”（维持台湾自由）、“Free Hong Kong”（自由香港）、“Free Tibet”（自由西藏）、“Free East Turkestan!”（自由东突厥斯坦），以及“CCP, you're not welcome! Xi Jinping, you're not https://t.co/B9IuYP0inX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2103454764952625244",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6161,
+          "following_count": 816,
+          "like_count": 58460,
+          "listed_count": 18,
+          "media_count": 1156,
+          "tweet_count": 9968
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2103454477306978669",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2265120,
+          "following_count": 1085,
+          "like_count": 10524,
+          "listed_count": 8916,
+          "media_count": 54288,
+          "tweet_count": 61638
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

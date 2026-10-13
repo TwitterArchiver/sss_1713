@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103111203924926465"
+      ]
+    },
+    "author_id": "1254605353838231553",
+    "conversation_id": "2103021129719824596",
+    "created_at": "2026-09-24T13:16:01.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T14:16:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103111213622407383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2100803319404896256",
+          "start": 0,
+          "username": "CycloOoOoOo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AS288tQX1q",
+          "end": 41,
+          "expanded_url": "https://x.com/sss_1713/status/2103111213622407383/photo/1",
+          "media_key": "3_2103111203924926465",
+          "start": 18,
+          "url": "https://t.co/AS288tQX1q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103111213622407383",
+    "in_reply_to_user_id": "2100803319404896256",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2103111203924926465"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103021129719824596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CycloOoOoOo 啊哈哈哈 https://t.co/AS288tQX1q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2103111203924926465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_Af0kW4AEuV14.jpg",
+        "width": 1254
+      },
+      {
+        "height": 1448,
+        "media_key": "3_2103021122878869504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS9ukahWkAAfm1F.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103111203924926465"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2103021129719824596",
+        "created_at": "2026-09-24T13:16:01.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T14:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103111213622407383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2100803319404896256",
+              "start": 0,
+              "username": "CycloOoOoOo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AS288tQX1q",
+              "end": 41,
+              "expanded_url": "https://x.com/sss_1713/status/2103111213622407383/photo/1",
+              "media_key": "3_2103111203924926465",
+              "start": 18,
+              "url": "https://t.co/AS288tQX1q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103111213622407383",
+        "in_reply_to_user_id": "2100803319404896256",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103111203924926465"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103021129719824596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CycloOoOoOo 啊哈哈哈 https://t.co/AS288tQX1q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103021122878869504"
+          ]
+        },
+        "author_id": "2100803319404896256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2103021129719824596",
+        "created_at": "2026-09-24T07:18:04.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T08:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103021129719824596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/134qDIWEKN",
+              "end": 30,
+              "expanded_url": "https://x.com/CycloOoOoOo/status/2103021129719824596/photo/1",
+              "media_key": "3_2103021122878869504",
+              "start": 7,
+              "url": "https://t.co/134qDIWEKN"
+            },
+            {
+              "display_url": "x.com/hann7712/statu…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/hann7712/status/2102697495323390101",
+              "start": 31,
+              "url": "https://t.co/eLfcanUtoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103021129719824596",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103021122878869504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1773,
+          "like_count": 24,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102697495323390101",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "居然是这样吗 https://t.co/134qDIWEKN https://t.co/eLfcanUtoX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2103111213622407383",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6163,
+          "following_count": 817,
+          "like_count": 58457,
+          "listed_count": 18,
+          "media_count": 1154,
+          "tweet_count": 9966
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-18T04:26:09.000Z",
+        "description": "宁静致远 岁月静好 笑口常开 知足常乐 上善若水 云淡风轻 顺其自然 平平淡淡 静待花开 人生如梦 健康是福 惠质兰心 心如止水 心向阳光 淡然如风",
+        "id": "2100803319404896256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103059491147166206",
+        "name": "花开富贵",
+        "pinned_tweet_id": "2100804545412571457",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2100803319404896256/1789705744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100804148379734017/cxAkLHbd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 101,
+          "like_count": 943,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 291
+        },
+        "url": "",
+        "username": "CycloOoOoOo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

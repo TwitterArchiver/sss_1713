@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2103000452287840314",
+    "created_at": "2026-09-24T05:55:54.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T06:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103000452287840314"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sss_1713/statu…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/sss_1713/status/2102919555341222120",
+          "start": 36,
+          "url": "https://t.co/3xcUh0TskX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103000452287840314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102919555341222120",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一直以为是他的眼睛睁不开，直到有人告诉我这叫睥睨……（无意触摸巩俐） https://t.co/3xcUh0TskX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2103000452287840314",
+        "created_at": "2026-09-24T05:55:54.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T06:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103000452287840314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/sss_1713/status/2102919555341222120",
+              "start": 36,
+              "url": "https://t.co/3xcUh0TskX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103000452287840314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102919555341222120",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直以为是他的眼睛睁不开，直到有人告诉我这叫睥睨……（无意触摸巩俐） https://t.co/3xcUh0TskX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2102919555341222120",
+        "created_at": "2026-09-24T00:34:27.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T01:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102919555341222120"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102919555341222120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1114,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不太喜欢外蒙古人，不是那种大汉族主义的讨厌，是线下接触之后感觉很难交流，不知道是高傲还是沉闷，喜欢睥睨。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2103000452287840314",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6164,
+          "following_count": 818,
+          "like_count": 58455,
+          "listed_count": 18,
+          "media_count": 1153,
+          "tweet_count": 9965
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

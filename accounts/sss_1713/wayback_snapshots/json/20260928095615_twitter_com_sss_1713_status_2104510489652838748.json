@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2104510489652838748",
+    "created_at": "2026-09-28T09:56:15.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T10:56:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104510489652838748"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/john_22321122x…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/john_22321122x/status/2104372788345872452",
+          "start": 41,
+          "url": "https://t.co/J4fuFTYiIm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104510489652838748",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104372788345872452",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你不觉得把共产党和纳粹党放一起讲“迫害”这件事本身就很搞笑吗，无论从哪方面来看。 https://t.co/J4fuFTYiIm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2104510489652838748",
+        "created_at": "2026-09-28T09:56:15.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T10:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104510489652838748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/john_22321122x…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/john_22321122x/status/2104372788345872452",
+              "start": 41,
+              "url": "https://t.co/J4fuFTYiIm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104510489652838748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104372788345872452",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你不觉得把共产党和纳粹党放一起讲“迫害”这件事本身就很搞笑吗，无论从哪方面来看。 https://t.co/J4fuFTYiIm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1372592414292992001",
+        "conversation_id": "2103880457373077860",
+        "created_at": "2026-09-28T00:49:04.000Z",
+        "display_text_range": [
+          10,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T01:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104372788345872452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104372788345872452",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103880457373077860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 共产党人和纳粹党人在西方受到了更多迫害"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2104510489652838748",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6162,
+          "following_count": 817,
+          "like_count": 58486,
+          "listed_count": 18,
+          "media_count": 1158,
+          "tweet_count": 9974
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-18T16:56:11.000Z",
+        "description": "萨满教先知//\nI Behold. I Proclaim.//\n上天曾差遣天使向我降下启示//\n“反着理解定律”与“怀疑常识理论”“主人思维”发明者//\n揭露邓小平是启示录预言的死亡骑士的第一人//\n//颠覆常识//揭露隐秘//启发韭菜//传高维度福音✨🌌",
+        "id": "1372592414292992001",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104509600972378373",
+        "name": "先知IVAN🌌✨",
+        "pinned_tweet_id": "1988413934484025381",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608906762471772160/ve-GMO-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1265,
+          "following_count": 347,
+          "like_count": 14334,
+          "listed_count": 19,
+          "media_count": 391,
+          "tweet_count": 14304
+        },
+        "url": "",
+        "username": "John_22321122x",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

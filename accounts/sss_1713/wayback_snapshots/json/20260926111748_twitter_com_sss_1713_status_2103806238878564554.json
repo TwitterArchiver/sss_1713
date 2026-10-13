@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1254605353838231553",
+    "conversation_id": "2103806238878564554",
+    "created_at": "2026-09-26T11:17:48.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T12:17:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103806238878564554"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/realpurenomad/…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/realpurenomad/status/2103389919540593082",
+          "start": 51,
+          "url": "https://t.co/xWMLH9Pslc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103806238878564554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103389919540593082",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这不是one day more吗，听着不像do you hear the people sing呀🫨 https://t.co/xWMLH9Pslc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 127403,
+        "height": 2160,
+        "media_key": "13_2103353385860669440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103353385860669440/img/0qwNpxUx3tjRm4qp.jpg",
+        "public_metrics": {
+          "view_count": 2520612
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103353385860669440/vid/avc1/640x360/tMkar_ZTxQJHe8Rn.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103353385860669440/vid/avc1/3840x2160/q0u6up45l4_j7b_g.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103353385860669440/vid/avc1/480x270/FeSkJJmKxKP2vyuu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103353385860669440/vid/avc1/1280x720/iRlWd_umR46Hv7lh.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103353385860669440/vid/avc1/1920x1080/OcMCNf4Nt55twX9_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2103353385860669440/pl/sYZ6kTszBD423-PN.m3u8?v=cfc"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254605353838231553",
+        "conversation_id": "2103806238878564554",
+        "created_at": "2026-09-26T11:17:48.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T12:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103806238878564554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/realpurenomad/…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/realpurenomad/status/2103389919540593082",
+              "start": 51,
+              "url": "https://t.co/xWMLH9Pslc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103806238878564554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103389919540593082",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这不是one day more吗，听着不像do you hear the people sing呀🫨 https://t.co/xWMLH9Pslc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103353385860669440"
+          ],
+          "media_source_tweet_id": [
+            "2103354239208861760"
+          ]
+        },
+        "author_id": "5147381",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2103389919540593082",
+        "created_at": "2026-09-25T07:43:30.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T08:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103389919540593082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t1f3EdSFYq",
+              "end": 91,
+              "expanded_url": "https://x.com/DanScavino/status/2103354239208861760/video/1",
+              "media_key": "13_2103353385860669440",
+              "start": 68,
+              "url": "https://t.co/t1f3EdSFYq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103389919540593082",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2103353385860669440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 469,
+          "impression_count": 414490,
+          "like_count": 1331,
+          "quote_count": 58,
+          "reply_count": 118,
+          "retweet_count": 193
+        },
+        "reply_settings": "everyone",
+        "text": "白宫晚宴现场演唱的歌曲是「悲惨世界」里面的法国大革命歌曲「只待天明」和「Do You Hear the People Sing?」\n\n https://t.co/t1f3EdSFYq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "is_identity_verified": false,
+        "location": "    Regnum Caelorum",
+        "most_recent_tweet_id": "2103806238878564554",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254605353838231553/1685890513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6157,
+          "following_count": 818,
+          "like_count": 58467,
+          "listed_count": 18,
+          "media_count": 1158,
+          "tweet_count": 9971
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2007-04-18T19:09:47.000Z",
+        "description": "",
+        "id": "5147381",
+        "is_identity_verified": false,
+        "location": "the world",
+        "most_recent_tweet_id": "2103797778979623216",
+        "name": "Pure Nomad",
+        "pinned_tweet_id": "2095878629045768296",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/5147381/1765665453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999969466017284100/-9cWbr1O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129074,
+          "following_count": 4746,
+          "like_count": 2022,
+          "listed_count": 1945,
+          "media_count": 882,
+          "tweet_count": 5481
+        },
+        "url": "",
+        "username": "realPureNomad",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
